@@ -1,0 +1,3 @@
+# Art. unique.
+
+L'article 25 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat est complété par le nouveau paragraphe 5 ci-après: Une prime d'astreinte d'une valeur de huit points indiciaires et demi, indépendante de celle dont question au paragraphe 3 ci-dessus, est allouée aux fonctionnaires de la carrière de facteur en raison des sujétions particulières auxquelles ces fonctionnaires sont soumis. Cette prime peut être cumulée avec celle spécifiée au paragraphe 3 ci-avant; toutefois, le montant total des deux primes cumulées ne pourra dépasser la valeur de dix-sept points indiciaires.
