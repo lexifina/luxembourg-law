@@ -1,0 +1,3 @@
+# Art. 14.
+
+Sans préjudice des sanctions prévues à l'article 12 de la présente loi, seront punis d'un emprisonnement de huit jours à six mois et d'une amende de cinq cent un à cent mille francs ou d'une de ces peines seulement, les exploitants viticoles et les négociants en vin qui auront refusé de fournir les déclarations visées à l'article 10 ou qui auront fourni de fausses déclarations. Les dispositions du livre 1er du code pénal ainsi que la loi du 18 juin 1879 portant attribution aux cours et tribunaux de circonstances atténuantes telle qu'elle a été modifiée par la loi du 16 mai 1904 sont applicables.
