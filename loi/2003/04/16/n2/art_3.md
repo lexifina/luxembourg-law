@@ -1,0 +1,3 @@
+# Art. 3.-
+
+Dans les limites et d'après les modalités prévues par les conventions internationales conclues et à conclure, les véhicules appartenant à une organisation internationale, à un Etat étranger, à un pays membre d'un Etat fédéral, à une autorité publique ou une personne morale d'intérêt public relevant d'un Etat étranger, seront admis à la circulation sur le territoire luxembourgeois sans qu'une assurance ait été conclue, à condition que les organisations ou Etats concernés reconnaissent la juridiction luxembourgeoise et désignent l'autorité ou l'organisme susceptible d'être assigné devant les tribunaux luxembourgeois et chargé de réparer le dommage dans les conditions où l'Etat luxembourgeois serait tenu, s'il s'agissait de ses propres véhicules.
