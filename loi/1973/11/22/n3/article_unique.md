@@ -1,0 +1,3 @@
+# Article unique.
+
+Les trois premiers alinéas de l'article 128 de la loi du 4 décembre 1967 concernant l'impôt sur le revenu sont remplacés, avec effet à partir de l'année d'imposition 1972, par les deux alinéas suivants: Le bénéfice agricole et forestier est diminué d'un abattement de 45.000 Fr. sans qu'il puisse en résulter une perte. Par dérogation à l'alinéa qui précède et à titre transitoire l'abattement est fixé, sans qu'il puisse en résulter une perte, à 90.000 Fr. pour les années d'imposition 1972 à 1974, 80.000 Fr. pour les années d'imposition 1975 et 1976, 65.000 Fr. pour les années d'imposition 1977 et 1978, 55.000 Fr. pour l'année d'imposition 1979.
