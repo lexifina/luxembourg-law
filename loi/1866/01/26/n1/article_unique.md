@@ -1,0 +1,3 @@
+# Article unique.
+
+Sont approuvées les deux conventions annexées à la présente loi, intervenues les 30 décembre 1865 et 6 janvier 1866 entre le Gouvernement du Grand-Duché et la Société royale grand-ducale des chemins de fer Guillaume-Luxembourg, et concernant, l'une, la reprise par l'État des poteaux télégraphiques de la Société et le concours des agents de l'exploitation des chemins de fer à la surveillance et à l'entretien des lignes télégraphiques de l'État, et l'autre, la coopération de la Société concessionnaire ou des sociétés qui exploitent ses lignes, au service télégraphique de l'État.
