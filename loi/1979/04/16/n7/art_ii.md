@@ -1,0 +1,9 @@
+# Art. II.
+
+Les médecins du service du contrôle médical et de l'Office des assurances sociales en fonction au moment de l'entrée en vigueur de la présente loi sont intégrés dans le cadre prévu ci-dessus. Pour la fixation de leur traitement il est procédé à une reconstitution de carrière en tenant compte des années passées et des grades occupés auprès de l'administration d'origine, déduction faite de la période de stage résultant de la réglementation afférente. La disposition de l'article 7, paragraphe 6 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, n'est pas applicable.
+
+Les médecins stagiaires des administrations précitées, continuent le stage et passent l'examen de fin de stage auprès de la nouvelle administration suivant la réglementation en vigueur pour les administrations de l'Etat.
+
+Les médecins occupés à temps partiel au moment de l'entrée en vigueur de la présente loi qui briguent un emploi du nouveau cadre, bénéficient d'une bonification de stage, à arrêter par le ministre du travail et de la sécurité sociale après avis du ministre de la fonction publique, en fonction de l'occupation à temps partiel et de l'expérience acquise dans l'exercice de l'art de guérir. Ils peuvent être dispensés de la même manière de l'examen de fin de stage s'ils justifient d'une pratique médicale d'au moins quinze années. La dernière phrase de l'alinéa 1er du présent article est applicable.
+
+Les engagements nouveau à effectuer après la mise en vigueur de la présente loi afin d'établir le cadre prévu peuvent se faire dans les limites des crédits budgétaires sans prise en considération des règles fixées par la loi budgétaire de l'année 1979 pour les engagements nouveaux de personnel de l'Etat ou de règles qui pourront être fixées à ce sujet dans la loi budgétaire de 1980.
