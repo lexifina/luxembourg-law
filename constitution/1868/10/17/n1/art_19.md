@@ -1,0 +1,3 @@
+# Art. 19.
+
+La liberté des cultes, celle de leur exercice public, ainsi que la liberté de manifester ses opinions religieuses, sont garanties, sauf la répression des délits commis à l’occasion de l’usage de ces libertés.

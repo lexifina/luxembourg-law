@@ -1,0 +1,3 @@
+# Art. 17.
+
+La peine de la confiscation des biens ne peut être établie.

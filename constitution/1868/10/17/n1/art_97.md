@@ -1,0 +1,3 @@
+# Art. 97.
+
+L’organisation et les attributions de la gendarmerie font l’objet d’une loi.

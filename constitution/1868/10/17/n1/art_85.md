@@ -1,0 +1,3 @@
+# Art. 85.
+
+Les contestations qui ont pour objet des droits politiques, sont du ressort des tribunaux, sauf les exceptions établies par la loi.

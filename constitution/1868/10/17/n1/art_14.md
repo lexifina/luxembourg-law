@@ -1,0 +1,3 @@
+# Art. 14.
+
+Nulle peine ne peut être établie ni appliquée qu’en vertu de la loi.

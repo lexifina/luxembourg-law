@@ -1,0 +1,3 @@
+# Art. 13.
+
+Nul ne peut être distrait contre son gré du juge que la loi lui assigne.

@@ -1,0 +1,3 @@
+# Art. 92.
+
+Les traitements des membres de l’ordre judiciaire sont fixés par la loi.
