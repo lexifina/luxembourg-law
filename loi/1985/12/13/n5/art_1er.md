@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Il est intercalé entre le titre Il et le titre III du livre 1er de la première partie du code de procédure civile un titre II-1 intitulé: «De la signification et de la notification des actes d´avoué» et comprenant l´article suivant: Art. 74.-1. Les actes d´avoué à avoué peuvent être signifiés par ministère d´huissier ou notifiés par voie postale ou notifiés directement. La signification est constatée par l´apposition du cachet et de la signature de l´huissier de justice sur l´acte et sa copie avec l´indication de la date et du nom de l´avoué destinataire. La notification directe s´opère par la remise de l´acte en double exemplaire à l´avoué destinataire, lequel restitue aussitôt à son confrère l´un des exemplaires après l´avoir daté et visé.
