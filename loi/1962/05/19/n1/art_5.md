@@ -1,0 +1,3 @@
+# Art. 5. Disposition transitoire.
+
+Les dispositions de l'article 1er ci-avant sont applicables aux immeubles démolis ou vendus dans l'intérêt d'un redressement, soit du réseau routier de l'Etat, soit de la voirie communale, avant l'entrée en vigueur de la présente loi, lorsque la décision du ministre des Travaux Publics ou l'approbation du ministre de l'Intérieur sont postérieures au 1er janvier 1958. La confirmation du privilège et du débit hors nombre saisonnier peut encore être prononcée si une interruption de plus d'un an s'est produite après le 1er janvier 1958 dans l'exploitation d'un débit dans l'immeuble originairement privilégié.
