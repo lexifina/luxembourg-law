@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Les bateaux de navigation intérieure d'un tonnage égal ou supérieur à vingt tonnes et les pousseurs dont la puissance motrice est supérieure à 300 kw, affectés au transport de marchandises et immatriculés au Grand-Duché de Luxembourg, sont soumis aux dispositions du règlement (CEE) No 1101/89 du Conseil du 27 avril 1989 relatif à l'assainissement structurel dans la navigation intérieure et du règlement (CEE) No 1102/89 de la Commission du 27 avril 1989 fixant certaines mesures d'application du règlement (CEE) No 1101/89 du Conseil relatif à l'assainissement structurel dans la navigation intérieure.
