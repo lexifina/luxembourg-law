@@ -1,0 +1,17 @@
+# Art. 18. Dispositions transitoires
+
+(1) Si une loi se réfère au «Service de Renseignements de l'Etat» ou au «Directeur du Service de Renseignements de l'Etat», ces termes s'entendent respectivement comme «Service de Renseignement» ou «Directeur du Service de Renseignement».
+
+(2) Les fonctionnaires et employés appartenant aux carrières énumérées à l'article 10 paragraphe (1) en service auprès de l'actuel Service de Renseignements de l'Etat au moment de l'entrée en vigueur de la présente loi sont intégrés dans le cadre du personnel du Service de Renseignement aux grade et échelon atteints au moment de l'entrée en vigueur de la présente loi.
+
+(3) Si le Directeur en fonction au moment de l'entrée en vigueur de la présente loi, est nommé à la fonction de Directeur du Service de Renseignement, il gardera son ancienneté de service.
+
+(4) Le fonctionnaire de la carrière du sous-officier des établissements pénitentiaires, classé au grade 8 à la fonction d'adjudant et détaché depuis le 1eroctobre 2000 au Service de Renseignements, peut être nommé à la fonction de commis technique principal. Il sera placé hors cadre dans sa nouvelle fonction aux grade et échelon atteints au moment de l'entrée en vigueur de la présente loi.
+
+Les avancements en échelon et les promotions ultérieures sont soumis aux dispositions légales réglementant la carrière de l'expéditionnaire technique.
+
+(5) L'employé de l'Etat, titulaire du diplôme de Master of Arts in Economic History, en service au Service de Renseignements de l'Etat depuis le 1er mars 2000, peut, après avoir réussi à l'examen spécial dont les conditions et modalités sont fixées par règlement grand-ducal et à condition de remplir les conditions de l'article 2, paragraphe (1), points (a) et (f) de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat, obtenir une nomination à la fonction d'attaché de direction au Service de Renseignement avec dispense de l'examen d'admission au stage, du stage et de l'examen de fin de stage. Sa carrière est reconstituée par la prise en considération du grade 12 figurant à la rubrique I «Administration générale» de l'annexe C «Tableaux indiciaires» de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat. En vue de l'application des dispositions de la loi du 28 mars 1986 portant harmonisation des conditions et modalités d'avancement dans les différentes carrières des administrations et services de l'Etat, sa première nomination dans la carrière de l'attaché de direction est censée être intervenue au 1er mars 2002.
+
+(6) Sans préjudice des dispositions de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires et de la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d'avancement dans les différentes carrières des administrations et services de l'Etat, un tableau d'avancement unique est dressé à partir de l'entrée en vigueur de la présente loi pour chaque carrière figurant à l'article 10, paragraphe (1).
+
+Les fonctionnaires détachés au Service de Renseignements sur base de la loi modifiée du 30 juillet 1960 concernant la protection des secrets intéressant la sécurité extérieure de l'Etat qui sont intégrés dans le cadre du personnel du Service de Renseignement et qui d'après l'ancienne législation avaient une perspective de carrière plus favorable pour l'accès aux différentes fonctions de leur carrière conservent leurs anciennes possibilités d'avancement.
