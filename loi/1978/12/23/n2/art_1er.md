@@ -1,0 +1,5 @@
+# Art. 1er.
+
+L'article 3 de la loi du 23 avril 1965 portant création d'un Fonds de solidarité viticole est remplacé par le texte suivant: Sans préjudice des règles établies par la Communauté européenne, le Fonds peut intervenir, dans la limite de ses ressources par voie de subventions et de primes, en faveur des opérations énumérées ci-après: la protection contre la grêle; la lutte contre les gelées tardives et les organismes nuisibles; la propagande collective en faveur de la consommation du vin; l'aide à accorder aux exploitants viticoles victimes de sinistres de récolte causés par les forces de la nature, à l'exception des calamités pouvant être assurées et des pertes de récolte dues à des dégâts causés par les maladies cryptogamiques, des insectes nuisibles ou des viroses; de façon générale, toutes mesures susceptibles de contribuer au progrès économique dans le domaine viti-vinicole.
+
+Le comité-directeur prévu à l'article 5 établira les critères objectifs selon lesquels se feront les interventions du Fonds. Ces critères seront approuvés par règlement grand-ducal.
