@@ -1,0 +1,3 @@
+# Art. 8.
+
+Un paragraphe (3) est ajouté à l'article 34: (3) Outre les officiers de police judiciaire et les agents de la police grand-ducale, les agents de l'Institut de la carrière supérieure de l'administration et ceux de la carrière moyenne de l'administration, ayant au moins la fonction de chef de bureau adjoint ou d'ingénieur-technicien, à désigner par le ministre, sont chargés de rechercher et de constater les infractions aux articles 15 et 16 de la présente loi. Dans l'exercice de ces fonctions, les agents ainsi désignés ont la qualité d'officiers de police judiciaire. Leur compétence s'étend à tout le territoire du Grand-Duché. Leurs procès-verbaux font foi jusqu'à preuve du contraire.
