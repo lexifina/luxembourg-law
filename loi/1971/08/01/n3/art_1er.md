@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 1er de la loi du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques est complété par un dernier alinéa libellé comme suit: Un règlement d'administration publique énumérera les voies et places non ouvertes au public, mais accessibles à un certain nombre d'usagers, auxquelles les dispositions de la présente loi ainsi que ses mesures d'exécution seront applicables. Ce règlement fixera les conditions sous lesquelles les ingénieurs d'arrondissement des Pont et Chaussées pourront interdire ou restreindre la circulation sur ces voies et places et y assurer la signalisation routière avec effet obligatoire pour les usagers.
