@@ -1,0 +1,3 @@
+# Art. 97.
+
+En ce qui concerne les concessions ou autorisations individuelles accordées avant la date de mise en application du présent titre, l’article 95, points a), b) et c), ne s’applique pas si, à cette date, d’autres entités sont libres de demander une autorisation, pour l’exploitation d’aires géographiques dans le but de prospecter ou d’extraire du pétrole, du gaz, du charbon ou d’autres combustibles solides, sur une base non discriminatoire et en fonction de critères objectifs. Le point d) de l’article 95 n’est pas applicable lorsque les conditions et exigences ont été établies, appliquées ou amendées avant la date visée ci-dessus.
