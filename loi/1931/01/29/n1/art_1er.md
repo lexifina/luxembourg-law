@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Sont soumises à l'obligation d'assurance toutes les personnes, y compris les membres salariés de la direction, sans distinction de nationalité et de sexe qui exécutent dans le Grand-Duché sur la base d'un engagement durable ou d'une façon continue et non seulement accessoire pour le compte d'autrui à l'exception de l'Etat, des communes, des établissements publics ou d'utilité publique et des compagnies d'exploitation des chemins de fer, contre rémunération soit en numéraire soit en d'autres prestations ou valeurs, en tout ou en partie, un travail d'une nature si non exclusivement, du moins principalement intellectuelle.

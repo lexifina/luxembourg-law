@@ -1,0 +1,3 @@
+# Art. 13.
+
+L'assurée de sexe féminin qui par suite de mariage ou de toute autre raison, hormis le cas d'incapacité de travail ou de limite d'âge, cesse son travail soumis à l'obligation d'assurance, a droit au remboursement de la moitié de toutes les cotisations versées sur son compte, pourvu que l'assurance ait duré 60 mois. Si l'assurée, après avoir obtenu le remboursement de sa part de cotisation reprend du travail soumis à l'obligation d'assurance, la part de cotisation payée pour la première période d'occupation et qui n'a pas fait l'objet du remboursement, lui sera portée en compte pour le calcul de la pension après l'accomplisse ment d'un nouveau délai de carence de 60 mois.
