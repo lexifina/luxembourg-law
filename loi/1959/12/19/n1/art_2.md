@@ -1,0 +1,3 @@
+# Art. 2.
+
+Sont abrogés l'article 104 de la loi du 10 août 1912 concernant l'organisation de l'enseignement primaire, l'article 15 de la loi du 6 mai 1920 concernant la revision et la majoration des traitements du personnel enseignant des écoles primaires et primaires supérieures, l'article 3 de la loi du 23 mars 1947 rendant rétroactives pour le jeu des triennales les nominations du personnel enseignant des écoles primaires retardées par l'occupation et modifiant certaines dispositions de la loi précitée du 6 mai 1920, ainsi que les arrêtés grand-ducaux des 19 mai 1947, 20 octobre 1948, 16 juillet 1952 et 11 juillet 1957 pris en exécution de la loi du 23 mars 1947.
