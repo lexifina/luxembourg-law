@@ -1,0 +1,17 @@
+# Art. 6.
+
+(1) Le cadre de l'Inspection du travail et des mines comprend, en dehors des fonctions et emplois prévus à l'article 5 qui précède, les emplois et fonctions ci-après: dans la carrière supérieure de l'attaché de direction: des conseillers de direction 1ère classe ou des conseillers de direction ou des conseillers de direction adjoints ou des attachés de direction 1ers en rang ou des attachés de direction. dans la carrière supérieure de l'ingénieur: des ingénieurs 1ère classe; des ingénieurs chef de division; des ingénieurs principaux ou ingénieurs-inspecteurs ou ingénieurs; dans la carrière supérieure de l'administration: des médecins-inspecteurs chefs de division; des médecins-inspecteurs chefs de service. dans la carrière moyenne de l'assistant social: des assistante(s) sociale(s) ou assistants sociaux. dans la carrière moyenne de l'ingénieur technicien: des ingénieurs techniciens inspecteurs principaux 1ers en rang; des ingénieurs techniciens inspecteurs principaux; des ingénieurs techniciens inspecteurs; des ingénieurs techniciens principaux; des ingénieurs techniciens. dans la carrière moyenne du rédacteur: des inspecteurs principaux 1ers en rang; des inspecteurs principaux ou inspecteurs; des chefs de bureau; des chefs de bureau adjoints; des rédacteurs principaux; des rédacteurs. dans la carrière inférieure de l'expéditionnaire: des premiers commis principaux; des commis principaux; des commis; des commis adjoints; des expéditionnaires. dans la carrière inférieure de l'expéditionnaire technique: des premiers commis techniques principaux ou commis techniques principaux; des commis techniques; des commis techniques adjoints; des expéditionnaires techniques.
+
+A l'article 7 (1), les termes «seront attachés quinze contrôleurs» sont remplacés par «seront attachés des contrôleurs».
+
+A l'article 9 (1), les termes «directeur adjoint» sont remplacés par «l'un des directeurs adjoints».
+
+L'article 9 (3) est modifié comme suit: (3) Les fonctionnaires de la carrière moyenne de l'ingénieur technicien doivent effectuer un stage d'une durée de deux ans à l'Inspection du travail et des mines. La durée de leur stage peut être réduite à une année, s'ils justifient d'une pratique professionnelle de trois ans au moins
+
+L'article 12 est modifié comme suit: Pour l'application des dispositions de la présente loi et de ses règlements d'exécution, on entend par: personnel d'inspection: le directeur, les directeurs adjoints ainsi que les fonctionnaires ou employés occupant les emplois et fonctions énumérés à l'article 6 paragraphe (1) sous a), b), c), d) et e) de la présente loi; personnel supérieur d'inspection: le directeur, les directeurs adjoints ainsi que les fonctionnaires ou employés occupant les emplois et fonctions énumérés à l'article 6 paragraphe (1) sous a), b) et c) de la présente loi; personnel de contrôle: les contrôleurs visés à l'article 7 de la présente loi.
+
+Aux articles 13 (4) et 18 (2), les termes «le directeur adjoint» sont remplacés par «l'un des directeurs adjoints».
+
+A l'article 19 (2), les termes «au directeur adjoint» sont remplacés par «à l'un des directeurs adjoints».
+
+L'article 21 est modifié comme suit: Le directeur ou, en cas d'empêchement, les directeurs adjoints peuvent déléguer au personnel visé à l'article 6 paragraphe 19, sous f), g) et h) de la présente loi, par écrit et pour un contrôle déterminé, tout ou partie des prérogatives réservées au personnel de contrôle.
