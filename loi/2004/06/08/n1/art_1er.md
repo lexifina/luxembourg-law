@@ -1,0 +1,3 @@
+# Art. 1er.-
+
+L'article 8 de la loi électorale modifiée du 18 février 2003 est modifié comme suit: L'électeur inscrit sur la liste séparée des ressortissants d'un autre Etat membre de l'Union européenne pour les élections européennes de même que l'électeur inscrit sur la liste séparée des électeurs étrangers pour les élections communales qui acquiert la nationalité luxembourgeoise après le 31 mars de l'année précédant celle au cours de laquelle auront lieu respectivement les élections européennes ou les élections communales et qui ne peut donc plus figurer sur la liste des électeurs luxembourgeois peut, lors de ces élections, exercer son droit de vote en raison de son inscription sur la liste séparée des électeurs non luxembourgeois.
