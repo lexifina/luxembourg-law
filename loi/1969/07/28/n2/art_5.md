@@ -1,0 +1,11 @@
+# Art. 5.
+
+Les personnes remplissant les conditions prévues à l'article 14 alinéa 1er, lettres a à g, et alinéa 2 de la loi du 25 février 1967 ayant pour objet diverses mesures en faveur de personnes devenues victimes d'actes illégaux de l'occupant et qui de ce fait se sont trouvées dans l'impossibilité de continuer ou de commencer une activité indépendante peuvent couvrir les périodes pendant lesquelles elles se sont trouvées dans cette impossibilité auprès du régime de pension correspondant à cette activité indépendante. Sera compris dans ces périodes le temps durant lequel les personnes visées ont été passagèrement dans l'impossibilité d'exercer une profession après la fin des hostilités par suite de blessures ou de maladies causées par faits de guerre.
+
+La couverture des périodes en question n'aura lieu que pour les personnes ayant exercé une activité indépendante dans le délai d'un an à partir du 1er juin 1945 ou, si le retour au pays a eu lieu postérieurement, dans le délai d'un an à partir de la date du retour, à condition que les intéressés aient été retenus hors du pays contre leur volonté.
+
+Ce délai sera prolongé pour le temps où, pour des raisons indépendantes de leur volonté, les intéressés n'étaient pas en mesure de travailler après ledit délai d'un an ainsi que pour le temps normal nécessaire aux intéressés pour parfaire leur formation professionnelle. L'achat des périodes ne pourra être fait qu'à condition qu'elles ne soient pas mises en compte par un autre régime de pension contributif ou non contributif. Les charges de cet achat seront supportées par l'Etat jusqu'à concurrence d'un montant correspondant à la cotisation minimum normale.
+
+En cas d'ajustement éventuel des pensions au niveau de vie, les prestations du présent article seront multipliées par le facteur qui sera fixé pour l'année 1969.
+
+Pour bénéficier des avantages du présent article les intéressés doivent présenter une demande dans le délai de deux ans à partir de l'entrée en vigueur de la loi auprès de l'organisme de pension compétent en joignant un certificat justifiant des périodes à couvrir, établi par l'office de l'Etat des dommages de guerre, sinon par l'administration communale du lieu de résidence au moment du déplacement.
