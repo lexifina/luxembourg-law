@@ -1,0 +1,3 @@
+# Art. 10.
+
+L'art. 35 de la loi du 27 juillet 1925 sur le régime des eaux-de-vie est complété comme suit: Lorsque les droits fraudés par les faits posés pendant les derniers douze mois précédant le jour de la découverte de l'infraction dépassent 20.000 fr., il pourra être prononcé indépendamment de l'amende à charge des auteurs, co-auteurs ou complices une peine d'emprisonnement de huit jours à un an. L'amende prévue à l'art. 35 mentionné ci-dessus ainsi que l'emprisonnement prévu à l'alinéa qui précède ou l'une de ces peines seulement pourront être prononcées à charge de celui qui se rend coupable d'une infraction à l'art. 18 de la loi du 27 juillet 1925 susdite. Les appareils seront confisqués et la saisie sera ordonnée.
