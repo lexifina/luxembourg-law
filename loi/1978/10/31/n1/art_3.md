@@ -1,0 +1,3 @@
+# Art. 3.
+
+Les personnes qui, après avoir exercé une profession indépendante, ont été engagées auprès d'un service public couvert par un régime de pension non-contributif et qui de ce fait n'ont pu acheter des périodes d'activité professionnelle au moment de la création du régime de pension correspondant à leur ancienne activité, pourront bénéficier d'un délai de six mois pour acheter de telles périodes d'activité auprès de ce régime de pension. Les conditions et limites fixées pour cette couverture rétroactive ainsi que les droits y attachés sont ceux prévus par les articles 7, 8 et 9 de la loi du 28 juillet 1969 pour les personnes visées à l'article 1er de la même loi.

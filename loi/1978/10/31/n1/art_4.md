@@ -1,0 +1,3 @@
+# Art. 4.
+
+Pour la présentation d'une demande en computation des périodes de guerre en application soit de l'article 197, 3° du code des assurances sociales, soit de l'article 14, alinéa 1er de la loi modifiée du 29 août 1951 ayant pour objet la réforme de l'assurance pension des employés privés, soit de la loi du 25 février 1967 ayant pour objet diverses mesures en faveur de personnes devenues victimes d'actes illégaux de l'occupant, soit de l'article 5 de la loi du 28 juillet 1969 relative à l'achat rétroactif de périodes d'assurance auprès des différents régimes de pension contributifs, les délais de déclaration qui peuvent être prévus par les différentes législations sont abrogés.
