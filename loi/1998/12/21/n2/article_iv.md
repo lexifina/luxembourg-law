@@ -1,0 +1,5 @@
+# ARTICLE IV Imposition forfaitaire des collaborateurs non-résidents
+
+Par dérogation à l'article 157, alinéas 3 et 4, de la loi du 4 décembre 1967 concernant l'impôt sur le revenu, un règlement grand-ducal peut prévoir l'imposition forfaitaire à charge du débiteur de revenus versés à des non-résidents en rapport avec leurs activités exercées au Grand-Duché de Luxembourg à l'occasion de la production d'œuvres audiovisuelles.
+
+Le taux d'imposition forfaitaire ne peut pas être inférieur à 10 %. La retenue d'impôt forfaitaire peut être perçue le cas échéant par dérogation aux articles 136 et 137 de la loi du 4 décembre 1967 concernant l'impôt sur le revenu et aux dispositions d'exécution des articles en question.
