@@ -1,0 +1,3 @@
+# Article unique.
+
+L'art. 199 du Code pénal est modifié comme suit: Quiconque, dans un passeport, un permis de chasse ou de pêche ou un livret, aura pris un nom ou prénom supposés, ou une fausse qualité, ou un domicile supposé, ou aura concouru comme témoin à faire délivrer ces pièces sous les fausses mentions prévisées, sera puni d'un emprisonnement de huit jours à six mois. La même peine sera applicable à tout individu qui aura fait usage d'un passeport, d'un permis de chasse ou de pêche. ou d'un livret, délivré soit sous un nom, soit sous un prénom, soit sous une qualité, soit sous un domicile, autres que les siens.
