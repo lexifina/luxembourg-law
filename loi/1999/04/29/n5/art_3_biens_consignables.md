@@ -1,0 +1,3 @@
+# Art. 3. Biens consignables
+
+Pour pouvoir être consigné, un bien doit avoir l'une des formes acceptables conformément aux dispositions du présent article: a) Sont acceptables tous les biens susceptibles d'être versés ou virés en faveur de la caisse de consignation sur un compte bancaire ou un compte chèque postal au Luxembourg. b) Sont acceptables tous autres biens meubles ou immeubles, corporels ou incorporels, à condition, dans les cas visés au paragraphe (2) de l'article 1er, de l'accord écrit et préalable de la caisse de consignation. Cet accord devient caduc s'il n'est pas suivi dans les trois mois de sa notification par la réception des biens à la caisse de consignation.
