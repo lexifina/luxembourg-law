@@ -1,0 +1,3 @@
+# Art. 10. Constatation et cessation d'une infraction
+
+Si le Conseil, saisi suivant les dispositions de l'article 9, constate dans le cadre d'une procédure contradictoire l'existence d'une infraction aux dispositions des articles 3 à 5 de la présente loi ou des articles 81 ou 82 du Traité, il peut obliger par voie de décision les entreprises et associations d'entreprises intéressées à mettre fin à l'infraction constatée. A cette fin, il peut leur imposer toute mesure coercitive qui soit proportionnée à l'infraction retenue à charge de l'entreprise et nécessaire pour faire cesser effectivement l'infraction.

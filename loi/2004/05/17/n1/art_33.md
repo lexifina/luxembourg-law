@@ -1,0 +1,5 @@
+# Art. 33. Dispositions transitoires
+
+(1) Les affaires pendantes devant la Commission des Pratiques commerciales restrictives en vertu de loi modifiée du 17 juin 1970 concernant les pratiques commerciales restrictives et non encore clôturées après l'entrée en vigueur de la présente loi seront traitées par le Conseil. Le Conseil appliquera aux affaires pendantes les règles de fond de la loi modifiée du 17 juin 1970 concernant les pratiques commerciales restrictives et aura le pouvoir d'appliquer les articles 81 et 82 du Traité.
+
+(2) Jusqu'au 1ermai 2004, les obligations découlant des articles 10, 11, 13 et 14 du règlement n°17 du Conseil de la Communauté économique européenne du 6 février 1962 et des articles 6, 9, 11, 12, 13, 19 et 24 du règlement (CEE) n°4064/89 du Conseil du 21 décembre 1989 relatif au contrôle des opérations de concentration entre entreprises sont assumées par les agents de l'Inspection. Ils exercent les pouvoirs prévus par l'article 22 du règlement susdit concurremment avec les agents de la Commission européenne.
