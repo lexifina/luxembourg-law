@@ -1,0 +1,3 @@
+# Article unique.
+
+L'arrêté royal grand-ducal du 25 septembre 1868 concernant l'organisation des prisons cantonales, modifié par l'arrêté royal grand-ducal du 23 avril 1878, de même que la loi du 4 février 1900, concernant l'établissement et l'entretien des prisons cantonales, sont abrogés et remplacés par la disposition suivante: Le procureur général d'État assignera les condamnés par les juges de police et ceux, à l'égard desquels la contrainte par corps sera exercée en matière de contravention, aux établissements pénitentiaires pour hommes et femmes à Luxembourg et à la maison de détention à Diekirch, suivant la disponibilité des locaux, les distances à parcourir et suivant l'exigence du principe à assurer la séparation des détenus et des sexes.
