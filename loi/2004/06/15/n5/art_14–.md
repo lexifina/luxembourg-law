@@ -1,0 +1,3 @@
+# Art. 14.– Personnes concernées
+
+Pour assurer la protection des intérêts énumérés à l’article 3, toutes les personnes, à l’exception des membres du Conseil de Gouvernement et des membres de la Commission de Contrôle parlementaire visée à l’article 14 de la loi portant organisation du Service de Renseignement de l’Etat, exerçant un emploi, une fonction ou occupant un grade qui comportent l’utilisation de pièces classifiées, l’accès à des locaux, des bâtiments ou des sites où sont créées, traitées ou conservées des pièces classifiées ou qui participent à l'exécution d'un contrat ou d'un marché public qui comportent l’utilisation de pièces classifiées doivent être titulaires d’une habilitation de sécurité.
