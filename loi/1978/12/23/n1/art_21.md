@@ -1,0 +1,11 @@
+# Art. 21.
+
+(1) Le ministre de l'intérieur est autorisé à prélever un montant de 50.000.000 francs sur l'avoir du fonds communal de péréquation conjonctural provenant des contributions de l'Etat à l'alimentation dudit fonds spécial.
+
+(2) Ce montant est réparti entre les communes dont la participation au produit de l'impôt commercial est affectée par la crise dans l'industrie sidérurgique, conformément aux règles de répartition déterminées ci-après.
+
+(3) Une première tranche de 25.000.000 francs est répartie entre les communes qui participent à la ventilation de l'impôt commercial payé par les sociétés sidérurgiques, à l'exception toutefois des communes dont les déchets de recettes y relatifs sont compensés par leur participation à la ventilation du même impôt payé par les autres entreprises. La répartition de cette tranche entre les communes entrant en ligne de compte est faite proportionnellement à leur participation à la ventilation de l'impôt commercial payé par les sociétés sidérurgiques pendant les années 1973 à 1977.
+
+(4) Une seconde tranche de 25.000.000 francs est répartie entre les communes qui participent à la ventilation de l'impôt commercial payé par les sociétés sidérurgiques et dont la participation au produit total du même impôt a accusé, pendant les années 1968 à 1977, un développement tendanciel inférieur à celui du produit intérieur brut en valeur, suivant l'estimation la plus récente du service central de la statistique et des études économiques. La répartition de cette tranche entre les communes entrant en ligne de compte est faite proportionnellement à la différence constatée pour l'année 1977 entre, d'une part, le montant résultant du développement tendanciel de leur participation au produit de l'impôt commercial et, d'autre part, le montant réel de ladite participation.
+
+(5) Lorsque la répartition des deux tranches de 25.000.000 francs visées aux alinéas précédents aboutit pour une ou plusieurs communes à des quotes-parts inférieures à un pour cent du montant total de 50.000.000 francs, celles-ci ne sont pas attribuées. Ces quotes-parts sont ajoutées aux quotes-parts égales ou supérieures à un pour cent, conformément aux règles de répartition définies ci-avant.

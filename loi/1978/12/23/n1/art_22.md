@@ -1,0 +1,3 @@
+# Art. 22.
+
+Par dérogation aux lois et règlements régissant la matière et sans préjudice des dispositions inscrites à l'article 16, alinéa (8), ci-avant, les institutions de sécurité sociale ne peuvent engager des frais de fonctionnement considérés comme appartenant à l'exercice 1979 et dépassant les crédits prévus au budget à titre de participation de l'Etat à ces dépenses que sur autorisation préalable des membres du gouvernement compétents, le ministre des finances entendu en son avis. De telles autorisations d'engagement de frais ne peuvent toutefois être accordées que s'il s'agit de dépenses urgentes et si tout retard est susceptible de compromettre les services en question.
