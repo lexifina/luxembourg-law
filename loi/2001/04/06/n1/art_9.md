@@ -1,0 +1,3 @@
+# Art. 9.
+
+Des règlements grand-ducaux peuvent fixer les prescriptions techniques fixant les exigences techniques minimales de conception et de fonctionnement en matière de raccordement au réseau des installations de GNL, des installations de stockage, des autres réseaux de transport ou de distribution, et des conduites directes, devant assurer l’interopérabilité des réseaux et être objectives et non discriminatoires. Ces prescriptions techniques sont notifiées à la Commission conformément à l’article 8 de la directive 83/189/CEE du Conseil du 28 mars 1983 prévoyant une procédure d’information dans le domaine des normes et réglementations techniques.
