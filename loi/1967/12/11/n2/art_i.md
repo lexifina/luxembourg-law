@@ -1,0 +1,3 @@
+# Art. I.
+
+Le paragraphe 11 de la loi de l´impôt commercial du 1er décembre 1936 est remplacé par les dispositions suivantes: § 11: Taux d´assiette et base d´assiette Pour la détermination de l´impôt commercial selon le bénéfice d´exploitation, il est fait état d´une base d´assiette. Celle-ci correspond au produit du bénéfice d´exploitation, arrondi au multiple inférieur de mille francs, par le taux d´assiette. Le taux d´assiette applicable au bénéfice d´exploitation est fixé à quatre pour-cent de ce bénéfice préalablement diminué d´un abattement de deux cent cinquante mille francs pour les contribuables non passibles de l´impôt sur le revenu des collectivités et de cent mille francs pour les autres contribuables.
