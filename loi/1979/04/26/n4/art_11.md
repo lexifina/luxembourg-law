@@ -1,0 +1,3 @@
+# Art. 11.
+
+Il est intercalé entre les articles 1094 et 1095 du Code civil un article 1094 - 1 et un article 1094 - 2 conçus comme suit: Art. 1094-1. En cas de remariage du conjoint survivant, les enfants et descendants pourront, dans les six mots et d'un commun accord, exiger la conversion en capital des dispositions en usufruit faites à son profit. Si les enfants et descendants sont en désaccord, la conversion sera facultative pour les tribunaux. Art. 1094-2. Les descendants pourront, nonobstant toute stipulation contraire du disposant, exiger, à l'égard des biens soumis à l'usufruit, qu'il soit dressé inventaire des meubles ainsi qu'état des immeubles, et que les titres au porteur soient, au choix de l'usufruitier, convertis en titres nominatifs ou déposés en banque.
