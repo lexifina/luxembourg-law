@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 85 de la loi électorale du 31 juillet 1924 tel qu'il a été modifié par la loi du 12 mai 1952 est remplacé comme suit: Art. 85. En vue de déterminer le nombre des députés assignés à chaque circonscription électorale ainsi que celui des conseillers assignés à chaque commune et section de commune, il sera procédé, au moins tous les dix ans, au recensement de la population du Grand-Duché. Ces recensements, dont la date et les modalités seront fixées par règlement grand-ducal, se feront sur la base de la résidence habituelle. Le lieu de résidence habituelle est le lieu géographique où la personne récensée habite normalement.
