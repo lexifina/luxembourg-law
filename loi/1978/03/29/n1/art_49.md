@@ -1,0 +1,7 @@
+# Art. 49.
+
+(1) Lorsque le propriétaire de l'aéronef n'est pas domicilié au Luxembourg ou que l'aéronef est de nationalité étrangère, tout créancier a le droit de pratiquer une saisie conservatoire avec l'autorisation du président du tribunal d'arrondissement du lieu où l'appareil se trouve.
+
+(2) Le juge saisi doit donner mainlevée de la saisie si le propriétaire offre de déposer un cautionnement égal au montant de la créance réclamée et il peut ordonner cette mainlevée en fixant le montant du cautionnement à fournir au cas de contestation sur l'étendue de la créance. Ce cautionnement est déposé à la caisse des dépôts et consignations ou aux mains d'un tiers commis à cet effet.
+
+(3) En cas de dommages causés à la surface par la chute d'un aéronef étranger ou dont le propriétaire est domicilié à l'étranger comme aussi en cas d'infraction à la présente loi par un étranger, tant les agents chargés de l'exécution des dispositions législatives et réglementaires en matière d'aviation civile que le bourgmestre de la commune d'atterrissage, peuvent faire appel à la force publique pour retenir l'aéronef pendant quarante-huit heures, afin de permettre au juge compétent de commettre, s'il y a lieu, des experts et d'évaluer à titre provisionnel le montant des dommages causés, montant qui doit faire état non seulement des dommages causés, mais aussi, en cas d'infraction, des amendes et frais encourus.
