@@ -1,0 +1,3 @@
+# Art. 40.
+
+La demande contient, sous peine de refus de diffusion, l’indication précise des textes, mentions ou citations auxquels se rapporte la réponse, ainsi que le texte de la réponse dont la diffusion est demandée. Elle doit être signée et indiquer l’identité complète du requérant, à savoir son nom, prénom et domicile s’il s’agit d’une personne physique, sa raison ou dénomination sociale, sa forme juridique, l’adresse de son siège social et la qualité du signataire s’il s’agit d’une personne morale, sa dénomination, son siège et la qualité du signataire s’il s’agit d’une association de fait.

@@ -1,0 +1,3 @@
+# Art. 5.
+
+En cas de changement fondamental de la ligne éditoriale, le journaliste dont la conviction ou conscience personnelle est incompatible avec la nouvelle ligne éditoriale peut rompre le contrat de travail qui le lie à l’éditeur, sans être tenu le cas échéant au préavis. Cette rupture du contrat de travail ne saurait être opposée au journaliste pour le priver du bénéfice des indemnités de chômage complet par application de l’article 14, paragraphe 1er, lettre a) de la loi modifiée du 30 juin 1976 portant 1. création d’un fonds pour l’emploi, 2. réglementation de l’octroi des indemnités de chômage complet.
