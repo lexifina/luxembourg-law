@@ -1,0 +1,3 @@
+# Art. 2.
+
+L'article 161, deuxième alinéa de la même loi est modifié comme suit: Les actions de sociétés étrangères qui représentent les apports ne consistant pas en numéraire, les titres ou parts bénéficiaires de ces sociétés ne peuvent, à peine de nullité, être vendus dans le Grand-Duché que dix jours après le dépôt effectué conformément à l'article 9, paragraphes 1 et 2 du deuxième bilan annuel qui suit leur création, à moins que les actions ne représentent l'apport de l'avoir d'une société ayant plus de cinq ans d'existence ou ne soient émises par deux ou plusieurs sociétés issues de la scission totale ou partielle d'une société ayant plus de cinq ans d'existence.
