@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 3 de la loi modifiée du 29 juillet 1912 concernant la police sanitaire du bétail et l'amélioration des chevaux, des bêtes à cornes et des porcs est remplacé par le texte suivant: L'Etat tiendra les propriétaires d'animaux abattus indemnes s'il est reconnu que l'animal n'était pas atteint de la maladie pour laquelle l'abattage a été ordonné par la police sanitaire. L'indemnité sera des deux tiers s'il est reconnu que l'animal était atteint de cette maladie. Un règlement grand-ducal peut majorer cette indemnité jusqu'à concurrence de la valeur entière des animaux abattus, si l'abattage d'office a lieu à la suite d'épizooties à spécifier par ce même règlement grand-ducal.
