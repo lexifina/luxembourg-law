@@ -1,0 +1,3 @@
+# Art. 2.
+
+Les articles 719 à 722 du code civil sont remplacés par les dispositions suivantes: Art. 719. Pour être héritier ou légataire d'une personne, il faut survivre. Art. 720. Lorsque plusieurs personnes, dont l'une est appelée à la succession de l'autre, sont décédées sans que l'on puisse établir laquelle est décédée la première, elles sont présumées décédées au même moment. Art. 721. Si par suite de circonstances qui ne peuvent lui être imputées, une personne Intéressée éprouve des difficultés à prouver l'ordre des décès, le juge peut lui accorder un ou plusieurs délais, pour autant qu'il soit raisonnablement admissible que la preuve pourra être rapportée dans ce délai. Art. 722. La représentation a lieu en cas de décès simultané comme en cas de prédécédés.
