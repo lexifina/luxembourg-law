@@ -1,3 +1,0 @@
-# Art. 3.
-
-Une autorisation du ministre ayant dans ses attributions l'administration des eaux et forêts est requise pour tout défrichement de terrains boisés et tout reboisement de terrains agricoles. Il en est de même pour l'abattage d'une série ininterrompue d'au moins trois arbres bordant les voies publiques ou non, ouvertes à la circulation, ou d'un groupe d'au moins trois arbres avoisinant les édifices publics ou les monuments publics ou privés. L'autorisation pourra être refusée si l'opération projetée doit avoir des effets défavorables sur le site ou sur le milieu naturel. L'autorisation peut être subordonnée à l'observation de mesures spéciales de protection.
