@@ -2,7 +2,7 @@
 
 Le brevet européen donne lieu chaque année et par avance au paiement d’annuités à l’Administration de l’Enregistrement et des Domaines. Le premier paiement a lieu pour l’année comptée à partir du dépôt de la demande, qui suit celle de la publication de la délivrance du brevet au bulletin européen des brevets.
 
-Les montants des annuités et, le cas échéant, des surtaxes à payer ainsi que les modalités de leur paiement sont les mêmes que ceux fixés par la législation luxembourgeoise en matière de brevets.
+Les montants des annuités et, le cas échéant, des surtaxes à payer sont fixés par règlement grand-ducal. Les modalités de paiement de ces taxes sont les mêmes que celles applicables aux demandes et aux brevets luxembourgeois.
 
 L’annuité à payer pour la première fois est celle due pour une demande ou un brevet luxembourgeois ayant la même date de dépôt que la demande européenne.
 
