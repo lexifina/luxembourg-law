@@ -1,0 +1,5 @@
+# Art. 2.
+
+L'approbation est donnée sous réserve de la déclaration suivante faite en vertu de l'article 4 de la Convention: Les sociétés et personnes morales mentionnées aux articles 1 et 2 de la Convention dont le siège réel se trouve sur territoire luxembourgeois, bien qu'elles aient été constituées selon la loi d'un autre Etat contractant sont soumises aux dispositions impératives de la loi luxembourgeoise. Elles sont également soumises aux dispositions supplétives de cette loi dans l'un des cas suivants: si les statuts n'y dérogent pas, le cas échéant par une référence expresse et globale à la loi en conformité de laquelle la société ou personne morale s'est constituée; si, à défaut d'une telle dérogation dans les statuts, la société ou personne morale ne démontre pas qu'elle a exercé effectivement son activité pendant un temps raisonnable dans l'Etat contractant en conformité de la loi duquel elle s'est constituée.
+
+Le Grand-Duc est habilité à retirer cette réserve dès que les circonstances le permettent.
