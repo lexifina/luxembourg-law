@@ -1,0 +1,13 @@
+# Art. 10.
+
+Le procureur d'Etat s'entoure de tous renseignements utiles aux différents lieux où le condamné à pu séjourner.
+
+Il se fait délivrer
+
+- 1° une expédition des jugements de condamnation;
+
+- 2° un extrait du registre des punitions et récompenses des lieux de détention où la peine a été subie constatant quelle a été la conduite du condamné.
+
+- 3° un relevé Intégral des condamnations inscrites au casier judiciaire.
+
+Il transmet ces pièces avec son avis au procureur général d'Etat.

@@ -1,0 +1,3 @@
+# Art. 13.
+
+Les frais de la procédure en réhabilitation sont à charge de l'Etat. Ils sont réglés comme en matière correctionnelle.

@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Toute personne condamnée par un tribunal luxembourgeois à une peine criminelle, correctionnelle ou de police peut être réhabilitée.
