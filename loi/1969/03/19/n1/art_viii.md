@@ -1,0 +1,3 @@
+# Art. VIII.
+
+L'article 106 du code d'instruction criminelle est abrogé et remplacé par la disposition suivante: Tout dépositaire de la force publique et même toute personne sera tenue de saisir le prévenu surpris en flagrant délit et de le conduire devant le procureur d'Etat ou devant l'officier de police judiciaire le plus proche, sans qu'il soit besoin de mandat d'amener, si le fait est puni par la loi d'une peine criminelle. Tout dépositaire de la force publique pourra saisir le prévenu surpris en flagrant délit et le conduire devant le procureur d'Etat, sans qu'il soit besoin d'un mandat d'amener, si le fait est puni par la loi d'une peine d'emprisonnement correctionnel.
