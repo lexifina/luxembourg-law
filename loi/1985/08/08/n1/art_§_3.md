@@ -1,0 +1,3 @@
+# § 3.
+
+La publication sera faite au Mémorial, Recueil Spécial des Sociétés et Associations; les actes publiés seront adressés aux greffes des cours et tribunaux où chacun pourra en prendre connaissance gratuitement et qui seront réunis dans un Recueil Spécial. La publication devra être faite dans le mois du dépôt. La publication des documents visés aux articles 75 et 252 sera faite par une mention au Mémorial, Recueil Spécial des Sociétés et Associations, du dépôt au greffe de ces documents. Un règlement grand-ducal indiquera les fonctionnaires qui recevront les actes ou extraits d´actes et déterminera la forme et les conditions du dépôt et de la publication au Mémorial ainsi que les frais qui s´y rapportent et les droits de greffe mentionnés au § 2.
