@@ -1,0 +1,3 @@
+# Art. 35.
+
+Il est accordé un nouveau délai de trois mois, à dater de la promulgation de la présente loi, pendant lequel les actes non écrits sur papier timbré et portant mutation de biens immeubles, les baux ne renfermant pas l’indication de la commune de la section, du lieu dit et du numéro cadastral, les omissions de biens dans les déclarations de succession ou de mutation par décès, ainsi que les simulations de prix et les insuffisances d’évaluations antérieures à la présente loi, et pour lesquels il n’y a eu aucun acte de poursuite ni aucune requête d’expertise de la part de l’administration de l’enregistrement, pourront être soumis à la formalité du timbre et de l’enregistrement, et être déclarés et rectifiés moyennant paiement des simples droits et sans amendes.

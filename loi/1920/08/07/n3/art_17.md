@@ -1,0 +1,3 @@
+# Art. 17.
+
+Lors de l’ouverture de la succession d’un habitant du Grand-Duché, il sera porté en déduction des droits de succession, une somme de 6 ct. par 100 fr. pour chaque année de paiement de la taxe d’abonnement ; cette déduction de 6 ct. par 100 fr. sera calculée seulement sur la valeur des titres des sociétés luxembourgeoises en possession du défunt, et elle ne sera appliquée qu’aux titres de ces sociétés assujetties au moins pour les trois quarts de l’ensemble de leur capital à la taxe d’abonnement. Le montant total des sommes à porter en déduction ne pourra dépasser 80 ct. par 100 fr.
