@@ -1,0 +1,3 @@
+# Art. 40.
+
+Il est créé une Commission des Sites et Monuments nationaux dont la composition et le fonctionneme nt sont fixés par règlement grand-ducal. Ce même règlement grand-ducal détermine les modalités de la coopération entre la Commission des Sites et Monuments nationaux et le Service des Sites et Monuments nationaux. Sauf les cas d'urgence, la Commission est consultée pour toutes les mesures à prendre par le Gouvernement en exécution des dispositions qui précèdent La commission propose d'office les mesures qu'elle juge nécessaires dans l'intérêt de la conservation, de la protection et de la mise en valeur des sites et monuments nationaux.
