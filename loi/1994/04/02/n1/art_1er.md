@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 145-2 de la loi électorale est remplacé par le texte suivant: Art. 145-2. Sont admis au vote par correspondance: les électeurs domiciliés à l'étranger; les électeurs domiciliés au Luxembourg mais se trouvant à l'étranger le jour des élections; les électeurs dont l'absence de la commune d'inscription le jour des élections est motivée par des nécessités professionnelles, ou qui en raison de leurs études, sont inscrits dans un établissement hors de leur commune d'inscription; les électeurs qui en raison de leur état de santé ou de leur condition physique éprouvent des difficultés à se déplacer pour prendre part au scrutin; les électeurs âgés de plus de 70 ans.
