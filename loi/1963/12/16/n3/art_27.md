@@ -1,0 +1,3 @@
+# Art. 27.
+
+Lorsqu'une personne a été affiliée simultanément à différents régimes, les périodes qui coïncident seront portées en compte pour l'ouverture des droits suivant leur valeur la plus favorable, sans donner lieu à totalisation. Elles seront prises en compte cumulativement pour le calcul tant des prestations fixes que des prestations variables en fonction de la carrière d'affiliation; toutefois si une prestation fixe est de valeur différente sous les régimes en cause, les bénéficiaires pourront demander que les périodes accomplies sous les régimes attributifs des prestations moins élevées ne soient pas portées en compte pour le calcul de la prestation dont il s'agit.
