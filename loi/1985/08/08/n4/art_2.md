@@ -1,0 +1,5 @@
+# Art. 2.
+
+L´alinéa 1er de l´article 1601-5 sous f) est modifié comme suit: lorsqu´ils revêtent la forme prévue à l´article 1601-3, la garantie de l´achèvement complet de l´immeuble dans les termes prévus par le contrat ou du remboursement des versements effectués en cas de résolution du contrat à défaut d´achèvement, dans les conditions et avec les modalités à fixer par règlement grand-ducal. Cette garantie n´est pas exigée pour les constructions réalisées directement par l´Etat, les communes, les établissements publics et les sociétés dans lesquelles ces collectivités publiques possèdent une participation majoritaire.
+
+L´article 1601-5 sous f) est complétée comme suit: Cette garantie n´est pas non plus exigée pour la construction d´une maison à appartements multiples acquise par un propriétaire unique. Lorsqu´une garantie d´achèvement a été stipulée, celle-ci se transforme en garantie de remboursement lorsqu´il est établi que la construction ne peut être réalisée matériellement ou juridiquement.
