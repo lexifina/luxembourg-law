@@ -1,0 +1,7 @@
+# Art. 1er.
+
+Les articles 5 et 8 de la loi du 29 juillet 1930 concernant l'étatisation de la police locale sont modifiés comme suit:
+
+- (1) Art. 5. Les commissariats et postes de police sont créés et supprimés par règlement grand-ducal, les conseils communaux intéressés entendus en leur avis. Sans préjudice de l'article 70, paragraphe 2, de la loi du 23 juillet 1952 concernant l'organisation militaire, l'effectif de chaque commissariat et poste de police est fixé par règlement grand-ducal, suivant les besoins du service et dans la limite des crédits budgétaires, le conseil communal intéressé entendu en son avis. Des services régionaux de police-secours, desservant en collaboration avec la gendarmerie des circonscriptions de service englobant les territoires de plusieurs communes, peuvent être créés et organisés par règlement grand-ducal, les bourgmestres concernés entendus en leur avis.
+
+- (2) Art. 8. Les membres de la police ont compétence sur tout le territoire national sans préjudice des dispositions de l'article 9 du Code d'lnstruction Criminelle. L'exercice de cette compétence est réglée par Monsieur le Ministre de la Force Publique sur avis du Directeur de la Police. En cas de besoin, le Ministre de la Force Publique peut détacher les membres de la police à un autre commissariat et poste de police pour une période ne dépassant pas six mois. En cas d'urgence, le Directeur de la Police est autorisé à procéder à un détachement immédiat et provisoire.
