@@ -1,0 +1,5 @@
+# Art. 7.- Révision externe des comptes des sociétés cotées
+
+(1) Les comptes annuels individuels ou consolidés des sociétés de droit luxembourgeois, dont les actions et parts sont admises à la cote officielle d'une bourse établie au Luxembourg, doivent faire l'objet d'un contrôle par un réviseur professionnel indépendant. Ce réviseur devra justifier à la Commission de sa qualification professionnelle ainsi que d'une expérience professionnelle adéquate. Tout changement dans la personne du réviseur doit être agréé par la Commission. Les décisions de la Commission peuvent faire l'objet d'un recours prévu à l'article 12 de la présente loi.
+
+(2) La Commission peut demander au réviseur de lui remettre un rapport écrit sur les comptes annuels individuels ou consolidés. La Commission peut fixer le contenu minimum de ce rapport. Elle peut demander au réviseur de lui fournir des informations complémentaires. Elle peut également le charger de missions de contrôle spécifiques, le tout à charge de la société.
