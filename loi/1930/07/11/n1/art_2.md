@@ -1,0 +1,3 @@
+# Art. 2.
+
+La loi du 15 juillet 1929, concernant le renforcement du personnel du tribunal d'arrondissement de Luxembourg est modifiée comme suit: Art. 1er. Le tribunal d'arrondissement de Luxembourg est composé d'un président, d'un vice-président, de douze juges, d'un procureur d'Etat, de trois substituts, d'un greffier et de huit greffiers-adjoints. Art. 2. Il ne sera pas pourvu à la nomination des trois premières places de juge ni de la première place de greffier-adjoint qui viendront à vaquer au dit tribunal trois années après l'entrée en vigueur de la présente loi et le nombre des juges resp. des greffiers-adjoints près ce tribunal sera réduit à neuf resp. sept.
