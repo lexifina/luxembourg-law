@@ -1,0 +1,5 @@
+# Art. 1er.
+
+Les dispositions de la loi du 11 lévrier 1921, portant allocation, aux employés et ouvriers communaux, ainsi qu'aux pensionnaires des communes, d'une indemnité de renchérissement pour l'année 1920, continueront à sortir leurs effets jusqu'il, la fin de l'année 1921, sauf l'alinéa 4 de l'article 2 de la prédite loi qui est modifié comme suit: En sus, il est alloué aux employés occupés à litre principal et d'une façon permanente au service des communes ayant plus de 1500 habitants et en attendant la révision de leurs traitements, une indemnité de renchérissement spéciale, qui se composera:
+
+En outre, l'alinéa 8 de l'art. 2 de la loi du 11 février 1921 est remplacé par l'alinéa suivant: Les conseils communaux pourront, sous l'approbation du Directeur général du service, accorder l'indemnité spéciale aux employés pour lesquels elle n'est pas obligatoire. Toutefois l'allocation de l'indemnité spéciale est obligatoire dans les cas spéciaux à déterminer par le Gouvernement, soit d'office, soit à la suite d'une réclamation des intéressés. Dans ce cas le Gouvernement fixera le montant de l'allocation après avoir entendu le conseil communal.
