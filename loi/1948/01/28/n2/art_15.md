@@ -1,0 +1,5 @@
+# Art. 15.
+
+Les inscriptions, titres nominatifs ou au porteur, sommes, valeurs, coffres fermés, plis et colis cachetés dont il est question aux articles 16 à 19 ne peuvent faire l´objet d´une conversion, d´un transfert, d´une restitution ou d´un paiement, s´ils reviennent en tout ou en partie à un héritier légataire, donataire ou autre ayant droit habitant l´étranger, avant qu´ait été fourni le cautionnement prescrit par l´article 60 de la loi du 23 décembre 1913 concernant la revision de la législation qui régit les impôts dont le recouvrement est attribué à l´Administration de l´Enregistrement et des Domaines.
+
+Dans les cas prévus à l´article 20, si parmi les ayants droit se trouvent une ou plusieurs personnes habitant l´étranger, le loueur du coffre-fort ou le notaire qui a dressé la liste ou l´inventaire prescrit par le dit article ne peut autoriser la prise de possession par les ayants droit des choses contenues dans le coffre avant la prestation du cautionnement imposé par l´article 60 de la prédite loi du 23 décembre 1913.
