@@ -1,0 +1,3 @@
+# Art. VI.
+
+Les articles 264 et 265 du code pénal sont remplacés par les dispositions suivantes: Art. 264. Sera puni d'une amende de 501 à 10.000 francs, l'officier de l'état civil qui a négligé d'énoncer dans l'acte de mariage les consentements prescrits par la loi; Qui a procédé à la célébration d'un mariage sans s'être assuré de l'existence de ces consentements; Qui a reçu un acte de mariage dans le cas de l'article 228 du code civil et avant le terme prescrit par cet article. Art. 265. Sera puni d'un emprisonnement de trois mois à un an et d'une amende de 1.000 à 10.000 francs, l'officier de l'état civil qui a célébré un mariage contre le gré des personnes dont le consentement est requis.
