@@ -1,0 +1,5 @@
+# Art. 84.
+
+Les collèges électoraux ne peuvent s'occuper que de l'élection pour laquelle ils sont convoqués.
+
+Les électeurs ne peuvent se faire remplacer.
