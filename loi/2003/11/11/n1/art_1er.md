@@ -1,0 +1,3 @@
+# Art. 1er.-
+
+Le paragraphe suivant est intercalé entre les points (9) et (10) de l’article 1er du titre 1er de la loi du 26 juin 1953 concernant la désignation des personnes et des biens dans les actes à transcrire ou à inscrire au bureau des hypothèques: (9bis) L’identification nominative des personnes est complétée, dans tous les actes pouvant donner lieu à transcription ou à inscription, par le numéro d’identité des personnes visées au présent article sous (1), (2) et (3), attribué suivant les dispositions de la loi du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales.

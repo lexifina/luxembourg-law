@@ -1,0 +1,3 @@
+# Art. 2.-
+
+Le premier paragraphe de l’article 4 du titre 1er de loi du 26 juin 1953 concernant la désignation des personnes et des biens dans les actes à transcrire ou à inscrire au bureau des hypothèques est modifié comme suit: (1) La rectification des erreurs ou omissions relatives aux prénoms, date et lieu de naissance, ainsi qu’au numéro d’identité prévu par la loi du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales visés à l’article 1er, pourra être demandée par tout intéressé dans les conditions prévues par la législation sur la protection des personnes à l’égard du traitement des données à caractère personnel.
