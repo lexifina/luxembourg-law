@@ -1,0 +1,3 @@
+# Art. III:
+
+L'article 4 est modifié comme suit: Art. 4. Sans préjudice des exceptions prévues par le droit communautaire et d'autres engagements internationaux pris en la matière aucun étranger ne pourra résider au pays au-delà d'une période à déterminer par règlement grand-ducal sans avoir obtenu soit une autorisation de séjour dont la durée de validité ne peut dépasser 12 mois, soit une autorisation de séjour donnant droit à la présentation d'une demande de carte d'identité d'étranger. Un règlement grand-ducal détermine les conditions auxquelles la délivrance de l'autorisation de séjour et de la carte d'identité d'étranger respectivement est subordonnée de même que la durée de validité de cette carte.
