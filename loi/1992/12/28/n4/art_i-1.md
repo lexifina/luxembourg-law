@@ -1,0 +1,11 @@
+# Art. I-1.
+
+Les articles suivants de la loi modifiée du 10 août 1915 concernant les sociétés commerciales sont modifiés comme suit:
+
+- 1) L'article 179 est complété par un deuxième alinéa libellé comme suit: La société à responsabilité limitée peut avoir un associé unique lors de sa constitution, ainsi que par la réunion de toutes ses parts en une seule main (société unipersonnelle).La réunion de toutes les parts entre les mains d'une seule personne n'entraîne pas la dissolution de la société. De même, le décès de l'associé unique n'entraîne pas la dissolution de la société.
+
+- 2) L'alinéa 2 de l'article 190 est modifié comme suit: Lorsque la société comporte plus d'un associé, les cessions ne sont opposables à la société et aux tiers qu'après qu'elles ont été signifiées à la société ou acceptées par elle dans un acte notarié conformément à l'article 1690 du code civil.
+
+- 3) Le numéro 3 de l'article 163 est modifié comme suit: Les gérants ou administrateurs qui n'ont pas soumis à l'assemblée générale dans les douze mois de la clôture de l'exercice le bilan et le compte de profits et pertes ainsi que les gérants ou administrateurs qui n'ont pas fait publier ou qui n'ont pas déposé le bilan et le compte de profits et pertes conformément aux articles 75, 132 et 197. Ces sanctions sont applicables dans les mêmes conditions au cas de non-respect des obligations prévues à la section XIII à l'égard de l'annexe, du rapport de gestion et de l'attestation de la personne chargée du contrôle;
+
+- 4) Il est introduit après l'article 200 un article 200-1 et un article 200-2 de la teneur suivante: Art. 200-1. Les articles 194 à 196 et l'article 199 ne sont pas applicables aux sociétés ne comprenant qu'un seul associé. Art. 200-2. L'associé unique exerce les pouvoirs attribués à l'assemblée des associés. Les décisions de l'associé unique prises dans le domaine visé à l'alinéa 1er sont inscrites sur un procès-verbal ou établies par écrit. De même, les contrats conclus entre l'associé unique et la société représentée par lui sont inscrits sur un procèsverbal ou établis par écrit. Cette disposition n'est pas applicable aux opérations courantes conclues dans des conditions normales.
