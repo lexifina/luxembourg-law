@@ -1,0 +1,3 @@
+# Art. 36. Prime compensatoire à titre de réduction partielle de la taxe sur la valeur ajoutée
+
+Il est introduit dans la loi modifiée du 25 février 1979 concernant l'aide au logement un article 69-1 ayant la teneur suivante: Art. 69-1. Pendant une période de deux années prenant fin au 31 décembre 1986, l'Etat est autorisé à encourager l'accession à la propriété d'un logement par des primes compensatoires, à titre de la réduction partielle de la taxe sur la valeur ajoutée, différenciées suivant le revenu, la fortune et la situation familiale des bénéficiaires. Un règlement grand-ducal précise les mesures d'exécution.

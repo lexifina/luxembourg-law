@@ -1,0 +1,3 @@
+# Art. 45. Institut monétaire luxembourgeois: surveillance du secteur financier
+
+L'article 30, alinéa (2), de la loi du 20 mai 1983 portant création d'un institut monétaire luxembourgeois, est remplacé par la disposition suivante: L'institut est autorisé à prélever la contrepartie de ses frais de fonctionnement attribuables à la surveillance du secteur financier par des taxes à percevoir auprès de chaque établissement et organisme soumis à sa surveillance et sur chaque opération dont il est avisé dans le cadre de l'article 14 de l'arrêté grand-ducal du 19 juin 1965 concernant les opérations de banque et de crédit ainsi que les émissions de valeurs mobilières. Un règlement grand-ducal fixe le montant des taxes et les modalités d'exécution du présent alinéa.
