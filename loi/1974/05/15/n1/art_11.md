@@ -1,0 +1,5 @@
+# Art. 11.
+
+(1) Le commis technique principal actuellement en service, nommé commis technique avant la promulgation de la loi du 21 mai 1948 portant révision générale des traitements des fonctionnaires et employés et allocation de suppléments de pensions aux retraités de l'Etat, peut être nommé chef de bureau technique adjoint, à titre personnel et par dépassement du cadre tel qu'il est fixé à l'article 5 de la présente loi. Cet emploi est supprimé de plein droit après le départ de l'intéressé.
+
+(2) Les agents âgés de moins de 50 ans, qui, au moment de la promulgation de la présente loi, se trouvent au service de l'administration en qualité d'employé ou d'ouvrier sont dispensés de la condition d'âge prescrite pour l'admission à l'examen-concours pour l'admission au stage de la carrière pour laquelle ils remplissent les conditions légales. En cas de réussite à cet examen, ils bénéficient d'une réduction de stage égale à la période pendant laquelle ils ont été employés à plein temps par l'administration. Cette réduction ne peut dépasser trente mois au maximum.
