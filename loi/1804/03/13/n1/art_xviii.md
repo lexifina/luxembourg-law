@@ -1,0 +1,3 @@
+# XVIII.
+
+Pourront obtenir, d'ici au 1.er vendémiaire an XIV, un diplômé de licencié, ceux qui, au moment de la publication de la présente loi, exerceront actuellement les fonctions d'homme de loi ou de défenseur officieux près les tribunaux de cassation, d'appel, criminels ou de première instance, et les auront exercées habituellement, sans interruption, et sans s'être livrés à aucune autre profession depuis trois ans, ou, après les avoir exercées pendant trois ans, ne les auront quittées que pour exercer celles d'avoué; à la charge de rapporter un certificat du président et du commissaire du Gouvernement du tribunal près lequel ils exercent, attestant qu'ils sont dans les cas déterminés ci-dessus.
