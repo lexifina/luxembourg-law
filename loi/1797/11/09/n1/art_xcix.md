@@ -1,0 +1,3 @@
+# XCIX.
+
+En cas de contravention aux deux articles précédens, les ouvrages sur lesquels portera la contravention seront confisqués, et en outre le délinquant sera condamné à une amende qui sera, pour la première fois, de dix fois la valeur des objets confisqués; pour la seconde fois, du double de la première, avec affiche de la condamnation dans toute l'étendue du département, aux frais du délinquant; enfin, la troisième fois, l'amende sera quadruple de la première, et le commerce, ainsi que la fabrication d'or et d'argent, seront interdits au délinquant, sous peine de confiscation de tous les objets de son commerce.
