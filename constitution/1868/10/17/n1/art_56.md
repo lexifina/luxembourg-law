@@ -1,5 +1,5 @@
 # Art. 56.
 
-Les députés sont élus pour six ans. Ils sont renouvelés par moitié tous les trois ans, d’après l’ordre des séries déterminé par la loi électorale.
+Les députés sont élus pour cinq ans.
 
-En cas de dissolution, la Chambre des députés est renouvelée intégralement.
+Disposition transitoire : Le mandat des députés formant la Constituante actuelle expirera le premier dimanche du mois de juin 1959.
