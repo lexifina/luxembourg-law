@@ -1,0 +1,3 @@
+# Art. 3.
+
+L'art. 857 du Code de procédure civile est abrogé et remplacé par les dispositions suivantes: Aucune rectification, aucun changement ne pourront être faits sur l'acte; mais le dispositif des jugements ou arrêts de rectification sera inscrit sur les registres par l'officier de l'état civil, aussitôt qu'il lui aura été remis; mention en sera faite en marge de l'acte réformé et l'acte ne sera plus délivré qu'avec les rectifications ordonnées, à peine de tous dommages-intérêts contre l'officier qui l'aurait délivré. Cette transcription ne portera que sur le dispositif. Les qualités et les motifs ne devront être ni signifiés à l'officier de l'état civil par les parties, ni transmis par le procureur d'Etat.
