@@ -1,0 +1,5 @@
+# Article unique.
+
+Le Gouvernement est autorisé à ratifier et à publier, pour sortir son plein et entier effet dans le Grand-Duché, la Convention pour l'amélioration du sort des blessés et malades dans les armées en campagne, qui a été signée à Genève le 6 juillet 1906 entre l'Allemagne, l'Argentine, l'Autriche et la Hongrie, la Belgique, la Bulgarie, le Chili, la Chine, l'Etat indépendant du Congo, le Danemark, l'Espagne, les Etats-Unis d'Amérique, les Etats-Unis du Brésil, les Etats-Unis Mexicains, la France, la Grande-Bretagne et l'Irlande, la Grèce, le Guatemala, le Honduras, l'Italie, le Japon et la Corée, le Luxembourg, le Monténégro, la Norvège, les Pays-Bas, le Pérou, la Perse, le Portugal, la Roumanie, la Russie, la Serbie, le Siam, la Suède, la Suisse et l'Uruguay.
+
+Il est autorisé, en outre, à apporter éventuellement et de concert avec les hautes parties contractantes, des modifications ou ajoutes à la dite Convention et à prendre toutes les mesures que l'exécution de celle-ci réclame et comporte.
