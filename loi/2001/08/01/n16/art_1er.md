@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Dans tous les instruments juridiques, à savoir les dispositions législatives et réglementaires, les actes administratifs, les décisions de justice, les contrats, les actes juridiques unilatéraux, les instruments de paiement autres que les billets et les pièces, et tous les autres instruments ayant des effets juridiques, les montants monétaires exprimés en franc au 31 décembre 2001 sont convertis au moment de l’entrée en vigueur de la présente loi en euro suivant les règles de conversion définies par le règlement (CE) n° 1103/97 du Conseil du 17 juin 1997 fixant certaines dispositions relatives à l'introduction de l'euro, pour autant qu’il n’en est pas autrement disposé par la présente loi ou par le règlement grand-ducal pris en son exécution.

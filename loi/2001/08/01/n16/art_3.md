@@ -1,0 +1,3 @@
+# Art. 3.
+
+Dans le cadre des déclarations faites par l'administré à l'administration publique, les différences éventuelles se rapportant à la période transitoire et résultant de la comparaison du calcul réalisé par le déclarant ayant opté pour l’euro sur base des montants convertis en euro, et du même calcul réalisé par l’administration publique sur base de montants en franc, ne peuvent donner lieu à contestation de la part de l'administration publique, même si les différences sont supérieures à la marge de tolérance prévue à l’article 6 de la loi du 10 décembre 1998 relative aux différences résultant de l’application des règles d’arrondi, pour autant que les règles communautaires de conversion et d’arrondi soient respectées.
