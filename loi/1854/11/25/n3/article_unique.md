@@ -1,0 +1,3 @@
+# Article unique.
+
+Les dispositions suivantes sont ajoutées à l'art. 400 du Code pénal. § 1. Le saisi qui aura détruit ou détourné, tenté de détruire ou de détourner les objets saisis sur lui et confiés à sa garde, sera puni conformément à l'art. 406. § 2. Il sera puni conformément à l'art. 401, si la garde des objets saisis et qu'il a détruits ou détournés, tenté de détruire ou de détourner, avait été confiée à un tiers. § 3. Celui qui aura recélé sciemment les objets détournés, le conjoint, les ascendants, les descendants et les alliés du saisi qui l'auront aidé dans la destruction ou le détournement de ces objets, seront punis d'une peine égale à celle qu'il aura encourue.
