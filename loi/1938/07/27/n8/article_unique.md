@@ -1,0 +1,3 @@
+# Article unique.
+
+Les art. 7 et 9 de la loi du 10 juin 1932 sont abrogés et remplacés par les dispositions suivantes: Art. 7. Sera puni d'une amende de 51 à 1.000 fr. et d'un emprisonnement de 8 jours à 6 mois ou d'une de ces peines seulement, celui qui se sera sciemment servi d'un véhicule automoteur destiné à circuler sur la route, sur l'eau ou dans les airs ou d'un vélocipède, sans le consentement exprès ou tacite du propriétaire ou de celui qui l'a sous sa garde. Art. 9. Le livre Ier du Code pénal et la loi du 18 juin 1879 sur l'appréciation des circonstances atténuantes, modifiée par celle du 16 mai 1904, sont applicables aux délits prévus par la présente loi.
