@@ -1,0 +1,3 @@
+# Art. 6.
+
+Les art. 149, al. 1 et 264 de la loi électorale du 31 juillet 1924 sont modifiés comme suit: Art. 149, al. 1er. Les membres du conseil communal sont élus pour le terme de six ans, à compter du 1er janvier qui suit leur élection. Art. 264. Les élections pour le prochain renouvellement intégral des conseils communaux auront lieu le deuxième dimanche du mois d'octobre 1934. Les mandats des conseiller communaux élus aux élections générales conformément aux dépositions de l'ancien art. 264, ainsi que les mandats des conseillers communaux élus aux élections complémentaires subsequentes, expireront le 31 décembre 1934.
