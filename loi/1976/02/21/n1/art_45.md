@@ -1,0 +1,5 @@
+# Art. 45.
+
+(1) Sont abrogées toutes dispositions contraires à celles qui précèdent et notamment l'arrêté grand-ducal du 30 juin 1945 portant création d'un Office national du Travail, la loi du 22 avril 1949 ayant pour objet de modifier et de compléter certaines dispositions de l'arrêté grand-ducal du 30 juin 1945 précité, l'arrêté grand-ducal du 29 janvier 1962 modifiant l'arrêté grand-ducal du 30 juin 1945 précité, la loi du 12 mars 1964 portant réorganisation des cadres de l'Office national du Travail et le règlement grand-ducal subséquent du 29 juillet 1964 portant fixation des conditions de nomination et de promotion aux fonctions d'orienteur diplômé, d'orienteur diplômé principal et d'inspecteur de direction à l'Office national du Travail.
+
+(2) L'abrogation de l'arrêté grand-ducal du 30 juin 1945 portant création d'un Office national du Travail ne porte toutefois pas atteinte aux dispositions de l'article 20 de la loi du 24 juin 1970 portant réglementation du contrat de louage de services des ouvriers.
