@@ -1,0 +1,5 @@
+# Art. 27.
+
+Sans préjudice aux dispositions de l'art. 32 tout fonctionnaire touchera, au moment de la mise en vigueur de la présente loi, dans l'échelle de son groupe, le traitement immédiatement supérieur à celui qu'il a touché à cette date (1er janvier 1912).
+
+Si le traitement ainsi fixé reste inférieur à celui que le fonctionnaire eût obtenu, sous le nouveau régime, à raison de ses années de service passées dans le même emploi avant la mise en vigueur de la loi, cet écart entrera dans le calcul du traitement dans la mesure suivante: la première triennale ou fraction de triennale excédant le chiffre du traitement fixé à l'al. 1er sera ajoutée en entier à ce chiffre; la deuxième triennale ou fraction de triennale sera comptée pour la moitié, la troisième triennale ou fraction de triennale pour le tiers la quatrième triennale ou fraction de triennale pour le quart, la cinquième triennale ou fraction de triennale pour un cinquième, la sixième triennale ou fraction de triennale pour un sixième, la septième triennale ou fraction de triennale pour un septième, la huitième triennale ou fraction de triennale pour un huitième.
