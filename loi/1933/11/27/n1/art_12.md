@@ -1,0 +1,9 @@
+# Art. 12.
+
+L'exécution pour les créances du Trésor prévues par la présente loi sera exercée au moyen d'une contrainte décernée par le receveur et rendue exécutoire par le directeur des contributions. Il sera procédé à la saisie-exécution par un agent des contributions ou un huissier conformément au Code de procédure civile.
+
+Aucun immeuble ne sera attaqué qu'après que les meubles du contribuable auront été vendus et le produit trouvé insuffisant au paiement, sauf autorisation spéciale du Directeur général des finances.
+
+L'administration des contributions est autorisée à faire vendre, conformément à l'art. 71 de la loi du 2 janvier 1889 sur l'expropriation forcée, les immeubles assujettis à son hypothèque légale, même lorsque celle-ci est dispensée d'inscription ou que l'administration des contributions n'est pas le créancier premier inscrit sur les dits biens. L'administration des contributions ne pourra entamer les poursuites qu'après avoir mis en demeure le créancier premier inscrit, qui jouit des droits prévus à l'art. 71, par une sommation, notifiée soit par un agent de l'administration, soit par un huissier, d'y procéder dans le délai de huit jours francs. Si ce créancier n'a pas obtempéré à la sommation, l'administration des contributions pourra, après l'expiration de ce délai, faire procéder aux poursuites ultérieures ; elle pourra de même procéder aux poursuites lorsque le créancier premier inscrit n'a pas fait les diligences nécessaires pour parvenir endéans un délai de quatre mois, à partir de la mise en demeure susdite, à la vente définitive de l'immeuble saisi.
+
+Les actes de poursuites, y compris les contraintes et commandements, les actes de saisie et les actes de procédure auxquels le recouvrement des créances du Trésor donne lieu, sont dispensés du timbre et sont enregistrés gratis.
