@@ -1,0 +1,21 @@
+# Art. II. La loi modifiée du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l’Etat ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifiée comme suit:
+
+L’article 1er est remplacé comme suit:
+
+«Art. 1er.
+
+La valeur correspondant à cent points indiciaires de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est arrêtée comme suit:
+
+- A. pour les fonctionnaires, les stagiaires-fonctionnaires et les employés de l’Etat ayant bénéficié de l’application des dispositions de l’article 8 de la loi modifiée du 27 janvier 1972 fixant le régime des employés de l’Etat:
+
+- à partir du 1er janvier 2000 au montant annuel de cent trois mille soixante et un francs, valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948,
+
+- à partir du 1er janvier 2001 au montant annuel de cent quatre mille quatre-vingt-onze francs, valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948.
+
+- B) pour les employés de l’Etat qui ne bénéficient pas de l’application des dispositions de l’article 8 de la loi modifiée du 27 janvier 1972 fixant le régime des employés de l’Etat, les employés privés au service de l’Etat, les ouvriers de l’Etat et les chargés de cours de religion:
+
+- à partir du 1er janvier 2000 au montant annuel de quatre-vingt-dix-sept mille cinq cent quatre-vingt-neuf francs, valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948,
+
+- à partir du 1er janvier 2001 au montant annuel de quatre-vingt-dix-huit mille cinq cent soixante-quatre francs, valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948.
+
+- Par dérogation au point A) ci-avant, sont applicables aux éléments de rémunération non pensionnables les valeurs fixées au point B). Il en est de même en ce qui concerne l’allocation de fin d’année allouée aux agents entrés en service après le 31 décembre 1998.»
