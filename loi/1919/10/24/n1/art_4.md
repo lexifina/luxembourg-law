@@ -1,0 +1,7 @@
+# Art. 4.
+
+L'indemnité de renchérissement est à charge des communes, à l'exception de celle des employés des hospices et des bureaux de bienfaisance, qui est due par ces établissements mêmes. L'État remboursera aux caisses intéressées les trois quarts du minimum d'indemnité, tel qu'il est fixe par l'art. 2 ci-avant.
+
+L'indemnité revenant aux pensionnaires des communes est avancée par la caisse de prévoyance des employés communaux et remboursée à cette caisse, à concurrence des trois quarts, par l'État, et du quart restant, par les communes intéressées.
+
+L'indemnité des employés occupés dans deux ou plusieurs communes sera répartie entre les communes intéressées au prorata des émoluments payés par chacune d'elles. Il en est de même quand les employés sont à la fois au service d'une commune et au service d'un hospice et d'un bureau de bienfaisance. L'indemnité de renchérissement des employés occupés dans une seule commune est fixée par le conseil communal, sous l'approbation du Gouvernement. La fixation de l'indemnité des agents en service dans deux ou plusieurs communes ainsi que de la quote-part de chaque commune, à lieu par le Gouvernement sur les propositions des conseils communaux intéressés. Si, dans les deux mois à partir de la promulgation de la présente loi, le conseil communal ne fixe pas l'indemnité de renchérissement ou ne formule pas ses propositions, le Gouvernement déterminera l'indemnité sur la base des minimums prévus à l'art. 2 et en ordonnera d'office le paiement à charge de la caisse communale.
