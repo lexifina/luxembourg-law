@@ -1,0 +1,3 @@
+# Article I. – Disposition introductive
+
+La loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée, telle qu’elle est modifiée et complétée par la présente, est appliquée et interprétée concurremment et conformément à la directive 98/80/CE du Conseil du 12 octobre 1998 complétant le système de taxe sur la valeur ajoutée et modifiant la directive 77/388/CEE - Régime particulier applicable à l’or d’investissement ainsi qu’à la directive 1999/59/CE du Conseil du 17 juin 1999 modifiant la directive 77/388/CEE en ce qui concerne le régime de taxe sur la valeur ajoutée applicable aux services de télécommunications.
