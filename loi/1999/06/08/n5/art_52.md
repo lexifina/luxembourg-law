@@ -1,0 +1,5 @@
+# Art. 52. Amortissement du déficit des obligations résultant des périodes passées.
+
+(1) Au titre de la déduction fiscale pour pension complémentaire, l'amortissement annuel de la rente du déficit des obligations résultant des périodes passées est limité à la quotité donnée par la fraction au numérateur de laquelle se trouve l'unité et au dénominateur la durée de l'amortissement, sans que cette durée puisse être inférieure à cinq ans, ni supérieure à dix ans.
+
+(2) Les prestations relatives aux dotations, allocations, cotisations et primes d'assurance servant à l'amortissement du déficit des obligations résultant des périodes passées pourront bénéficier de l'imposition forfaitaire prévue à l'article 142 paragraphe (1) de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu, lorsque l'impôt est pris en charge par l'employeur. En outre, il ne sera pas tenu compte de ces dotations, allocations, cotisations et primes d'assurance lors de la détermination de la partie des dotations, allocations, cotisations et primes d'assurance qui excède l'une des limites prévues à l'article 31.

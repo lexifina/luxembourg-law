@@ -1,0 +1,3 @@
+# Art. 25. Obligation d'information.
+
+L'assureur insolvabilité informe l'affilié par écrit de ses droits à pension ou de ses droits acquis tels qu'ils sont définis aux articles 23 et 24. Si cette information n'a pas lieu, les droits à pension et les droits acquis doivent être déclarés à l'assureur insolvabilité au plus tard une année après le sinistre. Si la déclaration intervient plus tard, le versement des prestations commence au plus tôt le premier jour du mois de la déclaration, à moins que l'ayant droit n'ait été empêché, sans faute de sa part, de fournir la déclaration dans le délai prévu.
