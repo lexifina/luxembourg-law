@@ -1,0 +1,3 @@
+# Art. 3.
+
+L'article V paragraphe 3 de la loi du 27 août 1986 modifiant et complétant la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat est modifié comme suit: Les articles 3 et 22 section IV 14o de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, tels que ces articles ont été modifiés par la présente loi, s'appliquent aux seuls fonctionnaires nommés après l'entrée en vigueur de la présente loi, sans que pour autant le bénéfice de cette disposition puisse jouer plus d'une fois par carrière. Pour les fonctionnaires nommés avant cette date, les anciennes dispositions de ces articles ou des articles correspondants restent applicables.
