@@ -1,0 +1,3 @@
+# Art. 3.
+
+Si les pensionnés de l'Etat obtiennent un complément d'indemnité d'attente en vertu de l'alinéa 3 de l'article 8 de la loi budgétaire du 25 juin 1960, l'indemnité prévue par l'article 1er de la présente loi pourra être complétée par un règlement d'administration publique, qui appliquera par analogie les formes et les modalités des dispositions de l'article 2, III de la loi du 20 mai 1959, ayant pour objet l'allocation d'une indemnité extraordinaire aux fonctionnaires et pensionnés de l'Etat. Les adaptations nécessaires seront faites par le Conseil d'administration de la caisse de prévoyance des fonctionnaires et employés communaux sous l'approbation du Ministre de l'Intérieur.
