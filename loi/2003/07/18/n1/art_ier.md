@@ -1,0 +1,9 @@
+# Art. Ier.
+
+La loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective est modifiée comme suit:
+
+- 1° L'article 6, paragraphe 1er, prend la teneur suivante: Sont éligibles les électeurs âgés de 18 ans accomplis, sans préjudice d'autres conditions d'éligibilité prévues par les dispositions particulières régissant les différentes chambres.
+
+- 2° L'article 40, paragraphe 2, est libellé comme suit: Sont éligibles, sans préjudice des dispositions de l'article 6 de la présente loi, les électeurs âgés de 18 ans au moins au jour de l'élection, à condition, en ce qui concerne les ressortissants non membres d'un Etat partie à l'Accord sur l'Espace Economique Européen d'être en possession d'un permis de travail valable de type B ou C conformément aux articles 2 et 3 du règlement grand-ducal modifié du 12 mai 1972 déterminant les mesures applicables pour l'emploi des étrangers sur le territoire du Grand-Duché, ainsi que des documents exigés par la loi modifiée du 28 mars 1972 concernant: 1) l'entrée et le séjour des étrangers; 2) le contrôle médical des étrangers et 3) l'emploi de la main-d'oeuvre étrangère.
+
+- 3° L'article 43, paragraphe 2, est modifié comme suit: Sont éligibles, sans préjudice des dispositions de l'article 6 de la présente loi, les électeurs âgés de 18 ans au moins au jour de l'élection, à condition, en ce qui concerne les ressortissants non membres d'un Etat partie à l'Accord sur l'Espace Economique Européen d'être en possession d'un permis de travail valable de type B ou C conformément aux articles 2 et 3 du règlement grand-ducal modifié du 12 mai 1972 déterminant les mesures applicables pour l'emploi des étrangers sur le territoire du Grand-Duché, ainsi que des documents exigés par la loi modifiée du 28 mars 1972 concernant: 1) l'entrée et le séjour des étrangers; 2) le contrôle médical des étrangers et 3) l'emploi de la main-d'oeuvre étrangère.
