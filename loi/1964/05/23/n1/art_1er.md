@@ -1,0 +1,3 @@
+# Art. 1er.
+
+En dehors des personnes désignées par l'article premier de la loi du 29 août 1951 ayant pour objet la réforme de l'assurance pension des employés privés, sont obligatoirement affiliés à la caisse de pension des employés privés les avocats, notaires, huissiers, agréés judiciaires, médecins, médecins-dentistes, pharmaciens, vétérinaires, auxiliaires médicaux, architectes, ingénieurs-conseils, métreurs, vérificateurs, techniciens, experts, experts-comptables, mandataires généraux d'assurances, agents généraux d'assurances, professeurs, gens de lettres, musiciens, artistes et généralement tous ceux qui exercent dans le Grand-Duché, pour leur propre compte et de façon continue, une profession non commerciale de nature principalement intellectuelle.
