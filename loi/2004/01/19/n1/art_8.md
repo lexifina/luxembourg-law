@@ -1,0 +1,3 @@
+# Art. 8.
+
+Sans préjudice d'autres dispositions légales concernant le curage, l’entretien et l'amélioration des cours d'eau, l'autorisation du Ministre est requise pour tous travaux de drainage, de curage, de prise d'eau, de pompage, de dérivations directes ou indirectes d'eau, de consolidation de rives, de redressement des lits des cours d'eau et plus généralement pour tous les travaux susceptibles soit de modifier le régime des eaux soit d'avoir une influence préjudiciable sur la faune et la flore aquatiques et sur la qualité du site. L'autorisation du Ministre est également requise pour la création d’étangs ou autres plans d’eau en zone verte.

@@ -1,0 +1,5 @@
+# Art. 7.
+
+Dans la zone verte, sont soumis à l'autorisation du Ministre l'ouverture de minières, sablières, carrières ou gravières ainsi que l'enlèvement de terre végétale sur une superficie dépassant un are, et le dépôt de déblais d'un volume dépassant cinquante m3.
+
+Sauf dispense du Ministre, le bénéficiaire de l'autorisation est tenu de rendre au sol son caractère naturel, en boisant ou en regarnissant de végétation les excavations, déblais ou remblais destinés à subsister d'une manière permanente. Les plantations sont exécutées dans la mesure où l'avancement des travaux d'exploitation le permet. Le Ministre constate, sur le rapport de l'administration des eaux et forêts la possibilité de reboiser ou de regarnir et impartit au maître d'oeuvre un délai endéans lequel les travaux doivent être exécutés et terminés. Faute par l'intéressé de se conformer à l'injonction du Ministre, celui-ci charge l'administration de l'exécution des travaux aux frais du contrevenant. Le recouvrement des frais se fait comme en matière domaniale.
