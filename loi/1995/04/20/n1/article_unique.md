@@ -1,0 +1,3 @@
+# Article unique.
+
+Les articles 4 et 5 de la loi du 25 mars 1963 concernant la protection de la population contre les dangers résultant des radiations ionisantes sont abrogés et remplacés par un article 4 nouveau rédigé comme suit: Art. 4. Les infractions aux règlements pris en exécution de la présente loi sont recherchées et constatées par les médecins de la Direction de la Santé, par les experts en radioprotection, les ingénieurs nucléaires et les fonctionnaires des carrières moyenne et supérieure de la division de la radioprotection de la Direction de la Santé, ainsi que par les officiers de police judiciaire, les agents de la gendarmerie et de la police et les agents de l'Administration des douanes et accises.
