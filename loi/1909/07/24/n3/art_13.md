@@ -1,0 +1,3 @@
+# Art. 13.
+
+Sans préjudice des dispositions de l'art. 15, il est interdit de mettre en circulation, dans un but de lucre, des boissons qui auront été fabriquées ou traitées en contravention des prescriptions des art. 2, 3, 4, 9 ou 10, ainsi que le moût complet qui aura reçu une addition non conforme aux dispositions de l'art. 3, al. 1er ou de l'art. 4. La même interdiction s'applique aux produits étrangers qui ne répondent pas aux prescriptions de l'art. 3 al. 1er, ou des art. 4, 9 ou 10; le Gouvernement pourra toutefois, par rapport aux prescriptions de l'art. 4 et de l'art. 10 al. 2, accorder des exceptions au profit de boissons ou de moût complet qui auront été préparés conformément aux dispositions en vigueur dans le pays d'origine.
