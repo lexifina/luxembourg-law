@@ -1,0 +1,3 @@
+# Art. 7.
+
+La nouvelle commune succède à tous les biens, droits, charges et obligations des communes fusionnées et du syndicat intercommunal pour la construction, l’entretien et le fonctionnement d’une école centrale avec centre sportif à Tandel. Ce syndicat sera dissous conformément aux dispositions de la loi du 23 février 2001 concernant les syndicats de communes.
