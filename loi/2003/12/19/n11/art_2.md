@@ -1,0 +1,3 @@
+# Art. 2.
+
+Les organisations agréées au titre de l'article 1er et les organisations justifiant d'une inscription sur la liste publiée au Journal officiel des Communautés européennes en application de l'article 4, point 3 de la directive 98/27/CE du Parlement européen et du Conseil relative aux actions en cessation en matière de protection des intérêts des consommateurs peuvent agir devant la juridiction luxembourgeoise compétente pour faire cesser ou interdire tout agissement illicite au regard des lois qui leur confèrent ce droit. Cette action n'est valablement introduite que pour autant que les intérêts protégés par ces organisations sont lésés et que l'objet social de l'organisation justifie le fait qu'elle intente une action dans une affaire donnée.
