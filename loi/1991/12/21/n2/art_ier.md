@@ -1,0 +1,3 @@
+# Art. Ier.
+
+Le paragraphe 4 de l'article 2 modifié de la loi du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques est complété par un troisième alinéa nouveau, libellé comme suit: La validité de la carte d'immatriculation est de plein droit périmée, lorsque le véhicule n'est plus couvert par un certificat de contrôle technique valable depuis plus de deux ans ou que la taxe de circulation n'a plus été payée depuis plus de deux ans. La péremption de la carte d'immatriculation comporte l'obligation pour le propriétaire ou détenteur de faire procéder à une nouvelle immatriculation de son véhicule, en vue de sa remise en circulation.
