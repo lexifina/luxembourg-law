@@ -1,0 +1,3 @@
+# Art. 6.
+
+Nonobstant les dispositions de l'article 2 de la présente loi, les titulaires des diplômes d'infirmière hospitalière, d'assistante sociale, de sage-femme, délivrés en exécution de l'arrêté grand-ducal du 16 juillet 1935 portant institution du diplôme d'infirmière de l'Etat luxembourgeois, de l'arrêté grand-ducal du 16 juillet 1935 portant institution du diplôme d'assistante sociale de l'Etat luxembourgeois ou de l'arrêté grand-ducal du 4 février 1899 réglant l'exercice de la profession de sage-femme, pourront continuer à porter les titres correspondant à leurs diplômes et à exercer leurs professions.
