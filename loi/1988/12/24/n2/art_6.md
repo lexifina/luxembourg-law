@@ -1,0 +1,3 @@
+# Art. 6.
+
+L´article 152bis de la prédite loi est complété par un paragraphe 7a libellé comme suit: §7a. Par dérogation aux dispositions du paragraphe 4, numéros 1 et 2 et à celles du paragraphe 7, alinéa 2, numéros 2 et 3, les biens y visés ne sont pas à éliminer de la base de calcul des bonifications d´impôt respectives, lorsqu´ils sont investis dans le cadre d´un premier établissement. Sont à considérer comme biens investis dans le cadre d´un premier établissement les biens visés par les paragraphes 2 et 7, lorsqu´ils sont investis dans une entreprise nouvellement créée et effectués durant les trois premières années à partir de la date de sa création.

@@ -1,0 +1,3 @@
+# Art. 5.
+
+L´article 133 de la prédite loi est abrogé et remplacé par la disposition qui suit: Art. 133. En ce qui concerne les bénéfices des exploitations agricoles et forestières au sens de l´article 61, à l´exception des bénéfices provenant de la sylviculture, un règlement d´administration publique pourra prévoir que la partie du bénéfice dépassant la moyenne des bénéfices de l´exercice envisagé et des trois exercices entiers précédents sera considérée comme revenu extraordinaire au sens de l´article 132, imposable d´après les dispositions de l´article 131, et fixer un taux applicable à ce revenu en fonction du revenu ordinaire.
