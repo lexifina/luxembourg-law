@@ -1,0 +1,3 @@
+# Art. 10. Modification de la loi du 25 septembre 1905 sur la transcription des droits réels
+
+Après le dernier alinéa de l'article 1er de la loi du 25 septembre 1905 sur la transcription des droits réels immobiliers est ajouté l'alinéa suivant: Lorsqu'un acte transfère la propriété, constitue, transfère, modifie ou éteint un droit qui doit être transcrit sur un immeuble inclus dans un patrimoine fiduciaire ou un trust relevant de la Convention relative à la loi applicable au trust et à sa reconnaissance, signée à La Haye le 1er juillet 1985 ou destiné à intégrer un tel patrimoine fiduciaire ou trust, la transcription s'accompagne respectivement de la mention «fiduciaire» ou «trustee».
