@@ -1,7 +1,7 @@
 # Art. 72.
 
-La Chambre se réunit chaque année en session ordinaire, à l’époque fixée par le règlement.
+(1) La Chambre se réunit chaque année en session ordinaire, à l'époque fixée par le règlement.
 
-Le Roi Grand-Duc peut convoquer la Chambre extraordinairement.
+(2) Le Grand-Duc peut convoquer la Chambre extraordinairement ; il doit le faire sur la demande d'un tiers des députés.
 
-Toute session est ouverte et close par le Roi Grand-Duc en personne, ou bien en Son Nom par un fondé de pouvoirs nommé à cet effet.
+(3) Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
