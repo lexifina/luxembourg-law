@@ -1,0 +1,5 @@
+# Article 62
+
+(1) Les créances sur les établissements de crédit et sur la clientèle (postes 3 et 4 de l’actif), les opérations de crédit-bail (poste 5 de l’actif), ainsi que les obligations,les actions et les autres valeurs mobilières à revenu variable incluses dans les postes 6 et 7 de l’actif qui ne constituent pas des immobilisations financières telles que définies à l’article 56 paragraphe (1) et qui ne sont pas incluses dans le portefeuille commercial peuvent être indiquées à une valeur inférieure à celle qui résulte de l’application de l’article 58 paragraphe (2) de la présente loi, lorsque des raisons de prudence l’imposent eu égard aux risques particuliers inhérents aux opérations bancaires. L’écart entre ces deux valeurs ne peut dépasser 4 pour cent du montant total des actifs susvisés après application dudit article 58.
+
+(2) L’évaluation à la valeur inférieure obtenue par application du paragraphe (1) peut être maintenue jusqu’au moment où l’établissement de crédit décide de l’ajuster.

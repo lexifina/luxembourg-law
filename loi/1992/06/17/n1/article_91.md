@@ -1,0 +1,3 @@
+# Article 91
+
+Les produits et charges des entreprises comprises dans la consolidation sont repris intégralement au compte de profits et pertes consolidé.
