@@ -1,0 +1,5 @@
+# Art. 1er.
+
+L´article 2 de la loi du 30 octobre 1981 ayant pour objet l´augmentation de la dotation de l´Office du Ducroire ainsi que l´institution d´un fonds spécial d´assurance ducroire pour le compte de l´Etat est modifié comme suit:
+
+- L´article 1er de la loi du 25 novembre 1961 est complété par un nouvel alinéa final, libellé comme suit: Lorsque les garanties à octroyer comportent des risques dont la gravité et la durée dépassent les possibilités techniques de l´assurance par l´Office, mais que leur réalisation est cependant jugée opportune par le gouvernement en conseil, l´Office peut les garantir directement pour le compte de l´Etat. Les engagements pris pour le compte de l´Etat ne pourront dépasser un plafond fixé par règlement grand-ducal sans jamais être supérieur à vingt pour cent du montant global des garanties de l´Office allouées pour son propre compte. Ces interventions sont comptabilisées séparément dans les écritures de l´Office. L´Office du Ducroire peut reprendre à son propre compte, et selon les conditions régissant sa couverture, les engagements acceptés ultérieurement pour le compte direct de l´Etat.
