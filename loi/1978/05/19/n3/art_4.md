@@ -1,0 +1,3 @@
+# Art. 4.
+
+L'article 39 de la même loi est complété comme suit: Les officiers de police judiciaire, les agents de la gendarmerie et de la police, ainsi que les agents de surveillance du service aéronautique peuvent procéder ou faire procéder sous leur contrôle et leur responsabilité dans l'enceinte de l'aérodrome à la fouille corporelle de toutes personnes, ainsi qu'au contrôle de tous bagages et marchandises. Ils interdisent à toute personne qui s'oppose à la fouille ou au contrôle d'accéder ou de rester à bord d'un aéronef. Ces mêmes droits sont conférés aux agents de la douane, sans préjudice du droit de fouille et de contrôle dont ces agents sont déjà investis en vertu des dispositions légales, réglementaires et administratives en matière douanière.
