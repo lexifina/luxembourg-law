@@ -1,0 +1,3 @@
+# Art. 7.
+
+L'art. 12 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie est modifié comme suit: Art. 12. En cas de récidive dans le délai de cinq ans après une condamnation du chef d'une infraction prévue aux articles 8 à 11, les peines correctionnelles pourront être portées au double, et les peines criminelles majorées conformément à l'art. 54 du code pénal. Les condamnations définitives prononcées à l'étranger sont prises en considération aux fins d'établissement de la récidive pour autant que les infractions ayant donné lieu à ces condamnations sont également punissables suivant les articles 8 à 11 de la présente loi.
