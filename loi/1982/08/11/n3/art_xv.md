@@ -1,0 +1,3 @@
+# Art. XV.
+
+Les alinéas 3 et 4 de l'article 77 de la loi du 7 mars 1980 sur l'organisation judiciaire sont remplacés par les dispositions suivantes: Deux autres psychologues sont attachés à ce service qui sont chargés plus particulièrement de s'occuper l'un des détenus et l'autre du service de protection de la jeunesse. Le service comprend en outre trois assistants sociaux, neuf délégués permanents à la protection de la jeunesse, sept agents de probation et un secrétaire choisi parmi les fonctionnaires de la carrière moyenne du rédacteur. Des collaborateurs à temps partiel peuvent être adjoints au service par décision du ministre de la Justice.
