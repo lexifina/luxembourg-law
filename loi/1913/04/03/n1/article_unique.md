@@ -1,0 +1,3 @@
+# Article unique.
+
+L'art. 11 de la loi du 28 juin 1911, concernant la construction de cinq lignes de chemin de fer à voie étroite, est complété par la disposition suivante: Toutefois, en attendant le vote des conventions-lois concernant les nouvelles concessions minières, les crédits nécessaires pour le payement des annuités d'intérêt, et le cas échéant, d'amortissement des capitaux empruntés pour la construction des lignes, seront inscrits chaque année au budget des dépenses ordinaires. Ils seront liquidés au profit du fonds spécial. Et après le vote des dites conventions-lois, les sommes ainsi prélevées sur le budget des dépenses ordinaires seront remboursées par le fonds spécial au fur et à mesure de la rentrée des rentes minières.
