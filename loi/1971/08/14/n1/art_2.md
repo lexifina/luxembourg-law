@@ -1,0 +1,3 @@
+# Art. 2.
+
+Pour la première année d'applicabilité de la Convention susvisée, les résidents de la Belgique, qui travaillent au Grand-Duché et ont la qualité de travailleurs frontaliers au regard de l'arrangement du 22 juillet 1938 entre le Gouvernement luxembourgeois et le Gouvernement belge concernant le statut des travailleurs frontaliers, sont, en ce qui concerne les rémunérations touchées du chef de l'emploi salarié exercé au Grand-Duché, soumis d'office à un décompte annuel incombant à l'administration des contributions. Un excédent d'impôt annuel fait l'objet d'une procédure de recouvrement. Les dispositions régissant le décompte annuel sont applicables pour autant qu'elles ne sont pas contraires aux dispositions qui précèdent.
