@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Le Gouvernement est autorisé à faire prendre, par voie de règlement d'administration publique les mesures nécessaires pour protéger le pays contre l'affluence exagérée d'étrangers sur le territoire du Grand-Duché, notamment en ce qui concerne l'obligation de l'étranger, entrant ou de passage dans le Grand-Duché, d'être porteur d'un passeport délivré par l'autorité de son pays d'origine, revêtu du visa d'une autorité luxembourgeoise ou étrangère à designer, le montant de la taxe à percevoir lors de l'apposition du visa, et de l'indemnité à allouer sur le produit de la taxe aux employés chargés de Ia perception.
