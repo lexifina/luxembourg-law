@@ -1,0 +1,3 @@
+# Art. 14.
+
+Le premier alinéa de l'article 309 du code des assurances sociales prend la teneur suivante: Art. 309. Les chefs d'entreprise et autres employeurs qui n'exécutent pas ou qui exécutent tardivement les obligations leur imposées par des dispositions légales, réglementaires ou statutaires, ceux qui fournissent tardivement ou d'une façcon inexacte les renseignements auxquels ils sont tenus ainsi que ceux qui ne paient pas les cotisations à l'échéance peuvent être frappés d'une amende d'ordre ne pouvant pas dépasser cent mille francs. Dans les mêmes conditions les assurés peuvent être frappés d'une amende d'ordre ne pouvant pas dépasser trente mille francs.

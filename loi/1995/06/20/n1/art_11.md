@@ -1,0 +1,3 @@
+# Art. 11.
+
+Les deux premiers alinéas de l'article 163 du code des assurances sociales prennent la teneur ci-après, l'alinéa 3 actuel devenant l'alinéa 2 nouveau: Pour les victimes d'un accident de travail n'ayant pas exercé pour leur propre compte l'activité assurée dans l'exploitation agricole ou forestière, la rente est calculée conformément aux articles 98 et 99. En cas d'exercice simultané au cours de l'année précédant l'accident d'une activité assurée obligatoirement auprès de la section industrielle, la rente est calculée sur le revenu professionnel correspondant à l'activité principale.
