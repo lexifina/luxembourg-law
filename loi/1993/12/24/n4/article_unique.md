@@ -1,0 +1,3 @@
+# Article unique.
+
+L'article 2 de la loi du 15 janvier 1992 autorisant la participation financière de l'Etat à la construction d'un foyer pour personnes handicapées à Heisdorf est modifié comme suit: La participation de l'Etat au projet cité à l'article 1 est fixée à cinquante pour cent du coût des travaux et ne peut pas dépasser la somme de 106.500.000,- francs, sans préjudice de l'incidence des hausses légales de prix pouvant intervenir jusqu'à l'achèvement des travaux. Cette somme pourra être augmentée des intérêts d'un prêt relatif à la part de l'Etat à contracter pour le financement des travaux.
