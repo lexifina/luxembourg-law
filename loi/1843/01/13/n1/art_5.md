@@ -1,0 +1,11 @@
+# Art. 5.
+
+L’autorisation ci-dessus ne sera requise que lorsque les constructions, plantations ou travaux ont lieu sur la propriété voisine à une distance inférieure à dix mètres, à compter de l’arête extérieure du fossé de la route.
+
+La distance de dix mètres est portée à vingt-cinq mètres pour les routes ou parcours de routes pour lesquels un plan définitif d’alignement général a été établi selon les règles ci-après énoncées.
+
+Le projet du plan d’alignement général élaboré par l’Administration des Ponts et Chaussées est déposé pendant trente jours dans les communes intéressées, où le public pourra en prendre connaissance. Le dépôt sera préalablement annoncé par voie d’affiches apposées dans la commune de la manière usuelle et par la voie de la presse dans au moins deux journaux quatidiens édités au Grand-Duché, avec indication de la date du dépôt et invitation de prendre connaissance du dossier. Le délai de trente jours ne commencera à courir qu’après l’accomplissement de ces mesures de publicité.
+
+Dans les quinze jours après l’expiration du délai susvisé, les observations concernant le projet doivent être présentées par écrit au Membre du Gouvernement ayant dans ses attributions les Travaux Publics.
+
+L’établissement du plan définitif d’alignement général se fera dans les formes d’un règlement d’administration publique, qui sera soumis à l’avis obligatoire du Conseil d’Etat.
