@@ -1,0 +1,5 @@
+# Art. 8.
+
+A l’article 13 de la même loi est ajouté un troisième alinéa nouveau qui prend la teneur suivante:
+
+«Si une entreprise du secteur privé ou un organisme visé au premier alinéa qui précède, fonctionnant sous le droit privé, engage un bénéficiaire de l’indemnité d’insertion moyennant un contrat de travail à durée déterminée ou à durée indéterminée, le fonds national de solidarité, sur déclaration certifiée sincère et exacte par le service national d’action sociale, peut participer aux frais de personnel occasionnés par cet engagement. Cette participation ne peut pas dépasser le produit du salaire social minimum brut pour un travailleur non qualifié âgé de dix-huit ans, augmenté de la part patronale et multiplié par le nombre de mois que dure l’engagement à durée déterminée ou à durée indéterminée, sans toutefois dépasser le nombre de trente-six mois en ce qui concerne le contrat de travail à durée indéterminée. Cette durée est portée à quarante-deux mois si l’engagement concerne un bénéficiaire de l’indemnité d’insertion du sexe sous-représenté dans le secteur d’activité en question et/ou dans une profession déterminée.»
