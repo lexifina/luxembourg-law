@@ -1,0 +1,5 @@
+# Art. 5.-
+
+(1) Dans les conditions visées par l’alinéa 1er de l’article 30 de la loi modifiée du 24 mai 1989 sur le contrat de travail, les articles 3 et 4 de la présente loi s’appliquent au transfert d’une entreprise, d’un établissement ou d’une partie d’entreprise ou d’établissement lorsque le cédant fait l’objet d’une procédure de faillite ou d’une procédure d’insolvabilité analogue ouverte en vue de la liquidation des biens du cédant ou d’une procédure de gestion contrôlée.
+
+(2) Le cessionnaire, le cédant ou la ou les personnes exerçant les pouvoirs du cédant, peuvent dans ce cas, ensemble avec les représentants des travailleurs et les syndicats représentatifs sur le plan national, convenir de modifier, dans la mesure où la législation ou pratique actuelle le permet, les conditions de travail du travailleur pour préserver l’emploi en assurant la survie de l’entreprise, de l’établissement ou de la partie d’entreprise ou d’établissement. On entend par représentants de travailleurs au sens du présent paragraphe les représentants du personnel au comité mixte d’entreprise ou, à défaut, les délégués du personnel.
