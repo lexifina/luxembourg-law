@@ -1,0 +1,3 @@
+# Article unique.
+
+Est approuvée la convention conclue le 5 mai 1898 entre l'État du Grand-Duché et la société anonyme des hauts-fourneaux et forges de Dudelange, au sujet de la concession de 141 hectares 55 ares environ de terrains miniers de fer hydraté oolithique des gisements concessibles de l'État, situés aux lieux dits «Langenberg, Kahlenberg, Oidemsbusch, vor Mertesbour, Quescheberg, Kalickfeld, Hesselberg, Perchesberg, Scheidenhauschen, Fescht, Lanneberg, Woderten, alte Fassel, Einzelnklop et Kolscheid, bans de Dudelange, de Tetange et de Rumelange, plus amplement spécifiés à la dite convention.
