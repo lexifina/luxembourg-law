@@ -1,0 +1,3 @@
+# Article unique :
+
+Le paragraphe (2) de l'article 2 de la loi du 29 avril 1999 portant création d'un droit à un revenu minimum garanti est remplacé par le texte ci-après: (2) La personne qui n'est pas ressortissant du Grand-Duché de Luxembourg ou d'un autre Etat membre de l'Union Européenne ou d'un Etat ayant adhéré à l'Accord sur l'Espace économique européen et qui n'est pas reconnue apatride sur base de la Convention relative au statut des apatrides faite à New York le 28 septembre 1954, ni reconnue réfugiée au sens de la Convention relative au statut des réfugiés, faite à Genève, le 28 juillet 1951, doit avoir résidé au Grand-Duché de Luxembourg pendant cinq ans au moins au cours des vingt dernières années
