@@ -1,0 +1,3 @@
+# Art. V.
+
+Le premier alinéa du paragraphe 4 de l'article 2 modifié de la loi du 14 février 1955 précitée est remplacé par le texte suivant: Les cartes d'immatriculation pour tous les véhicules automoteurs, pour les remorques et véhicules forains ainsi que les cartes d'identité pour les véhicules munis d'un signe distinctif particulier ou pour les véhicules non soumis à l'immatriculation sont délivrées et retirées par le ministre des Transports ou son délégué. Le refus de remettre les documents aux agents chargés de l'exécution du retrait sera puni d'un emprisonnement de huit jours à un mois et d'une amende de 2.501 à 50.000 francs ou d'une de ces peines seulement.

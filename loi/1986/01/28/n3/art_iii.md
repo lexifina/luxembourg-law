@@ -1,0 +1,3 @@
+# Art. III.
+
+Le deuxième alinéa du paragraphe 1er. de l'article 2 modifié de la loi du 14 février 1955 précitée est remplacé par le texte suivant: Le ministre des Transports peut faire dépendre de la réussite de l'intéressé à un examen de contrôle théorique et pratique ou à un examen de contrôle théorique ou pratique la restitution d'un permis de conduire retiré ou suspendu ainsi que la mainlevée d'un refus de renouveler un permis de conduire. Dans les mêmes conditions ainsi qu'en cas de mainlevée d'une restriction d'emploi ou de validité ou en cas de mainlevée d'un refus de transcription, il peut obliger l'intéressé à accomplir une période probatoire qui n'excédera pas douze mois; les modalités de cette période probatoire sont déterminées par règlement grand-ducal.
