@@ -1,0 +1,3 @@
+# Art. 3.
+
+Il est introduit au Code civil entre les articles 334-3 et 334-4 un article 334-3-1 ainsi conçu: Art. 334-3-1. Dans tous les autres cas, le changement de nom de l'enfant naturel doit être demandé au tribunal d'arrondissement du domicile du requérant. L'action est ouverte pendant la minorité de l'enfant et dans les deux années qui suivront, soit sa majorité, soit une modification apportée à son état. Mention du jugement est faite en marge de l'acte de naissance de l'enfant et, éventuellement, de son acte de mariage et des actes concernant l'état civil de ses descendants.

@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 334-2 du Code civil est libellé comme suit: Art. 334-2. L'enfant naturel acquiert le nom de celui de ses deux parents à l'égard de qui sa filiation est établie en premier lieu. Il acquiert le nom de son père, si la filiation est établie simultanément à l'égard de ses deux parents. Dans ce cas, l'enfant naturel peut prendre le nom de sa mère pendant sa minorité si ces deux parents en font la déclaration conjointe devant le juge des tutelles. Il en sera fait mention en marge de l'acte de naissance de l'enfant. A cet effet le juge des tutelles transmettra une copie de la déclaration actée à l'officier de l'état civil du lieu de naissance de l'enfant.
