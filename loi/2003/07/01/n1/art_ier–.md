@@ -1,0 +1,3 @@
+# Art. Ier.– Disposition introductive
+
+La loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée, telle qu’elle est modifiée par la présente, est appliquée et interprétée concurremment et conformément à la directive 2001/115/CE du Conseil du 20 décembre 2001 modifiant la directive 77/388/CEE en vue de simplifier, moderniser et harmoniser les conditions imposées à la facturation en matière de taxe sur la valeur ajoutée ainsi qu’à la directive 2002/38/CE du Conseil du 7 mai 2002 modifiant, en partie à titre temporaire, la directive 77/388/CEE en ce qui concerne le régime de taxe sur la valeur ajoutée applicable aux services de radiodiffusion et de télévision et à certains services fournis par voie électronique.
