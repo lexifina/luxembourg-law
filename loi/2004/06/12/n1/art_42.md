@@ -1,0 +1,3 @@
+# Art. 42.
+
+L'infirmier gradué du Service national de la Protection civile, nommé à cette fonction le 1er janvier 1998, peut accéder à la carrière de l'expert en sciences hospitalières dès l'entrée en vigueur de la présente loi. Il est dispensé de l'examen d'admission au stage, du stage et de l'examen de fin de stage. Pour l'application des dispositions de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, et notamment de l'article 22, section II, 9, sa carrière est reconstituée par la prise en compte du temps de service accompli en qualité d'infirmier gradué comme temps passé dans la carrière de l'expert en sciences hospitalières, déduction faite d'une période de stage d'une année.
