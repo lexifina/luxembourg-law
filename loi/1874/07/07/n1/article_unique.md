@@ -1,0 +1,3 @@
+# Article unique.
+
+Est approuvée la convention conclue le 7 mai 1874 entre Notre Directeur général de l'intérieur et les sociétés de hauts-fourneaux luxembourgeois ci-après dénommées, savoir la société Metz et Cie, la société Charles et Jules Collart, la société anonyme des Hauts-fourneaux luxembourgeois d'Esch-sur-I'Alzette, la société anonyme des Hauts-fourneaux de Rodange, la société Gonner, Munier, Helson et Cie, au sujet de la concession de 173 hectares, 33 ares et 33 centiares de terrains miniers, situés sur le territoire des communes d'Esch-sur-l'AIzette, Kayl et Pétange et plus amplement spécifiés à ladite convention.
