@@ -1,0 +1,3 @@
+# 37.
+
+Les propriétaires compris dans le rôle cadastral pour des propriétés non bâties, ne seront plus dans le cas de se pourvoir en surtaxe, à moins que, par un événement extraordinaire, leurs propriétés ne vinssent à disparaître: il y serait pourvu alors par une remise extraordinaire; mais ceux d'entre eux qui, par des grêles, gelées, inondations ou autres intempéries, perdraient la totalité ou une partie de leur revenu, pourront se pourvoir, comme par le passé, en remise totale ou en modération partielle de leur cote de l'année dans laquelle ils auront éprouvé cette perte: le montant de ces remises ou modérations sera pris sur le fonds de non-valeur.
