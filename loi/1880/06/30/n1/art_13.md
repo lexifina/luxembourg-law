@@ -1,3 +1,0 @@
-# Art. 13.
-
-Les changements qui surviennent dans la personne du breveté ou de son représentant et du domicile élu, de même que toute cession partielle du brevet, doivent être portés dans une forme probante à la connaissance du membre du Gouvernement chargé des affaires de commerce et d’industrie, et seront publiés par le Mémorial. Aussi longtemps que ces formalités ne sont pas remplies, celui qui a été désigné précédemment comme le breveté, ou son représentant, reste investi des droits et soumis aux obligations de la présente loi, et toutes les notifications et significations seront valablement faites au domicile précédemment élu.
