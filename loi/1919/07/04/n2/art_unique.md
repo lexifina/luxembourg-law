@@ -1,0 +1,3 @@
+# Article unique.
+
+L'art. 9 de la loi du 8 mars 1875, sur la collation des grades est complété par les dispositions suivantes: Pour les récipiendaires porteurs du certificat de maturité de la section latine des gymnases et lycées de jeunes filles, ou du certificat délivré en vertu de l'art. 13, al. 1er, de la loi du 17 juin 1911, les épreuves sub b, c, d et e sont remplacées par les épreuves suivantes: l'analyse littéraire de chefs-d'oeuvre des littératures allemande, française et anglaise; la traduction et le commentaire de passages difficiles d'auteurs latins; l'histoire approfondie de la littérature anglaise depuis Shakespeare jusqu'à nos jours; les institutions politiques et sociales de l'Angleterre.
