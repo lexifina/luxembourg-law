@@ -1,0 +1,3 @@
+# Art. VIII.
+
+L'article 39 de la loi du 30 juin 1976 précitée est complété par un second paragraphe libellé comme suit: 2. Pour l'application des dispositions de l'article 115, N° 13, litt. d de la loi du 4 décembre 1967 concernant l'impôt sur le revenu, la période d'inactivité à l'âge légal de la retraite et qui se dégage des dispositions de la loi du 24 décembre 1977 autorisant le Gouvernement à prendre les mesures destinées à stimuler la croissance économique et à maintenir le plein emploi, est assimilée à une période d'occupation. La présente disposition vaut pour les années d'imposition 1978 et 1979.

@@ -1,0 +1,3 @@
+# Art. III.
+
+L'article 22 de la loi du 30 juin 1976 précitée est complété par un second paragraphe libellé comme suit: 2. Toutefois, la Commission nationale de l'Emploi peut, sur requête, autoriser l'indemnisation de personnes particulièrement difficiles à placer en raison de leur âge, d'une déficience physique ou mentale ou d'une autre circonstance grave pour une nouvelle période de 182 jours de calendrier au plus. Dans ce cas, le plafond de l'indemnité de chômage complet visé à l'article 25, paragraphe 2, est ramené à 150% (cent cinquante pour-cent) du salaire social minimum pour travailleurs non-qualifiés.
