@@ -1,0 +1,3 @@
+# Art. 10.
+
+L'art. 14, al. 3 de la loi du 8 mai 1872, modifié par l'art. 25 de la loi du 29 juillet 1913, ainsi que l'art. 39, al. 4 de la loi du 16 janvier 1863, sont remplacés par la disposition suivante: Dans le cas de mise à la retraite et dans le cas de décès d'un fonctionnaire en activité ou pensionné, une somme égale au traitement ou à la pension de trois mois sera payée encore après la mise à la retraite ou le décès. En cas de décès, ce payement se fera au profit de la veuve, resp. des enfants ou parents qui ont vécu en ménage commun avec le défunt et dont l'entretien était à sa charge. A défaut d'une veuve resp. d'enfants ou de parents remplissant ces conditions, le Gouvernement désignera la bénéficiaire de cette allocation.

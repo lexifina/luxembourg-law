@@ -1,0 +1,3 @@
+# Art. 14.
+
+A partir du 1er mai 1919, le crédit inscrit sous l'art. 3136 du projet de budget de 1919 est remplacé par le crédit suivant: «Dépenses résultant de l'exécution de la loi du 28 mai 1919 concernant les traitements et l'indemnité de résidence des fonctionnaires et em- ployés de l'État, des ministres des cultes, la solde des gendarmes et des volontaires ainsi que les salaires des cantonniers: différence entre les anciens traitements augmentés de l'indemnité de renchérissement et les traitements nouveaux, et augmentation des traitements et autres avantages accordés par la loi (crédit non limitatif) 8.600.000 fr.»
