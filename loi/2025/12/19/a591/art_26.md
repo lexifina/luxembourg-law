@@ -1,0 +1,5 @@
+# Art. 26. Dispositions concernant le Fonds pour la protection de l’environnement – Frais d’études pour la mise en œuvre de l’action « SuperDrecksKëscht » au-delà de l’année 2028
+
+(1) Au cours de l’exercice 2026, le Gouvernement est autorisé à imputer à charge des crédits du Fonds pour la protection de l’environnement, les frais d’études, de la relation coût-efficacité ainsi que des études de faisabilité technique et des études en vue de l’établissement de l’étude préalable avec la comparaison de variantes, du projet détaillé, des dossiers d’autorisation ainsi que du dossier du projet de loi relatif à la mise en œuvre de l’action « SuperDrecksKëscht », ainsi que les frais d’études des incidences sur l’environnement (EIE), les frais des études olfactives, géotechniques, des études de bruit, de protection de la nature et de l’étude relative à la gestion de projet concernant l’action « SuperDrecksKëscht » au-delà de l’année 2028.
+
+(2) Les dépenses pour frais d’études ne peuvent pas dépasser le montant du plafond fixé à l’article 80, paragraphe 1er, lettre d), de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État.

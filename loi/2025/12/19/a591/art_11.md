@@ -1,0 +1,3 @@
+# Art. 11. Dispositions concernant le Ministère de la famille, des solidarités, du vivre ensemble et de l’accueil
+
+Par dérogation aux lois et règlements en vigueur, et sans préjudice des dispositions inscrites à l’article 9, paragraphe 5, le Fonds national de solidarité ne peut engager ou régler des frais de fonctionnement imputables à l’exercice 2026 et excédant les crédits budgétaires prévus au titre de la participation de l’État à ces dépenses, qu’avec l’autorisation préalable des membres du Gouvernement compétents, après avis du ministre ayant les Finances dans ses attributions. De telles autorisations ne peuvent toutefois être accordées que pour des dépenses urgentes, dont le report risquerait de compromettre la continuité des services en question.
