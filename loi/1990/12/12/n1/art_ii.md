@@ -1,0 +1,3 @@
+# Art. II.
+
+L'article 1er de la loi modifiée du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat est remplacé comme suit: La valeur correspondant à cent points indiciaires de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat est arrêtée au montant annuel de quatre-vingt-neuf mille sept cent trois francs, valeur au nombre cent de l'indice pondéré du coût de la vie au 1er janvier 1948.
