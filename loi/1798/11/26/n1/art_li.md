@@ -1,0 +1,3 @@
+# LI.
+
+Il est enjoint aux adjudicataires, mariniers et autres personnes employées au service des bacs, de se conformer aux dispositions de police administrative et de sûreté contenues dans la présente loi, ou qui pourraient leur être imposées par le Directoire et les administrations pour son exécution, a peine d'être responsables, en leur propre et privé nom, des suites de leur négligence, et, en outre, être condamnés pour chaque contravention, en une amende de la valeur de trois journées de travail; le tout à la diligence des commissaires du Directoire exécutif près les administrations centrales et municipales.

@@ -1,0 +1,3 @@
+# II.
+
+Aussitôt la publication de la présente loi, les propriétaires, détenteurs, conducteurs de bacs, bateaux, passe-cheval, et autres passeurs sur les fleuves, rivières et canaux navigables, seront tenus de faire connaître leurs titres à l'administration de leur canton, qui recevra leur déclaration en présence du préposé de la régie de l'enregistrement: ils justifieront à quel titre ils jouissent desdits bacs, bateaux et agrès, ainsi que des logemens, magasins, bureaux et autres objets y relatifs; s'ils en ont acquitté la valeur, soit au trésor public, soit à des particuliers: et dans ce dernier cas, ceux qui auront reçu, justifieront de leurs pouvoirs et du compte qu'ils auront rendu. A défaut de preuves écrites, il y sera suppléé par une enquête.

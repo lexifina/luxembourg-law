@@ -1,0 +1,3 @@
+# XXIII.
+
+Dans le cas où les terrains et bâtimens servant à l'exploitation des passages et au logement des passeurs, auraient été aliénés en vertu et conformément aux lois sur la vente des domaines nationaux, il sera pourvu à leur remplacement soit par des marches faits de gré à gré, soit par des constructions nouvelles; et si ces deux moyens ne peuvent être employés, il y sera pourvu conformément à l'article 358 de la Constitution, après que la nécessité en aura été constatée: le remboursement s'en opérera comme celui des objets compris en l'article VI. A cet effet, les administrations centrales auront soin de joindre les devis, marchés, procès-verbaux relatifs à cette circonstance particulière.
