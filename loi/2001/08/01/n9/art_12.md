@@ -1,0 +1,3 @@
+# Art. 12.
+
+Le dépositaire peut donner en dépôt auprès d'autres dépositaires au Luxembourg ou à l'étranger, par versement en compte ou autrement, les titres et autres instruments financiers versés ou virés sur les comptes qu'il tient. Il doit tenir ces titres et instruments financiers séparés de ses propres titres et instruments financiers auprès de ces autres dépositaires. Ni l'application de la présente loi, ni la situation des titres et autres instruments financiers, qui continue d'être chez le dépositaire, ni la validité ou l'opposabilité du gage constitué conformément à la présente loi ne sont affectés par ce dépôt.
