@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Il est intercalé entre les articles 536 et 537 du Code de Commerce un article 536 -1 libellé comme suit: En cas de clôture de la faillite pour insuffisance d'actif, les frais exposés par le curateur seront taxés par le tribunal de commerce. Ce dernier réglera les honoraires suivant la nature et l'importance des soins donnés par le curateur, sans que ces honoraires puissent être inférieurs à un minimum ni supérieurs à un maximum à fixer par règlement grand-ducal. Les frais et honoraires seront avancés par l'administration de l'enregistrement dans les conditions fixées par la loi du 29 mars 1893 concernant l'assistance judiciaire et la procédure en débet.
