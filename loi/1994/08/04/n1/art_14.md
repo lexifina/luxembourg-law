@@ -1,0 +1,3 @@
+# Art. 14.
+
+Par dérogation à l'article 10, un règlement grand-ducal d'administration publique peut rendre applicables les dispositions des articles 5 à 8 et 12 aux brevets européens produisant des effets sur le territoire du Grand-Duché de Luxembourg en vertu de la Convention sur la délivrance de brevets européens, faite à Munich le 5 octobre 1973, dont la décision de délivrance ou de maintien, sous une forme modifiée, intervient à partir d'une date qu'il détermine ou dont le dépôt de la demande intervient à partir d'une date qu'il détermine. La date ainsi déterminée doit être postérieure de trois mois au moins à la date de l'entrée en vigueur dudit règlement.

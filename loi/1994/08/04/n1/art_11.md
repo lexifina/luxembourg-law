@@ -1,0 +1,3 @@
+# Art. 11.
+
+Les atteintes portées aux droits conférés par une demande de brevet européen dans laquelle les Etats contractants de l Accord en matière de brevets communautaires sont désignés, ou par le brevet communautaire auquel elle a donné lieu, sont poursuivies et jugées conformément aux dispositions de l'Accord en matière de brevets communautaires ou, à défaut, conformément au droit applicable aux demandes de brevet luxembourgeois ou aux brevets luxembourgeois. Il en est de même de toutes autres actions relatives à ladite demande de brevet, ou au brevet communautaire auquel elle a donné lieu, faisant l'objet d'une contestation ou d'un recours en justice mettant en cause l'existence, l'exercice, l'étendue ou la légitimité des droits du titulaire.

@@ -1,0 +1,3 @@
+# Art. 6.
+
+Lorsque, au lieu du brevet communautaire, le titulaire sollicite et obtient la délivrance d'un brevet européen produisant des effets sur le territoire du Grand-Duché de Luxembourg et lorsque le texte sur lequel se fonde la décision de maintien du brevet européen dans sa forme modifiée au cours de la procédure d'opposition n'est pas rédigé en langue allemande ou française, ou ne l'est pas de façon intégrale, le titulaire du brevet européen doit produire auprès du service luxembourgeois de la propriété intellectuelle une traduction, dans l'une de ces langues, de la description et, le cas échéant, des revendications et des indications verbales figurant dans les dessins. L'article 5, alinéas 2, 3 et 4 est applicable.
