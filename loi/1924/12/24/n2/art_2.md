@@ -1,0 +1,3 @@
+# Art. 2.
+
+À partir de la mise en vigueur de la présente loi, les bailleurs auront le droit d'augmenter à concurrence de 100% au maximum le loyer pour les baux à long terme conclus avant le 1er janvier 1920, sans que cependant ce loyer, toutes charges comprises, puisse dépasser 6% de la valeur servant d'assiette à l'impôt complémentaire de la maison louée et sauf que le locataire aura la faculté de renoncer à son bail dans les trois mois de la demande d'augmentation s'il s'agit d'un logement, et dans les six mois s'il s'agit d'un local de commerce, d'un garage et de dépendances quelconques qui ne sont pas à usage de logement.
