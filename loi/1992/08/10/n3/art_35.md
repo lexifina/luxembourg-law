@@ -1,0 +1,3 @@
+# Art. 35.
+
+L'appel des décisions du juge ou du tribunal de la jeunesse est jugé par la chambre d'appel de la jeunesse, constituée d'un magistrat de la cour d'appel nommé à cet effet, sur les propositions de la cour supérieure de justice, par arrêté grand-ducal pour un terme de trois ans. Son mandat est renouvelable. En cas d'empêchement du titulaire, il lui est désigné un remplaçant par le président de la cour supérieure de justice. Les fonctions du ministère public près la chambre d'appel sont exercées par un magistrat du parquet de la cour, désigné par le procureur général. La chambre d'appel est assistée par un greffier de la cour. Elle peut prendre les mesures prévues aux articles 24 et 26.

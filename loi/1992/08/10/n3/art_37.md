@@ -1,0 +1,5 @@
+# Art. 37.
+
+Le tribunal ou, dans le cas des articles 8 et 9, le juge de la jeunesse peuvent en tout temps soit d'office soit à la demande du ministère public, du mineur, des parents, tuteur ou autres personnes qui ont la garde du mineur, soit sur le rapport des agents de probation, rapporter ou modifier les mesures prises et agir, dans les limites de la présente loi, au mieux des intérêts du mineur.
+
+Lorsque la demande émane du mineur, des parents, tuteur ou autres personnes qui ont la garde du mineur, elle ne peut être présentée qu'après l'expiration d'un délai d'un an à compter du jour où la décision ordonnant la mesure est devenue définitive. Si cette requête est rejetée, elle ne peut être renouvelée avant l'expiration d'un an depuis la date à laquelle la décision de rejet est devenue définitive.Ces mesures font, en tout cas, l'objet d'une révision tous les trois ans lorsque leurs effets n'ont pas cessé dans l'intervalle.Dans tous les cas où le tribunal statue sur la révision, il est procédé en conformité des dispositions des articles 19,20 et 21.
