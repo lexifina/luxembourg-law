@@ -1,0 +1,3 @@
+# Article unique.
+
+Le premier alinéa de l'article unique de la loi du 24 février 1999 autorisant l'Etat à participer au financement de la mise en place par le syndicat SEBES d'une conduite d'eau potable allant de Grosbous via Mersch à Junglinster est remplacé par les dispositions suivantes: Le Gouvernement est autorisé à participer au financement de la mise en place par le syndicat SEBES d'une conduite d'eau potable allant de Grosbous via Mersch à Junglinster jusqu'à concurrence de 50% des dépenses des travaux de construction y relatifs sans que cette participation ne puisse dépasser la somme de 13.279.265.- euros sans préjudice des hausses légales de prix pouvant intervenir jusqu'à l'achèvement des travaux.
