@@ -1,0 +1,5 @@
+# Article unique.
+
+Toutes les personnes qui, d'après les dispositions existantes, ont ou auront droit à une pension à charge de l'État et, le cas échéant, leurs ayants-droit, sont admis à faire valoir pour la liquidation de la pension, le temps antérieur à leur nomination, passé après la dix-huitième année révolue dans des occupations exercées à titre continu, même sur simple agréation de l'autorité compétente, à charge par eux de verser, dans le délai et les conditions à fixer par le Gouvernement, les retenues prévues par les lois aux époques respectives et calculées sur le montant de l'indemnité attachée au service à porter en compte; pour le cas où aucune indemnité n'était attachée à ce service, les retenues seront fixées d'après le traitement ou l'indemnité dont le bénéficiaire jouissait en premier lieu. En aucun cas, les retenues ne peuvent être faites sur un chiffre dépassant le premier traitement du bénéficiaire.
+
+Si le droit à la pension vient à s'ouvrir avant que la retenue soit soldée, la pension n'en sera pas moins réglée comme si la retenue était payée, et le restant dû sera décompté de la pension, par termes à fixer par le Gouvernement.
