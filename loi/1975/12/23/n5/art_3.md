@@ -1,0 +1,3 @@
+# Art. 3.
+
+Un nouvel alinéa de la teneur suivante est inséré entre le 6e et le 7e alinéa de l'article 136 de la loi concernant l'impôt sur le revenu: En ce qui concerne les retenues à effectuer sur les prestations pécuniaires énumérées à l'article 95a, alinéa 1er, les obligations et responsabilité visées aux alinéas qui précèdent incombent à la caisse de maladie, sauf que l'employeur répond de toute insuffisance de retenue, dans la mesure où cette insuffisance est due à des renseignements inexacts communiqués par l'employeur à la caisse de maladie. Les mêmes obligations et responsabilité incombent à l'association d'assurance contre les accidents dans la mesure où elle verse directement aux assurés des prestations visées à l'article 95a, alinéa 1er .
