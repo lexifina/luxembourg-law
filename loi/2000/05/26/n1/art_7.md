@@ -1,0 +1,3 @@
+# Art. 7.
+
+Le travailleur victime d’un acte de harcèlement sexuel peut refuser de poursuivre l’exécution du contrat de travail et résilier le contrat de travail sans préavis pour motif grave avec dommages et intérêts à charge de l’employeur dont la faute, appréciée par référence à l’article 4 ci-dessus, a occasionné la résiliation immédiate.
