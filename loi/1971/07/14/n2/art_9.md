@@ -1,0 +1,9 @@
+# Art. 9.
+
+Les infractions aux règlements grand-ducaux pris en vertu de la présente loi sont punies d'un emprisonnement de huit jours à cinq ans et d'une amende de cinq cent un à un million de francs ou d'une de ces peines seulement.
+
+Néanmoins les peines plus fortes établies par le code pénal ou par d'autres lois spéciales continueront à être appliquées aux cas qui y seront prévus.
+
+En outre, la confiscation des végétaux et produits végétaux ayant fait l'objet de l'infraction peut être prononcée.
+
+Les dispositions du livre premier du Code pénal ainsi que celles de la loi du 18 juin 1879, modifiée par celle du 16 mai 1904 portant attribution aux cours et tribunaux de l'appréciation des circonstances atténuantes, sont applicables.
