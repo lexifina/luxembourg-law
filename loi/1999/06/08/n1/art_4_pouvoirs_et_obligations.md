@@ -1,0 +1,15 @@
+# Art. 4. Pouvoirs et obligations.
+
+(1) La Cour des comptes décide de la date et de la méthode de ses contrôles qui s'effectuent, soit sur place, soit à distance par l'intermédiaire de ses agents mandatés.
+
+(2) Tout document ou toute information que la Cour des comptes estime nécessaires à l'accomplissement de sa mission lui sont communiqués à sa demande, y compris ceux du contrôle interne. Les documents comptables des organes, administrations et services de l'Etat relatifs aux engagements et aux paiements ainsi que toutes les pièces à l'appui de ces actes sont transmis mensuellement à la Cour des comptes. Il en est de même des documents relatifs aux constatations et aux versements des recettes au Trésor. Pour les gestions ou opérations faisant appel à l'informatique, le droit de communication implique l'accès à l'ensemble des données, y compris les programmes, ainsi que la faculté d'en demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins du contrôle.
+
+(3) La Cour des comptes prend toutes les dispositions pour garantir le secret de ses investigations.
+
+(4) Par dérogation à l'article 11 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat, tout représentant, administrateur, agent ou fonctionnaire des entités contrôlées ainsi que, pour les besoins du contrôle, tout représentant ou agent de l'Etat, tout gestionnaire de fonds publics ou tout membre de services d'inspection et corps de contrôle dont l'audition est jugée nécessaire, a l'obligation de répondre à la convocation de la Cour des comptes. Le ministre concerné peut être entendu de l'accord de la Chambre des députés. Il doit être entendu s'il le souhaite.
+
+(5) Les responsables des finances ainsi que les commissaires aux comptes ou réviseurs d'entreprises des entités contrôlées sont déliés du secret professionnel à l'égard des agents mandatés de la Cour des comptes à l'occasion des enquêtes que ceux-ci effectuent dans le cadre de leurs attributions.
+
+(6) Le contrôle de la Cour des comptes fait l'objet d'un examen contradictoire avec les contrôlés. Cette procédure se fait par écrit. La Cour des comptes fait part des constatations de ses contrôles au ministre compétent ou aux responsables des autres entités mentionnées aux paragraphes (2) et (3) de l'article 2, afin que ceux-ci présentent leurs observations dans le délai fixé par la Cour.
+
+(7) La Cour des comptes donne immédiatement aux responsables de l'entité contrôlée un avis sur les suites à réserver aux constatations du contrôle. Lorsque l'administration veut renoncer à poursuivre les redressements résultant de constatations faites à l'occasion du contrôle, elle doit préalablement consulter la Cour des comptes. Si celle-ci estime qu'un fait ou qu'une situation portée à sa connaissance est de nature à pouvoir donner lieu à une poursuite pénale ou à une action disciplinaire, elle en informe la Chambre des députés et les autres instances concernées.
