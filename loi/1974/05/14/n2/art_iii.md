@@ -1,0 +1,17 @@
+# Art. III.
+
+La loi modifiée du 21 mai 1951 ayant pour objet la création d'une caisse de pension des artisans est modifiée comme suit:
+
+- 1° L'alinéa 1er de l'article 6 sera modifié comme suit: Tout assuré qui justifiera de douze mois d'assurance valablement couverts de cotisations au moins, sans préjudice de toutes autres conditions prescrites, aura droit à une pension d'invalidité s'il est atteint d'invalidité permanente. Il aura droit à la pension de vieillesse s'il est âgé de soixante-cinq ans et s'il justifie de soixante mois d'assurance valablement couverts de cotisations au moins. Ce stage est réduit à douze mois pour l'obtention des prestations de survie.
+
+- 2° Les deuxième et troisième phrases de l'alinéa 3 de l'article 15 auront la teneur suivante: La majoration spéciale visée ci-dessus est fixée à 1,6 pour cent du salaire social minimum normal mensuel pendant la période précédant l'accomplissement de la trente-cinquième année d'âge et à 1,6 pour cent du salaire social minimum mensuel augmenté de vingt pour cent pour la période subséquente. Elle ne sera allouée qu'à concurrence des deux tiers, si l'assuré n'a pas réalisé la couverture moyenne prescrite par l'article 6 alinéas 2 et 3.
+
+- 3° L'article 15 aura les alinéas 5, 6, 7 et 8 nouveaux suivants, les alinéas 6 et 7 actuels devant les alinéas 9 et 10: Aucune pension ne pourra être inférieure à vingt-quatre mille francs au nombre cent de l'indice pondéré du coût de la vie au 1er janvier 1948, compte non tenu des suppléments familiaux, lorsque l'assuré a couvert au moins dix années d'assurance obligatoire valablement couvertes de cotisations. Aucune pension ne pourra être inférieure à quarante-huit mille trois cents francs au nombre cent de l'indice pondéré du coût de la vie au 1er janvier 1948, compte non tenu des suppléments familiaux, lorsque l'assuré à couvert au moins trente-cinq années d'assurance obligatoire valablement couvertes de cotisations. Pour autant que de besoin un complément à charge de l'Etat sera alloué. Ce complément sera réduit le cas échéant du montant retenu en application du présent article sur la part fixe. Les minima prévus ci-dessus seront adaptés par règlement grand-ducal chaque fois et dans la même mesure que le salaire social minimum sera adapté en application de l'article 2 de la loi du 12 mars 1973 portant réforme du salaire social minimum. Ce règlement grand-ducal pourra le cas échéant arrondir les minima au multiple supérieur de cent.
+
+- 4° L'alinéa 9 de l'article 16 sera modifié comme suit: Les compléments nécessaires en application de l'article 15 seront alloués dans les proportions ci-dessus fixées pour les majorations.
+
+- 5° La deuxième phrase de l'alinéa 4 de l'article 17 aura la teneur suivante: II consistera dans la liquidation, à charge de la caisse, d'un complément représentant la différence entre la pension calculée sur la base des cotisations et la pension calculée conformément à la loi spéciale ci-dessus visée.
+
+- 6° L'alinéa 3 de l'article 19 est conçu comme suit: La part fixe à charge de l'Etat et des communes, les majorations spéciales et les compléments de pension visés aux articles 15 et 16 seront suspendus tant que le bénéficiaire de pension n'aura pas dans le Grand-Duché se résidence habituelle.
+
+- 7° A l'alinéa 1er de l'article 31 le membre de phrase «ainsi que du complément résultant de l'application de l'article 15 alinéa 5 de la loi» est supprimé.
