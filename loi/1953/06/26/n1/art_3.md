@@ -1,0 +1,3 @@
+# Art. 3.
+
+L'omission ou l'erreur, dans les actes transcrits ou dans les bordereaux d'inscription, portant sur une ou plusieurs des énonciations prévues par la présente loi ou prescrites par les dispositions en vigueur en matière de publicité des droits réels immobiliers n'entraînera la nullité de la transcription ou de l'inscription que lorsqu'il en résultera un préjudice au détriment des tiers. La nullité ne pourra être demandée que par ceux auxquels l'omission ou l'irrégularité porterait préjudice, et les tribunaux pourront, selon la nature et l'étendue du préjudice, annuler la transcription ou l'inscription ou en réduire l'effet.
