@@ -1,0 +1,3 @@
+# Art. 2.
+
+L'article 1080 du Code civil est complété par les deux alinéas suivants: Les actions en nullité, les actions en rescision pour lésion et les actions en réduction pour atteinte à la réserve se rapportant aux partages d'ascendants, doivent être intentées dans un délai de deux ans à partir du décès de l'ascendant qui a fait le partage ou du survivant des ascendants s'ils ont fait conjointement le partage de leurs biens. Ce délai est d'ordre public et sera observé sous peine de déchéance. Si le partage a été fait par testament olographe ou mystique, le délai de deux ans ne prend son départ qu'à partir du dépôt fait en vertu de l'article 1007 du Code civil.
