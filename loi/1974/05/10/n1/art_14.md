@@ -1,0 +1,21 @@
+# Art. 14.
+
+Les aidants familiaux permanents et les salariés agricoles âgés d'au moins cinquante-cinq ans et de moins de soixante-cinq ans peuvent bénéficier d'une indemnité de départ s'ils remplissent les conditions suivantes:
+
+- 1° en ce qui concerne les aidants familiaux permanents agricoles:
+
+  - avoir exercé l'activité agricole, pendant une période d'au moins cinq ans avant la présentation de la demande d'octroi de l'indemnité de départ, dans l'exploitation dont l'exploitant a bénéficié d'une des aides prévues à l'article 2 de la présente loi;
+
+  - avoir, pendant cette même période, consacré à l'activité agricole plus de cinquante pour cent de leur temps actif;
+
+  - avoir été affiliés, pendant cette même période, en tant qu'aidants au régime de la sécurité sociale agricole;
+
+  - le revenu moyen retiré, par les intéressés et leurs époux, pendant les cinq dernières années, d'une activité non agricole, ainsi que la moyenne d'autres revenus réalisés pendant cette même période, ne doivent pas dépasser soixante-quinze pour cent du salaire social minimum pour travailleurs non qualifiés.
+
+- 2° en ce qui concerne les salariés agricoles:
+
+  - avoir exercé l'activité agricole pendant une période d'au moins cinq ans, avant la présentation de la demande d'octroi de l'indemnité de départ, et pendant cette période, avoir consacré à l'activité agricole plus de cinquante pour cent de leur temps actif;
+
+  - avoir exercé l'activité agricole dans l'exploitation, dont l'exploitant a bénéficié d'une des aides prévues à l'article 2 de la présente loi, pendant les deux dernières années au moins avant la présentation de la demande;
+
+  - avoir été affiliés pendant les cinq dernières années au régime des assurances sociales pour ouvriers.
