@@ -1,0 +1,3 @@
+# II.
+
+Dans le cas où, soit par la promotion de droit exprimée en l'article précédent, soit de toute autre manière, une place de suppléant de juge de paix viendrait à vaquer, il sera pourvu au remplacement de la manière suivante: Si le procès-verbal de la dernière élection triennale fait mention du citoyen qui avait le plus de voix après les deux suppléans élus, et s'il y est énoncé que le nombre des voix par lui obtenues s'élevait à vingt au moins, ce citoyen sera proclamé suppléant par le souspréfet de l'arrondissement. Au cas contraire, le premier Consul nommera le suppléant, qui exercera jusqu'aux prochaines élections.
