@@ -1,0 +1,9 @@
+# Art. 6.
+
+Les articles 93, 100 et 240 du code des assurances sociales sont modifiés comme suit:
+
+- 1° L'alinéa 1er de l'article 93 prend la teneur suivante: Sont assurés contre les accidents professionnels sous condition d'être occupés dans une des entreprises ou d'exercer une des professions ou activités visées à l'article 85 les ouvriers, aides, compagnons, apprentis, domestiques, employés de bureau, employés d'exploitation, contremaîtres et employés techniques jusqu'à concurrence de la part de la rémunération qui ne dépasse pas le montant égal au quadruple du salaire social minimum prévu pour un travailleur non qualifié, âgé de dix-huit ans au moins. La rémunération annuelle servant de base au calcul des prestations ne pourra pas dépasser ce montant.
+
+- 2° La deuxième phrase de l'alinéa 4 de l'article 100 prend la teneur suivante: A cet effet, les rémunérations servant de base au calcul des rentes et réduites à l'indice 100 conformément aux dispositions de l'alinéa 3 qui précède sont multipliées par des facteurs d'ajustement propres à chaque année de calendrier, sans que les rémunérations de référence à l'indice 100 prévues à l'article 93, alinéa 1, puissent être dépassées.
+
+- 3° L'alinéa 1er de l'article 240 prend la teneur suivante: La cotisation est calculée sur la base des salaires payés ou évalués, mais au plus sur la base d'une limite égale au quadruple du salaire social minimum prévu pour un travailleur non qualifié âgé de dix-huit ans au moins et au moins sur la base des salaires minima légaux. Toutefois pour les apprentis la base de calcul est constituée par l'indemnité d'apprentissage. Le taux de cotisation est de dix pour cent de la base prévue ci-dessus; en outre une cotisation spéciale de six pour cent est versée pour garantir partiellement l'ajustement.
