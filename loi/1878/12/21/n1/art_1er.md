@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'art. 11 de l'ordonnance royale grand-ducale du 3 octobre 1841, portant organisation du notariat, et l'art. 980 du Code civil sont abrogés et remplacés par les dispositions suivantes: Hors les cas où les lois prescrivent l'observation de formalités particulières pour certains actes, les actes seront reçus par deux notaires ou par un notaire assisté de deux témoins. Ces témoins devront être majeurs, mâles, savoir écrire leurs noms, être domiciliés ou résidants dans le pays et avoir la jouissance des droits civils. Le tout à peine de nullité de l'acte et de dommages-intérêts envers les parties.
