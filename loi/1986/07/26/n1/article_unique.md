@@ -1,0 +1,5 @@
+# Article unique.
+
+Il est inséré dans la loi du 4 décembre 1967 concernant l'impôt sur le revenu un article 64bis de la teneur suivante: Un règlement d'administration publique pourra, aux conditions et suivant les modalités qu'il prévoira, instituer un mode simplifié de détermination du bénéfice par comparaison des recettes et des dépenses d'exploitation. Le même règlement prescrira, pour les cas de cession ou de cessation de l'exploitation ou de passage du mode simplifié au mode de comparaison des actifs nets investis ou inversement, les ajustements nécessaires pour que le bénéfice global de l'exploitation, depuis la création jusqu'à la cessation, corresponde à la formule prévue à l'alinéa 1er de l'article 18.
+
+Le présent article est applicable à partir de l'année d'imposition 1985. Pour autant que des impositions ont déjà été notifiées aux contribuables pour l'année d'imposition 1985 sans égard aux dispositions du présent article, ces impositions peuvent être redressées d'office, mais seulement dans la mesure où les contribuables sont en droit de bénéficier des dispositions qui précèdent.
