@@ -1,0 +1,5 @@
+# Art. 16.
+
+1. Le psychologue du service national d’action sociale entré au service de l’Etat en qualité d’employé de l’Etat le 1er juillet 1975, est nommé conseiller de direction première classe. Sa carrière est reconstituée par la prise en compte des grades 12, 13, 14 et 15 aux dates respectives des 1er juillet 1978, 1er juillet 1981, 1er juillet 1984 et 1er mai 1986. La disposition de l’article 7, paragraphe 6 de la loi modifiée du 22 juin 1963 fixant les régimes des traitements des fonctionnaires de l’Etat n’est pas applicable.
+
+2. Le sociologue du service national admis au stage le 1er février 1989 est nommé attaché de gouvernement. Pour l’avancement au cadre fermé les délais prévus à l’article 10 de la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat sont réduits pour la période passée en qualité de sociologue auprès du service national. Pour la fixation de son rang avec un de ses collègues des filières de l’administration gouvernementale il est tenu compte de la date de sa nomination à la fonction de sociologue auprès du service national.
