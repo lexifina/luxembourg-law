@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'alinéa 1er de l'article 1er (1) de la loi modifiée du 13 avril 1970 fixant les conditions suivant lesquelles le Gouvernement peut soit acquérir certains immeubles présentant un intérêt public, soit garantir le rendement et les charges locatifs de tels immeubles est modifié comme suit: (1) Sans préjudice des dispositions de la loi du 31 août 1989 portant exécution de l'article 99, troisième et quatrième phrases de la Constitution, le Gouvernement est autorisé à garantir pour un terme ne dépassant pas vingt-cinq ans le rendement locatif et, s'il y a lieu, les charges locatives concernant les immeubles existants ou à construire dans le pays pour les besoins publics ou pour faciliter l'hébergement d'organismes internationaux au Grand-Duché.
