@@ -1,0 +1,5 @@
+# Art. 43.- Frais d’experts en matière de contrôle de la mise au point et de I’exécution des projets d’investissements hospitaliers subventionnés ci charge du fonds spécial des investissements hospitaliers
+
+(1) Les frais des experts chargés par l’Etat du contrôle général de la mise au point et de l’exécution des projets d’investissements hospitaliers subventionnés à charge du fonds spécial des investissements hospitaliers sont à charge des établissements hospitaliers; ils sont éligibles pour l’octroi d’une aide de l’Etat au même titre que les investissements auxquels ils se rapportent, conformément aux conditions et modalités prévues par les articles 11 et 13 de la loi du 28 août 1998 sur les établissements hospitaliers.
+
+(2) Les participations aux frais afférents de l’Etat sont liquidées à charge du fonds spécial des investissements hospitaliers par dépassement, le cas échéant, des plafonds fixés à l’article 1er de la loi du 21 juin 2000 autorisant l’Etat à participer au financement de la modernisation, de l’aménagement ou de la construction de certains établissements hospitaliers.

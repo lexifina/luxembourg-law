@@ -1,0 +1,3 @@
+# Art. 17.- Indemnités pour promotion tardive
+
+Si un fonctionnaire rattaché, en vue de ses promotions, à un collègue d’une autre administration de rang égal ou immédiatement inférieur, a obtenu une promotion avec un retard sur son collègue de référence dépassant six mois, sans que ce retard ne puisse lui être imputé, il a droit à une indemnité égale à 75% de la différence entre le traitement qu’il aurait touché s’il avait bénéficié de la promotion et celui qu’il a effectivement touché pour la période se situant entre le début du 7e mois de retard et la date de sa promotion. Les décisions pour l’application du présent article sont prises par le Gouvernement en Conseil.
