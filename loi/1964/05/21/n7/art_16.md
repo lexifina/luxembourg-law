@@ -1,0 +1,3 @@
+# Art. 16.
+
+L'article 13 de la loi du 18 février 1885 sur l'organisation judiciaire, telle qu'elle a été modifiée dans la suite, est remplacé par la disposition suivante: Art. 13. Le tribunal d'arrondissement de Luxembourg est composé d'un président, de cinq vice-présidents, de dix-huit juges, d'un procureur d'Etat, de deux premiers substituts, de neuf substituts, d'un greffier en chef et de seize greffiers. Il ne sera pas pourvu à la nomination de trois juges, d'un substitut et de deux greffiers dont les places deviendront vacantes après le 30 juin 1966, ce qui réduira le nombre des juges à quinze, celui des substituts à huit et celui des greffiers à quatorze.
