@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Les professeurs d'éducation artistique, d'éducation musicale et d'éducation physique des différents ordres d'enseignement sont classés au grade E 7 s'ils ont accompli un cycle complet d'au moins quatre années d'études en éducation artistique, en éducation musicale ou en éducation physique, à un institut de l'étranger ayant le caractère universitaire, reconnu par l'Etat où il a son siège, et s'ils sont titulaires d'un diplôme qui, dans son pays d'origine, habilite à l'enseignement respectivement de l'éducation artistique, de l'éducation musicale et de l'éducation physique dans l'enseignement secondaire officiel ou y confère l'admission au stage pédagogique préparatoire à cet enseignement.
