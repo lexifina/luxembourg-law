@@ -1,3 +1,0 @@
-# Art. 51.
-
-L'assuré qui, après avoir accompli la période d'attente prescrite par le Code des assurances sociales, devient assuré obligatoire de la caisse des employés, aura, en cas d'invalidité ou de décès, s'il n'a pas encore réalisé le délai de carence prévu par la présente loi, droit aux prestations qui lui seraient dues en vertu du Code des assurances sociales et conformément aux conditions prescrites par ce Code, pourvu qu'il ait conservé ses droits dans l'assurance-employés. La rente sera liquidée par la Caisse des employés qui touchera, de la part de l'Etablissement d'assurance, le capital constitutif de la rente qui correspond aux versements effectués auprès de ce dernier.
