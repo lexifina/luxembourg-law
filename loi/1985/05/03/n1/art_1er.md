@@ -1,0 +1,3 @@
+# Art. 1er.
+
+La loi modifiée du 21 mai 1964 concernant la réorganisatio n de l´administration des douanes est modifiée comme suit: Au Chapitre III – Des traitements, article 10 (2), la nomenclature des fonctions est modifiée comme suit: entre les positions «vérificateurs = rédacteur principal» et «rédacteur = rédacteur», il est inséré une position nouvelle «rédacteur de première classe = rédacteur principal»; la position «agent en chef des douanes chef de poste = agent en chef des douanes chef de poste» est remplacée par «agent en chef des douanes = agent en chef des douanes chef de poste»; La position «agent en chef des douanes = agent en chef des douanes» est remplacée par «agent principal de première classe des douanes = agent en chef des douanes».

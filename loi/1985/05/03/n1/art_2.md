@@ -1,0 +1,3 @@
+# Art. 2.
+
+La loi du 22 juin 1963 fixant le régime des traitement des fonctionnaires de l´Etat, telle qu´elle a été complétée et modifiée par les lois subséquentes, est modifiée et complétée comme suit: L´article 22, section IV 2° et 3° est modifié comme suit: Pour l´agent principal de première classe des douanes le grade 6 est allongé d´un onzième et d´un douzième échelon ayant respectivement les indices 253 et 262. Pour l´agent en chef des douanes, l´agent en chef des douanes chef de poste et l´agent des finances des douanes, le grade 7 est allongé d´un onzième et d´un douzième échelon ayant respectivement les indices 266 et 275.
