@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'alinéa 2 de l'art. 4 de la loi du 16 février 1881, sur l'organisation militaire, est abrogé et remplacé par la disposition suivante: Nous Nous réservons de nommer hors cadre, un officier du corps Notre aide-de-camp en service extraordinaire. L'aide-de-camp lieutenant pourra obtenir son avancement hors cadre, par dépassement de l'effectif du cadre des officiers, au grade de capitaine de la force armée avec jouissance du traitement attaché à ce grade. Toutefois, l'officier-aide-de-camp est assimilé, par rapport à ce droit d'avancement, aux officiers du cadre d'activité, dont il est censé faire partie au point de vue de la prise en considération du bénéfice d'ancienneté et des expectatives d'avancement.
