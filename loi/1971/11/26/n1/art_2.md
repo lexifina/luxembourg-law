@@ -1,0 +1,3 @@
+# Art. 2.
+
+L'article 25 de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat est complété par un nouveau paragraphe 2 à intercaler entre les paragraphes 1 et 2 actuels: 2. Une prime d'astreinte peut être allouée par un règlement grand-ducal aux fonctionnaires d'administrations exerçant tant des devoirs de police se situant en dehors de leur activité principale que des attributions de police générale. Ce règlement déterminera les catégories de fonctionnaires bénéficiant de la prime et en fixera le montant suivant l'importance des attributions policières exercées. La prime ne pourra pas dépasser la valeur de dix-sept points indiciaires.
