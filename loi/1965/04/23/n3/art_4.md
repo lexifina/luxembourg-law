@@ -4,7 +4,7 @@ Le Fonds est alimenté par:
 
 - a) une contribution obligatoire des exploitants viticoles sous forme d'une redevance perçue, soit au prorata de la superficie des vignes exploitées par eux, soit sous forme d'un prélèvement à opérer sur la recette brute obtenue lors de la commercialisation du vin à l'échelon du producteur, soit conjointement au prorata de la superficie et de la recette brute ci-dessus définies.
 
-- Pour les exploitants de vignobles situés sur le territoire luxembourgeois, ces redevances ne pourront dépasser vingt-sept francs par are au nombre indice cent ni cinq pour-cent du produit de la vente; ces redevances seront réduites de cinquante pour-cent en faveur des viticulteurs qui résident à l'étranger et qui exploitent des vignobles sis sur le territoire luxembourgeois mais n'écoulent pas le produit de ces vignobles sur le marché luxembourgeois, ainsi que des viticulteurs qui résident sur le territoire luxembourgeois et qui exploitent des vignobles sis à l'étranger dont le produit est écoulé sur le marché luxembourgeois.
+- Pour les exploitants de vignobles situés sur le territoire luxembourgeois, ces redevances ne pourront dépasser vingt-sept francs par are au nombre indice cent ni cinq pour cent du produit de la vente. Un règlement grand-ducal détermine la contribution à payer par les viticulteurs qui résident à l'étranger et qui exploitent des vignobles sis sur le territoire luxembourgeois ainsi que, par les viticulteurs qui résident au Grand-Duché et qui exploitent des vignobles sis à l'étranger.
 
 - b) les moyens publics alloués par le budget de l'Etat qui, sauf en cas de circonstances imprévues et exceptionnelles, ne pourront dépasser deux fois le montant des recettes perçues en vertu des dispositions sub a);
 
