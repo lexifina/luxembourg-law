@@ -1,0 +1,3 @@
+# Art. III.
+
+En attendant la mise en vigueur des dispositions nouvelles de l’article 6, alinéa 3 de la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la caisse nationale des prestations familiales, les relations administratives entre la caisse nationale des prestations familiales et la caisse de pension des employés privés, fondées sur les anciennes dispositions de l’article 6, alinéa 3, de l’article 7, alinéa 1er et de l’article 11, alinéa 4 peuvent être maintenues à titre transitoire suivant les conditions et les modalités à déterminer par règlement grand-ducal.
