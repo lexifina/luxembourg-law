@@ -1,0 +1,5 @@
+# Art. 8.
+
+L'article 97, alinéa 2 sous 2º du code des assurances sociales est modifié comme suit: le paiement d'une indemnité pécuniaire à l'assuré, ayant exercé une activité professionnelle au moment de l'accident, pour la ou les périodes d'incapacité de travail antérieures à l'expiration des treize semaines consécutives à l'accident; cette indemnité est calculée comme en matière d'assurance maladie; elle est avancée par l'employeur aux assurés ayant le statut d'ouvrier et est remboursée par l'intermédiaire de la caisse de maladie pour les assurés visés à l'article 29, alinéa 4 sous b).
+
+L'alinéa 6 du même article est modifié comme suit: L'indemnité pécuniaire et la rente plénière sont suspendues tant que l'assuré peut prétendre à la conservation légale de la rémunération du chef de l'activité exercée avant l'accident. En cas de conservation conventionnelle de la rémunération, la prestation en espèces est versée à l'employeur qui en fait la demande avant l'assignation de la prestation à l'assuré. Toutefois, si l'employeur se soustrait à son obligation, la prestation est versée à l'assuré, sauf le recours de l'association d'assurance contre l'employeur.

@@ -1,0 +1,3 @@
+# Art. 24.
+
+L'article 156 du code des assurances sociales prend la teneur suivante: Art. 156. La surveillance des assurés et des employeurs en ce qui concerne le respect des règlements prévus aux articles qui précèdent est exercée par les fonctionnaires et employés de l'office des assurances sociales assermentés conformément à l'article 300 ainsi que par l'inspection du travail et des mines qui communique le résultat de ses investigations à l'association d'assurance contre les accidents pour prononcer, le cas échéant, des amendes d'ordre. Les données nominatives concernant la déclaration des accidents et des maladies professionnelles peuvent être communiquées par voie informatique à l'inspection du travail et des mines.

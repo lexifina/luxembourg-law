@@ -1,0 +1,3 @@
+# Art. 26.
+
+L'article 160 du code des assurances sociales est complété par un alinéa 2 libellé comme suit: Sont également soumises d'office à l'assurance obligatoire auprès de la section agricole sans qu'une déclaration auprès du centre commun de la sécurité sociale soit nécessaire, les personnes occupées dans l'exploitation, soit accessoirement à une activité professionnelle principale et sans rémunération ou contre une rémunération ne dépassant pas un tiers du salaire social minimum, soit occasionnellement pendant une durée déterminée à l'avance qui ne doit pas dépasser trois mois par année de calendrier

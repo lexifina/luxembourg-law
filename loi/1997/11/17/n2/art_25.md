@@ -1,0 +1,3 @@
+# Art. 25.
+
+L'article 158 du code des assurances sociales est abrogé et les alinéas 1 et 2 de l'article 159 sont remplacés par un alinéa conçu comme suit, les alinéas 4 et 5 actuels devenant les alinéas 2 et 3 nouveaux de l'article 159: Art. 159. L'assurance prévue à l'article 86 s'étend aux activités accessoires en dépendance économique avec l'exploitation agricole, telles que: l'exploitation des propriétés forestières; l'élaboration et la mise en oeuvre des produits de l'exploitation; la satisfaction des besoins de l'exploitation; l'extraction ou la mise en oeuvre de produits de terre; les travaux exécutés au profit de tiers.

@@ -1,0 +1,3 @@
+# Art. 14.
+
+La première phrase de l'alinéa 1 de l'article 115 du code des assurances sociales est modifiée comme suit: Art. 115. Les personnes visées aux articles 85, 86 et 90, leurs ayants droit et leurs héritiers, même s'ils n'ont aucun droit à prestation, ne peuvent, en raison de l'accident, agir judiciairement en dommages intérêts contre leur employeur ou la personne pour compte de laquelle ils exercent une activité, ni dans le cas d'un travail connexe ou d'un travail non connexe exercé en même temps et sur le même lieu, contre tout autre employeur ou toute autre personne visée aux articles précités, à moins qu'un jugement pénal n'ait déclaré les défendeurs coupables d'avoir provoqué intentionnellement l'accident

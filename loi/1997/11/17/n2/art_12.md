@@ -1,0 +1,3 @@
+# Art. 12.
+
+Les articles 106 et 108 du code des assurances sociales sont abrogés et l'article 111 du même code prend la teneur ci-après: Séjour dans une institution Art. 111. A la demande du bénéficiaire de rente, l'association d'assurance peut prendre en charge les frais de traitement, de séjour et d'entretien dans une institution spécialisée au Grand-Duché de Luxembourg ou à l'étranger. Dans ce cas, les trois quarts de la rente sont suspendus. Celle-ci peut également être remplacée par des rentes de survie déterminées conformément aux articles 101 à 105bis, si le bénéficiaire de rente a des membres de famille à sa charge.

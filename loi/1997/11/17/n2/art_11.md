@@ -1,0 +1,3 @@
+# Art. 11.
+
+L'article 110 du code des assurances sociales prend le teneur suivante: Art. 110. La réparation s'étend aux dégâts matériels accessoires auxquels peut avoir donné lieu l'accident, mais jusqu'à concurrence seulement de 2,5 fois le salaire social minimum de référence applicable au moment de l'accident et, même sans que l'accident ait donné lieu à dommage corporel, aux dommages causés aux prothèses dont l'assuré était pourvu lors de l'accident. Les personnes visées à l'article 90 sous 1) ne bénéficient de l'indemnisation des dégâts matériels accessoires subis par un véhicule automoteur que dans la mesure où, pour des motifs sérieux et indépendants de leur volonté, elles n'ont pas pu utiliser des transports en commun.
