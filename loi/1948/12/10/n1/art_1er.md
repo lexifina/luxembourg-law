@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Est approuvée, en abrogation et en remplacement des Conventions télégraphiques internationales de Paris 1865, de Vienne 1868, de Rome 1872 et de St. Petersbourg 1875 et des Règlements y annexés, ainsi que des Conventions radiotélégraphiques internationales de Berlin 1906, de Londres 1912 et de Washington 1927, et des Règlements y annexés, de même que de la Convention internationale des télécommunications de Madrid 1932, et des Règlements y annexés, la Convention internationale des télécommunications avec les Protocoles final et additionnels à la Convention signés à Atlantic City le 2 octobre 1947.
