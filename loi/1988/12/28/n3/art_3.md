@@ -1,0 +1,3 @@
+# Art. 3.
+
+La première phrase de l´article 54 du code des assurances sociales est libellée comme suit: Le comité central sera composé des présidents et des vice-présidents des caisses de maladie, ainsi que de deux autres représentants de la caisse nationale d´assurance maladie des ouvriers, à désigner à la majorité relative et au suffrage secret, séparément par et parmi les représentants employeurs et assurés du comité-directeur de cette caisse; en cas de partage des voix lors de cette désignation, le deuxième représentant est désigné, suivant le cas, par le groupe des représentants employeurs ou le groupe des représentants assurés de la délégation, à la majorité absolue des voix. La dernière phrase de l´alinéa 4 de l´article 38 est applicable.
