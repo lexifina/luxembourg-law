@@ -1,0 +1,3 @@
+# Art. 21.
+
+S’il survient une modification dans la situation de l’employeur, notamment par succession, vente, fusion, transformation de fonds, mise en société, les obligations résultant pour l’employeur des dispositions de la présente loi subsistent entre le nouvel employeur et le personnel de l’entreprise transférée dans la mesure où elles se trouvent en cours au jour de la modification.
