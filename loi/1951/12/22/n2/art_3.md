@@ -1,0 +1,5 @@
+# Art. 3.
+
+Les délais de prescription pour l'établissement et le recouvrement des sommes, en principal, intérêts et amendes fiscales, dues au titre des impôts visés à l'alinéa 2 de l'article 1er de la présente loi ainsi que des impôts extraordinaires sur les bénéfices de guerre et sur le capital sont interrompus, soit de la manière et dans les conditions prévues par les articles 2244 et suivants du Code civil, soit par une renonciation du contribuable au temps déjà couru de la prescription. Il en est de même des délais de prescription pour le recouvrement de toutes autres sommes, en principal, intérêts et amendes fiscales dont la perception est confiée à l'administration des contributions.
+
+En cas d'interruption, une nouvelle prescription, susceptible d'être interrompue de la même manière, commence à courir et s'accomplit à la fin de la quatrième année suivant celle du dernier acte interruptif de la précédente prescription, sans que le délai global de prescription puisse être inférieur à dix ans en cas d'imposition supplémentaire pour déclaration incomplète ou inexacte, avec ou sans intention frauduleuse.
