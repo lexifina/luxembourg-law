@@ -1,0 +1,5 @@
+# Art. 33.
+
+Toute administration publique, y compris l'Office des Chèques postaux et l'Office de Statistique, toute personne morale ayant au Grand-Duché son principal établissement, une succursale ou un siège quelconque d'opérations, les banquiers, les agents de change, les agents d'affaires et les officiers publics ou ministériels sont tenus de fournir aux fonctionnaires désignés par le Directeur des contributions tous les renseignements jugés par ceux-ci nécessaires à l'effet d'assurer l'exacte perception de l'impôt.
+
+Les personnes désignées à l'alinéa précédent et les commerçants sont tenus de communiquer leurs livres, registres, documents et comptes aux fonctionnaires désignés par le Directeur des Contributions à l'effet pour ceux-ci soit de s'assurer de l'exactitude des renseignements fournis en exécution de l'alinéa précédent, soit de s'assurer de l'exécution des obligations leur imposées par la présente loi, soit de recueillir tous renseignements jugés utiles à la perception de l'impôt dû par les personnes susvisées ou par des tiers.

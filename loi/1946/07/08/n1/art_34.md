@@ -1,0 +1,3 @@
+# Art. 34.
+
+La perte subie à l'échange monétaire du 18 octobre 1944 sur des avoirs en Rm convertis au taux de 1 Rm = 5 fr. et provenant de la réalisation d'objets mobiliers et immobiliers, ainsi que de retraits de fonds, de remboursement de créances, de ventes de titres luxembourgeois etc. originairement libellés en francs, est portée en déduction de l'impôt extraordinaire sur le capital dans la mesure où cette perte n'a pas déjà été déduite du revenu soumis à l'impôt extraordinaire sur les accroissements de revenus réalisés pendant la guerre. Préalablement à la déduction, cette perte est toutefois à diminuer du gain réalisé à la même opération sur des dettes converties au taux de 1 Rm = 5 fr. et sur des avoirs convertis au taux de 1 Rm = 12,50 fr.

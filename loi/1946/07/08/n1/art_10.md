@@ -1,0 +1,5 @@
+# Art. 10.
+
+L'usufruit viager des biens meubles et immeubles est estimé à une fraction forfaitaire de la valeur de la pleine propriété, fraction exprimée en dixièmes, suivant l'âge de l'usufruitier. Si l'usufruitier a moins de vingt ans révolus, l'usufruit est estimé aux 7/10 et la nue-propriété aux 3/10 de la valeur de la propriété entière. Au-dessus de cet âge, cette proportion est diminuée pour l'usufruit et augmentée pour la nue-propriété de 1/10 par chaque période de dix ans, sans fraction. A partir de soixante-dix ans révolus de l'âge de l'usufruitier, la proportion est fixée à 1/10 pour l'usufruit et à 9/10 pour la nue-propriété. Pour déterminer la valeur de la nue-propriété, il n'est tenu compte que des usufruits ouverts à la date du 1er janvier 1946.
+
+L'usufruit constitué pour une durée fixe est estimé aux 2/10 de la valeur de la propriété entière pour chaque période de dix ans de la durée de l'usufruit, sans fraction et sans que cependant, dans aucun cas, la valeur de l'usufruit puisse dépasser celle d'un usufruit viager telle qu'elle est fixée par les dispositions de l'alinéa précédent.
