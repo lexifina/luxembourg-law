@@ -1,0 +1,3 @@
+# Art. 26. Marchés publics: décompte final
+
+Pour tous les marchés publics de travaux et de fournitures relatifs à un bâtiment, à une route ou à un pont d'un coût dépassant 100.000.000 francs, le décompte final doit comporter la comparaison, par corps de métiers, du devis, du prix convenu et du coût final. En cas de dépassement du devis et du prix convenu, les hausses légales sont à indiquer séparément. Une justification est à fournir pour tous les dépassements excédant les hausses légales. Ce décompte est contrôlé par la chambre des comptes et soumis à la chambre des députés avec les observations éventuelles de la chambre des comptes.
