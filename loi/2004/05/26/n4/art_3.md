@@ -1,0 +1,3 @@
+# Art. 3.
+
+Avec effet au 1er janvier 2003, l'article 5 de la même loi est remplacé comme suit: Art. 5. La société a le droit de procéder à une réévaluation du réseau de gaz naturel, y inclus toutes les installations mécaniques et ouvrages nécessaires pour l'entretien et l'exploitation de ce réseau, et exploité par elle. Cette réévaluation est applicable au 1er janvier 2003. Les éléments d'actif concernés sont réévalués à leur valeur d'exploitation qui est de EUR 49.441.165 supérieure à leur valeur comptable au 31 décembre 2002. La plus-value dégagée lors de cette réévaluation est exempte de l'impôt sur le revenu des collectivités et de l'impôt commercial communal.
