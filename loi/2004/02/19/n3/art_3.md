@@ -1,0 +1,15 @@
+# Art. 3.
+
+Les relations financières entre les pouvoirs publics et les entreprises publiques dont la transparence est à assurer conformément à l'article 1er, paragraphe 1, sont notamment:
+
+- a) la compensation des pertes d'exploitation;
+
+- b) les apports en capital ou en donation;
+
+- c) les apports à fonds perdus ou les prêts à des conditions privilégiées;
+
+- d) l'octroi d'avantages financiers sous forme de la non-perception de bénéfices ou du non-recouvrement de créances;
+
+- e) la renonciation à une rémunération normale des ressources publiques engagées;
+
+- f) la compensation de charges imposées par les pouvoirs publics.
