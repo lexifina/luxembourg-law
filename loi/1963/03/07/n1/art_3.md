@@ -1,0 +1,3 @@
+# Art. 3.
+
+L'art. 315 du code civil est abrogé et remplacé par la disposition suivante: Art. 315. L'enfant né plus de trois cents jours après la dissolution du mariage est illégitime à moins qu'il ne soit établi qu'il a été conçu avant la dissolution du mariage. Disposition transitoire. – L'enfant né avant l'entrée en vigueur de la présente loi, d'une femme dont le mariage était dissous depuis plus de trois cents jours, est réputé issu de ce mariage, à moins qu'il n'ait fait ou ne fasse l'objet d'une légitimation, d'une déclaration de reconnaissance paternelle ou maternelle, ou que sa légitimité ne soit judiciairement contestée.
