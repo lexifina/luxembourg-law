@@ -1,0 +1,9 @@
+# Art. 25.
+
+Tout individu qui par lui-même ou par personnes interposées aura tenu un débit contrairement à l'interdiction prononcée en vertu de l'art. 21 de la présente loi, sera condamné à une amende de 26 à 500 fr. et à un emprisonnement de huit jours à un mois ou à l'une de ces peines seulement.
+
+Dès l'interdiction coulée en force, prononcée contre un débitant et tant qu'elle durera, ainsi qu'à partir de la déclaration du procès-verbal à l'inculpé jusqu'au jugement définitif sur le fond respectivement jusqu'à l'extinction ou la suspension de l'action publique, du chef d'une infraction pouvant entraîner l'interdiction du droit de cabaretage, aucune mutation de licences de l'interdit et respectivement de l'inculpé ne pourra être reçue au nom de son conjoint, soit d'un parent ou alié dans les lignes descendante et ascendante, soit d'un frère ou d'une sœur ou d'un allié au même degré, même non habitant avec lui, ainsi qu'au nom de ses parents ou alliés au troisième degré de la ligne collatérale, habitant avec lui.
+
+Pendant les mêmes époques l'application des nos 2 et 3 de l'art. 2 est exclue lorsqu'elle exigerait l'intervention d'un débitant interdit, ou pouvant encourir l'interdiction à la suite du procès-verbal dont question à l'alinéa qui précède.
+
+Les parquets informeront sans retard l'administration des contributions de la déclaration des procès-verbaux ci-dessus mentionnés à l'al. 2 et des suites y données. Toute transcription faite contrairement aux prescriptions qui précèdent, est nulle et de nul effet et peut toujours être révoquée par l'administration des contributions. Les personnes interposées encourent dans les cas du présent article ainsi que de l'art. 26 de la présente loi, les mêmes peines pouvant frapper les individus ayant eu recours à ces interpositions.
