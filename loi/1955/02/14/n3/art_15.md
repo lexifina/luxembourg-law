@@ -1,0 +1,5 @@
+# Art. 15.
+
+En cas de contraventions légères punies par l'article 7 de la présente loi, les agents de la gendarmerie habilités à cet effet par le Chef de la gendarmerie et les agents de la police habilités à cet effet par le Directeur de la police peuvent donner un avertissement taxé, si le contrevenant est âgé de plus de 18 ans et verse immédiatement entre leurs mains une taxe dont le montant ne peut être supérieur au maximum de l'amende prévue pour ces contraventions. Le montant de cette taxe sera fixé par un règlement d'administration publique qui déterminera les modalités d'application de ces dispositions.
+
+Le versement de la taxe aura pour effet d'arrêter toute poursuite, sauf si l'officier du ministère public près les tribunaux de police notifie à l'intéressé dans le mois à partir de la perception de la taxe qu'il entend exercer des poursuites. L'ordonnance pénale ou le jugement qui statuera sur la prévention ordonnera, en cas d'acquittement, que la taxe versée sera remboursée et, en cas de condamnation, qu'elle sera imputée sur l'amende prononcée.
