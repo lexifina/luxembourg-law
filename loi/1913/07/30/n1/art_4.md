@@ -1,0 +1,5 @@
+# Art. 4.
+
+Les fonctionnaires et agents de la police générale ou locale sont autorisés à entrer dans les locaux dans lesquels des objets servant aux usages prévus à l'art. 1er sont exposés en vente, pendant les heures auxquelles ces locaux sont ouverts au public; - dans les dépôts, même non ouverts au public, annexés à ces locaux, pendant les heures auxquelles ils sont ouverts au travail; - à toute heure dans les locaux non ouverts au public qui servent, en vue de la vente, à la fabrication et à la préparation des dits objets.
+
+Ils sont autorisés à se saisir à leur choix, afin de vérification, d'échantillons de ces objets, soit que ceux-ci se trouvent dans les dits locaux, soit qu'ils soient vendus ou offerts en vente dans les lieux publics, marchés, places, voies de communication ou par colportage. Les échantillons seront pris contre délivrance d'un accusé de réception. Une partie de l'échantillon, cachetée et scellée, sera remise au propriétaire, à sa demande. Le propriétaire sera indemnisé du chef de la saisie de l'échantillon, sur le pied du prix courant.
