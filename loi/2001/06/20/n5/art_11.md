@@ -1,0 +1,3 @@
+# Art. 11.
+
+L'extradition, demandée aux fins d'exécution d'une décision rendue par défaut contre laquelle aucune voie de recours n'est plus ouverte, n'est pas accordée si cette extradition peut avoir pour effet de faire subir une peine à la personne réclamée sans que celle-ci ait été mise à même d'exercer les droits de la défense visés à l'article 6.3(c) de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales. L'extradition peut toutefois être accordée, si l'Etat requérant donne des assurances jugées suffisantes quant au droit de la personne réclamée à une nouvelle procédure sauvegardant les droits de la défense.

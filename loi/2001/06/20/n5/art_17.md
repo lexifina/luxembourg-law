@@ -1,0 +1,3 @@
+# Art. 17.
+
+Si, à la réception de la demande d'extradition ou au cours de la procédure interne luxembourgeoise relative à l'extradition sollicitée, les informations communiquées par l'Etat requérant se révèlent insuffisantes au regard des dispositions de la présente loi, le ministre de la Justice ou l'autorité judiciaire saisie peuvent demander un complément d'informations nécessaires. En ce cas, le ministre de la Justice peut, dans la demande de complément d'informations ou à la suite de pareille demande, fixer un délai pour l'obtention de ces informations. A défaut de réponse jugée suffisante endéans le délai ainsi imparti à l'Etat requérant, la demande d'extradition peut être refusée ou l'arrestation de la personne réclamée levée.
