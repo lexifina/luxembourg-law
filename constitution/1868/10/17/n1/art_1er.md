@@ -1,3 +1,3 @@
 # Art. 1er.
 
-Le Grand-Duché de Luxembourg forme un État libre, indépendant et indivisible.
+Le Grand-Duché de Luxembourg est un État démocratique, libre, indépendant et indivisible.
