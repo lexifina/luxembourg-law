@@ -1,0 +1,5 @@
+# Art. 12.
+
+Tous les actes, écrits et titres destinés à être produits à l'appui d'une demande d'emprunt adressée soit à la Caisse d'épargne, service des habitations à bon marché, soit à une société de crédit ou nécessités par l'instruction de ces demandes, notamment: les expéditions ou extraits d'un acte notarié ou d'un jugement, les extraits des registres de l'état civil, les actes de notoriété, les délibérations des conseils de famille et les homologations de ces délibérations, les mainlevées d'hypothèques ou de privilèges, les renonciations à hypothèque ou privilège, de même que les quittances et mainlevées d'hypothèques à délivrer et respectivement à consentir par la Caisse d'épargne et les sociétés, sont dispensés, pour cet usage seulement, de tous droits de timbre, d'enregistrement, d'hypothèque et de greffe.
+
+Les ouvertures de crédit ou les actes de prêt consentis par la Caisse d'épargne, service des habitations à bon marché, ou une société de crédit, ainsi que les inscriptions hypothécaires qui en émanent, sont exempts des droits de timbre et d'enregistrement.
