@@ -1,0 +1,3 @@
+# Art. VI.
+
+Il est introduit dans la loi du 7 mars 1980 sur l´organisation judiciaire un article 64-1 de la teneur suivante: Art. 64-1. Le juge d´instruction ne peut, à peine de nullité, concourir au jugement des affaires qu´il a instruites. Il en est de même pour: les magistrats du siège qui ont antérieurement, comme membres de la chambre du conseil du tribunal d´arrondissement ou de la Cour d´appel, ordonné le renvoi devant la juridiction de fond ou statué sur la mise en liberté du prévenu; les officiers du ministère public nommés aux fonctions de juge ou de conseiller qui ont antérieurement pris ou fait prendre des conclusions ou réquisitions dans l´affaire.
