@@ -1,0 +1,3 @@
+# Art. II.
+
+Les articles 25, alinéa 1er a) et 31, alinéa 1er de la loi du 9 décembre 1976 relative à l'organisation du notariat sont modifiés comme suit: Art. 25. Le notaire doit être assisté de deux témoins: pour la réception des testaments publics, des actes portant révocation de ces testaments et des actes de suscription des testaments mystiques ou secrets. Art. 31, al. 1er. Les actes des notaires ainsi que les grosses, expéditions, copies et extraits de ces actes sont, sous leur responsabilité, soit écrits à la main, dactylograhiés ou imprimés, soit reproduits au moyen d'un procédé agréé par le Ministre de la Justice. Ces documents sont écrits ou reproduits lisiblement, sans abréviation, lacune ni interligne.
