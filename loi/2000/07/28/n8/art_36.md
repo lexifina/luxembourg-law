@@ -1,0 +1,21 @@
+# Art. 36.
+
+Le comité d'entreprise européen n'a pas compétence pour les matières suivantes:
+
+- sujets strictement locaux et nationaux;
+
+- droits des syndicats;
+
+- droits des travailleurs en matière d'information, de consultation, de co-détermination et de participation aux niveaux nationaux et, le cas échéant au niveau communautaire;
+
+- rémunérations, salaires, avantages sociaux;
+
+- négociations collectives ou négociations entre la direction et les instances représentatives des travailleurs, dont les délégations du personnel et les comités mixtes d'entreprise;
+
+- dossiers purement personnels;
+
+- questions politiques
+
+- politique de formation professionnelle continue dans les entreprises ou établissements dans les divers pays;
+
+- prérogatives de l’actionnariat conformément au droit des sociétés.
