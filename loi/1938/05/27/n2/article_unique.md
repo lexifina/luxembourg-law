@@ -1,0 +1,3 @@
+# Article unique.
+
+L'art. 491, alinéa 2, du Code pénal est modifié comme suit: Quiconque, dans une intention frauduleuse, se sera fait servir des boissons ou des aliments qu'il aura consommés sur place en tout ou en partie, ou se sera fait donner un logement dans des établissements à ce destinés ou se sera fait transporter sur les voies publiques par un voiturier qui fait du transport de personnes sa profession, et sans avoir payé le prix, sera puni d'un emprisonnement de huit jours à six mois et d'une amende de 51 à 1.000 fr. Les délits prévus au présent alinéa ne pourront être poursuivis que sur la plainte de la personne lésée. L'action publique sera éteinte par le paiement de la dette ou par le désistement de la partie plaignante.
