@@ -1,0 +1,3 @@
+# Art. 2.
+
+L'article XXX, paragraphe (4) de la loi modifiée du 12 février 1999 concernant la mise en oeuvre du plan d'action national en faveur de l'emploi 1998 prend la teneur suivante: Sur base de l'évaluation visée au paragraphe (3), la validité des dispositions énumérées aux points 1 à 3 du paragraphe (2) est prorogée à durée indéterminée.La validité des dispositions énumérées aux points 4 à 6 du paragraphe (2) est prorogée jusqu'au 31 juillet 2007. Avant cette date, il sera procédé, pour une période d'observation se terminant au 31 décembre 2006, à une réévaluation de ces dispositions sur le marché de l'emploi luxembourgeois.
