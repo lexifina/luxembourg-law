@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Le paragraphe (2) de l'article 2 de la loi modifiée du 30 juillet 1960 concernant la création d'un fonds national de solidarité est remplacé par le texte suivant: Peuvent en outre prétendre aux prestations du fonds: les personnes devenues inaptes au travail dès avant l'âge fixé à l'alinéa (1) sub c), si, par ailleurs, elles remplissent les autres conditions prévues; les femmes veuves, divorcées ou séparées de corps qui ont à leur charge soit deux enfants, soit un enfant frappé d'une infirmité ou d'une maladie chronique, pour lesquels elles touchent des allocations familiales, même si la condition prévue à l'alinéa (1) sub c) n'est pas remplie.
