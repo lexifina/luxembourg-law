@@ -1,0 +1,3 @@
+# Art. 7.
+
+Le § 3 de l'art. 49 est remplacé par la disposition suivante: Si l'une des sections a proposé des amendements, ou si la section centrale est d'avis d'admettre des amendements présentés dans son sein ou dans les sections, le procès-verbal de la section centrale est transmis, avec les procès-verbaux des sections, au Conseil d'État, à moins toutefois que la section centrale ou l'Assemblée des États, d'accord avec le Gouvernement, ne décident, pour des motifs d'urgence, de présenter les amendements en séance, sans renvoi préalable au Conseil d'État, et, dans ce cas, le projet de loi amendé est soumis à l'avis du Conseil d'État avant le vote sur l'ensemble.
