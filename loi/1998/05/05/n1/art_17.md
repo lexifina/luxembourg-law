@@ -1,0 +1,9 @@
+# Art. 17. Artistes et sportifs
+
+1. Nonobstant les dispositions des articles 14 et 15, les revenus qu'un résident d'un Etat contractant tire de ses activités personnelles exercées dans l'autre Etat contractant en tant qu'artiste du spectacle, tel qu'un artiste de théâtre, de cinéma, de la radio ou de la télévision, ou qu'un musicien, ou en tant que sportif, sont imposables dans cet autre Etat.
+
+2. Lorsque les revenus d'activités qu'un artiste du spectacle ou un sportif exerce personnellement et en cette qualité sont attribués non pas à l'artiste ou au sportif lui-même mais à une autre personne, ces revenus sont imposables, nonobstant les dispositions des articles 7, 14 et 15, dans l'Etat contractant où les activités de l'artiste ou du sportif sont exercées.
+
+3. Les dispositions des paragraphes 1 et 2 du présent article ne s'appliquent pas aux rémunérations ou aux bénéfices, aux salaires, traitements et autres revenus similaires qu'un artiste du spectacle ou un sportif tire de ses activités exécutées dans un Etat contractant, lorsque le séjour dans cet Etat contractant est financé pour une part prépondérante par des fonds publics de l'autre Etat contractant, y compris une collectivité locale ou un établissement public de cet autre Etat.
+
+4. Nonobstant les dispositions de l'article 7, lorsque les activités mentionnées au paragraphe ler du présent article sont exécutées dans un Etat contractant par une entreprise de l'autre Etat contractant, les bénéfices que cette entreprise tire de la prestation de ces activités sont imposables dans le premier Etat contractant, à moins que l'entreprise ne soit, en relation avec la prestation desdites activités, financée pour une part prépondérante par des fonds publics de l'autre Etat contractant, v compris une collectivité locale ou un établissement public de cet autre Etat.
