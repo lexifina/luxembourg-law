@@ -1,0 +1,13 @@
+# Art. 2.
+
+(1) A l’obligation de reclasser le travailleur visé à l’article 1er, l’employeur qui occupe régulièrement plus de vingt-cinq salariés et qui ne répond pas aux obligations prévues à l’article 5 de la loi modifiée du 12 novembre 1991 sur les travailleurs handicapés.
+
+(2) Sont à considérer nuls et sans effet le licenciement notifié par l’employeur, ou le cas échéant, la convocation à l’entretien préalable du travailleur, à partir du jour de la notification à l’employeur de la décision de l’obligation de procéder au reclassement interne jusqu’à l’expiration du douzième mois qui la suit.
+
+Dans les quinze jours qui suivent la résiliation du contrat, le salarié bénéficiant d’une mesure de reclassement peut demander, par simple requête, au président de la juridiction du travail qui statue d’urgence et comme en matière sommaire, les parties entendues ou dûment convoquées, de constater la nullité du licenciement et d’ordonner son maintien, ou, le cas échéant, sa réintégration conformément aux dispositions de l’article 29, paragraphe (4) de la loi modifiée du 24 mai 1989 sur le contrat de travail. L’ordonnance du président de la juridiction du travail est exécutoire par provision; elle est susceptible d’appel qui est porté par simple requête, dans les quarante jours à partir de la notification par la voie du greffe, devant le magistrat présidant la chambre de la Cour d’appel à laquelle sont attribués les appels en matière de droit du travail. Il est statué d’urgence, les parties entendues ou dûment convoquées.
+
+Toutefois, les dispositions qui précèdent ne font pas obstacle à l’échéance du contrat de travail à durée déterminée ou à la résiliation du contrat de travail pour motifs graves procédant du fait ou de la faute du salarié.
+
+(3) Au cas où le reclassement interne comporte une diminution de la rémunération, l’assuré a droit à une indemnité compensatoire représentant la différence entre l’ancienne rémunération et la nouvelle rémunération. Doivent être compris dans l’ancienne rémunération servant au calcul de l’indemnité compensatoire, les indemnités pécuniaires de maladie ainsi que les primes et les suppléments courants, à l’exclusion toutefois des rémunérations pour heures supplémentaires et de toutes indemnités pour frais accessoires exposés. La gratification et le treizième mois sont mis en compte à raison d’un douzième par mois. L’ancienne rémunération prise en compte ne peut dépasser le maximum cotisable prévu à l’article 241, alinéa 3 du Code des assurances sociales.
+
+L’indemnité compensatoire est payée par le Fonds pour l’emploi. L’indemnité compensatoire est soumise aux charges sociales et fiscales généralement prévues en matière de salaires et traitements.
