@@ -1,3 +1,3 @@
 # Art. 26.
 
-Les Luxembourgeois ont le droit de s’associer. – Ce droit ne peut être soumis à aucune autorisation préalable.
+La Constitution garantit le droit d'association, dans le respect des lois qui règlent l'exercice de ce droit, sans pouvoir le soumettre à une autorisation préalable.
