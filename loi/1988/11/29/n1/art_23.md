@@ -1,0 +1,3 @@
+# Art. 23.
+
+L’employé assurant, depuis février 1979, au ministère de l’éducation physique et des sports, les fonctions de médecin-chef de service du contrôle médico-sportif peut être nommé à l’emploi de médecin-chef de division créé à l’article 4 a) avec dispense du stage et de l’examen de fin de stage. Son traitement est fixé sur la base d’une nomination fictive se situant trois années après la date de son engagement en qualité d’employé de l’Etat. Pour l’application des présentes dispositions, il est dérogé aux restrictions prévues à l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
