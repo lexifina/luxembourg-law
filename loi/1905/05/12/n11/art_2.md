@@ -1,0 +1,3 @@
+# Art. 2.
+
+Sauf l'application de l'art. 260 du Code pénal, ceux qui auront ordonné ou effectué un défrichement contraire aux prescriptions du § 1er de l'art. 1er, seront condamnés chacun à une amende de cinquante francs à cent francs par hectare de bois taillis, et de cent francs à cent cinquante francs par hectare de futaie sur taillis, et ceux qui auront ordonné ou effectué un défrichement contraire aux prescriptions des § 2, 3 et 4 de ce même art. 1er, seront condamnés chacun à une amende de cent francs à deux cents francs par hectare de bois taillis, et de deux cents francs à trois cents francs par hectare de futaie ou de futaie sur taillis.
