@@ -1,0 +1,3 @@
+# Art. 2.
+
+Le premier alinéa de l'article 3 de l'article I de la loi du 24 août 1956 ayant pour objet de modifier et de compléter la législation sur la chasse est complété et libellé comme suit: Le syndicat de chasse sera convoqué en assemblée générale par les syndics. Ces convocations se feront par voie d'affichage aux lieux usités dans la commune pour les publications officielles. En outre, dans les communes de plus de 5.000 habitants les convocations sont portées à la connaissance des propriétaires par voie de publication dans au moins 2 journaux quotidiens imprimés et publiés au Grand-Duché. Il y aura entre la date de la convocation et celle de la réunion un délai d'au moins quinze jours.
