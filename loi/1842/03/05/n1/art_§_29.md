@@ -1,0 +1,5 @@
+# § 29.
+
+Die Freilassung der in Beschlag genommenen Gegenstände vor ausgemachter Sache ist nur zulässig, wenn eine Verdunkelung des Sachverhältnisses davon nicht zu besorgen ist. Alsdann ist solche in Ansehung der Transportmittel durch die Zoll- oder Steuerstellen ohne Verzug zu verfügen, wenn entweder nach den obwaltenden Verhältnisse wahrscheinlich ist, daß der Kontravenient dem Staate auch ohne Sicherheitsleistung für das Vergehen werde gerecht werden können, oder wenn genügende Sicherheit auf Höhe des Betrags der Gefälle, Strafe und Kosten oder auf Höhe des Werths der Transportmittel, Falls dieser geringer ist, geleistet worden.
+
+In Ansehung der in Beschlag genommenen Waaren, in Bezug auf welche die Uebertretung verübt worden, findet unter obiger Voraussetzung die Freilassung durch die Zoll- oder Steuerstellen nur Statt, wenn bei Vergehen, welche nicht die Konfiskation der Waaren nach sich ziehen, die wahrscheinliche Summe der Strafe und Kosten, und in ändern Fällen der anerkannte oder gehörig ermittelte Werth der Waaren einschließeich der Gefälle, entweder baar deponirt, oder völlige Sicherheit dafür auf andere Art geleistet wird.

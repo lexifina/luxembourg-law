@@ -1,0 +1,3 @@
+# § 9.
+
+Wenn ein Frachtführer nach Vorschrift des § 6. N° 1, Litt. a, wegen unrichtiger Deklaration verurtheilt, derselbe jedoch durch die ihm von dem Befrachter mitgegebenen Deklarationen, Frachtbriefe oder andere schriftliche Notizen über den Inhalt der Kolli zu der unrichtigen Deklaration veranlaßt worden, oder wenn in den § 6, N° 4 angeführten Fällen die Verurtheilung lediglich auf den Grund der daselbst bezeichneten Thatsachen erfolgt ist, ohne daß die Defraudation selbst weiter nachgewiesen worden; so findet im Wiederholungsfälle die Strafe des Rückfalls nicht Statt, auch soll eine solche Verurteilung diese Strafe bei einem nachfolgenden Zollvergehen nicht begründen.

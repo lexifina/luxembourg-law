@@ -1,0 +1,3 @@
+# § 58.
+
+Ist die Zuziehung des subsidiarisch Verhafteten unterblieben oder Letzterer auf die Vorladung der Zollbehörde bei der im Verwaltungswege rechtskräftig beendigten Untersuchung nicht erschienen, so fertigt diejenige Zollbehörde, welche nach § 33 zur Entscheidung der Hauptsache kompetent war, nachdem die Exekution gegen den Kontravenienten vergeblich versucht worden, einen Zahlungs-Befehl aus und läßt denselben dem susidiarisch Verhafteten mit dem Bedeuten zugehen, daß wenn er sich zu der Vertretung nicht verpflichtet halte, ihm dieserhalb binnen zehn Tagen präklusivischer Frist die Berufung an die höhere Finanzbehörde (§ 46) oder an die Gerichte offen stehe.

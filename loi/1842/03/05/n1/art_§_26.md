@@ -1,0 +1,3 @@
+# § 26.
+
+Wer sich Handlungen oder Unterlassungen zu Schulden kommen läßt, wodurch ein solcher Beamter in der rechtmäßigen Ausübung seines Amts verhindert wird, hat, insofern damit keine Beleidigungen und Thätlichkeiten gegen die Person des Beamten verbunden sind, eine Geldbuße von zehn bis füntzig Thalern verwirkt. Sind dabei zugleich Beleidigungen oder Thätlichkeiten verübt, so treten die in dem allgemeinen Strafgesetze angeordneten Strafen der Injurien oder thätlicher Widersetzlichkeit gegen Abgeordnete der Obrigkeit, jedoch mit einer Verschärfung um die Hälfte ein. Jeder etwanige Mißbrauch der Amtsgewalt von Seiten der Beamten bewirkt eine Milderung der Strafbarkeit desjenigen, der sich widersetzt hat.

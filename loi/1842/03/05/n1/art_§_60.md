@@ -1,0 +1,5 @@
+# § 60.
+
+Wenn ein Unbekannter, welcher auf einer Uebertretung der Zoll-Gesetze betroffen worden, sich entfernt und verbotene oder abgabepflichtige Gegenstände ohne oder mit andern Sachen zurückgelassen hat, so wird hierüber eine öffentliche Bekanntmachung von der Zoll-Direction erlassen, und dreimal von vier zu vier Wochen in die amtlichen Blätter eingerückt. Meldet sich hierauf Niemand binnen vier Wochen nach der letzten Bekanntmachung, so werden die Sachen zum Vortheil der Staatskasse verkauft, dem Inhaber oder Eigenthümer bleibt aber vorbehalten, seine Ansprüche auf Erstattung des Erlöses noch bis zum Ablauf eines Jahres, von der ersten Bekanntmachung an gerechnet, geltend zu machen.
+
+Beträgt der Werth der Sachen nicht über fünfzig Thaler, so bedarf es der öffentlichen Bekanntmachung nicht. Der Verkauf kann alsdann, wenn sich binnen vier Wochen nach der Beschlagnahme Niemand gemeldet hat, verfügt werden, und die einjährige Frist für den Eigenthümer oder Inhaber der Sache zur Geltendmachung seiner Ausprüche auf Erstattung des Erlöses wird vom Tage der Beschlagnahme an gerechnet.
