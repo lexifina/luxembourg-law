@@ -1,0 +1,3 @@
+# Art. IV.
+
+L'article 21, I, 1er alinéa de la loi du 26 mai 1954 règlant les pensions des fonctionnaires de l'Etat est remplacé comme suit: Art. 21. 1. Chaque orphelin a droit à une pension jusqu'à l'âge de dix-huit ans et sans condition d'âge s'il est atteint d'une maladie incurable ou d'une infirmité le rendant inapte à tout travail rénuméré à condition qu'il s'agisse d'un enfant légitime né d'un mariage contracté avant la cessations des fonctions, soit d'un enfant né dans un mariage contracté après la cessation des fonctions pourvu que l'époque de sa conception soit antérieure à la cessation des fonctions, soit d'un enfant naturel reconnu, conçu avant la cessation des fonctions, soit d'un enfant adoptif dont l'adoption a été demandée avant la cessation des fonctions.

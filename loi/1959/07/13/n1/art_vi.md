@@ -1,0 +1,3 @@
+# Art. VI.
+
+L'art. 102, al. 1er du Code des assurances sociales, tel qu'il a été modifié par la loi du 24 avril 1954, est remplacé par la disposition suivante: Art. 102. Si le défunt laisse une veuve ou des enfants, la rente se chiffre à 40% du salaire annuel pour la veuve, jusqu'à son décès ou son remariage, et à 20% pour chaque enfant légitime, pour chaque enfant naturel reconnu avant l'accident et pour chaque enfant a doptif dont l'adoption aura été demandée avant l'accident, jusq'uà l'âge de 18 ans, et sans limitation d'âge, si l'orphelin se trouve par suite d'infirmité physique ou intellectuelle hors d'état de gagner sa vie.
