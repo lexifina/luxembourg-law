@@ -1,0 +1,5 @@
+# Art. 19.
+
+Les agents et préposés prévus aux art. 15, 16, 17 et. 18 dresseront des procèsverbaux à l'effet de constater la nature, les circonstances, le temps, le lieu des infractions, ainsi que les preuves et les indices qu'ils auront pu en recueillir.
+
+En cas d'infractions rurales ou forestières, ils suivront les choses enlevées, dans les lieux où elles auront été transportées, et les mettront en séquestre; ils ne pourront néanmoins s'introduire dans les maisons, ateliers, bâtiments, cours adjacentes et enclos, si ce n'est en présence, soit du juge de paix, soit du suppléant, soit du commissaire de police, soit du bourgmestre ou de celui qui le remplace; et le procès- verbal qui devra en être dressé sera signé par celui en présence duquel il aura été fait. Ils arrêteront et conduiront devant le juge de paix ou le bourgmestre tout individu qu'ils auront surpris, en flagrant délit, ou qui sera dénoncé par la clameur publique, lorsque l'infraction emportera la peine d'emprisonnement, ou une peine plus grave. Ils se feront donner, pour cet effet, main-forte par le bourgmestre ou celui qui le remplace, qui ne pourra s'y refuser.
