@@ -1,0 +1,3 @@
+# Art. 21.
+
+Par dérogation à l'article 19 (1), point g), de la loi modifiée du 28 décembre 1988 réglementant l'accès aux professions d'artisan, de commerçant, d'industriel ainsi qu'à certaines professions libérales, peut être autorisée par le Ministre, dans l'année qui suit la mise en vigueur de la présente loi, à exercer la profession de géomètre, toute personne qui a exercé au Grand-Duché une activité dans les spécificités décrites à l'article 19 (1), point g) de la loi modifiée du 28 décembre 1988, pendant au moins une année précédant l'entrée en vigueur de la présente loi, et qui possède un diplôme sanctionnant une formation spécifique dans une de ces matières.
