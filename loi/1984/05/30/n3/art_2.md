@@ -1,0 +1,5 @@
+# Art. 2.
+
+L'article 11 de la loi modifiée du 29 août 1951 ayant pour objet la réforme de l'assurance pension des employés privés, l'article 6 de la loi du 21 mai 1951 ayant pour objet la création d'une caisse de pension des artisans, telle qu'elle a été modifiée notamment par la loi du 23 décembre 1976 portant fusion des régimes de pension des artisans, des commerçants et industriels ainsi que l'article 6 de la loi modifiée du 3 septembre 1956 ayant pour objet la création d'une caisse de pension agricole sont complétés par l'alinéa suivant:
+
+«Sont considérées comme des périodes d'assurance obligatoire les périodes de service militaire obligatoire accomplies dans l'armée luxembourgeoise, compte tenu des périodes de rappel ainsi que des périodes d'incapacité de travail résultant d'un accident subi ou d'une maladie grave contractée à l'occasion de ce service, pour autant que ces périodes ne soient pas autrement couvertes par des cotisations de sécurité sociale. Les périodes sont computables par mois civils. Si ces périodes se terminent par une fraction de mois, celle-ci compte comme mois entier.»
