@@ -1,0 +1,3 @@
+# Art. 2.
+
+L'article 1er de la loi du 25 novembre 1961 est complété par un nouvel alinéa final, libellé comme suit: «Lorsque les garanties à octroyer comportent des risques dont la gravité et la durée dépassent les possibilités techniques de l'assurance par l'office, mais que leur réalisation est cependant jugée opportune par le gouvernement en conseil, l'office peut les garantir directement pour le compte de l'Etat. Ces engagements ne pourront dépasser le montant correspondant à dix pour-cent de la somme des dotations libérées et des réserves cumulées. Ces interventions sont comptabilisées séparément dans les écritures de l'Office».
