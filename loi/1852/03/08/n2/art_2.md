@@ -1,0 +1,5 @@
+# Art. 2.
+
+Les articles 229 et 230 de la loi générale, du 26 août 1822, concernant la perception des droits d'entrée, de sortie et des accises, sont remis en vigueur pour le règlement des affaires contentieuses résultant de contraventions à la loi sur les distilleries.
+
+Ces articles sont conçus dans les termes suivants: Art. 229. Il pourra être transigé par l'administration ou d'après son autorisation, en ce qui concerne l'amende, la confiscation, la fermeture des fabriques, usines ou ateliers, sur toutes contraventions à la présente loi et aux lois spéciales, sur la perception des accises, toutes et autant de fois que l'affaire sera accompagnée de circonstances atténuantes, ou qu'on pourra raisonnablement supposer que la contravention doit être attribuée plutôt a une négligence ou erreur, qu'à l'intention de fraude préméditée. Art. 230. Toute transaction est interdite, si la contravention doit être considérée comme pouvant être suffisamment prouvée en justice, et si on ne peut douter de l'intention de fraude, préméditée.
