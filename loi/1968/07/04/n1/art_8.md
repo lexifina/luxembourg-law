@@ -1,0 +1,3 @@
+# Art. 8.
+
+Il est ajouté à la loi uniforme un article 39bis, libellé comme suit: Le porteur d'un chèque a contre le tiré provisionné une action directe en paiement du chèque dans la mesure de la provision. Le porteur d'un chèque a, vis-à-vis des créanciers du tireur, une créance privilégiée sur les fonds dont le tiré était débiteur lors de la présentation du chèque, sans préjudice de l'application de l'article 445 du code de commerce. Si plusieurs chèques ont été émis par le même tireur sur le même banquier et si, au moment de leur présentation, les fonds dont celui-ci est débiteur sont insuffisants pour les acquitter tous, ils sont payés au marc le franc.

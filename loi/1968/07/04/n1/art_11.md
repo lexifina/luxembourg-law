@@ -1,0 +1,3 @@
+# Art. 11.
+
+Il est ajouté à la loi uniforme un article 42bis, conçu comme suit: Par dérogation à l'article 42, le porteur et les endosseurs sont dispensés de donner avis pour les chèques remis au protêt. Le notaire ou l'huissier qui dresse le protêt faute de paiement est tenu d'en donner avis par écrit, dans les 4 jours ouvrables qui suivent le jour du protêt et sous la sanction prévue au dernier alinéa de l'article 42, à celles des personnes obligées dans le chèque dont les adresses sont soit indiquées sur le chèque, soit connues par l'officier public dressant le protêt, soit indiquées par les personnes ayant exigé le protêt. Les dépenses résultant de l'envoi des avis par l'officier public sont à ajouter aux frais de protêt.
