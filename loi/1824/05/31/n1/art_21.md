@@ -1,0 +1,3 @@
+# 21.
+
+Si dans les cas prévus par l'article précédent, le prix du bois des bâtimens à constructions et de la superficie des tourbières, réuni au prix du sol, pour ce qui concerne les bois et les constructions, et à celui du fonds, pour ce qui concerne les tourbières, ne paraît pas représenter la valeur entière de l'objet, le préposé pourra faire procéder à une estimation par experts, de la manière prescrite par les lois existantes sur l'enregistrement pour le mutations d'immeubles à titre onéreux, sauf ce qui est statué par l'article 22 ci-après; en cas de plus value constatée, les mêmes dispositions pénales recevront leur application.
