@@ -1,3 +1,3 @@
 # Art. 44.
 
-L’Hôtel de Gouvernement à Luxembourg et le château de Walferdange sont affectés à l’habitation du Roi Grand-Duc pendant Son séjour dans le pays.
+Le Palais Grand-Ducal à Luxembourg et le Château de Berg sont réservés à l'habitation du Grand-Duc.
