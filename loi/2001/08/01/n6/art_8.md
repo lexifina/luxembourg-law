@@ -1,0 +1,7 @@
+# Art. 8. Procédure
+
+- (1) Lorsqu’une femme enceinte ou allaitante désire bénéficier de l’application des dispositions figurant à l’article précédent, elle doit envoyer à son employeur, par lettre recommandée à la poste, une demande en ce sens. Toutefois, la signature apposée par l’employeur sur le double de la demande vaut accusé de réception.
+
+- (2) Endéans la huitaine à dater de la réception de la lettre, le cachet de la poste faisant foi, l’employeur doit saisir le médecin du travail compétent afin que celui-ci émette son avis.
+
+- (3) Endéans la quinzaine à dater de la saisine par l’employeur, le médecin du travail notifie son avis à la femme salariée concernée et à l’employeur.

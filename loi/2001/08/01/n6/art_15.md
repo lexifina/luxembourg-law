@@ -1,0 +1,3 @@
+# Art. 15. Demande en réexamen
+
+Les avis du médecin du travail visés aux articles 7 à 10, 13 et 14 de la présente loi sont susceptibles d'une demande en réexamen par lettre recommandée, tant de la part de l'employeur que de la part de la femme salariée, dans un délai de quinze jours à dater de la notification de l'avis, auprès de la Direction de la Santé, Division de la santé au travail. Le médecin-chef de division de santé au travail, ou son délégué, décide endéans la quinzaine à dater de sa saisine, après avoir informé le directeur de l'Inspection du Travail et des Mines. La demande en réexamen n'a pas d'effet suspensif.
