@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Le contribuable qui exerce à la fois plusieurs des professions comprises aux tableaux nos 6, 13 et 14, annexés à la loi da 21 mai 1819, ne sera plus soumis, pour l'ensemble de ces professions, qu'à un seul droit, déterminé d'après la réunion des bénéfices qu'elles produisent et qui ne pourra, en aucun cas, être inférieur à celui auquel donne lieu la plus imposable d'entre elles. Toutefois, en ce qui concerne les professions qui tombent dans une des huit dernières classes du tarif, elles resteront taxées séparément d'après leur importance individuelle, si les bénéfices réunis qui en résultent, étaient jugés n'être pas suffisamment atteints par le droit de la première classe.
