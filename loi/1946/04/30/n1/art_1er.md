@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Il est intercalé entre l'art. 118bis et l'art. 119 du Code pénal un article 118ter qui a la teneur suivante: Sera puni d'un emprisonnement d'un mois à 5 ans celui qui sciemment et sans nécessité aura, soit directement soit par intermédiaire ou en cette qualité, favorisé la politique ou les desseins de l'ennemi par des fournitures ou par des services. Dans des cas particulièrement graves la peine sera celle de la réclusion ou même celle des travaux forcés de 10 à 15 ans. Pour l'application de la disposition qui précède, les sociétés sont à considérer comme personnes civilement responsables de l'infraction commise par un organe de la société.
