@@ -1,0 +1,5 @@
+# Art. 24.
+
+Le central doit être équipé d'un sas d'entrée avec des portes blindées, d'un lieu protégé permettant le chargement et le déchargement des fourgons à l'abri du regard de toute personne étrangère au service, ainsi que d'une salle de coffres permettant d'entreposer en toute sécurité les fonds ou valeurs qui ne peuvent pas être acheminées immédiatement vers leur destination. Le central doit être occupé en permanence par deux agents de garde au moins et être relié directement par une ligne spéciale au centre d'alerte de la police grand-ducale. Il doit disposer d'un groupe électrogène ainsi que d'un équipement radiotéléphonique permettant de joindre en toute circonstance le réseau d'intervention des forces de l'ordre. Le central doit en outre disposer d'un système de contrôle permettant de suivre constamment, dans un rayon de soixante-quinze kilomètres au moins, la position exacte des différents fourgons en mission.
+
+Un règlement grand-ducal peut définir des conditions de sécurité supplémentaires auxquelles le central doit répondre.

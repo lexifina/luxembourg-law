@@ -1,0 +1,3 @@
+# Art. 21.
+
+Le règlement de service doit, de manière détaillée et complète, prévoir des dispositions concernant l'ouverture des portes du sas, le tri des personnes autorisées à pénétrer au central, les missions et la relève du personnel affecté au central, prévoir un contrôle permanent des patrouilles et contenir des instructions précises relatives aux suites à réserver aux alarmes reçues. Le règlement de service doit prévoir en outre un responsable de la conservation des plans des systèmes installés et des clés techniques qui sont obligatoirement à déposer dans un coffre-fort. Il doit également déterminer les modalités quant à la consultation des plans et au retrait temporaire des clés techniques.
