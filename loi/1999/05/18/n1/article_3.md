@@ -1,0 +1,3 @@
+# Article 3.
+
+L'article 64, alinéa 2 du code des assurances sociales est complété par les tirets suivants: les références médicales opposables aux médecins et médecins-dentistes élaborées à partir de critères scientifiquement, reconnus et permettant d'identifier les soins et prescriptions dépassant l'utile et le nécessaire; les sanctions financières en cas de non observation des références médicales opposables consistant dans la restitution, éventuellement forfaitaire, de tout ou partie des honoraires afférents ou du paiement d'une partie des soins ou prescriptions à l'union des caisses de maladie; les modalités de l'établissement des rapports d'activité des prestataires de soins prévus à l'article 341.
