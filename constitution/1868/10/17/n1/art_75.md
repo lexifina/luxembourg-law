@@ -1,3 +1,3 @@
 # Art. 75.
 
-Il est alloué sur le trésor de l’État, à chaque député, à titre d’indemnité, une somme de cinq francs par jour de présence ou de déplacement. Ceux qui habitent la ville où se tient la session ne jouissent d’aucune indemnité.
+Les membres de la Chambre des députés jouiront d'une indemnité qui ne pourra dépasser 4000 fr. par an. Ils auront droit, en outre, à une indemnité de déplacement. Les détails relatifs à cette double indemnité seront réglés par la loi, qui pourra avoir effet rétroactif pour les sessions de la Constituante.
