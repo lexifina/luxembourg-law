@@ -1,0 +1,11 @@
+# Art.3.
+
+(1) La présente loi ne s’applique pas aux personnes physiques ou morales exerçant la profession de transporteur de marchandises par route au moyen de camions, de véhicules automoteurs ou d’ensembles de véhicules dont la masse maximale autorisée ne dépasse pas 3,5 tonnes.
+
+(2) En ce qui concerne les personnes physiques ou morales exerçant la profession de transporteur de marchandises par route utilisant des véhicules dont la masse maximale autorisée se situe entre plus de 3,5 et 6 tonnes, un règlement grand-ducal, pris après information de la Commission des Communautés Européennes, peut dispenser de l’application de la totalité ou d’une partie des dispositions de la présente loi les entreprises qui effectuent exclusivement des transports locaux n’ayant qu’une faible incidence sur le marché des transports en raison de la faible distance parcourue.
+
+(3) Un règlement grand-ducal pris après consultation de la Commission des Communautés Européennes, peut dispenser de l’application de la totalité ou d’une partie des dispositions de la présente loi les personnes physiques ou morales qui effectuent exclusivement certains transports de voyageurs par route, à des fins non commerciales, ou qui ont une activité principale autre que celle de transporteur de voyageurs par route, pour autant que leur activité de transport n’ait qu’une faible incidence sur le marché des transports.
+
+(4) Un règlement grand-ducal pris après consultation de la Commission des Communautés Européennes, peut également dispenser de l’application de la totalité ou d’une partie des dispositions de la présente loi les personnes physiques ou morales exerçant la profession de transporteur de marchandises par route qui effectuent exclusivement des transports nationaux n’ayant qu’une faible incidence sur le marché des transports en raison soit de la nature de la marchandise transportée, soit de la faible distance parcourue.
+
+(5) Sans préjudice des articles 13 et 14, lorsque la personne physique ou morale exerçant la profession de transporteur de voyageurs et de marchandises par route ne tombe pas dans le champ d’application des dispositions de la présente loi, son activité est régie par les dispositions en vigueur en matière de droit d’établissement.

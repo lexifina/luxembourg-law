@@ -1,0 +1,5 @@
+# Art. 14.
+
+(1) Les attestations prouvant la capacité professionnelle et délivrées sur la base de l’article 9 de la loi du 17 novembre 1978 concernant l’accès à la profession de transporteur de marchandises ou de voyageurs par route dans le domaine des transports nationaux et internationaux, ou encore sur la base de l’article 10 de la loi du 3 octobre 1991 concernant l’établissement de transporteur de voyageurs et de transporteur de marchandises par route, sont assimilées aux attestations délivrées en vertu de l’article 9 de la présente loi.
+
+(2) Les personnes physiques ou morales dûment autorisées pour l’exercice de l’activité de transporteur de voyageurs ou de marchandises par route au moment de l’entrée en vigueur de la présente loi doivent au plus tard un mois après la mise en vigueur de la présente loi produire la preuve, en ce qui concerne le parc de véhicules qu’elles utilisent à cette date, qu’elles remplissent la condition visée à l’article 6, paragraphe (1), sous b), et à l’article 8 de la présente loi.
