@@ -1,0 +1,3 @@
+# Art. 10.
+
+Les contestations relatives à la détermination et au paiement des indemnités et celles qui sont relatives au paiement des sommes dues en vertu des contrats prévus au dernier alinéa de l'article 3 font l'objet d'un préliminaire de conciliation devant une commission composée de représentants du ministre de l'économie nationale et de l'énergie, du ministre ayant la propriété industrielle dans ses attributions, du ministre de la force armée, du ministre du trésor et selon la nature de l'invention, de la chambre de commerce ou de la chambre des métiers. La personne en cause est entendue et peut se faire assister d'un conseil.

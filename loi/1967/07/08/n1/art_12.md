@@ -1,0 +1,7 @@
+# Art. 12.
+
+Lorsque, dans l'intérêt de la défense, un Etat étranger ou une organisation internationale interdit la divulgation d'une invention, objet d'une demande de brevet, le ministre ayant la propriété industrielle dans ses attributions, assure et fait assurer, sur requête soit de cet Etat, soit de cette organisation, soit du déposant dûment autorisé à faire le dépôt de l'invention secrète au Luxembourg, la sauvegarde du secret de l'invention, aussi longtemps que durera cette interdiction.
+
+La prise en considération de cette requête est subordonnée à la condition que le Luxembourg soit lié à l'Etat étranger ou à l'organisation internationale, auteur de l'interdiction, par une convention bilatérale ou multilatérale prévoyant la mise au secret des inventions. Le déposant n'a pas droit à indemnisation à l'encontre du gouvernement luxembourgeois en raison du fait de la mise au secret au Luxembourg de l'invention objet de la demande de brevet. Il lui est cependant loisible d'intenter une action en indemnisation en vertu des lois luxembourgeoises pour l'utilisation par le gouvernement luxembourgeois ou la divulgation non autorisée de l'invention faisant l'objet de la demande de brevet.
+
+La levée officielle du secret par les ministres luxembourgeois compétents intervient au reçu de la copie de l'attestation de levée du secret établie par le gouvernement du pays d'origine ou par l'organisation internationale requérante.
