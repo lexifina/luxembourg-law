@@ -1,0 +1,3 @@
+# Art. 15.
+
+L'Etat interviendra dans la constitution des ressources de la caisse de maladie agricole, créée en vertu de la loi du 13 mars 1962. Cette intervention devra avoir pour effet de garantir aux assurés du régime assurance maladie agricole des prestations équivalentes à celles servies par les régimes de caisses de maladie similaires, sans que cette intervention puisse dépasser cinquante pourcent de ces prestations. Cette intervention cessera lorsque l'équilibre visé à l'article 1er de la présente loi sera établi et dûment constaté dans les formes prévues par l'article 4 de la présente loi.
