@@ -1,0 +1,3 @@
+# Article unique.
+
+Est approuvé le Protocole additionnel à l'Accord entre la République d'Autriche, le Royaume de Belgique, le Royaume de Danemark, la République de Finlande, la République fédérale d'Allemagne, la République Hellénique, l'Irlande, la République italienne, le Grand-Duché de Luxembourg, le Royaume des Pays-Bas, la République Portugaise, le Royaume d'Espagne, le Royaume de Suède, la Communauté Européenne de l'Energie Atomique et l'Agence Internationale de l'Energie Atomique en application des paragraphes 1 et 4 de l'Article III du Traité sur la nonprolifération des armes nucléaires, fait à Vienne, le 22 septembre 1998.
