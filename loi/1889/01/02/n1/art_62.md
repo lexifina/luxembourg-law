@@ -1,0 +1,3 @@
+# Art. 62.
+
+Faute par l'adjudicataire d'exécuter les clauses de l'adjudication, l'immeuble sera vendu à la folle-enchère, devant les mêmes juge de paix et notaire.
