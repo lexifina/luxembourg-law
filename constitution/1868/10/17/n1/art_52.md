@@ -16,7 +16,7 @@ Pour être éligible, il faut :
 
 - 2° jouir des droits civils et politiques ;
 
-- 3° être âgé de vingt et un ans accomplis ;
+- 3° être âgé de dix-huit ans accomplis ;
 
 - 4° être domicilié dans le Grand-Duché.
 
