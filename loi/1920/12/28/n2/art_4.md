@@ -1,0 +1,3 @@
+# Art. 4.
+
+Le Gouvernement est autorisé à allouer sans retard au personnel en activité de service de tous les réseaux, ainsi qu'aux retraités du Guillaume-Luxembourg, de la société des chemins de fer secondaires et de la société des chemins de fer cantonaux, pour autant qu'ils habitent le Grand-Duché, une avance à faire valoir sur les rémunérations et pensions futures. Cette avance, qui est de fr. 750 par personne et respectivement par ménage, sera récupérée par les soins des exploitants respectifs moyennant des retenues périodiques qui ne pourront porter que sur l'exédent créé par le nouveau statut.
