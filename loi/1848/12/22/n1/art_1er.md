@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Une parcelle de terre située près de la route de Luxembourg à Echternach, à côté du pont d’Eich, et provenant de l’ancien lit de l’Alzette comblé, parcelle désignée au plan dressé par l’ingénieur des travaux publics de l’arrondissement de Luxembourg, le 12 septembre 1848, par les lettres A B C, d’une contenance de 98 centiares, est abandonnée en toute propriété au sieur Hoffmann, de Dommeldange, à la charge par ce dernier de céder et d’abandonner au domaine, sous les garanties ordinaires de fait et de droit, une parcelle de terrain lui appartenant, située près du chemin de Dommeldange à Weimerskirch, désignée par les lettres K M N L G, au plan sus-mentionné, et d’une contenance de 50 centiares.
