@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'art. 4 de la loi du 28 juillet 1925, concernant l'adaptation des traitements et pensions d'Etat au coût de la vie, est complété comme suit: Les pensions qui, par l'application des dispositions du présent article, restent soit égales soit, inférieures à celles correspondant au mois de janvier 1925, seront augmentées de 25 fr. par mois; si l'application des mêmes dispositions accuse une augmentation sans que celle-ci atteigne le chiffre de 25 fr. par mois, le montant de l'augmentation est déduit de la somme de 25 fr. L'alinéa 4 du présent article s'appliquera également à ces augmentations spéciales.
