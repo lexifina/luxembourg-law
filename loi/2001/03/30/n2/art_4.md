@@ -1,0 +1,3 @@
+# Art. 4.
+
+A la suite de l'article 496-3 du Code pénal est inséré un article 496-4 du Code pénal qui a la teneur suivante: Art. 496-4. Est puni des peines prévues à l'article 496, celui qui sciemment fait une déclaration fausse ou incomplète, ou omet de communiquer une information en violation d'une obligation spécifique, en vue d'éviter ou de réduire sa contribution légale aux ressources du budget d'une institution internationale. Est puni des mêmes peines celui qui sciemment détourne un avantage légalement obtenu et réalise une diminution illégale des ressources du budget d'une institution internationale.
