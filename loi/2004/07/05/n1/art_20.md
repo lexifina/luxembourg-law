@@ -1,0 +1,5 @@
+# Art. 20.
+
+L'article 54 de la même loi est modifié comme suit:
+
+- Le paragraphe (1) est remplacé par le texte suivant: (1) Le consommateur doit recevoir, au plus tard lors de la livraison du produit ou de l'exécution de la prestation de service, sur un support durable à sa disposition et auquel il a accès, la confirmation des informations mentionnées à l'article 53, à moins que ces informations n'aient déjà été, par écrit, ou de la manière ci-dessus spécifiée, fournies au consommateur préalablement à la conclusion du contrat. En tout état de cause doivent être fournies: une information écrite sur les conditions et les modalités d'exercice du droit de rétractation au sens de l'article 55, l'adresse géographique de l'établissement du prestataire où le consommateur peut présenter ses réclamations, les informations relatives aux services après-vente et aux garanties commerciales existants, les conditions de résiliation du contrat lorsque celui-ci est à durée indéterminée ou d'une durée supérieure à un an.

@@ -1,0 +1,3 @@
+# Art. 23.
+
+Un article 57bis, libellé comme suit, est introduit dans la même loi: Art. 57bis. Caractère contraignant des dispositions (1) Le consommateur ne peut renoncer aux droits qui lui sont conférés en vertu du présent chapitre. (2) Toute clause contraire au paragraphe qui précède est abusive et réputée nulle et non écrite. (3) Lorsque la loi qui régit le contrat est celle d'un Etat non membre de l'Union européenne, il sera impérativement fait application des dispositions du présent chapitre, si le consommateur a sa résidence habituelle sur le territoire d'un Etat membre de l'Union européenne et que le contrat y est proposé, conclu ou exécuté.
