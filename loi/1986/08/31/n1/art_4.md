@@ -1,0 +1,3 @@
+# Art. 4.
+
+La loi précitée du 16 août 1967 telle qu'elle a été modifiée dans la suite est complétée par l'inscription d'un article 14bis nouveau libellé de la façon suivante: Art. 14bis. La construction de toute route nouvelle réalisée dans le cadre de la présente loi est subordonnée à l'élaboration préalable d'une étude de l'impact sur l'environnement naturel et l'environnement humain. Cette étude, dont le résultat orientera les décisions relatives à la détermination définitive du profil et du tracé de la nouvelle route, est réalisée sous l'autorité du ministre ayant dans ses attributions l'aménagement général du territoire en collaboration avec les autres départements ministériels intéressés.
