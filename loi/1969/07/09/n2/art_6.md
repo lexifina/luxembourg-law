@@ -1,0 +1,3 @@
+# Art. 6.
+
+Il est ajouté au code civil, après l'article 866, un article 866-1 ainsi conçu: Art. 866-1: 1) Lorsque le don ou le legs d'un immeuble ou d'immeubles, formant un ensemble d'une exploitation agricole, fait sans obligation de rapport en nature à un successible ou à plusieurs successibles conjointement, excède la portion disponible, ceux-ci peuvent, quel que soit cet excédent, retenir en totalité l'objet de la libéralité, sauf à récompenser les co-héritiers en argent ou autrement. 2) II en est de même si la libéralité porte sur des objets mobiliers agricoles ayant été à l'usage commun du défunt et du bénéficiaire. 3) Sauf accord amiable entre les cohéritiers, l'indemnité due par le bénéficiaires de la libéralité est payable au moment du partage.
