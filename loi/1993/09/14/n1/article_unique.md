@@ -1,0 +1,3 @@
+# Article unique.
+
+Sont approuvés l'Accord sur l'Espace économique européen entre, d'une part, la Communauté économique européenne, la Communauté européenne du charbon et de l'acier et leurs Etats membres et, d'autre part, la République d'Autriche, la République de Finlande, la République d'Islande, la Principauté de Liechtenstein, le Royaume de Norvège, le Royaume de Suède ainsi que le Protocole portant adaptation de l'Accord sur l'Espace économique européen entre, d'une part, la Communauté économique européenne, la Communauté européenne du charbon et de l'acier et leurs Etats membres et, d'autre part, la République d'Autriche, la République de Finlande, la République d'Islande, la Principauté de Liechtenstein, le Royaume de Norvège, le Royaume de Suède.
