@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'alinéa 1er de l'article 28 de la loi modifiée du 25 février 1979 concernant l'aide au logement est remplacé comme suit: «Le loyer de tous les logements et logis, à l'exception des logements de service, donnés en location par l'Etat, les communes, les syndicats de communes et le Fonds pour le logement à coût modéré est fixé et adapté en fonction du revenu disponible et de la composition du ménage occupant, ainsi que de la surface habitable du logement.Les logements visés à l'alinéa qui précède restent régis par les dispositions de la loi modifiée du 14 février 1955 portant modification et coordination des dispositions légales en matière de baux à loyer, à l'exception des articles 1er à 5 et de l'article 15, alinéas 2 et 3.»
