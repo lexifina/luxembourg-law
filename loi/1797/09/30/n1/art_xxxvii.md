@@ -1,0 +1,3 @@
+# XXXVII.
+
+Les jugemens préparatoires ou définitifs rendus par les juges de paix, les tribunaux civils, ceux du commerce et le tribunal de cassation, et tous actes généralement quelconques faits par les juges ou reçus aux greffes, même les actes et les certificats des bureaux de paix de quelque nature qu'ils soient, seront enregistrés, soit sur les minutes, soit sur les expéditions, d'après les distinctions contenues dans les art. XXXVIII et XLI suivans. Il est en conséquence dérogé à toutes les lois portant que quelques-uns de ces jugemens ou actes sont exempts de la formalité de l'enregistrement.

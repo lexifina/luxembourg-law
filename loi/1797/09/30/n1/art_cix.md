@@ -1,0 +1,3 @@
+# CIX.
+
+Il sera procédé, avec la plus grande activité, à la liquidation générale de la dette publique; les créanciers qui ne seraient pas encore liquidés, seront autorisés à se rendre adjudicataires de domaines nationaux, en justifiant du dépôt des titres de leurs créances, et en s'obligeant, avec le visa provisoire des administrations, à en acquitter le prix de la même manière que les créanciers liquidés. Dans ce cas, les biens vendus resteront sous la main de la nation, et seront administrés pour le compte de l'acquéreur, jusqu'à ce qu'il puisse être mis en possession par le paiement du prix.
