@@ -1,0 +1,3 @@
+# Art. 63. Amendes d’ordre.
+
+Les personnes en charge de l’administration ou de la gestion des établissements soumis à la surveillance de l’IML en vertu de la présente loi ainsi que les personnes physiques soumises à cette même surveillance, peuvent être frappées par l’IML d’une amende d’ordre de 5.000 à 500.000 francs au cas où elles refusent de fournir les documents comptables ou autres renseignements demandés ou lorsque ceux-ci se révèlent être incomplets, inexacts ou faux; au cas où elles empêchent ou entravent les inspections de l’IML; au cas où elles contreviennent aux règles régissant les publications des bilans et situations comptables; au cas où elles ne donnent pas suite aux injonctions de l’IML.

@@ -1,0 +1,7 @@
+# Art. 52. Les tableaux officiels et la protection des titres.
+
+- (1) L’IML tient les tableaux officiels des établissements de crédit et des autres catégories de professionnels du secteur financier autorisés à exercer leur activité au moyen d’un établissement au Luxembourg et soumis à sa surveillance.A cet effet, le Ministre compétent lui délivre une expédition des décisions d’agrément et de retrait. Les différents tableaux officiels sont établis et publiés au Mémorial au moins à chaque fin d’année.
+
+- (2) Les personnes autres que celles inscrites sur un tableau officiel ne peuvent se prévaloir d’un titre ou d’une appellation donnant l’apparence qu’elles seraient autorisées à exercer l’une des activités réservées aux personnes inscrites sur l’un de ces tableaux. Cette interdiction ne s’applique pas lorsque toute induction en erreur est exclue; ou lorsqu’il s’agit d’une succursale ou d’un prestataire de services d’origine étrangère, dûment autorisé à exercer ses activités au Luxembourg et faisant usage d’un titre ou d’une appellation qu’il est autorisé à utiliser dans son pays d’origine. Ces personnes doivent cependant faire suivre le titre ou l’appellation qu’elles utilisent d’une spécification adéquate s’il existe un risque d’induction en erreur.
+
+- (3) Nul ne peut faire état à des fins commerciales de son inscription sur un tableau officiel et de sa soumission à la surveillance de l’IML.

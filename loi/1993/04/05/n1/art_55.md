@@ -1,0 +1,5 @@
+# Art. 55. Les documents comptables.
+
+- (1) A défaut de dispositions législatives spécifiques régissant la publicité des comptes annuels et comptes consolidés ainsi que des documents comptables des succursales, l’IML fixe les règles régissant le contenu, le dépôt et la publication des documents comptables des personnes soumises à sa surveillance. Les communications ou dépôts prévus par une loi ou un règlement, et en général toute publication de la situation financière d’une personne soumise à la surveillance de l’IML, ne peuvent être faits que dans les formes ainsi prescrites.
+
+- (2) S’il n’en est pas autrement disposé par une loi spécifique, les comptes annuels et les comptes consolidés régulièrement approuvés, le rapport de gestion et le rapport de gestion consolidé, les rapports établis par la personne chargée du contrôle des comptes annuels et des comptes consolidés ainsi que les documents comptables des succursales doivent être déposés au greffe du tribunal dans le mois de l’approbation.

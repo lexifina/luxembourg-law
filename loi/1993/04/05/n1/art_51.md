@@ -1,0 +1,3 @@
+# Art. 51. Les modalités de la surveillance sur une base consolidée par une autorité étrangère.
+
+Si dans le cadre de la surveillance sur une base consolidée une autorité de contrôle étrangère veut, dans des cas déterminés, vérifier des informations portant sur un établissement de crédit soumis à la surveillance de l’IML, elle en adresse la demande à l’IML, qui y donne suite, soit en procédant lui-même à la vérification demandée, soit en désignant à cet effet et à charge de l’établissement un réviseur ou un expert. Ces vérifications ne peuvent porter que sur les informations nécessaires à la surveillance sur une base consolidée et elles ne peuvent être utilisées à une autre fin.

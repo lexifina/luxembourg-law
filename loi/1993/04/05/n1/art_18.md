@@ -1,0 +1,5 @@
+# Art. 18. L’actionnariat.
+
+- (1) L’agrément est subordonné à la communication à l’IML de l’identité des actionnaires ou associés, directs ou indirects, personnes physiques ou morales, qui détiennent dans l’établissement à agréer une participation qualifiée ou leur permettant d’exercer une influence significative sur la conduite des affaires, et du montant de ces participations. La qualité desdits actionnaires ou associés doit donner satisfaction, compte tenu du besoin de garantir une gestion saine et prudente de l’établissement.
+
+- (2) L’agrément est subordonné à ce que la structure de l’actionnariat direct et indirect de l’établissement soit transparente et soit organisée de telle façon que les autorités responsables pour la surveillance prudentielle de l’établissement et le cas échéant du groupe auquel il appartient sont clairement déterminées; que cette surveillance peut s’exercer sans entrave; et qu’une surveillance sur une base consolidée du groupe auquel l’établissement appartient est assurée.
