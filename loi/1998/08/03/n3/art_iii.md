@@ -1,0 +1,9 @@
+# Art. III.
+
+1) Le point 4) du Cbapitre I. – Dispositions modificatives de l'Article X de la loi du 11 août 1996 sur la mise en état en matière de procédure civile contentieuse, est abrogé.
+
+2) Au Chapitre Il. – Dispositions abrogatoires de l'Article X de la loi du 11 août 1996 sur la mise en état en matière de procédure civile contentieuse, les 13°, 14°, et 15° tirets du point 1) se lisent comme suit: l'article 543 du Titre V du Livre V l'article 549 du Titre VI du Livre V l'article 553 du Titre VI du Livre V.
+
+3) A l'article XI de la loi du 11 août 1996 sur la mise en état le 4ième alinéa est complété comme suit: Le Grand-Duc est habilité à coordonner le texte du code de procédure civile. L'ordonnance et la numérotation des livres, titres, chapitres, sections, sous-sections, articles, paragraphes et alinéas, même non modifiés, pourront être changées. Le Grand-Duc est encore habilité à adapter les références contenues au nouveau code de procédure civile, qui entrera en vigueur le 16 septembre 1998.
+
+4) Les paragraphes (3) et (4) de l'Article XIII – Dispositions transitoires – de la loi du 11 août 1996 sur la mise en état sont modifiés comme suit: (3) Par dérogation à l'article 25 alinéa 1er de la loi modifiée du 7 mars 1980 sur l'organisation judiciaire, le tribunal d'arrondissement de Luxembourg comprend jusqu'au 15 septembre 2000 douze chambres. La chambre temporaire se consacrera exclusivement aux jugements des affaires civiles autres que les affaires de divorce. (4) Par dérogation à l'article 39, paragraphe (2) de la loi modifiée du 7 mars 1980 sur l'organisation judiciaire, la cour d'appel comprend jusqu'au 15 septembre 2000 neuf chambres. La chambre temporaire se consacrera exclusivement aux jugements ayant statué en matière civile ou commerciale autres que les appels en matière de divorce et les appels de référé.
