@@ -1,0 +1,3 @@
+# Art. VIII.
+
+L'article 273 du code civil est remplacé par les dispositions suivantes: Art. 273. Dans l'un et l'autre cas, le demandeur sera déclaré non recevable en son action; il pourra néanmoins en intenter une autre pour des causes survenues ou découvertes après la reconciliation, les causes anciennes pouvant alors être invoquées à l'appui de la nouvelle demande. Ne produit pas l'effet extinctif de la réconciliation un maintien temporaire de la vie commune, si les époux n'y avaient consenti que par nécessité, ou pour tenter de se concilier, ou pour mener l'éducation des enfants à son terme.

@@ -1,0 +1,3 @@
+# Art. Vllbis.
+
+L'article 267bis est modifié et complété comme suit: Art. 267bis. Le président statuant en référé, le ministère public entendu, connaît dès le dépôt de la demande en divorce au greffe des mesures provisoires relatives à la personne, aux aliments et aux biens, tant des parties que des enfants, y compris le recours réglé par les articles 864 - 1 à 864 - 6 du code de procédure civile. Le procureur d'Etat peut prendre tous renseignements utiles concernant la situation morale et matérielle des enfants. L'information est en tout cas, communiquée aux partis. Dès le dépôt de la demande au greffe, le président statuant en référé, est compétent pour prendre les mesures provisoires prévues au présent article.
