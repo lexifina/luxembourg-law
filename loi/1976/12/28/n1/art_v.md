@@ -1,0 +1,3 @@
+# Art. V.
+
+Les articles 1779, 1792 et 2270 du code civil sont ainsi modifiés: Art. 1779-3. Celui des architectes, entrepreneurs d'ouvrages et techniciens par suite d'études, devis ou marchés. Art. 1792. Si l'édifice périt en tout ou en partie par le vice de la construction, même par le vice du sol, les architectes, entrepreneurs et autres personnes liées au maître de l'ouvrage par un contrat de louage d'ouvrage en sont responsables pendant dix ans. Art. 2270. Les architectes, entrepreneurs et autres personnes liées au maître de l'ouvrage par un contrat de louage d'ouvrage sont déchargés de la garantie des ouvrages qu'ils ont faits ou dirigés après dix ans, s'il s'agit de gros ouvrages, après deux ans pour les menus ouvrages.
