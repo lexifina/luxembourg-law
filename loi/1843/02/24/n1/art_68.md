@@ -1,0 +1,5 @@
+# ART. 68.
+
+Outre les obligations résultant pour le secrétaire de l’art. 26, il est chargé de la rédaction des procès-verbaux des séances du collége des bourgmestre et échevins, ainsi que de la correspondance. Il tient à cet effet deux registres, cotés et paraphés par le bourgmestre, l’un pour les procès-verbaux et l’autre pour la correspondance. Les procès-verbaux transcrits sont signés par le bourgmestre et par le secrétaire.
+
+Il prête, en général, assistance au conseil communal, au collége des bourgmestre et échevins, et au bourgmestre en particulier, ainsi qu’à toutes les commissions déléguées par l’administration communale ou par l’autorité supérieure, en tenant la plume et en faisant les écritures dans toutes les opérations dont les uns et les autres sont chargés dans l’exercice de leurs fonctions. Il peut également être chargé des écritures des actes de l’état-civil, sous la surveillance et la responsabilité de l’officier désigné à cet effet, qui seul doit signer les extraits et expéditions de ces actes.
