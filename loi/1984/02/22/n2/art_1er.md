@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 910 du code civil est modifié comme suit: Les dispositions entre vifs ou par testament au profit de l'Etat et des autres personnes morales de droit public, à l'exception des communes, syndicats de communes et établissements publics ou d'utilité publique placés sous la surveillance des communes, n'auront leur effet qu'autant qu'elles seront autorisées par un arrêté grand-ducal. Cette autorisation ne sera pas requise pour l'acceptation des libéralités mobilières dont la valeur n'excède pas cinq cent mille francs. L'acceptation des libéralités soumises à autorisation et leur demande en délivrance pourront être faites provisoirement, à titre conservatoire. L'autorisation qui interviendra ensuite aura effet du jour de cette acceptation.
