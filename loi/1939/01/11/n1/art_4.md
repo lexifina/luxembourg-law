@@ -1,0 +1,3 @@
+# Art. 4.
+
+Les trois dernières phrases du numéro 3 de l'art. 1er de la loi du 13 mars 1870 sur l'extradition des malfaiteurs étrangers, sont remplacées par les dispositions suivantes: pour faux commis dans les passeports, feuilles de route, certificats, papiers de légitimation, permis, autorisation et agréations (art. 198,199, 200 à 202, 204 à 207 C. p.); pour usage de passeports, papiers de légitimation, permis, autorisations, agréations, feuilles de route et certificats fabriqués, contrefaits, falsifiés ou altérés (art. 198, 199, 200, 205, 207 C. p.); pour achat, vente, acquisition ou cession même gratuite de papiers de légitimation, permis, autorisations et agréations (art. 199bis C. p.).
