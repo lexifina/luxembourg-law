@@ -1,0 +1,3 @@
+# Art. unique.
+
+L'article 2 de la loi du 31 décembre 1952 portant abrogation de la loi du 18 mai 1902 concernant l'institution des médecins-inspecteurs et l'exercice de leurs attributions et nouvelle organisation du service des médecins-inspecteurs, telle qu'elle a été modifiée par la loi du 28 juillet 1971, est abrogé et remplacé par la disposition suivante: Art. 2. Les candidats au poste de médecin-inspecteur ou de médecin-inspecteur adjoint doivent être autorisés à exercer la profession de médecin au Luxembourg, suivant les dispositions légales en vigueur au moment où il est pourvu à la vacance de poste. Ils ne doivent pas avoir dépassé l'âge de quarante-cinq ans.
