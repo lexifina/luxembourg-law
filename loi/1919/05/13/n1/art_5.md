@@ -1,0 +1,3 @@
+# Art. 5.
+
+Le Gouvernement aura la latitude d'appliquer, par voie de rétroactivité, les faveurs de la présense loi à certains agents provisoires nommés définitivement depuis la promulgation de la loi du 29 juillet 1913, sur la révision des traitements, mais qui, par suite de cette nomination, ont acquis une situation de fait moins avantageuse que celle dont ils auraient pu bénéficier, s'ils étaient restés employés temporaires et encore la faveur de la pension aux ayants cause d'agents provisoires morts avant le 1er janvier 1917, mais ayant rempli à la date de leur décès les autres conditions d'applicabilité exigées par l'art. 1er de la loi.
