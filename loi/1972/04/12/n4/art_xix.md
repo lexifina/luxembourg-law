@@ -1,0 +1,3 @@
+# Art. XIX.
+
+Les postes supplémentaires de greffiers prévus par la présente loi ne pourront être occupés que: pour la justice de paix de Luxembourg en ce qui concerne le premier poste supplémentaire lorsqu'un des anciens greffes aura effectivement été supprimé et en ce qui concerne le deuxième poste supplémentaire lorsque trois des anciens greffes auront effectivement été supprimés, pour la justice de paix d'Esch-sur-Alzette, lorsque le greffe du canton de Capellen aura effectivement été supprimé, et pour la justice de paix de Diekirch, en ce qui concerne le premier poste supplémentaire, lorsque deux des anciens greffes auront effectivement été supprimés, et en ce qui concerne le deuxième poste supplémentaire, lorsque tous les anciens greffes auront été supprimés.

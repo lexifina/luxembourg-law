@@ -1,0 +1,5 @@
+# Art. XV.
+
+Les greffiers en chef et les greffiers des justices de paix en fonction au moment de l'entrée en vigueur de la présente loi et qui n'obtiennent pas de nomination dans le cadre prévu par l'article 8 de la loi du 18 février 1885 sur l'organisation judiciaire, telle qu'elle a été modifiée dans la suite peuvent être nommés à un emploi de greffier auprès d'un tribunal d'arrondissement ou d'une autre justice de paix même par dépassement des effectifs prévus par la loi.
+
+L'emploi occupé en sur-nombre sera supprimé lors de la prochaine vacance d'emploi.

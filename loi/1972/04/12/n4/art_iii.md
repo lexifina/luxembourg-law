@@ -1,0 +1,3 @@
+# Art. III.
+
+L'article 2 de l'arrêté grand-ducal du 31 décembre 1938 ayant pour objet la création de conseils de prud'hommes est modifié comme suit: Art. 2. Ces contestations sont vidées par trois conseils de prud'hommes, siégeant à Luxembourg, Esch-sur-Alzette et Diekirch, au siège de la justice de paix. La circonscription de ces tribunaux est fixée comme suit: le conseil de prud'hommes de Luxembourg comprendra les cantons de Luxembourg, Grevenmacher, Mersch et Remich; celui d'Esch-sur-Alzette comprendra les cantons d'Esch-sur-Alzette et de Capellen; celui de Diekirch comprendra les cantons de Diekirch, Clervaux, Echternach, Redange, Vianden et Wiltz.
