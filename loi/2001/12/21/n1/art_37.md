@@ -1,0 +1,3 @@
+# Art. 37.- Modification de la loi du 15 décembre 1993 déterminant le cadre du personnel des administrations, des services et des juridictions de la sécurité sociale
+
+A l'article 1er de la loi modifiée du 15 décembre 1993 déterminant le cadre du personnel des administrations, des services et des juridictions de la sécurité sociale, le nombre total des emplois prévus au paragraphe 1. est porté à quinze unités; les nombres totaux prévus au paragraphe 2 sont portés à quatre pour la carrière du médecin-conseil adjoint, à quatre pour la carrière du psychologue, à trois pour la carrière de l'assistant d'hygiène sociale ou de l'assistant social et à trois pour la carrière de l'ergothérapeute et à quatre pour la carrière de l'infirmier.
