@@ -1,3 +1,0 @@
-# ART. 22.
-
-Les conducteurs suivent, dans ses détails, l’exécution des travaux dont la surveillance leur est confiée. Ils exercent un contrôle vigilant et sévère sur les entrepreneurs et sur leurs agens, tiennent les états d’ouvriers, visitent et reçoivent les matériaux, et veillent à leur emploi ; ils aident les ingénieurs à faire les métrés, vérifications, dessins et nivellemens, à lever les plans, sonder les rivières, et dans toutes les autres opérations qu’exige le service. Ils les secondent enfin avec zèle dans l’accomplissement de la tâche qui leur est imposée, à quel effet ils communiqueront aux ingénieurs, non-seulement les renseignemens que ces derniers leur demandent, mais encore tous ceux qu’ils jugent utiles de porter à leur connaissance.
