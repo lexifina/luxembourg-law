@@ -1,0 +1,7 @@
+# Art. 14. Dispositions transitoires
+
+(1) Les oppositions faites sur un titre visé à l'article 1er de la présente loi, conformément aux procédures prévues par la loi du 16 mai 1891 concernant la perte des titres au porteur ou par la convention du 28 mai 1970 relative à l'opposition sur titres au porteur à circulation internationale, avant l'entrée en vigueur de la présente loi, sont valablement faites. Pour l'avenir, elles sont soumises aux dispositions de la présente loi. Les garanties fournies par l'opposant sur base de la législation antérieure sont libérées au moment de la déchéance du titre, à moins que l'opposant ne les libère plus tôt en remboursant les paiements obtenus sous la couverture de ces garanties. En aucun cas, la déchéance d'un titre frappé d'opposition sous la législation antérieure, ne peut intervenir avant le 1er janvier suivant l'entrée en vigueur de la présente loi.
+
+(2) Aux fins de l'application du paragraphe précédent, toutes les indications utiles sont communiquées à l'organisme de centralisation spontanément par le service jusqu'ici compétent ou, sur demande, par les émetteurs des titres frappés d'opposition ou par les établissements chargés du service financier de ces titres. Les services jusqu'ici compétents disposent d'un délai de six mois pour accomplir la communication à l'organisme de centralisation de toutes les informations utiles sur les oppositions existantes.
+
+(3) La présente loi entre en vigueur le premier jour du deuxième mois suivant sa publication.
