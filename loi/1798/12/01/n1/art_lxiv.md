@@ -1,0 +1,3 @@
+# LXIV.
+
+Tous agens municipaux, percepteurs de communes administrateurs municipaux, membres de bureau central, préposés aux recettes municipales et communales, et secrétaires de municipalités, en leur qualité de receveurs, qui ne rendraient pas compte dans les délais respectivement fixés par les articles LVIII, LIX, et LXI, seront dénoncés par l'administration centrale au commissaire du Directoire exécutif près le tribunal civil du département, et sauf néanmoins l'autorisation du Directoire exécutif à l'égard des agens administrateurs municipaux et membres du bureau central, lesquels seront préalablement suspendus de tout exercice.
