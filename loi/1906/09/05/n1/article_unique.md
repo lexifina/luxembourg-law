@@ -1,0 +1,3 @@
+# Article unique.
+
+Est approuvée la convention passée à la date du 28 mars 1905 entre l'Etat du Grand-Duché d'une part, et la Société anonyme dos Chemins de fer et Minières Prince-Henri d'autre part, au sujet de la rétrocession de 35 hectares de terrains miniers situés aux lieux dits «In Hengen Berensloch, auf der Wolfskaul, auf Defendahl, auf Kesseleschberg, Scheuergrund, Scheuerberg, auf Scheuerberg, beim Bau, Scheucroicht, auf Soibel, in den zehn Tagen, Keh Feld, in der Piekesch Oicht, im Goibringer Weg, im Freifeld, auf Redenschleid et Stauwelsheck», bau de Differdange, et de la concession d'une même contenance de terrains miniers situés au lieu dit «Grand Bois», même ban, plus amplement spécules à la dite convention.
