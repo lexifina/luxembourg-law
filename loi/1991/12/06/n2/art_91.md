@@ -1,0 +1,3 @@
+# Art. 91.
+
+Après avoir pris l’avis du Conseil d’Etat et obtenu l’assentiment de la commission de travail de la Chambre des Députés et après délibération du Gouvernement en Conseil et sous le contreseing du membre du Gouvernement ayant dans ses attributions les affaires étrangères, le Grand-Duc est habilité, pour assurer l’exécution d’accords conclus par la Communauté avec un ou plusieurs pays tiers, à dispenser les entreprises étrangères visées par ces accords de tout ou partie des dispositions de la présente loi ou à leur appliquer des modalités différentes en vue d’assurer une protection suffisante des assurés.
