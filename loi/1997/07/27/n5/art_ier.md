@@ -1,0 +1,33 @@
+# Art. Ier.
+
+Les dispositions du Code civil sont modifiées comme suit:
+
+1) L'article 236 est abrogé et remplacé par les dispositions suivantes: Art. 236. La cause est introduite, instruite et jugée dans la forme ordinaire, le ministère public entendu. Outre les mentions prévues à l'article 61 du code de procédure civile, l'assignation contient, à peine de nullité, une description détaillée des faits et, le cas échéant, la mention de l'identité des enfants mineurs, non mariés ni émancipés. Le demandeur joint au rôle les pièces suivantes: 1º un extrait de l'acte de mariage; 2º un extrait des actes de naissance des enfants. L'assignation peut contenir également les demandes relatives aux mesures provisoires concernant la personne, les aliments et les biens tant des parties que de leurs enfants. Dans ce cas la cause est également portée à l'audience du président, ou du juge qui le remplace, statuant en référé.
+
+2) L'article 243 est abrogé et remplacé par les dispositions suivantes: Art. 243. Les demandes ampliatives et reconventionnelles en divorce peuvent être formées par un simple acte de conclusions. Ces demandes ne sont point considérées comme des demandes nouvelles.
+
+3) L'article 258 est modifié comme suit: Art. 258. Le dispositif du jugement ou de l'arrêt qui prononce le divorce doit énoncer la date de l'assignation. Cette date figurera dans la mention marginale et dans la transcription faites en application de l'article 264.
+
+4) L'article 267 est modifié comme suit: Art. 267. L'administration provisoire de la personne et des biens des enfants restera aux père et mère, ainsi qu'il est prévu aux articles 372 et 389, sous réserve des décisions qui seraient rendues pour le plus grand avantage des enfants par le président, ou le juge qui le remplace, statuant en référé, sur la demande, soit des parties ou de l'une d'elles, soit du procureur d'Etat.
+
+5) L'article 267bis, alinéa 1er est complété d'une phrase libellée comme suit: Dans l'intérêt des enfants mineurs, Ie juge peut tenir compte des sentiments exprimés par eux dans les conditions de l'article 388-1.
+
+6) Les articles 270 et 271 sont modifiés comme suit: Art. 270. L'un ou l'autre des époux peut, en tout état de cause, à partir de la date de l'assignation, prendre pour la garantie de ses droits des mesures conservatoires, notamment requérir l'apposition des scellés sur les biens de la communauté. Ces scellés sont levés à la requête de la partie la plus diligente; les objets et valeurs sont inventoriés et prisés; l'époux qui est en possession en est constitué gardien judiciaire. Art. 271. Toute obligation contractée par un des époux à la charge de la communauté, toute aliénation des biens communs faite par lui dans la limite de ses pouvoirs, postérieurement à la date de l'assignation, sera déclarée nulle, s'il est prouvé qu'il y a eu fraude aux droits de l'autre époux.
+
+7) L'article 277, point 4º, est complété d'un deuxième alinéa libellé comme suit: Sont présumées vivre en communauté de vie les personnes qui vivent dans le cadre d'un foyer commun.
+
+8) Les articles 237, 238, 239, 240, 241, 282 sont abrogés.
+
+9) L'article 283 est modifié comme suit: Art. 283. Dans le mois du jour où seront révolus six mois à compter de la première déclaration, les époux se présenteront ensemble et en personne devant le président du tribunal ou le juge qui en exerce les fonctions et requerront du magistrat, chacun séparément, en présence néanmoins l'un de l'autre la prononciation du divorce.
+
+10) L'article 286 est modifié comme suit: Art. 286. Si le procureur d'Etat trouve dans les pièces la preuve que les époux étaient âgés de vingt-trois ans, Iorsqu'ils ont fait leur première déclaration, qu'à cette époque ils étaient mariés depuis deux ans, que le consentement mutuel a été exprimé après les préalables ci-dessus prescrits et avec toutes les formalités requises par le présent chapitre, il donnera ses conclusions en ces termes «La loi permet»; dans le cas contraire, ses conclusions seront en ces termes: «La loi empêche»
+
+11) L'article 296 est modifié comme suit: Art. 296. La femme divorcée pourra se remarier aussitôt que le jugement ou l'arrêt ayant prononcé le divorce sera devenu définitif si toutefois il s'est écoulé trois cents jours depuis l'assignation en divorce. Ce délai prendra fin en cas d'accouchement survenu après l'assignation.
+
+12) Le paragraphe (3) de l'article 300 est complété par un deuxième alinéa libellé comme suit: Sont présumées vivre en communauté de vie les personnes qui vivent dans le cadre d'un foyer commun.
+
+13) L'article 302 est modifié comme suit: Art. 302. Le tribunal statuant sur Ie divorce confiera la garde des enfants, suivant ce qu'exigera l'intérêt des enfants, soit à l'un ou à l'autre des époux, soit à une tierce personne, parente ou non, l'autorité parentale étant exercée conformément aux articles 378 et 389. En cas de divorce prononcé sur base des articles 229, 23o, 231 et en cas de divorce par consentement mutuel, le tribunal de la jeunesse pourra toujours, dans la suite, déterminer, modifier ou compléter le droit de garde pour le plus grand avantage de l'enfant. Un droit de visite et d'hébergement ne pourra être refusé que pour des motifs graves à celui des père et mère qui n'a pas obtenu la garde des enfants. Dans l'intérêt des enfants mineurs, le juge peut tenir compte des sentiments exprimés par eux dans les conditions de l'article 388-1.
+
+14) L'article 313 est modifié comme suit: Art. 313. En cas de jugement ou même de demande, soit de divorce, soit de séparation de corps, la présomption de paternité ne s'applique pas à l'enfant né plus de trois cents jours après l'assignation dont il est fait mention à l'article 236 ou la déclaration prévue à l'article 278, et moins de cent quatre-vingts jours depuis le rejet définitif de la demande ou depuis la réconciliation. La présomption de paternité retrouve néanmoins, de plein droit, sa force si l'enfant, à l'égard des époux, a la possession d'état d'enfant légitime.
+
+15) L'article 388-1 est modifié comme suit: Art. 388-1. (1) Dans toute procédure le concernant, le mineur capable de discernement peut, sans préjudice des dispositions prévoyant son intervention ou son consentement, être entendu par Ie juge ou la personne désignée par le juge à cet effet. (2) Lorsque le mineur en fait la demande, son audition ne peut être écartée que par une décision spécialement motivée. (3) Le mineur peut être entendu seul, avec son avocat ou une personne de son choix. Si ce choix n'apparaît pas conforme à l'intérêt du mineur, le juge peut procéder à la désignation d'une autre personne. (4) L'audition du mineur se fait en chambre du conseil. (5) L'audition du mineur ne lui confère pas la qualité de partie à la procédure
