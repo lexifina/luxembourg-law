@@ -1,0 +1,3 @@
+# Article unique.
+
+L'article 269 du code pénal est abrogé et remplacé par la disposition suivante: Art. 269. Est qualifiée rébellion, toute attaque, toute résistance avec violences ou menaces envers les officiers ministériels, les gardes champêtres ou forestiers, les dépositaires ou agents de la force publique, les membres du personnel effectuant le service de garde et les chefs d'atelier des établissements pénitentiaires, les préposés à la perception des taxes et des contributions, les porteurs de contrainte, les préposés des douanes, les séquestres, les officiers ou agents de la police administrative ou judiciaire, agissant pour l'exécution des lois, des ordres ou ordonnances de l'autorité publique, des mandats de justice ou jugements.
