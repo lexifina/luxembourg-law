@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Le paragraphe 11 de la loi de l'impôt commercial du 1er décembre 1936 est remplacé par les dispositions suivantes: Pour la détermination de l'impôt commercial selon le bénéfice d'exploitation, il est fait état d'une base d'assiette qui correspond à quatre pour cent du bénéfice d'exploitation établi selon les dispositions du paragraphe 7 et ajusté comme prévu à l'alinéa 2. Le bénéfice d'exploitation est, pour la détermination de la base d'assiette, arrondi au multiple inférieur de mille francs et diminué à concurrence d'un abattement de quatre cent mille francs pour les contribuables non passibles de l'impôt sur le revenu des collectivités ou de deux cent mille francs pour les autres contribuables.

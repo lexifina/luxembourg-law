@@ -1,0 +1,3 @@
+# Art. 2.
+
+Le paragraphe 13 de la loi précitée est remplacé par les dispositions suivantes: Pour la détermination de l'impôt commercial selon le capital d'exploitation, il est fait état d'une base d'assiette qui correspond à deux pour mille du capital d'exploitation établi selon les dispositions du paragraphe 12 et ajusté comme prévu à l'alinéa 2. Le capital d'exploitation est, pour la détermination de la base d'assiette, arrondi au multiple inférieur de dix mille francs et, en ce qui concerne les contribuables non passibles de l'impôt sur le revenu des collectivités, diminué à concurrence d'un abattement de sept cent mille francs.

@@ -1,0 +1,3 @@
+# Art. 3.
+
+Le paragraphe 23, alinéa 2 de la loi précitée est remplacé par les dispositions suivantes: Le total des salaires qui n'excède pas huit cent mille francs par contribuable et par exercice n'est pas pris en considération.Lorsqu'il est compris entre huit cent mille francs et deux millions quatre cent mille francs, il est à diminuer de la moitié de son complément à deux millions quatre cent mille francs. Lorsque l'assujettissement du contribuable à l'impôt a existé durant moins de quatre trimestres, les limites précitées sont à réduire en proportion des trimestres d'assujettissement à l'impôt.
