@@ -1,0 +1,3 @@
+# Art. 28. Délimitation des services financiers postaux
+
+La prestation de services financiers postaux par l'entreprise des postes et télécommunications, au Grand-Duché et à l'étranger, comporte les services financiers, y compris la réception de dépôts ou d'autres fonds remboursables du public, en rapport avec les chèques et virements postaux et les comptes courants y associés. Sans préjudice de l'application de l'article suivant de la présente loi, cette activité peut s'étendre à toutes les activités autorisées pour les professionnels du secteur financier de droit luxembourgeois autres que les établissements de crédit.
