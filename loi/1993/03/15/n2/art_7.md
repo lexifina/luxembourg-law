@@ -1,0 +1,3 @@
+# Art. 7.
+
+Il est ajouté à l'article 157 de la loi du 4 décembre 1967 concernant l'impôt sur le revenu un alinéa (8) libellé comme suit: Par dérogation aux dispositions qui précèdent, un règlement grand-ducal pourra prévoir l'imposition forfaitaire à charge du débiteur des revenus versés à des non-résidents en rapport avec leurs activités exercées au Grand- Duché à l'occasion de la production ou de la postproduction d'oeuvres audiovisuelles. Le taux de l'imposition forfaitaire ne pourra pas être inférieur à 10%. La retenue d'impôt forfaitaire peut être perçcue, le cas échéant, par dérogation aux articles 136 et 137 de la loi du 4 décembre 1967 concernant l'impôt sur le revenu et aux dispositions d'exécution des articles en question.
