@@ -1,0 +1,3 @@
+# Art. III:
+
+Le paragraphe (4) de l'article 1er de la loi du 31 mai 1999 régissant la domiciliation des sociétés est remplacé par le texte suivant: (4) Le présent article ne s'applique pas: à la domiciliation d'une société auprès d'une personne qui est elle-même un associé exerçant une influence significative sur la conduite des affaires de la société; à la domiciliation d'une société d'investissement ou de tout autre organisme de placement collectif ayant la forme juridique d'une société commerciale, auprès d'une société de gestion d'organismes de placement collectif; à la domiciliation d'une société de gestion d'organismes de placement collectif auprès d'une autre société de gestion d'organismes de placement collectif.
