@@ -1,0 +1,3 @@
+# Art. II.
+
+La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat est modifiée comme suit: A l'article 22, la mention 'le secrétaire du Grand-Duc' est supprimée à la section IV. 9 et ajoutée à la section VIII. b); A l'Annexe A - Classifications des fonctions - rubrique I.Administration Générale au grade 17, la mention 'Secrétariat du Grand-Duc - secrétaire' est supprimée et ajoutée au grade 18; A l'Annexe D - Détermination - rubrique I.Administration Générale, grade de computation 12, la mention 'secrétaire du Grand-Duc' est supprimée au grade 17 et ajoutée au grade 18.
