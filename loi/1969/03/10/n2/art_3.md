@@ -1,0 +1,3 @@
+# Art. 3.
+
+Il est ajouté à la loi budgétaire du 23 décembre 1967 un nouvel article 17 libellé comme suit: Art. 17. (1) Par dérogation à l'article 7 de la loi du 27 juillet 1936 concernant la comptabilité de l'Etat, tel qu'il a été modifié par la loi du 30 mars 1968, la date de la clôture définitive de l'exercice 1968 est prorogée jusqu'au 31 mai 1969 pour l'ordonnancement et la liquidation des dépenses qui figurent au budget rectifié de 1968 et qui ont été engagées avant le 31 décembre 1968 ou qui sont dues pour la période antérieure au 31 décembre 1968. (2) Par dérogation à l'article 42 de la même loi, le délai de trois mois prévu pour la prescription des créances résultant du budget rectifié de 1968 est prorogé d'un mois.
