@@ -1,0 +1,3 @@
+# Art. 85. — (Art. 102.) —
+
+Sur sa demande, le contribuable dont le bénéfice agricole devrait être déterminé d’après le régime forfaitaire, sera imposé d’après le bénéfice agricole réel, à condition que le bénéfice ressorte d’une comptabilité régulière et qu’il soit d’au moins vingt pour-cent inférieur au bénéfice forfaitaire. Dans ce cas, le contribuable sera imposé d’après le bénéfice réel pendant l’année considérée et les cinq années subséquentes d’imposition. La demande dont question devra être introduite, sous peine de déchéance, dans le délai à prévoir pour la production des déclarations d’impôt.

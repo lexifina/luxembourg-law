@@ -1,0 +1,3 @@
+# Art. 125. — (Art. 152octiès.) —
+
+Lorsque la moyenne des indices pondérés des prix à la consommation des six premiers mois d’une année accuse, par rapport à la moyenne des indices des six premiers mois de l’année précédant l’entrée en vigueur du tarif, une variation de cinq pour-cent au moins, le gouvernement proposera au Grand-Duc d’inclure dans le projet de loi budgétaire pour l’exercice suivant un projet de tarif de l’impôt sur le revenu des personnes physiques revisé en raison de la variation de l’indice pondéré des prix à la consommation. La proposition sera accompagnée d’une estimation de la moins-value de recettes budgétaires que l’adoption du tarif revisé est susceptible d’entraîner.

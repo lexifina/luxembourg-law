@@ -1,0 +1,3 @@
+# Art. 83. — (Art. 100.) —
+
+Le régime forfaitaire sera basé sur le rendement annuel moyen pouvant être obtenu avec utilisation exclusive d’un personnel salarié étranger et prévoira notamment les ajustements requis pour tenir équitablement compte de la valeur locative d’habitation, de l’activité effective et nécessaire dans l’exploitation du contribuable et des membres de sa famille, des fermages pour les terres prises ou données à ferme, des dépenses d’exploitation consistant en intérêts passifs et autres charges permanentes, des produits accessoires d’une certaine importance, tels que ceux provenant de cultures particulières ou d’exploitations agricoles accessoires.

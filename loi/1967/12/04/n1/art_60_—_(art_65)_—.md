@@ -1,0 +1,7 @@
+# Art. 60. — (Art. 65.) —
+
+Lorsque, en échange de ses titres de capital, une personne physique ou une entreprise commerciale collective, associée d’une société de capitaux ou d’une société coopérative, reprend l’entreprise ou une partie autonome d’entreprise de la société de capitaux ou de la société coopérative, l’évaluation initiale des biens d’actif repris ne peut être supérieure et celle des dettes reprises ne peut être inférieure à la valeur d’exploitation. En outre, l’évaluation initiale prévisée ne peut, dans son ensemble, être inférieure au prix d’acquisition ou à la valeur comptable nette des titres de capital que dans la mesure où la somme des valeurs d’exploitation des biens repris y est inférieure, sauf à tenir compte d’une soulte éventuelle.
+
+Les valeurs alignées en conformité des prescriptions de l’alinéa qui précède sont à considérer comme prix initiaux d’acquisition ou de revient. Leur somme, compte tenu d’une soulte éventuelle, constitue le prix de cession des titres de capital échangés. Toutefois, lorsque la reprise fait cesser l’assujettissement à l’impôt de l’entreprise ou de la partie autonome d’entreprise en cause, le prix de cession des titres de capital est formé par leur valeur estimée de réalisation.
+
+Les dispositions du présent article sont applicables lorsqu’une société de capitaux ou une société coopérative se transforme en une entreprise commerciale collective ou lorsqu’elles se scindent en plusieurs entreprises commerciales collectives.
