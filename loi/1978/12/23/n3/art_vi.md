@@ -1,0 +1,3 @@
+# Art. VI.
+
+L'article 10 de la loi du 30 juillet 1960 créant un Fonds National de Solidarité, tel qu'il a été modifié par la loi du 28 février 1964, est remplacé par la disposition suivante: Art. 10. Les pensions de solidarité ne peuvent être ni cédées ni mises en gage ni saisies. Elles pourront cependant être cédées, mises en gage ou saisies sans limitation pour couvrir: les avances sur ces pensions faites au titulaire par une institution de droit public entre l'échéance et l'ordonnancement de la pension; les créances qui compétent aux communes et établissements de bienfaisance pour secours fournis depuis que la pension était due.
