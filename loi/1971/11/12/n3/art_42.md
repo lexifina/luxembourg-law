@@ -1,0 +1,3 @@
+# Art. 42.
+
+L'appel sera jugé par la chambre d'appel de la jeunesse, constituée d'un magistrat de la cour supérieure de justice nommé à cet effet, sur les propositions de la cour, par arrêté grand-ducal pour un terme de trois ans. Son mandat est renouvelable. En cas d'empêchement du titulaire, il lui sera désigné un remplaçant par le président de la cour supérieure de justice. Les fonctions du ministère public près la chambre d'appel sont exercées par un magistrat du parquet de la cour, désigné par le procureur général. La chambre d'appel est assistée par un greffier de la cour. Elle pourra prendre les mesures prévues aux articles 36 et 38.
