@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 4 de la loi du 13 janvier 1843 sur la compétence des tribunaux pour juger les contraventions en matière de grande voirie, et sur les autorisations de faire des constructions ou des plantations le long des routes est complété comme suit: L'appel contre la décision portant refus d'autorisation est ouvert auprès du Conseil d'Etat, Comité du Contentieux, qui statue en dernière instance et comme juge du fond. L'appel doit être interjeté sous peine de déchéance dans le délai d'un mois à partir de la notification de la décision. Lorsque le délai de deux mois visé à l'alinéa premier s'est écoulé sans qu'il soit intervenu une décision, l'impétrant pourra considérer sa demande comme rejetée et se pourvoir devant le Conseil d'Etat, Comité du Contentieux.
