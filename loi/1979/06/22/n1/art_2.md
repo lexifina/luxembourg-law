@@ -1,0 +1,3 @@
+# Art. 2.
+
+L'article 4 de la loi précitée du 16 août 1967 telle qu'elle a été modifiée et complétée par la loi du 29 août 1972 est complété par un alinéa nouveau libellé de la façon suivante: Les conditions inscrites à l'article 3 et aux alinéas 1, 2, 3 et 4 du présent article ne sont pas applicables au tronçon de route formant jonction à Luxembourg-Ville entre le pont Grande-Duchesse Charlotte et le boulevard de contournement de la Ville de Luxembourg près de Strassen, ses raccordements au réseau routier ainsi que son adaptation aux caractéristiques de cette jonction. Ce tronçon est soumis aux dispositions légales et réglementaires régissant le statut de la voirie publique.
