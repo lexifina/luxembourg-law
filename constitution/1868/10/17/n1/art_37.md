@@ -1,3 +1,3 @@
 # Art. 37.
 
-Le Roi Grand-Duc commande la force armée, déclare la guerre et fait les traités. Il en donne connaissance à la Chambre, aussitôt que l’intérêt et la sûreté de l’État le permettent, en y joignant les communications convenables. – Les traités de commerce et ceux qui pourraient grever l’État ou lier individuellement des Luxembourgeois, et en général tous ceux portant sur une matière qui ne peut être réglée que par une loi, n’ont d’effet qu’après avoir reçu l’assentiment de la Chambre. – Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu’en vertu d’une loi. – Dans aucun cas, les articles secrets d’un traité ne peuvent être destructifs des articles patents.
+Le Grand-Duc commande la force armée. Il fait les traités. Aucun traité n'aura d'effet avant d'avoir reçu l'assentiment de la Chambre. Les traités secrets sont abolis. Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu'en vertu d'une loi.
