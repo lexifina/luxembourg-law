@@ -1,0 +1,3 @@
+# Article unique.
+
+Est approuvé le Traité sur les Forces Conventionnelles en Europe, signé à Paris, le 19 novembre 1990 entre le Royaume de Belgique, la République de Bulgarie, le Canada, la République Fédérative Tchèque et Slovaque, le Royaume de Danemark, la République française, la République Fédérale d'Allemagne, la République hellénique, la République de Hongrie, la République d'Islande, la République italienne, le Grand-Duché de Luxembourg, le Royaume des Pays-Bas, le Royaume de Norvège, la République de Pologne, la République portugaise, la Roumanie, le Royaume d'Espagne, la République de Turquie, l'Union des Républiques Socialistes Soviétiques, le Royaume-Uni de Grande-Bretagne et d'Irlande duNord et les Etats-Unis d'Amérique.
