@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L´alinéa 2 de l´article 157 de la loi du 4 décembre 1967 concernant l´impôt sur le revenu est remplacé par les dispositions suivantes: Les articles 109, al. 1er N° 1 à 3, 127, 128 et 134 à 134ter ne sont pas applicables à l´endroit des contribuables non résidents. L´article 109 al. 1er N° 2 est toutefois applicable aux revenus visés aux numéros 4 et 5 de l´article 156, sauf que la déduction, au titre des dépenses spéciales, est limitée aux cotisations et dépenses visées aux numéros 1 et 3 de l´article 110 et au minimum fixé par l´article 113. Les dispositions de l´article 109, al. 1er N° 4 sont applicables à condition que les pertes y visées soient en relation économique avec des revenus indigènes et que la comptabilité soit tenue à l´intérieur du pays.
