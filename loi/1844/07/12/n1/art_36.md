@@ -1,0 +1,3 @@
+# Art. 36.
+
+Les piqueurs cantonaux suivront dans tous les détails l’exécution des travaux dont la surveillance leur est confiée, Ils exerceront un contrôle vigilant sur les entrepreneurs et leurs ouvriers ; ils visiteront et recevront les matériaux et veilleront à leur emploi ; ils aideront les conducteurs à faire les métrés, vérifications, dessins et nivellements, à lever les plans et dans toutes les opérations qu’exige le service. Ils les seconderont enfin avec zèle dans l’accomplissement de la tâche qui leur est imposée, à quel effet ils communiqueront aux conducteurs non. seulement les renseignements que ces derniers leur demanderont, mais encore tous ceux qu’ils jugeront utile de porter à leur connaissance.
