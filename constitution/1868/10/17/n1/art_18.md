@@ -1,3 +1,3 @@
 # Art. 18.
 
-La peine de mort en matière politique, la mort civile et la flétrissure sont abolies.
+La peine de mort ne peut être établie.
