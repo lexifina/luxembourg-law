@@ -1,0 +1,3 @@
+# Art. 20.
+
+Seront punis d'un emprisonnement d'un mois à six mois et d'une amende de trois cents francs à cinq mille francs ou d'une de ces peines seulement, les assureurs agissant en nom personnel et les directeurs, mandataires généraux ou agents responsables d'un assureur qui, dans les exposés, documents à l'appui ou informations qu'ils sont tenus de fournir au Gouvernement, dans une intention frauduleuse et à dessein de nuire, faussement exposent ou cachent la situation des affaires, ou publient des communications contraires à la vérité, à moins que le même fait ne soit puni d'une peine plus forte par le Code pénal ou par une loi spéciale.
