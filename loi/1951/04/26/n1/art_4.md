@@ -1,0 +1,11 @@
+# Art. 4.
+
+En vue de l'application de l'arrêté grand-ducal du 17 août 1944 concernant la mise sous séquestre de la propriété ennemie et uniquement à ces fins, sont considérés comme étant de plein droit sous contrôle allemand, qu'ils aient ou non été constitués sous l'empire des lois luxembourgeoises et quelle que soit leur nationalité, les sociétés, associations, succursales ou groupements dans lesquels les capitaux soumis au régime des dites associations appartenaient déjà à la date du 10 mai 1940 en majorité, directement ou par personne interposée, à des ressortissants ou organismes allemands dans lesquels les ressortissants allemands exerçaient directement ou par personne interposée le contrôle sans cependant posséder la majorité des capitaux. Peuvent encore être mis sous séquestre, par décision du Ministre des Finances, les sociétés, associations, succursales ou groupements.
+
+Le Ministre des Finances, sur la proposition de l'Office des Séquestres, peut renoncer à l'application des dispositions de l'alinéa qui précède.
+
+Dans des cas exceptionnels le Ministre des Finances, sur la proposition de l'Office des Séquestres, peut considérer comme étant sous contrôle allemand et partant sous séquestres, les sociétés, associations, succursales et groupements visés à l'alinéa 1er dans lesquels le contrôle tel qu'il y est prévu existait à une époque postérieure au 10 mai 1940. Cette disposition est inapplicable dans les cas où le contrôle allemand dérivait des mesures imposées par l'occupant.
+
+Les organismes visés à l'alinéa qui précède obtiendront la mainlevée du séquestre sur demande adressée au Ministre des Finances, s'ils prouvent la non-existence du contrôle allemand ou son existence sur la base des mesures imposées par l'occupant. Lorsqu'un délai de trois mois s'est écoulé sans qu'il soit intervenu une décision, les parties intéressées peuvent considérer leur demande comme rejetée.
+
+Tout intéressé qui revendique la mainlevée du séquestre, en s'appuyant sur l'alinéa 4 du présent article peut, si le Ministre des Finances refuse de faire droit à sa demande, intenter une action en justice selon la procédure prévue par l'article 3 de l'arrêté grand-ducal du 17 août 1944 concernant la mise sous séquestre de la propriété ennemie.

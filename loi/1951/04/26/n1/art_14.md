@@ -1,0 +1,5 @@
+# Art. 14.
+
+Lorsque des restrictions conventionnelles ou statutaires au droit de disposition des biens séquestrés font obstacle à ce que la liquidation soit opérée ou le soit à juste prix, le Président du tribunal d'arrondissement de Luxembourg statuant comme en matière de référé, contradictoirement entre l'Office et les intéressés, fixe le prix de vente. Le Président peut désigner un ou plusieurs experts. Si, à l'expiration du mois après que l'ordonnance est coulée en force de chose jugée, aucune personne répondant aux conditions fixées par les dites restrictions ne s'est portée acquéreur des biens au moins au prix fixé par le Président, les biens sont liquidés dans les conditions ordinaires sans égard à ces restrictions.
+
+S'il s'agit d'actions nominatives ou de parts d'une société dont la loi ou les statuts subordonnent le transfert des titres à une approbation, l'acquéreur, en cas de refus d'approbation, pourra être agréé par le Président du Tribunal d'arrondissement du siège social statuant comme en matière de référé contradictoirement entre l'Office et la société.
