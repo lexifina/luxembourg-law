@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Le chapitre intitulé Cadre du personnel, art. 11-(1) de la loi modifiée du 29 mars 1974 créant un centre informatique de l'Etat, est modifié et remplacé comme suit: Article 11. (1) le cadre du personnel du centre informatique de l'Etat comprend les emplois et fonctions ci-après: dans la carrière supérieure du chargé d'études-informaticien: un directeur des conseillers-informaticiens 1ère classe des conseillers-informaticiens des conseillers-informaticiens adjoints des chargés d'études-informaticiens principaux des chargés d'études-informaticiens. Les stagiaires de la carrière du chargé d'études-informaticiens portent le titre d'attaché-informaticien. La nomination des attachés-informaticiens est faite pour un an; elle est renouvelable.
