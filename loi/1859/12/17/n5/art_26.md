@@ -1,3 +1,0 @@
-# Art. 26.
-
-A l’audience indiquée par l’article précédent, le tribunal jugera si les formalités prescrites par la loi, pour parvenir à l’expropriation, ont été remplies. Si le défendeur comparaît, il sera entendu au préalable et sera tenu de déclarer s’il accepte les offres d’indemnité faites par la partie poursuivante; s’il n’accepte pas ces offres, il devra indiquer le montant de ses prétentions; il proposera en même temps, à peine de déchéance, toutes les exceptions qu’il croirait pouvoir opposer. Le tribunal donnera acte de ces déclarations et statuera sur le tout par un seul jugement, séance tenante, ou au plus tard, à l’audience suivante.
