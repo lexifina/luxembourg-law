@@ -1,0 +1,3 @@
+# Art. 6.
+
+Le paragraphe 16 de la loi visée à l'article 3 qui précède est remplacé par les dispositions suivantes: (1) L'impôt devient exigible à raison d'un quart de la créance d'impôt annuelle les 10 février, 10 mai, 10 août et 10 novembre. (2) Un règlement d'administration publique pourra pour des catégories déterminées de contribuables réduire le nombre des échéances et répartir de manière différente la créance d'impôt sur les diverses échéances. Il pourra en outre fixer une limite au-dessous de laquelle la créance d'impôt annuelle est exigible en totalité à une des dates d'échéance visées à l'alinéa 1er.
