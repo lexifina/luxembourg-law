@@ -1,0 +1,3 @@
+# Art. I.
+
+L'article 30 de la loi du 10 août 1912 concernant l'organisation de l'enseignement primaire est remplacé comme suit: Art. 30. Les membres du personnel enseignant des écoles primaires sont divisés en trois classes, savoir: les détenteurs du brevet d'aptitude pédagogique, qui confère le droit d'enseigner; les détenteurs du brevet d'enseignement postscolaire; les détenteurs du brevet d'enseignement primaire supérieur, qui autorise à enseigner dans les écoles primaires supérieures. Un règlement d'administration publique réglera tout ce qui est relatif aux examens pour l'obtention des brevets.
