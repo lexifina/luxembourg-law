@@ -1,0 +1,3 @@
+# Art. 2.
+
+Le deuxième alinéa du premier paragraphe de l'article 11 de la loi du 9 août 1993 réglementant le crédit à la consommation est remplacé par un nouvel alinéa dont la teneur est la suivante: L'autorisation ne peut être accordée qu'à des personnes qui possèdent une qualification professionnelle adéquate en matière de contrats de crédit à la consommation. Au cas où le requérant exerce à titre principal une activité visée par la loi du 28 décembre 1988 sur le droit d'établissement, la qualification professionnelle requise pour l'exercice de son activité principale est à considérer comme qualification professionnelle adéquate au sens du présent alinéa.
