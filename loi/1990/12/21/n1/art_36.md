@@ -1,0 +1,3 @@
+# Art. 36. Modification de la loi du 10 février 1984 portant organisation des services du centre du Rham
+
+L'article 9 de la loi du 10 février 1984 portant organisation des services du centre du Rham est complété par un deuxième alinéa ayant la teneur suivante: Les fonctionnaires de la carrière de l'infirmier détachés aux maisons de retraite de l'Etat sont placés hors cadre dans leur administration d'origine pour la durée de leur détachement. Ils pourront avancer hors cadre jusqu'à leur grade de fin de carrière inclusivement par dépassement des effectifs au moment où leurs collègues de rang égal ou immédiatement inférieur bénéficient d'une promotion.
