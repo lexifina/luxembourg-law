@@ -1,0 +1,5 @@
+# Art. 1er.
+
+A partir de l'année d'imposition 1921 il sera perçu une surtaxe sur les revenus imposés dans le pays conformément aux dispositions ci-après.
+
+Cette surtaxe, dont le rendement est fixé chaque année à la loi budgétaire selon les exigences du Trésor, est perçue sous forme d'additionnels aux taux de l'impôt sur le revenu et sera au maximum de 100 % pour les revenus ne dépassant pas 100.000 fr., de 150 % pour ceux supérieurs à 100.000 fr. sans dépasser un million, et de 200 % pour ceux excédant un million de francs. Un arrêté ministériel publié au Mémorial arrêtera chaque année le taux des additionnels à percevoir à titre de surtaxe. Ces additionnels seront fixés de façon à ce qu'à un centime additionnel pour les revenus de moins de 100.001 fr. correspondent 1,5 centime additionnel pour les revenus de 100.001 fr. à un million, et 2 centimes additionnels pour les revenus de plus d'un million. Ces additionnels seront appliqués au taux d'impôt correspondant au revenu global de chaque contribuable.

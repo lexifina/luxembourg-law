@@ -1,0 +1,3 @@
+# Art. 3.
+
+La perception de la surtaxe se fera soit sur rôle spécial, soit avec l'impôt sur le revenu de l'exércice subséquent. Les recours contre le montant de la surtaxe sont soumis au Directeur général des finances, sous peine forclusion, dans les 30 jours de la date du bulletin. Les recours contre les décisions du Directeur général doivent être déférés sous peine de forclusion dans les jours de la notification au Conseil d'État, comité du contentieux, siégeant au nombre de trois membres et statuant avec juridiction directe. Aucun recours n'est recevable si le réclamant ne produit pas la quittance du paiement de la moitié de la surtaxe.
