@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 90, alinéa 3 du Code des assurances sociales est complété de la manière suivante: Aux actions de secours et de sauvetage apportées à la personne ou aux biens d'un tiers en péril, aux exercices théoriques et pratiques se rapportant directement à ces actions, pour autant que ces activités se situent dans le cadre d'une association ou d'un corps poursuivant habituellement et bénévolement de tels objectifs ainsi qu'à l'action de secours et de sauvetage apportée spontanément par un particulier à la personne ou aux biens d'un tiers exposé à un péril imminent sur le territoire du Grand-Duché.
