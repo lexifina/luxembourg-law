@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 38 de la loi modifiée du 29 août 1951 ayant pour objet la réforme de l'assurance pension des employés privés aura les alinéas 7 et 8 nouveaux suivants: L'ajustement sera suspendu dans la mesure où par son effet les pensions, y non compris les suppléments de famille ainsi que les prestations résultant de l'assurance supplémentaire des employés techniques des mines du fond, dépassent les cinq sixièmes du maximum de rémunération cotisable fixé en application de l'article 100 de la présente loi et applicable au moment du versement de la pension. Pour les assurés visés à l'alinéa 3 du présent article, un règlement d'administration publique déterminera les limites jusqu'à concurrence desquelles l'ajustement sera alloué.
