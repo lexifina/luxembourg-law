@@ -1,0 +1,3 @@
+# Art. 67.
+
+Les personnes et services intervenant dans l’examen des demandes d’aides, dans le contrôle de la comptabilité de gestion ainsi que dans la réception des travaux d’investissements individuels et collectifs sont soumis au secret professionnel en ce qui concerne les données matérielles et personnelles recueillies en exécution de leur mission. Il n’existe pour eux aucune obligation de communication de renseignements ou de dénonciation éventuelle envers les administrations des contributions directes, de l’enregistrement et de la sécurité sociale. L’article 458 du code pénal est applicable.
