@@ -1,3 +1,7 @@
 # Art. 65.
 
-Un projet de loi ne peut être adopté par la Chambre qu’après avoir été voté article par article.
+La Chambre vote sur l'ensemble de la loi. Ce vote intervient toujours par appel nominal.
+
+À la demande de cinq députés au moins, le vote sur l'ensemble de la loi peut être précédé par un vote portant sur un ou plusieurs articles de la loi.
+
+Le vote par procuration est admis. Nul ne peut toutefois recevoir plus d'une procuration.
