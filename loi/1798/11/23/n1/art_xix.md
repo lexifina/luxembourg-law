@@ -1,0 +1,5 @@
+# XIX.
+
+Celui qui, dans le cas des articles XIII, XIV et XV ci-dessus, n'aura point proposé de refus dans le délai prescrit, ou dont le refus n'aura point été admis, et qui étant ensuite convoqué, ne se réunirait point aux autres répartiteurs pour les opérations dont ils auront été chargés, sera cité par le commissaire du Directoire exécutif près l'administration municipale, à comparaître devant cette administration à jour et heure fixes, en séance publique; et s'il s'y présente, le président, après l'avoir entendu, et au nom de l'administration municipale, lui adressera ces paroles: Citoyen, vous avez refusé de vous rendre utile à votre pays; l'administration municipale va en faire mention sur ses registres, et en donner connaissance à vos concitoyens.
+
+Le refusant sera remplacé dans la même séance; et extrait du procès-verbal de l'administration municipale sera affiché, sur papier libre, et sans frais, dans la salle de ses séances et au secrétariat: il ne sera point sujet au droit d'enregistrement.

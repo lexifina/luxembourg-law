@@ -1,0 +1,3 @@
+# XCIX.
+
+Ils feront aussi la retenue, dans la même proportion, sur les rentes et autres prestations foncières non supprimées, dont leurs fonds, édifices et usines se trouvent encore grevés, et dont la création est antérieure à la publication du décret précité des 20, 22 et 23 novembre 1790, quoique non autorisés à la faire par les anciennes lois ou usages; sans préjudice néanmoins de l'exécution des baux à rentes, faits sous la condition expresse de la non-retenue des impositions publiques, ou avec toute autre clause de laquelle résulte la volonté conventionnelle des parties, que les contribution publiques soient à la charge du preneur, en sus de la rente ou prestation.

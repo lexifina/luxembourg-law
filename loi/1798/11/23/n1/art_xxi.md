@@ -1,0 +1,3 @@
+# XXI
+
+Celui qui ne se sera point présenté devant l'administration municipale, sera en outre cité par le commissaire du Directoire exécutif près cette administration, devant le juge de paix de l'arrondissement dans lequel elle se trouve, qui, pour ce fait de désobéissance à la loi, le condamnera à une amende de la valeur locale de trois journées de travail agricole, et aux frais de l'affiche de l'extrait du procès-verbal de l'administration municipale, qui sont réglés à trois francs, non compris le papier timbré et seront payés au secrétaire de ladite administration, sans préjudice des frais légitimement faits devant le juge de paix, et de ceux de signification et de mise à exécution du jugement, dont il sera pareillement tenu.

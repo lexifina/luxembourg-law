@@ -1,0 +1,3 @@
+# XIV.
+
+Les causes légitimes de refus sont, 1.° les infirmités graves et reconnues, ou vérifiées en la forme ordinaire en cas de contestation; 2.° l'âge de soixante ans commencés, ou plus; 3.° l'entreprise d'un voyage ou d'affaires qui obligeraient à une longue absence du domicile ordinaire; 4.° l'exercice de fonctions administratives ou judiciaires au choix du peuple, autres que celles d'assesseur de juge de paix; 5.° l'exercice des fonctions de commissaire du Directoire exécutif près les administrations centrales, municipales et autres, et près les tribunaux; 6.° le service militaire de terre ou de mer, ou un autre service public actuel.
