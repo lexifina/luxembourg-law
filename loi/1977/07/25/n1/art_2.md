@@ -1,0 +1,7 @@
+# Art. 2.
+
+En ce qui concerne les cadres de la carrière moyenne du rédacteur des administrations de l’Etat non visées à l’article 1er, ainsi que ceux de la carrière moyenne du technicien diplômé de l’ensemble des administrations, les cadres légaux de ces administrations pourront être modifiés par règlements grand-ducaux, pour autant que les nécessités administratives de coordination et de conception l’exigent.
+
+Lesdites modifications peuvent, le cas échéant, comporter l’introduction de fonctions non encore prévues par les lois organiques en question.
+
+Le nombre d’emplois de ces fonctions pourra être fixé dans les limites des possibilités de promotion prévues à l’article 1er ci-dessus. Par décision du gouvernement en conseil ce nombre pourra être fixé à une unité pour les administrations qui, par application des susdites règles, ne se verraient attribuer qu’une fraction d’emploi.
