@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'al. 1er de l'art. 60 de la loi du 26 novembre 1927 concernant l'impôt sur le revenu est modifié comme suit: L'impôt sur le revenu, l'impôt complémentaire, la surtaxe et les impositions communales sont payables au plus tard le premier du troisième mois qui suit celui de la date du bulletin d'impôt; ils sont néanmoins exigibles intégralement avant cette date tant du contribuable que des autres débiteurs solidaires en cas de changement de patron ou de résidence, de réalisation de tout ou partie de la fortune du redevable et en général dans tous les cas où il y a péril en la demeure pour le recouvrement des cotes en question.
