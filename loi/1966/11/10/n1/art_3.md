@@ -1,0 +1,3 @@
+# Art. 3.
+
+L'article 637 du code d'instruction criminelle est abrogé et remplacé par la disposition suivante: L'action publique résultant d'un crime se prescrira après dix années révolues à compter du jour où le crime aura été commis, si dans cet intervalle il n'a été fait aucun acte d'instruction ou de poursuite. S'il a été fait, dans cet intervalle, des actes d'instruction ou de poursuite non suivis de jugement, l'action publique ne se prescrira qu'après dix années révolues, à compter du dernier acte, à l'égard même des personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de poursuite.
