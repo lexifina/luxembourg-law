@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 9 - 2° de la loi du 4 avril 1924, portant création de chambres professionnelles à base élective, est modifié et complété comme suit: Art. 9. Sont exclus de l'éligibilité ainsi que de l'électorat et ne peuvent être admis au vote: ............................................ ceux qui ont été condamnés à la peine de l'emprisonnement pour vol, recel, escroquerie ou abus de confiance, faux, usage de faux, faux témoignage, subornation de témoins, d'experts ou d'interprètes ou pour l'une des infractions prévues aux articles 372 à 391 du code pénal et à l'article 7 de la loi du 6 avril 1881 et leurs complices ............................................
