@@ -1,0 +1,3 @@
+# Art. II.
+
+La loi du 18 juin 1971 portant approbation de la Convention sur le recouvrement des aliments à l'étranger, en date, à New York, du 20 juin 1956, est complétée par un article 3 libellé comme suit: Art. 3. Sur demande du créancier d'aliments et sans préjudice du droit de cette personne de procéder par la voie ordinaire, le procureur d'Etat du lieu du domicile ou de la résidence du débiteur d'aliments a qualité pour intenter et suivre toutes actions tendant au recouvrement des aliments au sens de la susdite convention. En cas de recours porté devant la Cour d'appel ou la Cour de cassation, les mêmes qualités appartiennent au procureur général d'Etat.
