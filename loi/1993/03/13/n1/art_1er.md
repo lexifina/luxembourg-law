@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Pour autant que de besoin, le Grand-Duc est habilité, après avoir obtenu l'avis du Conseil d'Etat et l'assentiment de la Commission de travail de la Chambre des députés et après délibération du Gouvernement en conseil et sous le contreseing d'un membre du Gouvernement, à prendre, en cas d'urgence constatée par Lui, des règlements d'administration publique, même dérogatoires à des dispositions légales existantes, aux fins de transposer en droit national les dispositions contraignantes de la directive 92/111/CEE du Conseil du 14 décembre 1992 modifiant la directive 77/388/ CEE et portant introduction de mesures de simplification en matière de taxe sur la valeur ajoutée.
