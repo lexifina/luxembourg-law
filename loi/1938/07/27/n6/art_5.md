@@ -1,0 +1,3 @@
+# Art. 5.
+
+Les crédits prévus à l'art. 4 qui précède sont rattachés au Budget des dépenses de 1938 sous les articles suivants: Art. 424bis. Indemnité à allouer aux fonctionals naires de l'Etat, aux membres du personnel enseignant des écoles primaires et primaires supérieures, aux membres de la gendarmerie et aux sous-officiers de la Compagnie de volontaires, aux agents de la police étatisée qui jouissent des traitements prévus par l'art. 40 de l'arrêté grand-ducal du 27 décembre 1930, aux ministres des cultes, ainsi qu'à d'autres agents, conformément à la loi du 27 juillet 1938. (Crédit non limitatif) 5.918 800 fr. Art. 424. ter. Suppléments de pension à allouer en vertu de l'art. 4, 4° de la loi du 27 juillet 1938. (Crédit non limitatif) 750.000 fr.
