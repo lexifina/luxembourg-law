@@ -1,0 +1,7 @@
+# Art. 4.
+
+La bonification fiscale spéciale s'élève à cinquante pour cent du montant du salaire ordinaire brut, augmenté de la part patronale des cotisations sociales, pris en charge par les employeurs en raison du jour de repos octroyé aux salariés le 6 avril 2001. Par salaire ordinaire, il y a lieu de comprendre le salaire légalement dû pour un jour de repos en vertu de la législation sur le droit du travail.
+
+La bonification fiscale spéciale est déduite de l’impôt sur le revenu dû pour l’exercice de l’année d’imposition au cours de laquelle l’exercice d’exploitation comprenant la journée du 6 avril 2001 ou la journée de repos accordée en compensation de celle-ci est clôturé. Lorsque la créance d'impôt sur le revenu est inférieure à la bonification fiscale spéciale, l'excédent de la bonification est, dès la notification du bulletin de l'impôt sur le revenu, à imputer sur d'autres créances exigibles du même contribuable auprès de l'Administration des contributions directes ou, à défaut, à rembourser d'office à ce dernier.
+
+Dans les cas prévus au paragraphe 215, alinéa 2 de la loi générale des impôts, la bonification fiscale spéciale est également fixée par voie d'établissement séparé et en commun.
