@@ -1,0 +1,3 @@
+# 56.
+
+Dans tous les cas, il sera rendu compte au grandjuge ministre de la justice, par les procureurs généraux, de la décision prise par les cours impériales: quand elles auront prononcé ou confirmé la censure avec réprimande, ou la suspension provisoire, la décision ne sera mise à exécution qu'après avoir été approuvée par le grand-juge. Néanmoins, en cas de suspension provisoire, le juge sera tenu de s'abstenir de ses fonctions jusqu'à ce que le grandjuge ait prononcé; sans préjudice du droit que l'article 82 du sénatus-consulte du 16 thermidor an X donne au grandjuge, de déférer le juge inculpé à la cour de cassation, si la gravité des faits l'exige.
