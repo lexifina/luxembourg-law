@@ -1,0 +1,7 @@
+# XXXIII. Contribuables obligés de tenir un registre pour l’inscription de leurs ouvriers.
+
+Les contribuables dénommés aux tableaux n° 1 et 12, à l’exception de ceux qui travaillent avec moins de trois ouvriers, sont tenus d’établir et de représenter avec leurs déclarations mentionnées aux art. 17 et suivans, un registre contenant les noms et prénoms de tous les ouvriers qu’ils emploieront; si la profession est exercée en commun, chaque associé y sera porté pour un ouvrier. — Ce registre devra être constamment à jour: les noms des ouvriers quittant leur service, y seront rayés; les noms de ceux qui entrent en service, y seront inscrits à la suite immédiate des autres, avec mention de l’époque de l’entrée et du départ. — Ce registre demeurera constamment déposé dans les ateliers, usines ou boutiques des contribuables; il devra, sous peine de cinq florins d’amende, être représenté aux fonctionnaires ou employés mentionnés en l’art. 35, et à leur première réquisitions.
+
+Pour chaque ouvrier non inscrit au registre, le contribuable chez lequel l’omission aura lieu, sera passible d’une amende de trois florins, indépendamment de celle qu’il pourrait encourir, si, faute d’avoir déclaré le nombre exact de ses ouvriers, il y avait eu de sa part fraude de droit.
+
+Tous les ouvriers, dont les noms ne sont par rayés du registre, seront considérés comme étant encore au service du contribuable, à moins qu’il ne prouve le contraire.

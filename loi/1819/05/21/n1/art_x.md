@@ -1,0 +1,3 @@
+# X. Le Droit de Patente est dû pour chaque profession exercée, sauf le cas d'affinité entre elles.
+
+Les patentables sont assujétis à un droit distinct, pour chaque profession, industrie, commerce ou métier qu'ils exercent, sauf le cas où ces professions auraient de l'affinité entr'elles, c'est-à-dire, qu'elles s'exerceraient généralement et habituellement ensemble dans les communes où les contribuables doivent être cotisés, et dans les communes voisines du même rang; en cas d'affinité, le droit sera déterminé d'après l'ensemble des avantages présumés des professions réunies, de manière toutefois qu'il n'excède pas le maximum et ne soit pas inférieur au minimum du droit assigné à la plus imposable de ces professions.
