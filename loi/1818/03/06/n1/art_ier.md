@@ -1,0 +1,3 @@
+# Art. Ier.
+
+Les infractions aux dispositions arrêtées par les mesures générales ou réglemens d'administration intérieure de l'Etat, mentionnées dans l'art. 73 de la loi fondamentale, à l'égard desquelles les lois n'ont point déterminé ou ne détermineront pas dans la suite des peines particulières, seront punies par les tribunaux d'après la nature de l'objet, la gravité de l'infraction et les circonstances qui l'auront accompagnée, d'une amende qui ne pourra excéder cent florins, ni être moindre de dix florins, ou d'un emprisonnement d'un jour au moins, et de 14 jours au plus, ou enfin d'une amende et d'un emprisonnement réunis, mais qui ne pourront respectivement excéder le maximum qui vient d'être indiqué.

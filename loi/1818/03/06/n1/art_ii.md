@@ -1,0 +1,3 @@
+# II.
+
+Afin de donner la force et l'autorité nécessaires aux ordonnances relatives à des objets ordinaires de police et d'économie intérieures que les Etats provinciaux peuvent arrêter, dans l'intérêt des provinces, sous Notre approbation, conformément à l'art. 146 de la loi fondamentale, et d'après le mode qui y est prescrite, ainsi qu'aux ordonnances communales que les régences peuvent faire relativement aux intérêts des communes, d'après et selon l'art. 155 de la loi fondamentale, il pourra être comminé contre les infractions à ces ordonnances des amendes, ou d'autres peines proportionnées à l'importance de l'infraction, pour autant que des peines n'auraient pas déjà été fixées contre ces infractions, ou ne le seraient pas dans la suite par les lois générales.
