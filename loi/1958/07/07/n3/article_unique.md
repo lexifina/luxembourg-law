@@ -1,0 +1,3 @@
+# Article unique.
+
+Est autorisée la cession par voie d'échange de deux parcelles de terrain domanial inscrites toutes les deux au cadastre de la section F de l'ancienne commune de Hollerich, la première sous le N° 99/3126 dont elle forme partie, avec une contenance de 1 are 78 centiares, sise à l'embouchure de la rue Pierre Federspiel du côté de la route d'Arlon et la seconde sous les Nos 52/978, 53/9772 et 57/1474 dont elle forme partie, avec une contenance de 109 ares 56 centiares, comprise entre le restant du domaine de la Maternité Grande-Duchesse Charlotte et la propriété de la Ville de Luxembourg.
