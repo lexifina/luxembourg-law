@@ -1,0 +1,3 @@
+# Art. 10.
+
+L'article 4 de la loi du 9 avril 1986 relative aux équipements spéciaux des véhicules destinés à transporter ou à utiliser comme carburant des matières pouvant présenter un danger pour la sécurité, la salubrité ou la santé publique est modifié comme suit: Les officiers de police judiciaire, les membres de la gendarmerie et de la police, les agents de l'administration des douanes et accises, ainsi que les fonctionnaires et agents du service du contrôle des transports routiers sont chargés d'assurer l'exécution de la présente loi et des règlements pris en son exécution et de dresser procès-verbal des infractions.

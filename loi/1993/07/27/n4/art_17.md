@@ -1,0 +1,3 @@
+# Art. 17.
+
+L'article 19 paragraphe 1 de la loi du 9 mai 1990 relative aux établissements dangereux, insalubres ou incommodes est modifié comme suit: Outre les officiers de police judiciaire, les agents de la gendarmerie et de la police, les agents des douanes et accises, les ingénieurs, les laborantins, les ingénieurs techniciens et les expéditionnaires techniques de l'Administration de l'Environnement, le personnel supérieur d'inspection et le personnel technique de la carrière moyenne de l'Inspection du Travail et des Mines sont chargés de rechercher et de constater les infractions réprimées par la présente loi et ses règlements d'exécution.
