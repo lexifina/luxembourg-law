@@ -1,0 +1,3 @@
+# Art. 38.
+
+L´article 9 de la loi du 30 avril 1980 portant création d´une allocation de maternité est modifié comme suit: Art. 9. Les articles 23, 24, 25, 26, 30, 31 et 32 de la loi concernant les allocations familiales et portant création de la caisse nationale des prestations familiales sont applicables à l´allocation de maternité créée par la présente loi sauf adaptation de terminologie. L´allocation de maternité se prescrit par un an à partir de la naissance. Sans préjudice des dispositions de l´article 26 de la loi concernant les allocations familiales et portant création de la caisse nationale des prestations familiales, l´allocation de maternité peut être cédée ou saisie pour les frais de couche.
