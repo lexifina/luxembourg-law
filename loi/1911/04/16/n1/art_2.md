@@ -1,0 +1,5 @@
+# Art. 2.
+
+Les cantonniers et chefs-cantonniers en fonctions au moment de la mise en vigueur de la présente loi sont admis à faire valoir pour la liquidation de leur pension toutes leurs années de service comme cantonniers de l'État, sous la condition qu'ils en fassent la déclaration au Directeur général des travaux publics dans les six mois après la promulgation de la présente loi et à charge par eux de payer toutes les retenues ordinaires et extraordinaires suivant les dispositions prévues par les art. 20, al. 1er, 3 et 4, et 21 de la loi générale sur les pensions des fonctionnaires de l'Etat, pour toutes les années de services antérieurs qu'ils désirent faire admettre pour la computation de leur pension. Ce versement est effectué par cinquième dans le délai de cinq ans, à moins que les intéressés ne veuillent se libérer anticipativement ou dans un moindre délai.
+
+Si le droit à la pension vient à s'ouvrir avant que les retenues du chef des services antérieurs soient soldées, la pension n'en sera pas moins liquidée, et le restant dû sera retenu sur la pension par termes à fixer par le Gouvernement.
