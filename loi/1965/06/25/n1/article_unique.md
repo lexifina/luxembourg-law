@@ -1,0 +1,3 @@
+# Article unique.
+
+L'article 8, section IV, 3° de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat est abrogé et remplacé par les dispositions suivantes: le fonctionnaire doit avoir passé avec succès un examen de promotion; l'examen auquel est subordonnée la nomination à la fonction de lieutenant de l'armée, de la gendarmerie et de la police, est considéré également comme examen d'avancement pour l'application des dispositions du présent paragraphe.Il en est de même de l'examen de conducteur des ponts et chaussées, des bâtiments de l'Etat, des services agricoles, de géomètre du cadastre, de greffier et de commis aux parquets.
