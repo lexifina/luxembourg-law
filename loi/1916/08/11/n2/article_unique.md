@@ -1,0 +1,5 @@
+# Article unique.
+
+Sur le montant des rentes dues à l'État en vertu des conventions de concession de terrains miniers passées avec les sociétés métallurgiques et approuvées par la loi du 29 novembre 1913, il sera prélevé la rente nécessaire pour assurer le service des intérêts et de l'amortissement d'un emprunt au montant de 1.600.000 fr., que le Gouvernement est autorisé à contracter sous forme d'avances à consentir par un établissement de crédit, d'émission de bons de caisse ou de titres au porteur, et qui sera affecté exclusivement à la mise en état et resp. la réfection de la voirie de l'État dans le canton d'Esch-s.-Alz. Le montant de cette rente sera fixé d'un commun accord par les chefs des départements des finances et des travaux publics et inscrit au budget annuel des dépenses de l'État, section de la dette publique, sous un article spécial, qui sera ainsi libellé: Annuité pour le payement des intérêts et le remboursement de l'emprunt contracté dans l'intérêt de la voirie de l'État dans le canton d'Esch-s.-Alz.
+
+La première annuité sera inscrite au budget de l'exercice 1916.
