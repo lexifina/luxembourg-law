@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'art. 1er de la loi du 6 mai 1920, concernant la révision et la majoration des traitements du personnel enseignant des écoles primaires et primaires supérieures, est complété comme suit: Lorsque les écoles d'une localité passent de la 1re à la 2e classe, resp. de la 2e à la 3e ou la 4e, les titulaires définitivement nommés de ces écoles ont un droit acquis au traitement du groupe I, resp. du groupe II, tant qu'ils resteront en fonctions dans la même localité, à la condition que les écoles de cette localité aient rangé dans la 1re, resp. la 2e classe pendant au moins cinq années consécutives. Les dispositions de cet article auront un effet rétroactif au 1er janvier 1920.
