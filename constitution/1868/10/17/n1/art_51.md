@@ -4,7 +4,7 @@ Le Grand-Duché de Luxembourg est placé sous le régime de la démocratie parle
 
 L'organisation de la Chambre est réglée par la loi.
 
-La loi électorale fixe le nombre des députés d'après la population. Ce nombre ne peut excéder un député sur 4000 habitants, ni être inférieur à un député sur 5500 habitants.
+La Chambre se compose de 60 députés. Une loi votée dans les conditions de l´art. 114, al. 5 fixe le nombre des députés à élire dans chacune des circonscriptions.
 
 L'élection est directe.
 
