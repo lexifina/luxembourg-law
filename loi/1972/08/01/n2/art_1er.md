@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'activité exercée dans une entreprise privée bénéficiaire d'une concession publique et qui est devenue service d'une commune, d'un syndicat de communes ou d'un établissement placé sous la surveillance d'une commune est assimilée à une activité communale aux fins de l'application de l'article 16 de la loi du 7 août 1912, concernant la création d'une caisse de prévoyance pour les fonctionnaires et employés des communes et établissements publics, tel qu'il a été modifié et complété par les lois des 28 octobre 1920, 29 septembre 1947, 28 juillet 1954, 16 décembre 1963 et 12 juin 1964.
