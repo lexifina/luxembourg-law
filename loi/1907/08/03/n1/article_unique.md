@@ -1,0 +1,5 @@
+# Article unique.
+
+Le Gouvernement est autorisé à ratifier et à publier, pour sortir son plein et entier effet dans le Grand-Duché, la Convention signée à Rome, le 7 juillet 1905, entre l'Allemagne, l'Argentine, l'Autriche et la Hongrie, la Belgique, le Brésil, la Bulgarie, le Chili, la Chine, le Costa-Rica, le Cuba, le Danemark, l'Equateur, l'Espagne, les Etats-Unis d'Amérique, les Etats-Unis Mexicains, l'Egypte, l'Ethiopie, la France, la Grande-Bretagne et l'Irlande, la Grèce, le Guatemala, l'Italie, le Japon, le Luxembourg, le Monténégro, le Nicaragua, la Norvège, le Paraguay, les Pays-Bas, le Pérou, la Perse, le Portugal, la Roumanie, la Russie, le Salvador, la Serbie, la Suède, la Suisse, la Turquie et l'Uruguay, concernant la création à Rome d'un Institut international permanent d'agriculture.
+
+Le Gouvernement est autorisé, en outre, à apporter éventuellement et de concert avec les hautes parties contractantes, des modifications ou ajoutes à la dite Convention, et à prendre toutes les mesures que l'exécution de celle-ci réclame et comporte.
