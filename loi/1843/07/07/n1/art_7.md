@@ -1,0 +1,3 @@
+# Art. 7.
+
+Le fonctionnaire pensionné qui avait renoncé à sa pension par suite de sa rentrée au service de l'État, sera réintégré dans la jouissance de sa pension, lorsqu'il aura été régulièrement démissionné de ses nouvelles fonctions. Son ancienne pension sera même majorée, si le nouveau service a duré au moins un an, et l'accroissement de la pension se réglera alors suivant les principes posés ci-dessus pour établir les pensions, sauf que s'il y a moins de 3 ans de nouveaux services, l'augmentation sera pour chaque année de ce service de un 70e du traitement dont le titulaire a joui en dernier lieu.

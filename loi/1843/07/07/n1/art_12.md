@@ -1,0 +1,3 @@
+# Art. 12.
+
+Si le fonctionnaire ne délaisse pas de veuve ayant droit à la pension, mais un orphelin âgé de moins de 18 ans, celui-ci aura droit au quart de la pension dont a joui le père, ou qui lui aurait été accordée à l'époque de son décès, si elle avait été liquidée alors, d'après les bases posées dans l'art. 5. S'il y a deux ou plusieurs orphelins, âgés de moins de 18 ans, ils auront ensemble la moitié de la pension du père. Cette pension des enfants est censée être possédée aussi par part égale, et elle décroîtra par conséquent successivement, à mesure que l'une ou l'autre part s'éteindra, sauf le minimum déterminé ci-après.
