@@ -1,0 +1,3 @@
+# Art. 3.
+
+L'article 228 du code pénal est complété par les dispositions suivantes: Sera puni de la même peine: Quiconque, sans droit, aura porté publiquement un insigne créé ou reconnu par une loi ou un règlement; Quiconque aura fait usage d'un mot, d'une expression ou d'un signe distinctif qui, contrairement à la réalité, indique ou fait croire que son activité ou celle d'une ou plusieurs autres personnes est instituée, patronnée ou reconnue, en tout ou en partie, par une autorité quelconque nationale ou étrangère, ou par une organisation entre Etats. Les dispositions de l'alinéa qui précède entreront en vigueur un an après la publication de la présente loi.
