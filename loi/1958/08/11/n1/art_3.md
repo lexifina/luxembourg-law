@@ -1,0 +1,3 @@
+# Art. 3.
+
+Les dispositions de l'article 13, II, 2° de la susdite loi du 26 mai 1954 sont remplacées, avec effet au 1er juin 1957, par le texte ci-après: aux militaires au-dessous du grade d'officier, ainsi qu'aux titulaires des fonctions déterminées par le règlement pris en exécution de l'article 1er, II de la loi du 15 février 1958 ayant pour objet de modifier certaines dispositions de la législation sur les traitements des fonctionnaires et employés de l'Etat, pour le cinquième du traitement minimum attaché à ces emplois, l'indemnité de foyer non comprise, sans que cette computation puisse être faite sur un traitement de base supérieur à 84.000 francs (nombre-indice 100) .
