@@ -1,3 +1,3 @@
 # Art. 4.
 
-La personne du Roi Grand-Duc est sacrée et inviolable.
+La personne du Grand-Duc est inviolable.
