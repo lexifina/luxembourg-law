@@ -1,0 +1,7 @@
+# Art. 3.
+
+A l'effet d'exercer un droit de surveillance et de contrôle sur les investissements et sur la gestion générale et financière de la société bénéficiaire des dispositions de la présente loi, le gouvernement nommera un ou deux commissaires de gouvernement, dont la rémunération sera à charge de la société.
+
+Les commissaires auront un droit d'information et de contrôle sur les opérations financières et commerciales et sur toutes les autres mesures susceptibles d'avoir des répercussions sur la situation financière de la société. Ils seront convoqués aux réunions des organes de la société, à l'exception de celles ayant trait uniquement à des affaires de gestion journalière. Ils prendront part aux délibérations avec voix consultative et pourront demander que les observations qu'ils jugeront nécessaires de présenter soient insérées dans le procès-verbal de la séance. Ils auront en outre le droit, aussi souvent qu'ils le jugeront utile, de prendre connaissance, sans déplacement, des livres, comptes et autres documents de la société.
+
+Les commissaires rendront compte au gouvernement de l'exercice de leur mission. Ils pourront faire suspendre dans leurs effets toutes résolutions, décisions ou autres actes de la société qu'ils jugeraient susceptibles de porter atteinte aux intérêts de l'Etat, en vue de les soumettre à l'appréciation du gouvernement. L'effet de suspension subsistera jusqu'à ce que le gouvernement, agissant par les ministres des finances et de l'économie nationale, ait pris une décision à leur égard.
