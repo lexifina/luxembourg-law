@@ -1,0 +1,3 @@
+# Art. 2.
+
+Les recettes et dépenses résultant de l'application de l'art. 1er ci-dessus figureront aux budgets successifs de l'Etat au fur et à mesure des besoins et comporteront, pour l'exercice 1931, l'inscription au Budget de l'Etat des articles suivants: Chapitre Ier. - Recettes. Art. 58-4. Produit de l'emprunt à réaliser pour couvrir les dépenses pour travaux complémentaires exécutes sur le réseau des chemins de fer Guillaume-Luxembourg depuis l'entrée en vigueur du Modus vivendi du 8/9 octobre 1925, jusque fin 1931, 2e tranche ... 19.000.000 fr. Chapitre II. - Dépenses. Art. 122-3. Travaux complémentaires exécutés sur le réseau Guillaume-Luxembourg depuis la mise en vigueur du Modus vivendi jusque fin 1931 ... 19.000.000 fr.

@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Par application des chapitres III et IX du Modus vivendi du 8/9 octobre 1925 complété par l'avenant du 12 mars 1927 et l'Additif du 10 août 1929, approuvés par les lois des 4 août 1927 et 30 juin 1930, réglant l'exploitation provisoire des chemins de fer Guillaume-Luxembourg par l'Administration des chemins de fer d'Alsace et de Lorraine, le Gouvernement est autorisé à émettre en plusieurs tranches un emprunt de cent millions de francs, destiné à couvrir les dépenses résultant de l'exécution, sur le réseau Guillaume-Luxembourg, par les soins de l'Administration des chemins de fer d'Alsace et de Lorraine, de travaux complémentaires sur la nécessité desquels il y a entente entre le Gouvernement et la dite Administration.
