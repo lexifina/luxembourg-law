@@ -1,3 +1,3 @@
 # Art. 36.
 
-Le Roi Grand-Duc fait les règlements et arrêtés nécessaires pour l’exécution des lois, sans pouvoir jamais ni suspendre les lois elles-mêmes, ni dispenser de leur exécution.
+Le Grand-Duc prend les règlements et arrêtés nécessaires pour l'exécution des lois.

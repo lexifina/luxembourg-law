@@ -9,3 +9,7 @@
 (5) La loi organise la sécurité sociale, la protection de la santé et le repos des travailleurs et garantit les libertés syndicales.
 
 (6) La loi garantit la liberté du commerce et de l'industrie, l'exercice de la profession libérale et du travail agricole, sauf les restrictions à établir par le pouvoir législatif.
+
+En matière d'exercice de la profession libérale elle peut accorder à des organes professionnels dotés de la personnalité civile le pouvoir de prendre des règlements.
+
+La loi peut soumettre ces règlements à des procédures d'approbation, d'annulation ou de suspension, sans préjudice des attributions des tribunaux judiciaires ou administratifs.
