@@ -1,0 +1,3 @@
+# Art. III.
+
+Entre l'article 367 du code pénal et le chapitre IV du Titre VII du Livre II du même code est intercalé un article 367-1 libellé comme suit: Sera puni d'un emprisonnement de huit jours à un an et d'une amende de 2.501 francs à 100.000 francs: Quiconque aura, dans un esprit de lucre, provoqué les parents ou l'un d'eux à abandonner leur enfant né ou à naître; Toute personne qui aura fait souscrire ou tenté de faire souscrire, par les futurs parents ou l'un d'eux, un acte aux termes duquel ils s'engagent à abandonner l'enfant à naître, qui aura détenu un tel acte, en aura fait usage ou tenté d'en faire usage; Quiconque aura, dans un esprit de lucre, apporté ou tenté d'apporter son entremise pour faire recueillir ou adopter un enfant.
