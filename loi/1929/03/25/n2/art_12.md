@@ -1,0 +1,3 @@
+# Art. 12.
+
+L'art. 2 n° 6 de la loi du 9 août 1921 est remplacé par la disposition suivante: Le personnel enseignant attaché à l'hospice du Rham et à la compagnie des volontaires est assimilé par rapport au traitement et à la pension au personnel enseignant des écoles primaires du groupe I prévu par la loi du 6 mai 1920. Il touchera également les primes de brevet allouées au personnel des écoles primaires. Les années passées avant la promulgation de la présente loi compteront pour la computation de la pension des intéressés, ainsi que pour la fixation de leurs traitements dans les limites tracées par l'art. 27 de la loi du 29 juillet 1913 et par l'art. 10 de la loi du 6 mai 1920.

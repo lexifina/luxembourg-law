@@ -1,0 +1,3 @@
+# Art. 6.
+
+Les alinéas 8 et 9 de l'art. 4 de la loi 28 juillet 1925, concernant l'adaptation des traitements et pensions d'Etat au coût de la vie, sont remplacés par les dispositions suivantes: La pension de la veuve qui se remarie est suspendue pour la moitié pendant la durée du deuxième mariage. Lorsqu'au décès du second mari, la veuve a droit à une pension du chef de celui-ci, la première pension restera réduite de moitié. La pension de réversion revenant à une femme, fonctionnaire ou pensionnaire de l'Etat, membre du personnel enseignant des écoles primaires, en dehors de son propre traitement ou de sa propre pension, du chef des services de son mari sera réduite de moitié.
