@@ -1,0 +1,3 @@
+# Art. 66.
+
+Il est accordé un nouveau délai de six mois, à dater de la promulgation de la présente loi, pendant lequel les actes non écrits sur papier timbré et portant mutation de biens immeubles, les mutations verbales de biens immeubles, les omissions de biens dans les déclarations de succession ou de mutation par décès, ainsi que les simulations de prix et les insuffisances d’évaluations antérieures à la présente loi, et pour lesquels il n’y a eu aucun acte de poursuite de la part des préposés de l’enregistrement, pourront être soumis à la formalité du timbre et de l’enregistrement, et être déclarés et rectifiés moyennant paiement des simples droits et sans amendes.

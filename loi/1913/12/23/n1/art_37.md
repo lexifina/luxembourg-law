@@ -1,0 +1,5 @@
+# Art. 37.
+
+Les sociétés, compagnies ou entreprises quelconques, financières, industrielles, commerciales ou civiles, constituées et ayant leur siège à l’étranger, mais qui exercent dans le Grand-Duché leur industrie, commerce ou exploitation ou une partie de leur industrie, commerce ou exploitation, de même que les sociétés, compagnies et entreprises quelconques dont le siège se trouve dans le pays, mais qui possèdent à l’étranger une succursale ou un siège d’exploitation, sont soumises dans le Grand-Duché au payement de la taxe établie par les art. 34 et 35 ci-avant ainsi qu’aux droits de timbre décrétés par la loi du 25 janvier 1872, art. 1er et 6, pour une partie de leurs intérêts, actions et obligations exactement proportionnelle à la fraction de leur bénéfice total à raison de laquelle elles ont été imposées à l’impôt mobilier pour l’exercice immédiatement précédent.
+
+Les sociétés, compagnies ou entreprises nouvellement constituées sont imposées provisoirement pour une fraction de leur capital-actions ou -obligations proportionnelle au nombre des actions attribuées en rémunération de l’apport des entreprises luxembourgeoises.
