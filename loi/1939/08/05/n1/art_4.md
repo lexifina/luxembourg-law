@@ -1,0 +1,3 @@
+# Art. 4.
+
+Les concierges et les garçons de salle des établissements d'enseignement moyen, ayant obtenu leur nomination définitive par l'arrêté ministériel du 15 décembre 1937, de même que les chargées de cours du lycée de jeunes filles de Luxembourg, nommées par arrêté ministériel du 30 mars 1938, jouiront également des avantages de l'art. 3 qui précède, en tant qu'il s'agit du bénéfice et de l'échéance des triennales, à condition d'avoir compté au moins dix années de service au moment de leur nomination définitive; toutefois, la majoration de traitement qui en résultera pour eux ne commencera à courir qu'à partir du 1er janvier 1939.
