@@ -1,0 +1,11 @@
+# Art. II.
+
+Le code d´instruction criminelle est complété comme suit:
+
+- 1° Il est inséré un article 94-3 de la teneur suivante: (1) Si la chambre du conseil du tribunal d´arrondissement ou de la cour d´appel n´a pas statué sur l´inculpation dans le mois à compter du premier interrogatoire, le procureur d´Etat ou le procureur général d´Etat requièrent la mise en liberté immédiate de l´inculpé, à moins qu´elles ne déclarent, par une ordonnance motivée, rendue à l´unanimité, le ministère public entendu, que le maintien de la détention s´impose pour les motifs énoncés aux alinéas 1er, 2 et 3 de l´article 94. (2) Il en est de même successivement de mois en mois, si la chambre du conseil n´a pas statué sur l´inculpation à la fin d´un nouveau mois. (3) L´avant-veille de l´expiration du mois, le procureur d´Etat ou le procureur général d´Etat en est informé par le greffier.
+
+- 2° A la suite de l´article 197 sont insérés les textes suivants: Art. 197-1 (1) Les arrêts et jugements ne peuvent être exécutés par la voie de la contrainte par corps que pour autant qu´ils sont irrévocables, et seulement deux mois après l´avertissement par lettre chargée à la poste et sans frais adressée au condamné à la requête du receveur de l´enregistrement et des domaines. (2) Si l´arrêt ou le jugement de condamnation n´a pas été précédemment signifié, l´avertissement porte en tête un extrait de ce jugement contenant les noms des parties et le dispositif. Art. 197-2 (1) Le paiement de l´amende arrête l´exécution de la contrainte par corps. (2) La contrainte par corps n´est ni exécutée ni maintenue contre le condamné qui fournit une caution admise par le receveur de l´enregistrement, ou, en cas de contestation, déclarée bonne et valable par la juridiction qui a prononcé la condamnation. (3) La caution doit s´obliger solidairement avec le débiteur à payer dans un délai qui ne peut excéder trois mois. Si, à l´expiration du délai, l´amende n´a pas été intégralement payée, le débiteur peut être de nouveau contraint par corps, sans préjudice des droits de l´Etat contre la caution.
+
+- 3° L´article 209 est complété par un second alinéa de la teneur suivante:
+
+- «Le magistrat qui a connu de la cause en première instance ne peut pas concourir au jugement de l´appel, à peine de nullité de ce jugement.»
