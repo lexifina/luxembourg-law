@@ -1,0 +1,3 @@
+# Article unique.
+
+La loi susvisée du 26 décembre 1910 est rapportée et remplacée par la disposition suivante: Le Gouvernement est autorisé à faire procéder à la construction d'un nouveau pont et à la reconstruction de l'ancien pont sur l'Alzette à Clausen, sur la route de Luxembourg à Trèves. Les dépenses à résulter de ces travaux s'élevant approximativement à la somme de 195.000 fr. sont rattachées au budget pour 1916 sous l'art. 311 du chapitre des dépenses extraordinaires avec le libellé; Construction d'un nouveau pont et recontruction de l'ancien pont sur l'Alzette à Clausen, y compris le prix des emprises, 195.000 fr.
