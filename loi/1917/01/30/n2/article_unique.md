@@ -1,0 +1,3 @@
+# Article unique.
+
+Le Gouvernement est autorisé à faire procéder à la construction d'un chemin vicinal de Bigonville à Boulaide, passant par le nouveau pont sur la Sûre près du moulin de Bigonville. Les dépenses à résulter de ces travaux, y compris la part de l'État dans le prix des emprises, s'élevant approximativement à 90.000 fr., sont rattachées au budget de l'exercice 1917 sous l'art. 93bis du budget des dépenses ordinaires, avec le libellé: Construction d'un chemin vicinal. de Bigonville à Boulaide par le nouveau pont sur la Sûre près du moulin de Bigonville, y compris le prix des emprises et les dixièmes, 90.000 fr.
