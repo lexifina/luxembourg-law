@@ -1,0 +1,3 @@
+# Art. 29.
+
+Les groupements d´exploitants agricoles ayant pour but l´entr´aide entre exploitations, l´utilisation en commun plus rationnelle du matériel agricole ou l´exploitation en commun, obtiennent, sur leur demande, une aide unique au démarrage destinée à alléger les coûts de leur gestion à condition qu´ils soient constitués dans la forme juridique et qu´ils observent les conditions de collaboration de leurs membres à définir par règlement grand-ducal. Ce règlement détermine également le montant de l´aide à l´intérieur d´une fourchette de deux mille six cent quatre-vingt-onze à huit mille soixante-douze u.c. en fonction du nombre de participants et de l´activité exercée en commun.
