@@ -1,0 +1,3 @@
+# Art. III
+
+Le paragraphe sous 1° de l'article 3 de la prédite loi du 19 mars 1910 est abrogé et remplacé par les dispositions suivantes: la faculté de recevoir des dons et legs. Si la valeur de ces dons et legs excède 500.000 francs, leur acceptation est soumise à une autorisation à accorder par le ministre de la Santé. Les immeubles compris dans un acte de donation ou dans une disposition testamentaire seront aliénés dans le délai qui sera prescrit par la décision qui en autorise l'acceptation, à moins que leur possession ne soit reconnue favorable à l'existence et à la prospérité de l'association.
