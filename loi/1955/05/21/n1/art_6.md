@@ -1,0 +1,3 @@
+# Art. 6.
+
+Les crédits prévus pour constructions et acquisitions nouvelles ne sont pas susceptibles de transfert.
