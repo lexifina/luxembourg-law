@@ -1,0 +1,3 @@
+# Art. 22.
+
+L'article premier de l'arrêté grand-ducal du 17 décembre 1938 sur le régime fiscal des sociétés de participations financières (Holding companies) qui reçoivent des apports comprenant l'avoir d'une société étrangère s'élevant à un milliard de francs (1.000.000.000,- de francs) au moins, est remplacé par les dispositions suivantes: Art. 1er. Lorsqu'une société holding reçoit ou a reçu, soit lors de sa constitution, soit lors d'augmentations de capital ultérieures, des apports comprenant l'avoir d'une société étrangère valant un milliard de francs au moins, il sera dû le même droit d'apport que pour toute autre société de participations financières.

@@ -1,0 +1,3 @@
+# Art. 21.
+
+Les dispositions des alinéas 3 à 7 de l'article premier de la loi du 31 juillet 1929 sur le régime fiscal des sociétés de participations financières (Holding companies) sont remplacées par les dispositions suivantes: La société Holding sera assujettie aux impôts suivants: le droit d'apport établi par la loi réglant l'impôt sur les rassemblements de capitaux dans les sociétés civiles et commerciales; la taxe d'abonnement annuelle et obligatoire à charge des titres de société calculée au taux de 16 centimes par cent francs avec un minimum de mille cinq cents francs par an. Ces impôts ne peuvent être majorés de décimes additionnels généralement quelconques.
