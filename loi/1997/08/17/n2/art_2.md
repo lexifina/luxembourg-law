@@ -1,0 +1,3 @@
+# Art. 2.
+
+Il est créé un brevet d'aptitude pédagogique, option économie familiale. Le brevet d'aptitude pédagogique, option économie familiale, est délivré aux maîtresses d'enseignement ménager du régime préparatoire de l'enseignement secondaire technique actuellement en service, qui, au moment de l'entrée en vigueur de la présente loi, peuvent se prévaloir de dix années de service dans l'enseignement au moins et qui participent ou ont participé à une formation spéciale dont l'objectif est de compléter leur formation initiale et dont le programme et les modalités sont déterminés par règlement grand-ducal.
