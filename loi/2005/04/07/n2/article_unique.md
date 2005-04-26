@@ -1,0 +1,3 @@
+# Article unique.
+
+Est approuvé l’Accord entre les Etats membres de l’Union européenne relatif au statut du personnel militaire et civil détaché auprès des institutions de l’Union européenne, des quartiers généraux et des forces pouvant être mis à la disposition de l’Union européenne dans le cadre de la préparation et de l’exécution des missions visées à l’article 17, paragraphe 2, du Traité sur l’Union européenne, y compris lors d’exercices, et du personnel militaire et civil des Etats membres mis à la disposition de l’Union européenne pour agir dans ce cadre (SOFA UE), signé à Bruxelles, le 17 novembre 2003.
