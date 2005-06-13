@@ -1,0 +1,11 @@
+# Art. 5.
+
+I. Au moment de la notification visée à l’article 13, paragraphe 2. de la Convention établie sur la base de l’article K.3 du Traité sur l’Union européenne, relative à la lutte contre la corruption impliquant des fonctionnaires des Communautés européennes ou des fonctionnaires des Etats membres de l’Union européenne, signée à Bruxelles, le 26 mai 1997, le Gouvernement est autorisé à faire les déclarations suivantes:
+
+- 1. «En application de l’article 7, paragraphe 2. de la Convention établie sur la base de l’article K.3 du Traité sur l’Union européenne, relative à la lutte contre la corruption impliquant des fonctionnaires des Communautés européennes ou des fonctionnaires des Etats membres de l’Union européenne, signée à Bruxelles, le 26 mai 1997, le Gouvernement du Grand-Duché de Luxembourg déclare que, sauf les cas couverts par le point a) de l’article 7, paragraphe 1. de la même Convention, il n’appliquera les règles de compétence visées aux points b), c) et d) du même article 7, paragraphe 1. qu’à la condition que l’auteur de l’infraction ait la nationalité luxembourgeoise.»
+
+- 2. «En application de l’article 12, paragraphe 4. de la Convention établie sur la base de l’article K.3 du Traité sur l’Union européenne, relative à la lutte contre la corruption impliquant des fonctionnaires des Communautés européennes ou des fonctionnaires des Etats membres de l’Union européenne, signée à Bruxelles, le 26 mai 1997, le Gouvernement du Grand-Duché de Luxembourg déclare qu’il accepte la compétence de la Cour de Justice des Communautés européennes selon les modalités prévues à l’article 12, paragraphe 3. de la même Convention.»
+
+II. Au moment de la ratification de la Convention pénale sur la corruption, signée à Strasbourg, le 27 janvier 1999, le Gouvernement est autorisé à faire la déclaration suivante:
+
+«En application de l’article 17, paragraphe 2 de la Convention pénale sur la corruption, signée à Strasbourg, le 27 janvier 1999, le Gouvernement du Grand-Duché de Luxembourg déclare que, sauf les cas couverts par le point a de l’article 17, paragraphe 1 de cette même Convention, il n’appliquera les règles de compétence visées aux points b et c du même article 17, paragraphe 1 qu’à la condition que l’auteur de l’infraction ait la nationalité luxembourgeoise.»
