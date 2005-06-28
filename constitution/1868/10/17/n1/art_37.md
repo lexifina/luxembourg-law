@@ -2,7 +2,7 @@
 
 Le Grand-Duc fait les traités. Les traités n'aurent d'effet avant d'avoir été approuvés par la loi et publiés dans les formes prévues pour la publication des lois.
 
-Les traités visés au Chapitre III, § 4, art. 49bis, sont approuvés par une loi votée dans les conditions de l'art. 114, al. 5.
+Les traités visés au Chapitre III, § 4, art. 49bis, sont approuvés par une loi votée dans les conditions de l'article 114, alinéa 2 .
 
 Les traités secrets sont abolis.
 
@@ -10,4 +10,4 @@ Le Grand-Duc fait les règlements et arrêtés nécessaires pour l'exécution de
 
 Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu'en vertu d'une loi.
 
-Le Grand-Duc commande la force armée ; il déclare la guerre et la cessation de la guerre après y avoir été autorisé par un vote de la Chambre émis dans les conditions de l'article 114, al. 5 de la Constitution.
+Le Grand-Duc commande la force armée ; il déclare la guerre et la cessation de la guerre après y avoir été autorisé par un vote de la Chambre émis dans les conditions de l'article 114, alinéa 2 de la Constitution.
