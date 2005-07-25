@@ -1,0 +1,3 @@
+# Art. 5.
+
+A l’article 113 de la loi modifiée du 6 décembre 1991 sur le secteur des assurances, l’énumération des intermédiaires d’assurances est complétée par le terme sous-courtier à insérer entre les termes ...courtier... et ...et en général... et l’article est modifié en outre par l’ajout des termes et à l’article 105 à insérer entre les termes ...à l’article 103... et ...de la présente loi....
