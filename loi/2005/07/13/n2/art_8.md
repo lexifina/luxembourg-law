@@ -1,0 +1,3 @@
+# Art. 8. Activités au Luxembourg des institutions de retraite professionnelle d'origine non communautaire
+
+Les institutions de retraite professionnelle d'origine non communautaire peuvent fournir leurs services à des entreprises luxembourgeoises à condition d'être agréées dans l'Etat d'origine conformément à une législation prévoyant que ces institutions sont soumises à une surveillance que l'IGSS considère comme équivalente à celle prévue par la législation communautaire et que la coopération entre l'autorité compétente du pays d'origine et l'IGSS soit suffisamment garantie en vue de garantir le respect des dispositions de la loi du 8 juin 1999 relative aux régimes complémentaires de pension.»

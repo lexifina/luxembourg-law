@@ -1,0 +1,3 @@
+# Art. 6. Accès à l'activité et conditions d'exercice au Luxembourg des institutions de retraite professionnelle agréées dans d'autres Etats membres
+
+Toute institution de retraite professionnelle qui a obtenu l'agrément et est contrôlée par une autorité compétente d'un autre Etat membre peut fournir ses services à des entreprises d'affiliation établies au Luxembourg selon les modalités décrites à l'article 7 de la présente loi et dans le respect des dispositions de la loi du 8 juin 1999 relative aux régimes complémentaires de pension. L'exercice de ces activités n'est pas assujetti à un agrément par les autorités compétentes luxembourgeoises.
