@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Le Gouvernement est autorisé à faire procéder à la réalisation de la première partie de la liaison Micheville comprenant la construction de la seule structure portante du tunnel sous la zone urbanisée du site de Belval/Ouest, de l'accès Sud au site de Belval-Ouest donnant sur le Square-Mile avec raccordement provisoire sur le CR168, les déviations de réseaux d'infrastructures souterraines et aériennes y relatives, la réalisation des études nécessaires concernant ces parties du projet ainsi que celle des études concernant les ouvrages et les infrastructures à réaliser ultérieurement dans le cadre de la même liaison.
