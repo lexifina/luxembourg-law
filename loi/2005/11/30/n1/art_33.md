@@ -1,0 +1,5 @@
+# Art. 33.
+
+Les matériels forestiers de reproduction des essences soumises aux dispositions de la loi du 18 février 1971 concernant la commercialisation des matériels forestiers de reproduction et les matériels forestiers de reproduction des essences et hybrides non soumis aux dispositions de cette loi, mais qui ont été produits conformément aux dispositions de cette loi avant la date d'entrée en vigueur de la présente loi, peuvent être commercialisés jusqu'à l'épuisement des stocks.
+
+Les matériels forestiers de reproduction des essences et hybrides artificiels non soumis aux dispositions de la loi du 18 février 1971 concernant la commercialisation des matériels forestiers de reproduction et qui n'ont pas été produits conformément aux dispositions de cette loi avant la date d'entrée en vigueur de la présente loi, peuvent être commercialisés, après information de l'Administration des Eaux et Forêts, sous la désignation «matériels forestiers de reproduction non conformes aux dispositions de la loi du 30 novembre 2005 concernant la production et la commercialisation des matériels forestiers de reproduction», jusqu'au 31 décembre 2009.
