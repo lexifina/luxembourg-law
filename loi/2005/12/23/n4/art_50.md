@@ -1,0 +1,5 @@
+# Art. 50.- Loi modifiée du 16 août 1967 ayant pour objet la création d'une grande voirie de communication et d'un fonds des routes
+
+Le deuxième alinéa de l'article 16 de la loi modifiée du 16 août 1967 ayant pour objet la création d'une grande voirie de communication et d'un fonds des routes est remplacé par les dispositions suivantes:
+
+"Les dépenses occasionnées par la réalisation du programme général d'établissement d'une grande voirie de communication, prévu à l'article 6, alinéa 1er, ainsi que celles relatives à la remise en état de cette même voirie et les frais de maintenance et d'entretien du centre de contrôle du trafic sont imputables au Fonds des routes. Peuvent également être imputées à charge du Fonds des routes les dépenses relatives à des travaux de reconstruction, de remplacement, de réhabilitation et d'assainissements, ainsi que d'entretien des ouvrages d'art et hydrauliques de l'Etat. Le Ministre des travaux publics ordonnance les montants versés au Fonds des routes."

@@ -1,0 +1,5 @@
+# Art.5. Impôt sur le revenu: loi spéciale concernant le registre public maritime luxembourgeois
+
+L'article 107 de la loi modifiée du 9 novembre 1990 ayant pour objet la création d'un registre public maritime luxembourgeois est complété par les dispositions suivantes qui sont applicables aux exercices d'exploitation débutant après le 31.12.2005:
+
+" En outre, les dispositions des paragraphes 4, numéro 3, et 7, alinéa 2, numéro 3 de ce même article ne s'appliquent pas aux entreprises susvisées en ce qui concerne les investissements dans des navires utilisés en trafic international, sous condition qu'elles justifient que lesdits navires n'ont pas déjà été dans le passé éligibles pour la bonification d'impôt au Luxembourg dans le chef d'une entreprise commerciale. A cette fin, le commissariat aux Affaires maritimes ou toute autre autorité outillée à cet effet pourra établir une attestation renseignant tous les propriétaires antérieurs du navire dûment identifié, relevés par leurs nom(s) ou raison sociale."
