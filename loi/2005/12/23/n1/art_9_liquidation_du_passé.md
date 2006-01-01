@@ -1,0 +1,3 @@
+# Art. 9. Liquidation du passé
+
+Aucune information concernant les revenus soumis à la retenue libératoire et les intérêts dispensés de retenue touchés sur un dépôt d'épargne, ne peut être utilisée aux fins d'une poursuite pour fraude ou d'une imposition relatives aux impôts sur le revenu ou sur la fortune nés avant l'entrée en vigueur de la présente loi, si les revenus ne proviennent pas de fonds ou de placements qui constituent ou ont constitué, dans le chef du contribuable, un élément de l'actif net investi dans une entreprise commerciale ou dans une exploitation agricole ou forestière, ou de l'actif net servant à l'exercice d'une profession libérale.

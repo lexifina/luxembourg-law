@@ -1,0 +1,3 @@
+# Art. 2. Bénéficiaire effectif résident
+
+Les dispositions des articles 2 et 3 de la loi du 21 juin 2005 transposant en droit luxembourgeois la directive 2003/48/CE du 3 juin 2003 du Conseil de l'Union européenne en matière de fiscalité des revenus de l'épargne sous forme de paiement d'intérêts, s'appliquent par analogie en ce qui concerne la définition et l'identification, ainsi que la détermination du lieu de résidence du bénéficiaire effectif. L'agent payeur considère comme personne physique résidente au sens de l'article 1er, toute personne ayant sa résidence au Luxembourg, à moins que cette personne ne lui soumette un certificat de résidence fiscale établi par l'autorité compétente de l'Etat dans lequel la personne physique déclare être résident.
