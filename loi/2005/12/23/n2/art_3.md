@@ -1,0 +1,3 @@
+# Art. 3.
+
+L'article 347 du Code des assurances sociales est modifié comme suit: Art. 347. L'assurance dépendance a principalement pour objet, dans les limites fixées par le présent livre, la prise en charge par des prestations en nature, des aides et soins à la personne dépendante fournis intégralement ou partiellement dans le cadre d'un maintien à domicile ou d'un établissement d'aides et de soins ainsi que des aides techniques et des adaptations du logement. Pour la personne dépendante maintenue intégralement ou partiellement à domicile, la prise en charge peut comporter des prestations en espèces en remplacement des prestations en nature.
