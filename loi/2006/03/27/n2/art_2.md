@@ -1,0 +1,3 @@
+# Art. 2.
+
+L'article 10, paragraphe 1er de la même loi est complété par un deuxième alinéa formulé comme suit: Pour chaque période visée à l'article 12, paragraphe 2, le projet de plan précise également l'utilisation globale d'URE et de REC ainsi que le pourcentage de l'allocation accordée à chaque installation à concurrence duquel les exploitants sont autorisés à utiliser pour cette période les URE et les REC dans le système institué par la présente loi. L'utilisation totale des URE et des REC est compatible avec les obligations de supplémentarité pertinentes découlant du Protocole et de la CCNUCC ainsi que des décisions adoptées à ce titre.
