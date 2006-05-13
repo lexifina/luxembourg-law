@@ -1,0 +1,17 @@
+# Art. 9.
+
+(1) Le demandeur a le droit d'être entendu par un agent du ministre. Il a l'obligation de répondre personnellement aux convocations du ministre. Le ministre peut enregistrer, par les moyens techniques adaptés, les déclarations faites oralement par le demandeur, à condition que ce dernier en ait été préalablement informé. Le ministre peut soumettre le demandeur à un test linguistique. Lorsque le demandeur est accompagné par un avocat, il devra néanmoins répondre personnellement aux questions posées.
+
+(2) Le demandeur a l'obligation de soumettre dans les meilleurs délais tous les éléments nécessaires pour établir le bien-fondé de sa demande. Le demandeur est réputé avoir présenté tous les éléments nécessaires s'il a fourni des déclarations ainsi que tous les documents en sa possession concernant son âge, sa situation, y compris celle de sa famille, son identité, sa nationalité, ses pays et lieux de résidence antérieurs, ses demandes d'asile précédentes, son itinéraire de voyage, ses documents de voyage et les motifs à la base de sa demande de protection internationale.
+
+(3) Le ministre veille à ce que chaque entretien fasse l'objet d'un rapport écrit contenant au moins les informations essentielles relatives à la demande. L'absence du demandeur ou de son avocat lors de l'entretien fixé par l'agent du ministère, ainsi que le refus de ces derniers de signer le rapport de l'entretien n'empêchent pas le ministre de statuer sur la demande de protection internationale. En cas de refus de signer le rapport de l'entretien, les motifs du refus doivent ressortir du dossier.
+
+(4) Il ne sera pas procédé à un entretien du demandeur si, en vertu d'engagements internationaux auxquels le Luxembourg est partie, un autre pays est responsable de l'examen de la demande.
+
+(5) L'entretien peut également ne pas avoir lieu lorsqu'il n'est pas raisonnablement possible d'y procéder, en particulier lorsque le ministre estime que le demandeur n'est pas en état ou en mesure d'être interrogé en raison de circonstances durables indépendantes de sa volonté. En cas de doute, le ministre peut exiger un certificat attestant de l'état de santé physique ou psychique du demandeur. Lorsque le ministre n'offre pas la possibilité d'un entretien au demandeur en application du présent paragraphe, des efforts raisonnables doivent être déployés pour permettre au demandeur de fournir davantage d'informations.
+
+(6) L'entretien a normalement lieu hors de la présence des membres de la famille, à moins que le ministre ne juge que la présence d'autres membres de la famille est nécessaire pour procéder à un examen adéquat. L'entretien doit avoir lieu dans des conditions garantissant la confidentialité. Le ministre fait en sorte que l'entretien soit mené dans des conditions qui permettent au demandeur d'exposer l'ensemble des motifs de sa demande. A cet effet, le ministre:
+
+- a) veille à ce que la personne chargée de mener l'entretien soit suffisamment compétente pour tenir compte de la situation personnelle ou générale dans laquelle s'inscrit la demande, notamment l'origine culturelle ou la vulnérabilité du demandeur, pour autant qu'il soit possible de le faire; et
+
+- b) choisit un interprète capable d'assurer une communication appropriée entre le demandeur et la personne qui mène l'entretien. Il n'est pas nécessaire que la communication ait lieu dans la langue pour laquelle le demandeur a manifesté une préférence s'il existe une autre langue dont il est raisonnable de supposer qu'il la comprend et dans laquelle il est à même de communiquer.
