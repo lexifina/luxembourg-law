@@ -1,3 +1,7 @@
 # Art. 69.
 
-Aucun député ne peut, pendant la durée de la session, être poursuivi ni arrêté en matière de répression, qu’avec l’autorisation de la Chambre, sauf le cas de flagrant délit. – Aucune contrainte par corps ne peut être exercée contre un de ses membres, durant la session, qu’avec la même autorisation. – La détention ou la poursuite d’un député est suspendue pendant la session et pour toute sa durée, si la Chambre le requiert.
+À l’exception des cas visés par l’article 68, les députés peuvent être poursuivis en matière pénale, même durant la session.
+
+Cependant, l’arrestation d’un député pendant la durée de la session est, sauf le cas de flagrant délit, soumise à l’autorisation préalable de la Chambre.
+
+L’autorisation de la Chambre n’est pas requise pour l’exécution des peines, même celles privatives de liberté, prononcées à l’encontre d’un député.
