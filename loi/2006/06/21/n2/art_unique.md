@@ -1,0 +1,3 @@
+# Article unique.
+
+Est approuvée la Convention relative à l'adhésion de la République tchèque, de la République d'Estonie, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, de la République de Hongrie, de la République de Malte, de la République de Pologne, de la République de Slovénie et de la République slovaque à la Convention sur la loi applicable aux obligations contractuelles, ouverte à la signature à Rome le 19 juin 1980, ainsi qu'aux Premier et Deuxième Protocoles concernant son interprétation par la Cour de justice des Communautés européennes, signée à Luxembourg le 14 avril 2005.
