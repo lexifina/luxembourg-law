@@ -2,6 +2,10 @@
 
 (1) Il n'y a dans l'État aucune distinction d'ordres.
 
+(2) Les femmes et les hommes sont égaux en droits et en devoirs.
+
+L’État veille à promouvoir activement l’élimination des entraves pouvant exister en matière d’égalité entre femmes et hommes.
+
 (3) L'État garantit les droits naturels de la personne humaine et de la famille.
 
 (4) La loi garantit le droit au travail et assure à chaque citoyen l'exercice de ce droit.
