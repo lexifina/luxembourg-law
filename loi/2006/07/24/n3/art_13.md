@@ -1,0 +1,5 @@
+# Art. 13.
+
+1. Au deuxième alinéa de l'article 8 de la loi du 11 juin 1999 précitée, le quatrième tiret est remplacé par le texte suivant: n'ont pas été condamnés pour des infractions graves ou répétées à des obligations découlant du droit social ou du droit du travail, y compris les obligations au titre de la législation en matière de protection du travail, ni à des obligations découlant de la réglementation douanière dans le cas d'une entreprise ferroviaire désirant se livrer à des activités de transport transfrontalières de marchandises soumises à des procédures douanières.
+
+2. Le même article 8 est complété in fine par un alinéa nouveau libellé comme suit: Sans préjudice des dispositions de la législation relative à la protection des personnes à l'égard du traitement des données à caractère personnel, le ministre est autorisé, dans le cadre de la gestion des licences ferroviaires, à traiter des données judiciaires concernant tant l'entreprise que ses dirigeants. Cette même autorisation vaut dans le cadre de sa mission d'instruction des demandes introduites par les entreprises ferroviaires pour la commission administrative prévue par l'article 16.
