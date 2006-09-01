@@ -1,3 +1,0 @@
-# Art. 20. Temps d’allaitement
-
-A sa demande, il doit être accordé au cours d’une journée normale de travail à la femme allaitante un temps d’allaitement réparti en deux périodes de quarante-cinq minutes chacune, se plaçant respectivement au début et à la fin de son horaire journalier normal du travail. Si la journée de travail n’est interrompue que par une pause d’une heure, les deux périodes peuvent être ramenées à un seul temps d’allaitement d’au moins quatre-vingt-dix minutes. La même disposition est applicable en cas d’impossibilité de la femme d’allaiter son enfant au voisinage du lieu de travail. Le temps d’allaitement est compté comme temps de travail et donne droit au salaire normal.

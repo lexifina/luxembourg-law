@@ -1,7 +1,0 @@
-# Art. 5. Maintien des droits
-
-- (1) Pendant la durée du congé de maternité, l’employeur est tenu de conserver à la femme salariée absente son emploi ou, en cas d’impossibilité, un emploi similaire correspondant à ses qualifications et assorti d’une rémunération au moins équivalente.
-
-- (2) La période du congé de maternité est prise en compte pour la détermination des droits liés à l’ancienneté. La femme salariée conserve en outre le bénéfice de tous les avantages qu’elle avait acquis avant le début du congé de maternité.
-
-- (3) La période du congé de maternité est assimilée à une période de travail effectif donnant droit au congé annuel de récréation. Le congé annuel non encore pris au début du congé de maternité est reporté dans les délais légaux.
