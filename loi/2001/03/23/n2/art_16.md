@@ -1,3 +1,0 @@
-# Art. 16.
-
-Le plan d'organisation du travail à établir par toute entreprise conformément au paragraphe (3) de l'article 4 de la loi modifiée du 9 décembre 1970 portant réduction et réglementation de la durée du travail des ouvriers occupés dans les secteurs public et privé de l'économie, au paragraphe (4) de l'article 6 de la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de services des employés privés et au paragraphe (4) de l'article 1er de la loi modifiée du 26 février 1993 concernant le travail volontaire à temps partiel, comportera un chapitre concernant le travail des adolescents.

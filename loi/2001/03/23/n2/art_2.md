@@ -1,5 +1,0 @@
-# Art. 2.
-
-Les conditions applicables au travail des adolescents occupés dans les services domestiques, dans l'agriculture et dans la viticulture pourront être précisées par règlement grand-ducal à prendre sur avis du Conseil d'Etat et de l'assentiment de la Conférence des Présidents de la Chambre des Députés.
-
-Par services domestiques, au sens de l'alinéa qui précède, sont visés les seuls travaux de ménage chez des particuliers, à l'exclusion de tous autres travaux de même nature exécutés notamment dans les hôtels, restaurants, cafés, salons de consommation, cliniques, institutions de soins et de garde de personnes âgées et/ou dépendantes, maisons d'enfants et institutions actives dans le secteur de la garde et de l'éducation d'enfants.

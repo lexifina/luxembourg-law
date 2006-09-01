@@ -1,3 +1,0 @@
-# Art. 11.
-
-Le travail des adolescents n'est autorisé qu'à condition qu'il ne comporte pas d'exploitation économique des jeunes, qu'il ne nuise pas à leur santé et leur sécurité et/ou à leur développement physique, psychique, mental, spirituel, moral et social et qu'il ne compromette pas leur éducation et leur formation ni leur participation à des programmes d'orientation ou de formation professionnelle approuvés et contrôlés par les autorités compétentes ou à leur aptitude à bénéficier de l'instruction reçue.

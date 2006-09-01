@@ -1,5 +1,0 @@
-# Art. 18.
-
-(1) L'employeur doit autoriser les adolescents à s'abstenir du travail pour suivre l'enseignement professionnel obligatoire.
-
-(2) Les heures passées à l'école, notamment dans le cadre d'un système de formation en alternance, sont comptées comme heures de travail et donnent droit à la rémunération prévue.
