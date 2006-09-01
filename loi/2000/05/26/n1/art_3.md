@@ -1,3 +1,0 @@
-# Art. 3.
-
-Le harcèlement sexuel à l’occasion des relations de travail, tel que défini à l’article 2 de la présente loi, à l’article 10, paragraphe 2 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat et à l’article 12, paragraphe 3 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux, est considéré comme contraire au principe de l’égalité de traitement au sens des dispositions de la loi du 8 décembre 1981 relative à l’égalité de traitement entre hommes et femmes en ce qui concerne l’accès à l’emploi, à la formation et à la promotion professionnelles et les conditions de travail.
