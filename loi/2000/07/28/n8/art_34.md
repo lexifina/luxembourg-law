@@ -1,5 +1,0 @@
-# Art. 34.
-
-(1) La compétence du comité d'entreprise européen est limitée à l'information et la consultation transfrontalières sur les questions économiques et sociales de nature stratégique et transnationale concernant l'ensemble de l'entreprise de dimension communautaire ou au moins deux établissements ou entreprises de l'entreprise ou du groupe d'entreprises situés dans des Etats différents parmi les Etats visés à l'article 2 de la présente loi.
-
-(2) Dans le cas des entreprises ou groupes d'entreprises visés au paragraphe (3) de l'article 6 de la présente loi, la compétence du comité d'entreprise européen est limitée aux matières décrites au paragraphe (1) qui précède qui concernent tous les établissements ou toutes les entreprises du groupe situés dans les Etats visés à l'article 2 de la présente loi ou qui concernent au moins deux des établissements de l'entreprise ou au moins deux entreprises du groupe, situés dans des Etats différents parmi les Etats visés à l'article 2.

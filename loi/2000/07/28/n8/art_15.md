@@ -1,5 +1,0 @@
-# Art. 15.
-
-(1) La désignation des représentants au groupe spécial de négociation des travailleurs occupés au Luxembourg par une entreprise de dimension communautaire ou un ou plusieurs de ses établissements ainsi que par une ou plusieurs entreprises faisant partie d'un groupe d'entreprises de dimension communautaire, se fait selon les règles fixées aux articles qui suivent.
-
-(2) Ces règles s'appliquent à la désignation des représentants des travailleurs occupés au Luxembourg aux groupes spéciaux de négociation institués en application de la directive 94/45, tant au Luxembourg que dans un autre des Etats visés à l'article 2 de la présente loi.
