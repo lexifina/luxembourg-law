@@ -1,3 +1,0 @@
-# Art. 8.
-
-L’assuré peut, sans préjudice de l’application des mesures prévues dans le cadre de la présente loi, exercer les voies de recours contre la décision prise sur base de l’article 187 du Code des assurances sociales. L’exercice d’un tel recours ne cause pas préjudice en ce qui concerne son aptitude au travail ou sa disponibilité pour le marché du travail au regard de l’article 13 de la loi modifiée du 30 juin 1976 portant 1. création d’un fonds pour l’emploi; 2. réglementation de l’octroi des indemnités de chômage complet ou de la loi du 29 avril 1999 portant création d’un droit au revenu minimum garanti et au regard de l’article 6 b) de la loi du 29 avril 1999 portant création d’un droit à un revenu minimum garanti.
