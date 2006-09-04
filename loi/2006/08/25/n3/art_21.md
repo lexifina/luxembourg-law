@@ -1,0 +1,3 @@
+# Art. 21. Relation entre la présente loi et le cadre général relatif à l’information et la consultation des travailleurs dans la Communauté européenne
+
+Une SE peut valablement être constituée et immatriculée au Luxembourg sans qu’il y ait lieu de créer un groupe spécial de négociation ni de négocier un accord sur l’implication des travailleurs lorsque les dispositions nationales prises en application de la directive 2002/14/CE du Parlement européen et du Conseil du 11 mars 2002 établissant un cadre général relatif à l’information et à la consultation des travailleurs dans la Communauté européenne ne s’appliquent à aucune des sociétés participantes, à leurs filiales ou établissements concernés.

@@ -1,0 +1,33 @@
+# Art. 11. Dispositions de référence pour l’information et la consultation
+
+La compétence et les pouvoirs de l’organe de représentation institué dans une SE ayant son siège statutaire au Grand-Duché de Luxembourg sont régis par les règles ci-après:
+
+- 1) La compétence de l’organe de représentation est limitée aux questions qui concernent la SE elle-même ou toute filiale ou tout établissement situés dans un autre Etat membre, ou qui excèdent les pouvoirs des instances de décision dans un seul Etat membre.
+
+- 2) Sans préjudice des réunions tenues conformément au point 3), l’organe de représentation a le droit d’être informé et consulté et, à cette fin, de rencontrer l’organe d’administration ou de direction de la SE au moins une fois par an, sur la base de rapports réguliers établis par l’organe d’administration ou de direction, au sujet de l’évolution des activités de la SE et de ses perspectives. Les directions locales en sont informées.
+
+- L’organe d’administration ou de direction de la SE fournit à l’organe de représentation l’ordre du jour de l’organe d’administration ou, le cas échéant, de l’organe de direction et de surveillance, ainsi que des copies de tous les documents soumis à l’assemblée générale de ses actionnaires. La réunion porte notamment sur la structure, la situation économique et financière, l’évolution probable des activités, de la production et des ventes, la situation et l’évolution probable de l’emploi, les investissements, les changements substantiels concernant l’organisation, l’introduction de nouvelles méthodes de travail ou de nouveaux procédés de production, les transferts de production, les fusions, les réductions de capacité ou les fermetures d’entreprises, d’établissements ou de parties importantes de ceux-ci et les licenciements collectifs.
+
+- 3) Lorsque des circonstances exceptionnelles interviennent qui affectent considérablement les intérêts des travailleurs, notamment en cas de délocalisation, de transferts, de fermeture d’entreprises ou d’établissements ou de licenciements collectifs, l’organe de représentation a le droit d’en être informé. L’organe de représentation ou, s’il en décide ainsi, notamment pour des raisons d’urgence, le comité restreint, a le droit de rencontrer, à sa demande, l’organe d’administration ou de direction de la SE ou tout autre niveau de direction plus approprié au sein de la SE ayant la compétence de prendre des décisions propres, afin d’être informé et consulté sur les mesures affectant considérablement les intérêts des travailleurs.
+
+- Lorsque l’organe d’administration ou de direction décide de ne pas suivre l’avis exprimé par l’organe de représentation, ce dernier a le droit de rencontrer à nouveau l’organe d’administration ou de direction de la SE pour tenter de parvenir à un accord ou de concilier leurs points de vues.
+
+- Dans le cas d’une réunion organisée avec le comité restreint, les membres de l’organe de représentation qui représentent des travailleurs directement concernés par les mesures en question ont aussi le droit de participer.
+
+- Les réunions visées ci-dessus ne portent pas atteinte aux prérogatives de l’organe d’administration ou de direction et notamment ne l’empêchent pas de prendre toute décision avant la réunion avec l’organe de représentation.
+
+- 4) Les réunions d’information et de consultation sont présidées par le président de l’organe d’administration ou de direction de la SE.
+
+- Avant toute réunion avec l’organe d’administration ou de direction de la SE, l’organe de représentation ou le comité restreint, le cas échéant élargi conformément au point 3), troisième alinéa, est habilité à se réunir sans que les représentants de l’organe d’administration ou de direction soient présents.
+
+- 5) Sans préjudice de l’article 15, les membres de l’organe de représentation informent les représentants des travailleurs de la SE et de ses filiales et établissements de la teneur et des résultats des procédures d’information et de consultation.
+
+- 6) L’organe de représentation ou le comité restreint peuvent être assistés par des experts de leur choix pour autant que ce soit nécessaire pour l’accomplissement de leur tâche.
+
+- 7) Dans la mesure où cela est nécessaire pour l’accomplissement de leurs tâches, les membres de l’organe de représentation ont droit à un congé de formation sans perte de salaire.
+
+- 8) Les dépenses de l’organe de représentation sont supportées par la SE. Sauf accord contraire, celle-ci met à disposition dans la mesure nécessaire pour permettre à l’organe de représentation, et, le cas échéant, au comité restreint, de fonctionner de manière appropriée, les locaux et les moyens matériels nécessaires. La SE prend en charge, dans la mesure du nécessaire pour permettre à l’organe de représentation et au comité restreint de fonctionner de manière appropriée, les frais de déplacement et de séjour de ses membres. En cas de besoin, et dans la mesure du nécessaire pour permettre à l’organe de représentation et/ou au comité restreint de fonctionner de manière appropriée, la SE met à leur disposition les interprètes et le personnel administratif.
+
+- En ce qui concerne toutefois les experts, désignés par l’organe de représentation, et, le cas échéant, par le comité restreint, la prise en charge financière par la SE est limitée à un expert par tranche de 9 membres de l’organe de représentation, sauf accord contraire préalable. La prise en charge précitée se limite aux frais qui sont directement en relation avec la participation de l’expert à une réunion.
+
+- De même la prise en charge financière par la SE des réunions de l’organe de représentation ou du comité restreint en dehors de la présence de l’organe d’administration ou de direction de la SE est limitée à une réunion par an, à laquelle s’ajoute une réunion en dehors de la présence de ses organes en cas de réunion d’information et de consultation en cas de circonstances exceptionnelles.

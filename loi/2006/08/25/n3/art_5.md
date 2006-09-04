@@ -1,0 +1,31 @@
+# Art. 5. Négociation d’un accord
+
+(1) Le groupe spécial de négociation et les organes compétents des sociétés participantes négocient les modalités relatives à l’implication des travailleurs au sein de la SE dans un esprit de coopération en vue de parvenir à un accord.
+
+A cet effet, les organes compétents des sociétés participantes informent le groupe spécial de négociation du projet et du déroulement réel du processus de constitution de la SE, jusqu’à l’immatriculation de celle-ci. A la demande du groupe spécial de négociation, les organes précités l’informent du nombre de travailleurs que représente chaque membre dudit groupe.
+
+(2) Les négociations débutent dès que le groupe spécial de négociation est constitué et peuvent se poursuivre pendant les six mois qui suivent. Les parties peuvent décider, d’un commun accord, de prolonger les négociations au-delà de la période visée au paragraphe 1er, jusqu’à un an, au total, à partir de la constitution du groupe spécial de négociation.
+
+(3) Sous réserve du paragraphe 5 ci-après, le groupe spécial de négociation prend ses décisions à la majorité absolue de ses membres, à condition que cette majorité représente également la majorité absolue des travailleurs. Chaque membre dispose d’une voix.
+
+Toutefois, si le résultat des négociations devait entraîner une réduction des droits de participation, la majorité requise pour pouvoir décider d’adopter un tel accord est constituée par les voix des deux tiers des membres du groupe spécial de négociation représentant au moins les deux tiers des travailleurs, ce chiffre incluant les voix de membres représentant des travailleurs employés dans au moins deux Etats membres,
+
+- – dans le cas d’une SE constituée par voie de fusion, si la participation concerne au moins 25% du nombre total de travailleurs employés par les sociétés participantes, ou
+
+- – dans le cas d’une SE constituée par création d’une société holding ou par constitution d’une filiale, si la participation concerne au moins 50% du nombre total des travailleurs des sociétés participantes.
+
+On entend par réduction des droits de participation une proportion de membres des organes de la SE au sens de l’article 2, point 11), qualitativement inférieure à la proportion la plus haute existant au sein des sociétés participantes. Une telle réduction suppose que le nouveau mode de participation aboutisse à une réelle diminution d’influence des travailleurs. L’appréciation tiendra compte notamment de la nature de l’organe dans lequel s’exerceront les droits de participation et de la portée concrète de ces droits.
+
+(4) Aux fins des négociations, le groupe spécial de négociation peut demander à être assisté dans sa tâche par des experts de son choix, notamment des représentants des organisations des travailleurs appropriées au niveau communautaire. Ces experts peuvent assister, à titre consultatif, aux réunions de négociation à la demande du groupe spécial de négociation, le cas échéant pour promouvoir la cohérence au niveau communautaire. Le nombre et les modalités pratiques de la présence des experts aux réunions sont fixés par accord entre les organes compétents des sociétés participantes et le groupe spécial de négociation.
+
+Le groupe spécial de négociation peut décider d’informer les représentants d’organisations extérieures appropriées, y compris des organisations de travailleurs, du début des négociations.
+
+(5) Le groupe spécial de négociation peut décider, à la majorité prévue ci-dessous, de ne pas entamer des négociations ou de clore des négociations déjà entamées, et de se fonder sur la réglementation relative à l’information et à la consultation des travailleurs qui est en vigueur dans les Etats membres où la SE emploie des travailleurs. Une telle décision met fin à la procédure destinée à conclure l’accord visé à l’article 6. Lorsqu’une telle décision a été prise, aucune des dispositions de référence n’est applicable.
+
+La majorité requise pour décider de ne pas entamer des négociations ou de les clore est constituée par les voix de deux tiers des membres représentant au moins les deux tiers des travailleurs, comportant les voix de membres représentant des travailleurs employés dans au moins deux Etats membres.
+
+Dans le cas d’une SE constituée par transformation, le présent paragraphe ne s’applique pas s’il y a participation dans la société qui doit être transformée. Le groupe spécial de négociation est reconvoqué à la demande écrite d’au moins 10% des travailleurs de la SE, de ses filiales et établissements, ou de leurs représentants, au plus tôt deux ans après la date de la décision visée ci-dessus, à moins que les parties ne conviennent de rouvrir les négociations plus rapidement. Si le groupe spécial de négociation décide de rouvrir les négociations avec la direction mais que ces négociations ne débouchent pas sur un accord, aucune des dispositions de référence n’est applicable.
+
+(6) Les majorités visées aux paragraphes ci-dessus qui font référence au nombre de travailleurs employés sont calculées en prenant en considération le nombre de travailleurs présents au moment de la création du groupe spécial de négociation. Par dérogation, le nombre de travailleurs à prendre en considération pour les demandes visées au paragraphe 5, alinéa 3 ci-dessus est celui des travailleurs présents au moment de ces demandes.
+
+(7) Les dépenses relatives au fonctionnement du groupe spécial de négociation et, en général, aux négociations sont supportées par les sociétés participantes, de manière à permettre au groupe spécial de négociation de s’acquitter de sa mission d’une façon appropriée. A moins que l’accord visé au paragraphe 4 ci-dessus ne le stipule autrement, chaque société participante prendra en charge les frais d’un expert assistant le groupe spécial de négociation, cette prise en charge se limitant aux frais qui sont directement en relation avec la participation de l’expert à une réunion.
