@@ -1,0 +1,13 @@
+# Art. 12.
+
+(1) En dehors des hypothèses visées par l'article 11, la personne concernée peut, par simple requête, présenter une demande en nullité d'un acte posé par le procureur général d'Etat en exécution de la présente loi à la chambre du conseil du tribunal d'arrondissement de son domicile ou du lieu de sa résidence habituelle ou, à défaut, du tribunal d'arrondissement de Luxembourg. Cette requête doit être déposée, sous peine de forclusion, dans un délai de dix jours à partir de la connaissance de l'acte par le requérant. La requête est communiquée au procureur général d'Etat par la voie du greffe qui avise les parties du jour, de l'heure et du lieu de l'audience au moins huit jours à l'avance par lettre recommandée. La personne concernée, son conseil et le ministère public ont seuls le droit d'y assister et de fournir tels mémoires et de faire telles réquisitions, verbales ou écrites, qu'ils jugent convenables.
+
+La chambre du conseil statue sur la demande par un jugement qui est susceptible d'appel et d'un recours en cassation.
+
+(2) L'appel est porté devant la chambre du conseil de la cour d'appel. Il est consigné sur un registre tenu à cet effet au greffe du tribunal d'arrondissement dont relève la chambre du conseil. Il doit être formé dans un délai de cinq jours, qui court contre le ministère public à compter du jour de l'ordonnance et contre la personne concernée à compter du jour de la notification de l'ordonnance. Le greffier avertit la partie intimée de la déclaration d'appel dans les vingt-quatre heures de la consignation sur le registre.
+
+(3) La personne concernée, son conseil et le procureur général d'Etat, qui sont avertis par le greffier au moins huit jours à l'avance du jour, de l'heure et du lieu de l'audience, ont seuls le droit d'y assister et de fournir tels mémoires et de faire telles réquisitions, verbales ou écrites, qu'ils jugent convenables.
+
+(4) Les formalités du présent article sont à observer à peine de nullité, sauf si la personne concernée ou son conseil y a renoncé. Les notifications et avertissements visés au présent article se font dans les formes prévues pour les notifications en matière répressive. Un recours en cassation est ouvert selon les modalités prévues par la loi modifiée du 18 février 1885 sur les pourvois et la procédure en cassation.
+
+(5) La demande en nullité visée au présent article est irrecevable lorsque le ou les actes argués de nullité ont été posés par ou sur instruction du procureur d'Etat ou du juge d'instruction dans un des cas prévus à l'article 48-3 paragraphe (1) du Code d'instruction criminelle.
