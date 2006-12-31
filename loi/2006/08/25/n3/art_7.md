@@ -1,3 +1,0 @@
-# Art. 7. Force obligatoire de l’accord
-
-L’accord négocié doit revêtir une forme écrite. Il oblige la SE de même que toutes les sociétés participantes, leurs filiales et établissements dans leur configuration actuelle et future ainsi que leurs travailleurs et les organisations syndicales impliquées dans les négociations ou concernées par l’accord.
