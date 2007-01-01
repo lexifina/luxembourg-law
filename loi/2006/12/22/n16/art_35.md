@@ -1,0 +1,5 @@
+# Art. 35.
+
+Sont redevables de la taxe sur les véhicules routiers, ci-après dénommée «taxe», les véhicules soumis à l’immatriculation au Luxembourg ou admis à la circulation au Luxembourg, sous le couvert d’une plaque spéciale pour véhicules routiers qui circulent sur la voie publique ou qui y sont immobilisés. Les véhicules qui sont admis à la circulation dans un autre pays et qui empruntent les voies publiques luxembourgeoises, sont également soumis au paiement de la taxe, sauf les franchises dont ils bénéficient en vertu de la présente loi. Le fait d’utiliser ou d’immobiliser un véhicule sur la voie publique en méconnaissance des exigences légales relatives à son immatriculation ou à sa mise en circulation ne dispense pas du paiement de la taxe.
+
+Les catégories de véhicules routiers prévues par la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques sont utilisées sous la même dénomination et avec la même signification dans la présente loi.
