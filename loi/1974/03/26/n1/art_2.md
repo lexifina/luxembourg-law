@@ -1,0 +1,5 @@
+# Art. 2.
+
+Les personnes qui remplissent les conditions prévues à l’article 1er auront droit, sur leur demande, en cas d’invalidité dûment constatée suivant les règles inhérentes au régime de pension contributif ou non contributif compétent à la pension de vieillesse qui aurait été due à la limite d’âge obligatoire de retraite, compte tenu de la profession exercée et du régime de pension général ou supplémentaire applicable. Toutefois sont applicables aux personnes visées ci-dessus les dispositions de l’article 32 alinéa 2 de la loi modifiée du 29 août 1951 ayant pour objet la réforme de l’assurance pension des employés privés, si celles-ci sont plus favorables que celles du régime de pension compétent.
+
+En cas de décès d’une personne remplissant les conditions prévues à l’article 1er, la pension de survie due, conformément au régime de pension compétent, aux ayants droit qui en font la demande, sera établie d’après les mêmes critères que ceux établis ci-dessus pour la pension de vieillesse.
