@@ -1,0 +1,3 @@
+# Art. 5.
+
+Si les bateaux visés à l'article 3 de l'Accord ne répondent pas aux dispositions réglementaires prises en exécution de la présente loi et que l'irrégularité constitue un danger soit pour la sécurité, la salubrité ou la santé publiques, soit pour l'environnement ou si leurs conducteurs se trouvent dans l'impossibilité ou refusent d'exhiber sur réquisition un des documents prescrits par l'Accord ou les règlements pris en son exécution, les fonctionnaires énumérés à l'article 4, sont en droit d'interdire aux conducteurs de continuer à circuler dans ces conditions et de prendre toute mesure susceptible d'assurer l'immobilisation du bateau.
