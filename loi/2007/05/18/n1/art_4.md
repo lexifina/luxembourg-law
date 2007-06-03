@@ -1,0 +1,3 @@
+# Art. 4.
+
+Un nouvel article 53-1 est ajouté au Code d'instruction criminelle, libellé comme suit: Art. 53-1. Pendant le déroulement de l'information pour l'identification du cadavre ou la recherche des causes de la mort, des blessures ou d'une disparition mentionnées aux articles 43-1 et 44, le juge d'instruction procède conformément aux dispositions du chapitre Ier du titre III du livre Ier. Il peut également procéder conformément aux articles 48-4, paragraphe (2), et 48-8.
