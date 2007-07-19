@@ -1,5 +1,0 @@
-# Art. 14.- Modification de la loi du 4 décembre 1992 sur les informations à publier lors de l’acquisition et de la cession d’une participation importante dans une société cotée en bourse
-
-Le premier paragraphe de l'article 1er de la loi du 4 décembre 1992 sur les informations à publier lors de l'acquisition et de la cession d'une participation importante dans une société cotée en bourse est modifié comme suit:
-
-"Les dispositions de la présente loi s'appliquent aux personnes physiques et aux entités juridiques de droit public ou privé qui acquièrent ou cèdent, directement ou par personne interposée, une participation répondant aux critères définis au paragraphe (3) et entraînant une modification dans la détention des droits de vote d'une société de droit luxembourgeois dont tout ou partie des actions ou titres représentatifs d'actions sont admis à la cote officielle d'une ou de plusieurs bourses de valeurs situées ou opérant dans un ou plusieurs Etats membres de la Communauté économique européenne."
