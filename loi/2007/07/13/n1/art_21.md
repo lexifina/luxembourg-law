@@ -1,0 +1,7 @@
+# Art. 21. Contrôle du respect des règles des MTF et d’autres obligations légales
+
+(1) Les établissements de crédit, les entreprises d’investissement et les opérateurs de marché exploitant un MTF au Luxembourg doivent mettre en place et maintenir des dispositifs et procédures efficaces, en ce qui concerne le MTF, pour le contrôle régulier du respect des règles de ce MTF par ses membres ou participants. Ils surveillent les transactions conclues par les membres ou participants de ce MTF dans le cadre de ses systèmes, en vue de détecter les manquements aux règles du MTF, toute perturbation du fonctionnement ordonné du marché ou tout comportement potentiellement révélateur d’un abus de marché.
+
+(2) Les établissements de crédit, les entreprises d’investissement et les opérateurs de marché exploitant un MTF au Luxembourg doivent signaler à la Commission les manquements significatifs aux règles du MTF, toute perturbation du fonctionnement ordonné du marché et tout comportement potentiellement révélateur d’un abus de marché.
+
+Les établissements de crédit, les entreprises d’investissement et les opérateurs de marché exploitant un MTF au Luxembourg doivent fournir sans délai les informations pertinentes à la Commission pour instruire et sanctionner les abus de marché et doivent prêter à la Commission toute l’aide nécessaire pour instruire et sanctionner les abus de marché commis sur ou via les systèmes du MTF.

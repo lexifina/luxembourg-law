@@ -1,0 +1,7 @@
+# Art. 35. Pouvoirs de la Commission à l’égard des succursales luxembourgeoises d’établissements de crédit et d’entreprises d’investissement de droit étranger
+
+(1) La Commission est l’autorité compétente pour veiller à ce que les services d’investissement fournis et les activités d’investissement exercées au Luxembourg par les succursales luxembourgeoises d’établissements de crédit et d’entreprises d’investissement de droit étranger satisfont aux exigences des articles 26, 27 et 28.
+
+(2) La Commission est habilitée à examiner les dispositions mises en place par les succursales luxembourgeoises d’établissements de crédit et d’entreprises d’investissement de droit étranger et à exiger leur modification, lorsqu’une telle modification est strictement nécessaire pour lui permettre de faire appliquer les exigences des articles 26, 27 et 28, pour ce qui est des services fournis et des activités exercées par la succursale au Luxembourg.
+
+(3) Les succursales luxembourgeoises d’établissements de crédit et d’entreprises d’investissement de droit étranger sont tenues de fournir à la Commission toutes les informations dont elle a besoin pour vérifier que ces succursales se conforment aux exigences des articles 26, 27 et 28. La Commission peut exiger des succursales qu’elles lui fournissent les mêmes informations que les établissements de crédit et entreprises d’investissement de droit luxembourgeois.

@@ -1,0 +1,7 @@
+# Art. 82.
+
+La dernière phrase du paragraphe (1) de l’article 18 de la loi modifiée du 5 avril 1993 relative au secteur financier est modifiée comme suit:
+
+L’agrément est refusé si, compte tenu de la nécessité de garantir une gestion saine et prudente du PSF, la qualité desdits actionnaires ou associés n’est pas satisfaisante.
+
+Cette phrase devient le nouveau second alinéa du paragraphe (1) de l’article 18 de la loi modifiée du 5 avril 1993 relative au secteur financier.

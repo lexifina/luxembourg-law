@@ -1,0 +1,7 @@
+# Art. 23. Exigences de transparence après négociation applicables aux MTF
+
+(1) Les établissements de crédit, les entreprises d’investissement et les opérateurs de marché exploitant un MTF au Luxembourg doivent rendre publics le prix, le volume et l’heure des transactions exécutées dans le cadre des systèmes du MTF et portant sur des actions admises à la négociation sur un marché réglementé. Ils sont tenus de rendre ces informations publiques à des conditions commerciales raisonnables et, dans la mesure du possible, en temps réel. Cette exigence ne s’applique pas aux informations concernant des transactions exécutées sur un MTF qui sont rendues publiques dans le cadre des systèmes d’un marché réglementé.
+
+(2) La Commission peut permettre aux établissements de crédit, entreprises d’investissement et opérateurs de marché exploitant un MTF au Luxembourg de différer la publication des informations visées au paragraphe (1) en fonction du type ou de la taille des transactions. La Commission peut notamment autoriser la publication différée lorsque les transactions sont d’une taille élevée par rapport à la taille normale de marché pour les actions ou catégories d’actions concernées.
+
+Les établissements de crédit, entreprises d’investissement et opérateurs de marché exploitant un MTF au Luxembourg doivent soumettre à l’accord préalable de la Commission les mesures visant à organiser cette publicité différée. Ces mesures doivent être clairement communiquées aux membres et participants du MTF et aux investisseurs en général.
