@@ -1,0 +1,3 @@
+# Article unique.
+
+L'article L.432-6 du Chapitre II - Institution d'un comité d'entreprise européen ou d'une procédure d'information et de consultation transfrontalières des travailleurs, du Titre III - Comité d'entreprise européen ou procédure d'information et de consultation transfrontalières des travailleurs, du Livre IV - Représentation du personnel, du Code du travail prendra la teneur suivante: Art. L.432-6. Le groupe spécial de négociation est composé de trois membres au minimum et au maximum d'un nombre de membres égal à celui des Etats membres de l'Union européenne. Il est désigné un suppléant pour chaque membre effectif.
