@@ -1,0 +1,3 @@
+# Art. 2.
+
+L'article 10 du Code d'instruction criminelle est modifié comme suit: Article 10. Ont la qualité d'officier de police judiciaire: les membres du cadre supérieur de la police, les commissaires en chef, les commissaires et les inspecteurs chefs; les premiers inspecteurs nominativement désignés par un arrêté du Ministre de la Justice; les membres du service de police judiciaire qui relèvent du cadre policier; les fonctionnaires et employés du service de police judiciaire qui ne relèvent pas du cadre policier, visés à l'article 14(2), alinéa 5 de la loi modifiée du 31 mai 1999 sur la Police et l'Inspection générale de la Police, nominativement désignés par un arrêté du Ministre de la Justice.
