@@ -1,9 +1,0 @@
-# Art. 1er.
-
-L'article 2 de la loi modifiée du 24 juillet 2000 relative à l'organisation du marché de l'électricité est modifié de la façon suivante:
-
-- a) les points 1 et 7 sont remplacés comme suit: «autoproducteur», toute personne physique ou morale produisant de l'électricité essentiellement pour son propre usage à l'exception des productions par des groupes de secours dont la production d'électricité annuelle est inférieure à deux pour cent de la consommation propre totale; «sources d'énergie renouvelables», les sources d'énergie non fossiles renouvelables (énergie éolienne, solaire, géothermique, hydroélectrique, biomasse, gaz de décharge, gaz des stations d'épuration d'eaux usées et biogaz);
-
-- b) les points 7a et 7b suivants sont ajoutés: «biomasse», la fraction biodégradable des produits, déchets et résidus provenant de l'agriculture (comprenant les substances végétales et animales), de la sylviculture et des industries connexes, ainsi que la fraction biodégradable des déchets industriels et municipaux; «électricité produite à partir de sources d'énergie renouvelables», l'électricité produite par des installations utilisant exclusivement des sources d'énergie renouvelables, ainsi que la part d'électricité produite à partir de sources d'énergie renouvelables dans des installations hybrides utilisant les sources d'énergie classiques, y compris l'électricité renouvelable utilisée pour remplir les systèmes de stockage, et à l'exclusion de l'électricité produite à partir de ces systèmes;
-
-- c) le point 8 est remplacé comme suit: «entreprise de fourniture», toute personne morale ou physique qui achète ou vend de l'électricité à des clients et assure en même temps au moins une des fonctions de transport ou de distribution; ne sont pas visés l'achat et la vente d'énergie électrique par les gestionnaires de réseau nécessaires à l'équilibrage ou à la compensation des pertes de réseau.
