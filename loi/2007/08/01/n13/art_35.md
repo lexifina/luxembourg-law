@@ -1,0 +1,13 @@
+# Art. 35.
+
+(1) Les entreprises d’électricité établissent, font contrôler et publient leurs comptes annuels selon la loi modifiée du 10 août 1915 concernant les sociétés commerciales. Les entreprises d’électricité qui ne sont pas tenues légalement de publier leurs comptes annuels tiennent, en leur siège social, un exemplaire de ceux-ci à la disposition du public. En tout état de cause, les gestionnaires de réseau sont tenus de faire contrôler leurs comptes par un réviseur d’entreprise.
+
+(2) Les entreprises d’électricité tiennent, dans leur comptabilité interne, des comptes séparés pour chacune de leurs activités de transport et de distribution, comme elles devraient le faire si les activités en question étaient exercées par des entreprises distinctes, en vue d’éviter des discriminations, des subventions croisées et des distorsions de concurrence. Elles tiennent également des comptes, qui peuvent être consolidés, pour les autres activités concernant l’électricité non liées au transport ou à la distribution. Pour chacune des activités, les entreprises d’électricité tiennent des comptes séparés relatifs aux obligations de service public qu’elles exercent. Les revenus de la propriété du réseau sont mentionnés dans la comptabilité. Le cas échéant, elles tiennent des comptes consolidés pour d’autres activités en dehors du secteur de l’électricité. Elles font figurer dans cette comptabilité interne un bilan et un compte de profits et pertes pour chaque activité qu’elles communiquent annuellement au régulateur.
+
+(3) Le régulateur peut en outre imposer aux gestionnaires de réseau la tenue de comptes calculatoires reposant notamment sur les valeurs calculées suivant les modalités fixées en vertu du paragraphe (1) de l’article 20.
+
+(4) Le régulateur est habilité à fixer les modalités pour la tenue, le contrôle et la publication des comptes séparés visés aux paragraphes (2) et (3) du présent article.
+
+(5) Lors du contrôle en vertu du paragraphe (1), le réviseur d’entreprises vérifie également le respect de l’obligation d’éviter les discriminations et les subventions croisées. Il établit un rapport relatif à son contrôle que les entreprises d’électricité concernées communiquent sans délai au régulateur.
+
+(6) Au cas où une entreprise d’électricité ne répond pas aux obligations en vertu du présent article, le régulateur désigne, après mise en demeure de l’entreprise concernée, un réviseur d’entreprise qu’il charge de la vérification de la conformité de la comptabilité de l’entreprise d’électricité concernée et en l’absence d’une comptabilité en vertu du présent article, de l’établissement de celle-ci. Les frais y relatifs sont à charge de l’entreprise d’électricité concernée.

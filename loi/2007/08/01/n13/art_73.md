@@ -1,0 +1,3 @@
+# Art. 73.
+
+Par dérogation à l’article 24, les gestionnaires de réseau désignés sont dispensés de concession à raison de l’exploitation de leur réseau existant pour une période maximale de douze mois à partir de l’entrée en vigueur de la présente loi, à condition d’introduire une demande de concession conformément aux exigences de l’article 25. Pendant cette période et jusqu’à l’octroi d’une concession, l’établissement et l’exploitation de nouveaux ouvrages électriques à une tension supérieure à 1000 V ou de nouveaux raccordements à un réseau d’une tension supérieure à 20 kV sont soumis à l’autorisation spéciale préalable du ministre.

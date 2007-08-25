@@ -1,0 +1,3 @@
+# Art. 31.
+
+Sans préjudice de l’obligation de fournir à leur demande toutes informations au ministre, au Commissaire du Gouvernement à l’Energie ou au régulateur, les gestionnaires de réseau préservent la confidentialité des informations commercialement sensibles dont ils ont connaissance au cours de l’exécution de leurs tâches. Les informations fournies en ce qui concerne leurs propres activités, qui peuvent être commercialement avantageuses, sont mises à disposition de manière non discriminatoire. Les informations fournies par les gestionnaires de réseau sont à mettre à la disposition des entreprises d’électricité selon les mêmes procédures et échéances, indépendamment du fait que le gestionnaire de réseau fait partie de l’entreprise intégrée d’électricité ou non.
