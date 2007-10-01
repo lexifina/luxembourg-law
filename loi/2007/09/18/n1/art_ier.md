@@ -1,0 +1,9 @@
+# Art. Ier.
+
+Le paragraphe 5 de l’article 2 de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques est remplacé par le texte suivant:
+
+Paragraphe 5 Exception faite pour les véhicules de l’Armée, les certificats d’immatriculation des véhicules routiers soumis à l’immatriculation, ainsi que les certificats d’identification relatifs aux signes distinctifs particuliers ou aux véhicules routiers mis en circulation sous le couvert d’un signe distinctif particulier sont délivrés et retirés par le ministre des Transports.
+
+Le refus de remettre les documents aux agents chargés de l’exécution du retrait sera puni d’une amende de 251 à 5.000 euros.
+
+A défaut pour un véhicule routier soumis à l’immatriculation et au contrôle technique périodique d’avoir été mis valablement hors circulation à titre temporaire par son propriétaire ou détenteur, la validité du certificat d’immatriculation est de plein droit périmée, lorsque le véhicule n’est plus couvert par un certificat de contrôle technique valable depuis plus de deux ans ou que la taxe sur les véhicules automoteurs est due depuis plus de deux ans. A défaut pour un véhicule routier soumis à l’immatriculation mais non soumis au contrôle technique périodique d’avoir été mis valablement hors circulation à titre temporaire par son propriétaire ou détenteur, la validité du certificat d’immatriculation est de plein droit périmée lorsque le véhicule n’est plus couvert par une vignette de conformité valable depuis plus de deux ans ou que la taxe sur les véhicules automoteurs est due depuis plus de deux ans. Ces délais sont portés à quatre ans pour les véhicules historiques. La péremption du certificat d’immatriculation comporte l’obligation pour le propriétaire ou détenteur de faire procéder à une nouvelle immatriculation de son véhicule, en vue de sa remise en circulation.
