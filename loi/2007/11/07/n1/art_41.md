@@ -1,0 +1,5 @@
+# Art. 41.
+
+Il est ajouté un nouveau paragraphe 8 à l’article 51-5 de la loi modifiée du 5 avril 1993 relative au secteur financier de la teneur suivante:
+
+- (8) Lorsqu’une entreprise d’investissement mère au Luxembourg a une entreprise d’investissement, un établissement financier ou une société de gestion de portefeuille au sens de l’article 2, point 5), de la directive 2002/87/CE comme filiale dans un pays tiers ou détient une participation dans de tels établissements et que l’entreprise d’investissement en question est filiale d’une entreprise d’investissement mère dans l’UE, la Commission applique à cette entreprise les règles énoncées au paragraphe (1) sur une base sous-consolidée. Il en va de même lorsque l’entreprise mère d’une entreprise d’investissement agréée au Luxembourg est une compagnie financière holding dans l’UE et que cette dernière a comme filiale une entreprise d’investissement, un établissement financier ou une société de gestion de portefeuille au sens de l’article 2, point 5), de la directive 2002/87/CE dans un pays tiers ou détient une participation dans de tels établissements.

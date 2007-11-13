@@ -1,0 +1,5 @@
+# Art. 21.
+
+Il est inséré un nouveau paragraphe 8 de la teneur suivante à l’article 51 de la loi modifiée du 5 avril 1993 relative au secteur financier:
+
+- (8) Lorsqu’un établissement de crédit mère au Luxembourg a un établissement de crédit, un établissement financier ou une société de gestion de portefeuille au sens de l’article 2, point 5), de la directive 2002/87/CE comme filiale dans un pays tiers ou détient une participation dans de tels établissements et que l’établissement de crédit en question est filiale d’un établissement de crédit agréé mère dans l’UE, alors la Commission applique à cet établissement les règles énoncées au paragraphe (1) sur une base sous-consolidée. Il en va de même lorsque l’entreprise mère d’un établissement de crédit agréé au Luxembourg est une compagnie financière holding mère dans l’UE et que cette dernière a comme filiale un établissement de crédit, un établissement financier ou une société de gestion de portefeuille au sens de l’article 2, point 5), de la directive 2002/87/CE dans un pays tiers ou détient une participation dans de tels établissements.
