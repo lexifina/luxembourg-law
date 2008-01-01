@@ -1,0 +1,3 @@
+# Art. 6.
+
+En cas de transport de fonds ou valeurs publics ou privés, d’armes, de systèmes d’armes, d’explosifs ou de munitions, de pièces classifiées ou de biens dont la perte ou la destruction serait susceptible de causer de graves dommages à la population, ou mettrait en cause les intérêts vitaux de l’Etat, les membres de la force publique qui forment l’escorte, en exécution des ordres reçus, peuvent ouvrir le feu dès qu’une attaque contre le convoi se manifeste par des actes extérieurs qui en forment un commencement d’exécution même s’ils ne sont pas personnellement en état de légitime défense. Si les assaillants fuient après s´être emparés de tout ou partie des valeurs convoyées, le feu peut être ouvert sur eux et leurs véhicules sans sommation.
