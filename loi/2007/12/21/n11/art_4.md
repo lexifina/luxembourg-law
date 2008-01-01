@@ -1,0 +1,5 @@
+# Art. 4.
+
+(1) En vue de l’exécution de ses missions, l’administration peut conclure des conventions avec des personnes physiques ou morales de droit public ou privé et coopérer, voire recourir à d’autres prestataires de services de navigation aérienne d’un autre Etat membre de la Communauté européenne ainsi qu’adhérer à des organisations nationales ou internationales.
+
+(2) Dans la mesure où l’administration ne dispose pas de spécialistes en nombre ou qualité suffisants pour accomplir ses missions prévues à l’article 2 ci-dessus, le directeur peut, après avoir été autorisé par le ministre, confier ces missions à des experts étrangers ou à du personnel qualifié appartenant à des autorités aéronautiques étrangères ou à une société privée spécialisée, sur base de conventions contractuelles. Les contrats ainsi établis fixent la nature, les modalités et l’étendue des prestations à fournir, la durée des relations contractuelles ainsi que les rémunérations à attribuer du chef de ces prestations.
