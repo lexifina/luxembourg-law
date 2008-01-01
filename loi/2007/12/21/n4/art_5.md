@@ -1,0 +1,37 @@
+# Art. 5. Introduction de la loi du 21 décembre 2007 concernant le boni pour enfant
+
+Est introduite la loi du 21 décembre 2007 concernant le boni pour enfant.
+
+Les articles de la loi précitée prennent la teneur suivante:
+
+Art. 1er.
+
+Pour tout enfant vivant, soit dans le ménage commun de ses père et mère, soit dans le ménage de celui de ses père ou mère qui en assure seul l’éducation et l’entretien, et ouvrant droit aux allocations familiales conformément à l’article 1er de la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la Caisse nationale des prestations familiales, il est octroyé un boni pour enfant à titre de bonification d’office de la modération d’impôt prévue à l’article 122 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
+
+Art. 2.
+
+Le boni pour enfant est fixé à 922,5.- € par an. Il est versé au cours de l’année d’imposition à laquelle il se rapporte, suivant des modalités à déterminer par le règlement grand-ducal visé à l’article 6.
+
+Le paiement se fait par la Caisse nationale des prestations familiales avec effet libératoire à l’attributaire des allocations familiales défini à l’article 5, alinéas 1er et 4 ou, dans le cas de l’enfant dont l’un des parents assure seul l’éducation et l’entretien, au parent attributaire prévu à l’article 5, alinéa 2 première phrase de la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la Caisse nationale des prestations familiales, ensemble avec le paiement des allocations familiales.
+
+Art. 3.
+
+Toute réclamation auprès de la Caisse nationale des prestations familiales relative à l’ouverture du droit et au paiement du boni se prescrit par une année à partir de la fin du mois du paiement (de référence pour l’ouverture du droit à ce boni).
+
+Art. 4.
+
+Sont en outre applicables pour l’exécution de la présente loi, sauf adaptation terminologique s’il y a lieu, les articles 23 alinéas 2 à 3, 24, 26, 27, 28, 29, 30, 31 de la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la Caisse nationale des prestations familiales et les articles 208 alinéa 4, 273 alinéa 5, 276, 278 alinéas 1 et 2, 291, 292bis, 302 alinéa 4, 311, 333, 334, alinéa 1 du code des assurances sociales.
+
+Art. 5.
+
+La première phrase de l’alinéa 1er de l’article 6 de la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la Caisse nationale des prestations familiales est complétée par du boni pour enfant qui est intercalé après de rentrée scolaire.
+
+Art. 6.
+
+Un règlement grand-ducal peut préciser les modalités d’application de la présente loi.
+
+Art. 7.
+
+La création d’une banque de données nominatives commune entre la Caisse nationale des prestations familiales, le Centre commun de la sécurité sociale et l’Administration des contributions directes est autorisée pour coordonner la gestion des institutions concernées et notamment pour permettre la détermination du droit à la modération d’impôt des enfants n’ayant pas bénéficié du boni pour enfant.
+
+Cette banque de données comprend les nom, prénom, matricule, adresse des allocataires, des attributaires et des enfants bénéficiant du boni pour enfant, ainsi que des contribuables et des enfants qui continuent à bénéficier de la modération d’impôt pour enfant ainsi que les montants de la modération d’impôt mis en compte par l’Administration des contributions directes.
