@@ -1,0 +1,7 @@
+# Art. 20.
+
+La loi du 28 juillet 1973 réglant l’usage des armes et autres moyens de contrainte par les membres de la force publique dans la lutte contre la criminalité est modifiée comme suit:
+
+- 1° L’article 5 paragraphe 1er est remplacé comme suit: En temps de paix, les militaires gradés ou non, ainsi que les gardiens de l’armée à statut civil, qui, en exécution des ordres reçus, sont de faction devant un bâtiment public ou privé, une caserne, un camp, un dépôt ou une installation militaire ou des points et espaces vitaux peuvent faire usage de leurs armes dans les cas et sous les conditions spécifiées aux numéros 1 et 3 de l’article 1er et au numéro 1 de l’article 2 qui précèdent, ainsi que contre ceux qui tentent de leur enlever leurs armes.
+
+- 2° La première phrase de l’article 6 est remplacée comme suit: En cas de transport de fonds ou valeurs publics ou privés, d’armes, de systèmes d’armes, d’explosifs ou de munitions, de pièces classifiées ou de biens dont la perte ou la destruction serait susceptible de causer de graves dommages à la population, ou mettrait en cause les intérêts vitaux de l’Etat, les membres de la force publique qui forment l’escorte, en exécution des ordres reçus, peuvent ouvrir le feu dès qu’une attaque contre le convoi se manifeste par des actes extérieurs qui en forment un commencement d’exécution même s’ils ne sont pas personnellement en état de légitime défense.
