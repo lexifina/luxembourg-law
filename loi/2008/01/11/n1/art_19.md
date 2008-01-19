@@ -1,0 +1,23 @@
+# Art. 19. Langues.
+
+(1) Lorsque des valeurs mobilières sont admises à la négociation uniquement sur un marché réglementé situé ou opérant sur le territoire du Luxembourg et que le Luxembourg est l’Etat membre d’origine, les informations réglementées sont publiées dans une langue acceptée par la Commission.
+
+(2) Lorsque des valeurs mobilières sont admises à la négociation sur les marchés réglementés de plusieurs Etats membres y compris sur un marché réglementé situé ou opérant sur le territoire du Luxembourg et que le Luxembourg est l’Etat membre d’origine, les informations réglementées sont publiées dans une langue acceptée par la Commission.
+
+Les informations réglementées sont également publiées soit dans une langue acceptée par les autorités compétentes desdits Etats membres d’accueil, soit dans une langue usuelle dans l’univers de la finance internationale, reconnue comme telle par la Commission, au choix de l’émetteur.
+
+(3) Lorsque des valeurs mobilières sont admises à la négociation sur un marché réglementé dans un ou plusieurs Etats membres à l’exclusion du Luxembourg, alors que le Luxembourg est l’Etat membre d’origine, les informations réglementées sont publiées, au choix de l’émetteur, soit dans une langue acceptée par les autorités compétentes desdits Etats membres d’accueil, soit dans une autre langue usuelle dans l’univers de la finance internationale, reconnue comme telle par la Commission.
+
+En outre, les informations réglementées sont publiées soit dans une langue acceptée par la Commission, soit dans une autre langue usuelle dans l’univers de la finance internationale, reconnue comme telle par la Commission.
+
+(4) L’émetteur dont le Luxembourg est l’Etat membre d’accueil publie ses informations réglementées soit dans une langue acceptée par la Commission, soit dans une autre langue usuelle dans l’univers de la finance internationale, reconnue comme telle par la Commission.
+
+(5) Aux fins des paragraphes 1 à 4 les langues luxembourgeoise, française, allemande et anglaise constituent dans tous les cas des langues acceptées par la Commission.
+
+(6) Lorsque des valeurs mobilières sont admises à la négociation sur un marché réglementé sans le consentement de l’émetteur, les obligations imposées aux paragraphes 1, 2, 3 et 4 incombent non pas à l’émetteur, mais à la personne qui, sans le consentement de l’émetteur, a demandé cette admission.
+
+(7) Les détenteurs d’actions et la personne physique ou morale visée aux articles 8, 9 et 12 sont autorisés à ne notifier des informations à un émetteur en vertu de la présente loi que dans une langue usuelle dans l’univers de la finance internationale, reconnue comme telle par la Commission.
+
+(8) Par dérogation aux paragraphes 1 à 4, lorsque des valeurs mobilières dont la valeur nominale unitaire atteint au moins 50.000 euros ou, pour les titres de créance libellés dans une devise autre que l’euro, dont la valeur nominale unitaire est, à la date d’émission, équivalente à au moins 50.000 euros, sont admises à la négociation sur un marché réglementé dans un ou plusieurs Etats membres, les informations réglementées sont publiées soit dans une langue acceptée par les autorités compétentes des Etats membres d’origine et d’accueil, soit dans une langue usuelle dans l’univers de la finance internationale, au choix de l’émetteur ou de la personne qui, sans le consentement de l’émetteur, a demandé cette admission.
+
+(9) Dans le cas où une action concernant le contenu des informations réglementées est intentée devant une cour ou un tribunal d’un Etat membre, la question de la prise en charge du paiement des coûts engagés pour la traduction de ces informations aux fins de la procédure est tranchée conformément à la loi de cet Etat membre.

@@ -1,0 +1,3 @@
+# Art. 29. Report de l’assemblée générale d’une société de droit luxembourgeois.
+
+Lorsque dans les quinze jours précédant la date pour laquelle une assemblée générale d’une société de droit luxembourgeois a été convoquée, ladite société reçoit une déclaration ou a connaissance du fait qu’une déclaration doit être ou aurait dû être faite en vertu des dispositions de la présente loi, le conseil d’administration ou le directoire, selon le cas, peut reporter l’assemblée à quatre semaines. L’assemblée générale reportée est convoquée dans les formes habituelles. Son ordre du jour peut être complété ou amendé.
