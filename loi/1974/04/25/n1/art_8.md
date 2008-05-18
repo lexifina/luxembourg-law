@@ -1,9 +1,0 @@
-# Art. 8.
-
-Il est créé un centre d'informatique, d'affiliation et de perception des cotisations de la sécurité sociale. Ce centre, qui sera commun aux institutions de la sécurité sociale, aura le caractère d'un établissement public et possédera la personnalité civile.
-
-La mission du centre sera essentiellement technique. Elle consistera dans la collecte, la circulation et le traitement des données informatiques, l'enregistrement des affiliations, la perception et le recouvrement des cotisations, ainsi que dans l'accomplissement de toutes autres opérations mécaniques qui pourraient lui être confiées par règlement grand-ducal dans l'intérêt des différentes institutions sociales. Le centre sera doté d'équipements électroniques et électromécaniques appropriés à l'accomplissement de sa mission.
-
-Le centre sera géré par un comité de gestion de cinq membres, comprenant le président de l'office des assurances sociales, le président de la caisse de pension des employés privés et trois membres qui seront désignés par le gouvernement en conseil, parmi les employés dirigeants des autres institutions de sécurité sociale. Le conseil sera présidé en alternance par les deux présidents susvisés. Pendant le premier terme de deux ans, la présidence sera assurée par le président de l'office des assurances sociales. La durée des mandats des membres nommés par le Gouvernement est fixée à quatre années.
-
-Il y aura autant de membres suppléants que de membres effectifs. Ceux-ci seront désignés par le gouvernement en conseil parmi les fonctionnaires et employés publics dirigeants des institutions sociales qui ne sont pas représentées par un membre effectif, sauf que l'office des assurances sociales et la caisse de pension des employés privés auront droit, en dehors du membre effectif, à un membre suppléant. Les membres suppléants sont nommés pour une période de quatre années.
