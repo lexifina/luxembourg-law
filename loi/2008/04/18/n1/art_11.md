@@ -1,0 +1,5 @@
+# Art. 11.
+
+Lorsque dans une exploitation agricole, dans laquelle un jeune a été installé conformément aux articles 9, paragraphe 1er, et 10, paragraphe 1er, ou conformément aux articles 10 et 11 de la loi modifiée du 24 juillet 2001 concernant le soutien au développement rural, des investissements visés aux articles 4 et 5, paragraphe 3, sont réalisés, les taux d'aides prévus à l'article 5, paragraphe 2, y compris, le cas échéant, la majoration prévue au paragraphe 3, pour de tels investissements sont majorés de 10 points de pourcentage pour les investissements dans des biens immeubles et de 5 points de pourcentage pour les investissements dans d'autres biens pendant une période ne dépassant pas cinq ans après l'installation et à condition que le bénéficiaire n'ait pas atteint l'âge de 40 ans à la date de leur réalisation.
+
+Au cas où les investissements sont réalisés par une association d'exploitations agricoles, la majoration visée à l'alinéa ci-avant est applicable au montant de l'investissement correspondant aux parts détenues par l'exploitation membre ayant fait l'objet de la reprise par le jeune agriculteur.
