@@ -1,0 +1,3 @@
+# Art. 7.
+
+L'article 188 du même code est modifié comme suit: Art. 188. En cas d'opposition, le ministère public citera l'opposant à l'audience. L'opposition sera réputée non avenue si l'opposant ne comparaît pas en personne ou s'il ne charge pas un avocat de présenter ses moyens de défense. Le jugement que le tribunal aura rendu sur l'opposition, ne pourra être attaqué par la partie qui l'aura formée, si ce n'est par appel, ainsi qu'il sera dit ci-après. Le tribunal pourra, s'il échet, accorder une provision; et cette disposition sera exécutoire nonobstant l'appel.
