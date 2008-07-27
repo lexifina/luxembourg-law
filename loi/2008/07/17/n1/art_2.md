@@ -1,0 +1,5 @@
+# Art. 2. Modifications de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire
+
+L’article 13 dernier alinéa de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire est complété par les phrases suivantes:
+
+Dans la mesure du possible et sans compromettre les investigations en cours, en temps opportun, cette cellule assure également un retour d’information sur l’efficacité des déclarations de soupçons et sur les suites données à celles-ci. Afin d’être en mesure d’évaluer l’efficacité du système de lutte contre le blanchiment, la cellule établit aussi des statistiques comprenant au moins le nombre de déclarations de transactions suspectes, les suites données à ces déclarations ainsi que sur une base annuelle, le nombre d’affaires instruites, de personnes poursuivies et de personnes condamnées pour blanchiment ou financement du terrorisme, ainsi que le nombre de biens gelés, saisis ou confisqués. Un état consolidé de ces statistiques est rendu public à intervalles réguliers.
