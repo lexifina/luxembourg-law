@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Le Gouvernement est autorisé à réaliser la suite des travaux de construction en rapport avec la liaison Micheville comprenant l'achèvement du gros œuvre du tunnel de Micheville au Sud et au Nord, le parachèvement du tunnel avec les travaux de voirie et les équipements techniques, la construction d'un giratoire avec passage souterrain au Sud des voies ferrées avec raccordement au projet sur territoire français, le raccordement provisoire à la RN 31, le réaménagement de la RN 31 et le raccordement au Rond Point Raemerich, ainsi que le traitement des terres polluées et leur mise en dépôt consécutive.
