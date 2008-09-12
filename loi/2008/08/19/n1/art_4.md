@@ -1,0 +1,3 @@
+# Art. 4.
+
+A titre transitoire, les bourses de formation-recherche sollicitées ou allouées sous l'égide de l'article 23 de la loi du 18 mars 1987 tel qu'abrogé par la présente loi, restent régies par ce même article. Sur demande de la part du demandeur, respectivement bénéficiaire d'une bourse régie sous l'égide de l'article 23 précité, et en accord avec son établissement d'accueil, les bourses sollicitées pourront être attribuées en tant qu'aides à la formation-recherche tandis que les bourses allouées pourront être converties en de telles aides, selon des modalités arrêtées par règlement grand-ducal.
