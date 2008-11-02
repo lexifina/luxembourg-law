@@ -1,0 +1,17 @@
+# Art. V. Modification de la loi modifiée du 23 décembre 1998 relative au statut monétaire et à la Banque centrale du Luxembourg
+
+La loi modifiée du 23 décembre 1998 relative au statut monétaire et à la Banque centrale du Luxembourg est modifiée comme suit:
+
+- (1) Le paragraphe (1) de l'article 4 est complété par la phrase suivante: Un règlement grand-ducal peut augmenter le capital par l'incorporation de réserves, sur proposition de la Banque centrale.
+
+- (2) L'article 14, paragraphe (4), lettre b), est complété comme suit: La Banque centrale peut faire appel aux instances et services des organismes de pension suivant le régime de pension de l'agent concerné.
+
+- (3) L'article 23 est modifié comme suit: Art. 23. La Banque centrale est le dépositaire des sommes que les établissements de crédit sont obligés de maintenir en dépôt en vertu de mesures de contrôle monétaire, dans le cadre de l'article 19 du Protocole sur les statuts du Système européen de banques centrales et de la Banque centrale européenne.
+
+- (4) L'article 34, dont l'alinéa unique actuel devient le paragraphe (2), est complété par un nouveau paragraphe (1) libellé comme suit: (1) Dans la limite de ses compétences et missions la Banque centrale a le pouvoir de prendre des règlements. Les règlements de la Banque centrale sont publiés au Mémorial.
+
+- (5) L'article 2 est complété par deux paragraphes (4) et (5) libellés comme suit: (4) La Banque centrale est en charge de la surveillance de la situation générale de la liquidité sur les marchés ainsi que de l'évaluation des opérateurs de marché à cet égard. Les modalités de coordination et de coopération pour l'exercice de cette mission font l'objet d'accords entre la Banque centrale et la Commission de surveillance du secteur financier ainsi que le Commissariat aux assurances, dans le respect des compétences légales des parties. (5) Au vu de sa mission relative à la politique monétaire et à la promotion du bon fonctionnement des systèmes de paiement ainsi que de sa tâche de contribuer à la bonne conduite des politiques menées par les autorités compétentes en ce qui concerne le contrôle prudentiel des établissements de crédit et la stabilité du système financier, dans le respect de son indépendance et des compétences légales des parties, la Banque centrale coopère avec le Gouvernement et avec les autorités de surveillance prudentielle au niveau national ainsi qu'avec les autres banques centrales au niveau communautaire et international afin de contribuer à assurer la stabilité financière, notamment au sein des comités institués à cet effet.
+
+- (6) Il est inséré un article 26-1 libellé comme suit: Art. 26-1. Dans la limite de ses compétences et missions, la Banque centrale est autorisée à prendre et céder des participations dans des établissements publics, des sociétés ou des associations de caractère public ou privé.
+
+- (7) Il est inséré un article 27-2 libellé comme suit: Art. 27-2. La Banque centrale peut, en cas de circonstances exceptionnelles, octroyer des prêts à court terme à ses contreparties, dans le respect de son indépendance et des dispositions prohibant le financement monétaire. Elle consent ces prêts sur la base d'une sûreté appropriée; celle-ci peut comporter une garantie de l'Etat dans les conditions convenues préalablement entre l'Etat et la Banque centrale. Le privilège de la Banque centrale établi à l'article 27-1(1) est applicable à ces prêts.

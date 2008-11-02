@@ -1,0 +1,3 @@
+# Art. VI. Modification de la loi modifiée du 6 décembre 1991 sur le secteur des assurances
+
+La loi modifiée du 6 décembre 1991 sur le secteur des assurances est complétée par l'insertion d'un article 2-1 libellé comme suit: Art. 2-1. Au vu de sa mission de surveillance prudentielle et dans le respect des compétences légales des parties, le Commissariat coopère avec le Gouvernement, avec la Banque centrale du Luxembourg et avec les autres autorités de surveillance prudentielle au niveau national, communautaire et international afin de contribuer à assurer la stabilité financière, notamment au sein des comités institués à cet effet. Il tient compte de la dimension communautaire et internationale de la surveillance prudentielle et de la stabilité financière.
