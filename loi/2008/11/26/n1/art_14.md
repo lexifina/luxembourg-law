@@ -1,0 +1,3 @@
+# Art. 14. Effets transfrontaliers
+
+En cas d'accident survenant dans une installation de gestion de déchets de catégorie A et susceptible d'avoir des effets néfastes importants sur l'environnement et de présenter des risques pour la santé humaine dans un autre Etat membre de l'Union européenne, les informations fournies par l'exploitant conformément à l'article 7 sont immédiatement transmises à cet Etat membre pour contribuer à réduire au maximum les conséquences de l'accident pour la santé humaine, et pour évaluer et réduire au maximum l'étendue, avérée ou potentielle, des dommages environnementaux.
