@@ -1,0 +1,3 @@
+# Art. 17. Adaptation des forfaits
+
+En supplément de sa participation conformément aux dispositions des articles 15 et 16 ci-avant, le gouvernement peut contribuer aux mesures d’aide visées par des subventions extraordinaires accordées temporairement à des prestataires dont les bilans financiers accusent des déficits résultant de l’ancienneté de leur personnel, de taux d’inscription bas suite à une demande réduite temporaire de leur prestation, de la mise en oeuvre de projets innovateurs, de la réorganisation de leurs services ou du développement d’activités répondant à une demande formelle du ministre.
