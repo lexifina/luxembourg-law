@@ -1,0 +1,521 @@
+# Art. 11. Recrutement d’employés de nationalité étrangère auprès des administrations de l’Etat
+
+(1) En dehors des personnes visées à l’article 15 de la loi modifïée du 27 janvier 1972 fixant le régime des employés de l’Etat, et par dérogation à l’article 3a) et e) de la même loi, sont autorisés pour 2009, en cas de nécessité de service dûment motivée et sur avis conforme du ministre ayant la Fonction publique dans ses attributions, les engagements suivants de personnes ressortissant d’un pays membre de l’Union européenne:
+
+Administration
+
+Carrière
+
+Effectif
+
+I. Services dépendant du Ministère de la Famille et de l’Intégration:
+
+Commissariat du Gouvernement aux étrangers
+
+employé de bureau
+
+assistant social
+
+1
+
+2
+
+Service national d’action sociale
+
+Pédagogue
+
+assistant social
+
+1
+
+1
+
+Centre socio-éducatif de l’Etat
+
+éducateur gradué, infirmier, éducateur, éducateur instructeur, chargé de cours
+
+20
+
+Maisons d’enfants de l’Etat
+
+agent socio-éducatif (psychologue, assistant social, éducateur gradué, éducateur)
+
+4
+
+II. Services dépendant du Ministère des Affaires étrangères et de l’Immigration et du Ministère des Classes moyennes, du Tourisme et du Logement:
+
+Représentations diplomatiques et touristiques
+
+employé de bureau
+
+65
+
+III. Services dépendant du Ministère de la Culture, de l’Enseignement supérieur et de la Recherche:
+
+Ministère
+
+employé dans la carrière supérieure
+
+1,5
+
+Musée national d’histoire naturelle
+
+employé géophysicien
+
+employé géologue
+
+1
+
+1
+
+Musée national d’histoire et d’art
+
+employé technique
+
+employé-restaurateur
+
+employé dans la carrière supérieure
+
+2
+
+1
+
+6
+
+Centre national de l’audiovisuel
+
+employé technique
+
+employé dans la carrière supérieure
+
+employé dans la carrière moyenne
+
+4
+
+4
+
+1
+
+Service des Sites et Monuments nationaux
+
+employé dans la carrière supérieure (architecte spécialisé en conservation du patrimoine)
+
+1
+
+IV. Services dépendant du Ministère de l’Economie et du Commerce Extérieur:
+
+Ministère
+
+employé de la carrière supérieure
+
+4
+
+Commissariat aux affaires maritimes
+
+employé de la carrière supérieure
+
+3
+
+ILNAS/OLAS
+
+employé de la carrière supérieure
+
+2
+
+Service Central de la Statistique et des Etudes Economiques
+
+employé informaticien
+
+employé de la carrière supérieure
+
+1
+
+4
+
+V. Services dépendant du Ministère de la Sécurité sociale:
+
+Inspection générale de la sécurité sociale:
+
+Cellule d’évaluation et d’orientation
+
+employé de la carrière supérieure
+
+employé de la carrière moyenne
+
+3
+
+4
+
+Inspection générale de la sécurité sociale
+
+employé de la carrière supérieure
+
+4
+
+Contrôle médical de la sécurité sociale
+
+médecin-conseil
+
+3
+
+Contrôle arbitral des assurances sociales
+
+médecin-conseil
+
+2
+
+Caisse nationale de santé
+
+employé de la carrière supérieure
+
+8
+
+Caisse nationale d’assurance pension: fonds de compensation
+
+employé de la carrière supérieure
+
+1
+
+Centre commun de la sécurité sociale
+
+employé de la carrière supérieure
+
+9
+
+VI. Services dépendant du Ministère des Classes Moyennes, du Tourisme et du Logement
+
+employé architecte
+
+1
+
+VII. Ministère, administrations et services dépendant du Ministère de l’Environnement
+
+employé ingénieur
+
+employé de la carrière supérieure
+
+employé de la carrière moyenne
+
+employé E
+
+1
+
+1
+
+1
+
+1
+
+VIII. Ministère de l’Agriculture, de la Viticulture et du Développement rural
+
+employé de la carrière supérieure
+
+employé de la carrière moyenne
+
+employé laborantin
+
+1
+
+1
+
+3
+
+IX. Ministère de l’Intérieur et de l’Aménagement du Territoire
+
+employé de la carrière supérieure
+
+3
+
+X. Services dépendant du Ministère des Finances: Administration des Contributions
+
+employé de la carrière supérieure (informaticien)
+
+2
+
+Administration de l’Enregistrement et des Domaines
+
+employé de la carrière supérieure (informaticien)
+
+1
+
+XI. Ministère des Travaux publics: Administration des Ponts et Chaussées
+
+employé architecte-paysagiste
+
+employé technique
+
+employé ingénieur-technicien
+
+employé ingénieur-informaticien
+
+employé ingénieur diplômé en génie civil
+
+1
+
+9
+
+7
+
+1
+
+2
+
+Administration des Bâtiments publics
+
+employé technique
+
+2
+
+Le paragraphe (3) n’est pas applicable.
+
+XII. Ministère de la Fonction publique et de la Réforme administrative:
+
+employé de la carrière supérieure
+
+2
+
+Ministère de la Fonction publique et de la Réforme administrative, Centre informatique de l’Etat
+
+employé de la carrière moyenne
+
+employé de la carrière supérieure
+
+employé de la carrière inférieure
+
+3
+
+6
+
+2
+
+Ministère de la Fonction publique et de la Réforme administrative, Service e-Luxembourg
+
+employé de la carrière supérieure
+
+7
+
+XIII. Ministère de l’Education nationale et de la Formation professionnelle:
+
+Service de coordination de la recherche et de l’innovation pédagogiques et technologiques
+
+employé de la carrière supérieure
+
+5
+
+Service informatique
+
+employé de la carrière supérieure
+
+1
+
+Centre de langues Luxembourg
+
+chargé de cours
+
+3
+
+XIV. Services dépendant du Ministère d’Etat:
+
+Comité économique et social de la Grande Région
+
+employé de la carrière supérieure
+
+employé de la carrière moyenne
+
+1
+
+1
+
+Service Information et presse
+
+employé de la carrière supérieure
+
+1
+
+XV. Services dépendant du Ministère du Travail et de l’Emploi:
+
+Administration de l’emploi
+
+médecin du travail
+
+1
+
+XVI. Services dépendant du Ministère de la Santé:
+
+Direction de la Santé
+
+orthophoniste
+
+licencié en santé publique
+
+médecin
+
+assistante sociale
+
+ingénieur
+
+infirmier
+
+infirmier gradué
+
+4
+
+2
+
+2
+
+2
+
+2
+
+2
+
+1
+
+Laboratoire national de santé
+
+médecin
+
+cytotechnicien
+
+Laborantin
+
+Ingénieur
+
+5
+
+3
+
+5
+
+3
+
+XVII. Services dépendant du Ministère des Transports:
+
+Direction de l’aviation civile
+
+employé de la carrière supérieure
+
+1
+
+Administration de la Navigation Aérienne
+
+employé de la carrière supérieure
+
+2
+
+XVIII. Services dépendant du Ministère de la Justice:
+
+Police grand-ducale
+
+employé
+
+1
+
+(2) Outre les personnes visées au point (1), sont autorisés pour 2009, en cas de nécessité de service dûment motivée et sur avis conforme du ministre ayant la Fonction publique dans ses attributions, les engagements suivants de personnes de nationalité autre que celle d’un pays membre de l’Union européenne:
+
+I. Services dépendant du Ministère de la Famille et de l’Intégration:
+
+Maison de soins VIANDEN
+
+infirmier ou aide-soignant
+
+5
+
+Maison de soins DIFFERDANGE
+
+infirmier ou aide-soignant
+
+5
+
+Maison de soins ECHTERNACH
+
+infirmier ou aide-soignant
+
+2
+
+Service des personnes âgées (Centres intégrés)
+
+aide-soignant ou assist. Senior
+
+Infirmier
+
+2
+
+1
+
+Centre du Rham
+
+aide-soignant
+
+1
+
+II. Services dépendant du Ministère de l’Education Nationale et de la Formation professionnelle:
+
+Enseignement primaire
+
+chargé de cours dans les classes primaires luxembourgeoises à régime linguistique francophone
+
+1
+
+Enseignement postprimaire
+
+chargé d’éducation
+
+6
+
+Education différenciée
+
+agent socio-éducatif
+
+3
+
+Service de la formation des adultes
+
+chargé de cours
+
+4
+
+Service de coordination de la recherche et de l’innovation pédagogiques et technologiques
+
+employé de la carrière supérieure (psychologue)
+
+1
+
+Service de la scolarisation des enfants étrangers
+
+employé
+
+2
+
+III. Services dépendant du Ministère des Affaires étrangères et de l’Immigration:
+
+Représentations diplomatiques et bureaux décentralisés de la coopération luxembourgeoise
+
+employé de bureau
+
+16
+
+IV. Services dépendant du Ministère de l’Economie et du Commerce extérieur:
+
+Représentations économiques
+
+employé de bureau
+
+15
+
+V. Service dépendant du Ministère de la Culture:
+
+Bibliothèque nationale
+
+employé de la carrière supérieure
+
+1
+
+(3) Le recrutement du personnel visé au présent article ne peut se faire qu’après publication des vacances d’emploi par au moins deux quotidiens luxembourgeois. Les décisions relatives aux engagements de cette catégorie de personnel sont prises par le Gouvernement en conseil.
+
+Le statut du personnel engagé en vertu du paragraphe (2) du présent article est régi par l’article L. 121-1. du Code du Travail.
+
+Toutefois, le régime du personnel engagé auprès des représentations diplomatiques, économiques et touristiques à l’étranger est fixé par voie de règlement grand-ducal.
+
+Par dérogation à l’alinéa précédent, entre les dates d’entrée en vigueur des dispositions de la présente loi et du règlement grand-ducal visé à l’alinéa précédent, le personnel concerné est soumis à la législation du travail du pays d’occupation.
