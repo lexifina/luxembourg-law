@@ -1,0 +1,11 @@
+# Art. II.
+
+Le Code de la Sécurité sociale est modifié comme suit:
+
+- 1° L'article 173, alinéa 1 prend la teneur suivante: Les personnes qui justifient de douze mois d'assurance au titre de l'article 171 pendant la période de trois années précédant la perte de la qualité d'assuré obligatoire ou la réduction de l'activité professionnelle peuvent demander de continuer ou de compléter leur assurance. La période de référence de trois ans est étendue pour autant et dans la mesure où elle se superpose à des périodes visées à l'article 172 ainsi qu'à des périodes d'assurance continuée ou complémentaire antérieures ou correspondant au bénéfice du complément prévu par la loi modifiée du 26 juillet 1986 portant création du droit à un revenu minimum garanti. La demande visant la continuation de l'assurance doit être présentée sous peine de forclusion au Centre commun de la sécurité sociale, au titre du régime auprès duquel l'assuré était affilié en dernier lieu dans un délai de six mois suivant la perte de l'affiliation.
+
+- 2° L'article 174, alinéa 1 prend la teneur suivante: Les personnes qui ont, soit abandonné ou réduit leur activité professionnelle pour des raisons familiales, soit quitté un régime de pension étranger non visé par un instrument bi- ou multilatéral de sécurité sociale ou un régime de pension d'une organisation internationale prévoyant un forfait de rachat ou d'un équivalent actuariel peuvent couvrir ou compléter les périodes correspondantes par un achat rétroactif, à condition qu'elles résident au Grand-Duché de Luxembourg, qu'elles aient été affiliées au titre de l'article 171 pendant au moins douze mois et qu'au moment de la demande elles n'aient ni dépassé l'âge de soixante-cinq ans ni droit à une pension personnelle.
+
+- 3° L'article 177 est complété par l'alinéa 2 ayant la teneur suivante: Ne sont pas assujettis à l'assurance les agents de la Banque centrale du Luxembourg visés à l'article 14 de la loi du 23 décembre 1998 relative au statut monétaire de la Banque centrale du Luxembourg.
+
+- 4° L'article 178, alinéa 1 prend la teneur suivante: Les bénéficiaires d'une pension de vieillesse qui exercent une activité pour leur propre compte après l'âge de soixante-cinq ans ne sont pas soumis à l'assurance.

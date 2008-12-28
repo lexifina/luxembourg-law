@@ -1,0 +1,11 @@
+# Art. III.
+
+La loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat est modifiée comme suit:
+
+- 1° A la suite de l'article 12 il est inséré un nouvel article 12bis libellé comme suit: Art. 12 bis. Sauf en ce qui concerne la Banque centrale du Luxembourg, la reprise, par un des organismes définis à l'article 2 de la loi modifiée du 28 juillet 2000 ayant pour objet la coordination des régimes de pension, de services ou périodes visés à l'article 9.I.a) 3. de la présente loi antérieurement réalisés ou mis en compte auprès d'un premier organisme y visé, ne donne lieu ni à transfert de retenues pour pension ou de cotisations, ni à prise à charge de la part de pension en découlant au moment du risque. Si les services ou périodes repris conformément au prédit article relèvent de ladite Banque, soit antérieurement, soit à partir de la reprise, les dispositions prévues à l'article 6, alinéa 2 de la loi précitée sont applicables et le transfert de cotisations en découlant est opéré en faveur de l'organisme appelé à les mettre en compte.
+
+- 2° La première phrase de l'article 15, sous VIII., alinéa 1er prend la teneur suivante: Compte tenu des dispositions du présent article, la mise en compte au titre de l'article 9.I.a) 9. ne peut avoir pour effet de conduire, pour le même nombre d'enfants pris en compte de part et d'autre, à des prestations y relatives inférieures à celles découlant de l'application de l'article IX., 7° de la loi modifiée du 28 juin 2002 adaptant le régime général et les régimes spéciaux de pension; portant création d'un forfait d'éducation; modifiant la loi modifiée du 29 avril 1999 portant création d'un droit à un revenu minimum garanti.
+
+- 3° A l'article 20, paragraphe 2, sous b), le début de phrase allant jusqu'aux termes «est inférieur à un seuil de 180 points indiciaires» est remplacé comme suit: Si le total de la pension de survie résultant du calcul sous a) et des majorations spéciales prévues à l'article 26 ainsi que des prestations de pension de survie, découlant du même donnant-droit, échues auprès d'un régime de pension légal luxembourgeois ou étranger ou auprès d'un organisme international.
+
+- 4° A l'article 22, sous a), point 1, le terme «partenaires» est remplacé par les termes «anciens partenaires».
