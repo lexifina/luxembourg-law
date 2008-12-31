@@ -1,3 +1,0 @@
-# Art. 3.
-
-L'article 20 est modifié comme suit: La recevabilité de l'option prévue à l'article 19,1° et 4° est soumise aux conditions suivantes: ...... ......

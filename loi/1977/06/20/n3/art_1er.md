@@ -1,3 +1,0 @@
-# Art. 1er.
-
-L'article 2 est modifié comme suit: Acquiert la nationalité luxembourgeoise: ...... ...... L'enfant adopté par un Luxembourgeois dans les conditions prévues à l'article 354 alinéas 2 et 3 du Code civil; ...... ...... ......
