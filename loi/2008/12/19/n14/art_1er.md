@@ -1,0 +1,7 @@
+# Art. 1er.
+
+La loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat est modifiée et complétée comme suit:
+
+- I A l'article 2, paragraphe 4, le deuxième alinéa est remplacé comme suit: Ces agents sont engagés sous le régime des employés de l'Etat à un poste d'une carrière correspondant à leur degré d'études pour la durée d'une année. Après cette période, ils peuvent être nommés en qualité de fonctionnaire de l'Etat à une des fonctions faisant partie d'une carrière de fonctionnaire correspondant à leur degré d'études. A cet effet, ils sont placés hors cadre et peuvent être dispensés par le Gouvernement en conseil des limites de la bonification d'ancienneté telle qu'elle est prévue à l'article 7 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat. Toutefois ils sont intégrés dans le cadre si celui-ci ne comprend aucun autre fonctionnaire de la même carrière. En vue des avancements ultérieurs, le rang des fonctionnaires placés hors cadre est fixé conformément à l'article 17 de la loi modifiée du 27 mars 1986 fixant les conditions et les modalités selon lesquelles le fonctionnaire de l'Etat peut se faire changer d'administration. Aux fins de l'application de cette disposition, le ministre ayant dans ses attributions la Fonction publique détermine l'examen utile auquel l'agent aurait pu prendre part .
+
+- II A l'article 28, le paragraphe 1er, alinéa 2 est modifié et complété comme suit: le congé individuel de formation.
