@@ -1,4 +1,4 @@
-# Article 9
+# Art 9.
 
 1. Il est institué un poste de commissaire du Gouvernement près les CFL. Le commissaire est nommé par arrêté grand-ducal. Pour pouvoir être nommé commissaire, le candidat doit remplir les conditions pour l’accès aux fonctions administratives de la carrière supérieure auprès des administrations de l’Etat prévues par la loi modifiée du 16 avril 1979 fixant le statut des fonctionnaires de l’Etat, et avoir l’honorabilité professionnelle nécessaire ainsi que l’expérience adéquate pour l’exercice de la fonction.
 
@@ -10,8 +10,8 @@ Le commissaire a le droit d’assister aux assemblées générales et aux réuni
 
 Le commissaire peut suspendre l’exécution de toute décision du conseil d’administration, relevant du domaine de sa compétence, s’il juge celle-ci contraire aux intérêts de l’Etat. Il fait acter son veto. Si dans le mois de la suspension les CFL n’ont pas été informés des suites que le ministre a réservées à ce veto, la suspension est présumée levée, et la décision peut être mise à exécution.
 
-(2) La fonction du commissaire du Gouvernement près la Société Nationale des Chemins de Fer Luxembourgeois est classée au grade S1 de la rubrique VI “Fonctions à indice fixe“ de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
+2. La fonction du commissaire du Gouvernement près la Société Nationale des Chemins de Fer Luxembourgeois est classée au grade S1 de la rubrique VI «Fonctions à indice fixe» de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
 
-A l’Annexe A de la loi modifiée du 22 juin 1963 précitée “Classification des fonctions - Rubrique VI, Fonctions à indice fixe“ au grade S1 la mention “Commissaire du Gouvernement près la Société Nationale des CFL“ est ajoutée.
+A l’Annexe A de la loi modifiée du 22 juin 1963 précitée «Classification des fonctions - Rubrique VI, Fonctions à indice fixe» au grade S1 la mention «Commissaire du Gouvernement près la Société Nationale des CFL» est ajoutée.
 
 Le traitement du commissaire est à charge de l’Etat. Les CFL remboursent cette dépense à l’Etat.

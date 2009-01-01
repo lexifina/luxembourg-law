@@ -1,4 +1,4 @@
-# Article 8
+# Art 8.
 
 Les CFL cotisent à la charge des retraites et pensions de leurs agents à raison de 16 % de leur masse salariale retenue pour le calcul des pensions, déduction faite des prélèvements à charge de ces agents au taux prévu par la loi du 8 janvier 1996 modifiant et complétant
 
@@ -9,5 +9,7 @@ Les CFL cotisent à la charge des retraites et pensions de leurs agents à raiso
 - none la loi du 29 juillet 1988 portant modification et nouvelle coordination de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat;
 
 - none la loi du 23 décembre 1994 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1995.
+
+A partir du 1er janvier 1999, les CFL cotisent à la charge des retraites et pensions de leurs agents à hauteur d’un pourcentage de la masse salariale retenue pour le calcul des pensions correspondant au taux de retenue pour pension prévu à l’égard de leurs agents par la législation instituant un régime de pension spécial pour les agents de la Société Nationale des Chemins de Fer Luxembourgeois et rendant applicables à ces agents certaines dispositions du régime de pension spécial des fonctionnaires de l’Etat.
 
 Le solde de la charge des retraites et pensions des agents des CFL est pris en charge par l’Etat.
