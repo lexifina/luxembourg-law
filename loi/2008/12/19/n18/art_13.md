@@ -1,0 +1,5 @@
+# Art. 13. Exportations
+
+1) Lorsque le traitement et le recyclage sont entrepris en dehors du Luxembourg, l'expédition des déchets de piles et d'accumulateurs doit être effectuée conformément au règlement (CE) N° 1013/2006 du Parlement Européen et du Conseil du 14 juin 2006 concernant les transferts de déchets.
+
+2) Les déchets de piles et d'accumulateurs exportés hors de la Communauté conformément au règlement (CE) N° 1013/2006 précité, au règlement (CE) N° 1420/1999 du Conseil du 29 avril 1999 établissant les règles et procédures communes applicables aux transferts de déchets vers certains pays non membres de l'OCDE et au règlement (CE) N° 1547/1999 de la Commission du 12 juillet 1999 déterminant les procédures de contrôle à appliquer, conformément au règlement (CEE) N° 259/93 du Conseil, aux transferts de certains types de déchets vers certains pays non soumis à la décision C(92) final de l'OCDE ne sont comptabilisés aux fins des obligations et rendements prévus à l'annexe III de la présente loi que s'il existe des preuves tangibles que l'opération de recyclage s'est déroulée dans des conditions équivalentes aux exigences imposées par la présente loi.
