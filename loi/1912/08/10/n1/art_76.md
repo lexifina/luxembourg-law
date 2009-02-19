@@ -1,7 +1,0 @@
-# Art. 76.
-
-Sans préjudice des attributions prévues par les autres dispositions de la présente loi, la commission scolaire a pour mission de veiller à l'observation régulière des heures de classe dans les établissements d'enseignement primaire et postscolaire; d'assurer la bonne fréquentation des écoles et la répression des absences; de procéder à cette fin à la vérification du rôle des enfants de l'âge obligatoire tant pour les écoles primaires que pour les cours postscolaires; de se faire présenter au moins tous les deux mois les registres des absences tenus par les instituteurs; de remplir les obligations prévues par les art. 10, 11 et 12 de la présente loi; de signaler à l'administration communale tous les travaux à faire aux locaux et au mobilier scolaire; de porter à la connaissance du conseil communal et de l'inspecteur du ressort tout ce qu'elle juge utile ou préjudiciable aux intérêts de l'enseignement primaire, postscolaire ou primaire supérieur; d'aider au développement des oeuvres complémentaires et auxiliaires de l'école, telles que bibliothèques, collections, soupes scolaires, jardins scolaires, etc.
-
-Elle visite les écoles au moins deux fois par semestre, et procède à ces visites en corps. Aucune visite ne peut être faite que par la majorité au moins des membres de la commission.
-
-Un règlement d'administration publique déterminera plus amplement les attributions de la commission scolaire et la manière dont elle les exercera.
