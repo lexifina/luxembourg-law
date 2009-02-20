@@ -1,0 +1,3 @@
+# Art. 5.
+
+L'article 28 de la même loi est remplacé comme suit: Art. 28. Le directeur et le directeur adjoint sont choisis parmi les fonctionnaires appartenant ou ayant appartenu pendant cinq ans au moins au personnel de la carrière supérieure de l'enseignement ou de l'administration. La fonction du directeur est classée au grade E8. La fonction du directeur adjoint est classée au grade E7ter si son titulaire est recruté parmi les agents de la carrière supérieure de l'administration ou parmi les enseignants classés au grade E7. Elle est classée au grade E6ter si son titulaire est recruté parmi les enseignants classés au grade E6, et au grade E5ter si son titulaire est recruté parmi les enseignants classés au grade E5.

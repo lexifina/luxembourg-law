@@ -1,0 +1,3 @@
+# Art. 4.
+
+L'article 24 de la même loi est remplacé comme suit: Art. 24. En dehors du directeur et du directeur adjoint, le cadre du personnel du SCRIPT peut comprendre: dans la carrière supérieure de l'administration: un directeur adjoint; des fonctionnaires de la carrière de l'attaché de Gouvernement; des fonctionnaires de la carrière du psychologue; des fonctionnaires de la carrière du sociologue; des fonctionnaires de la carrière du pédagogue; dans la carrière moyenne de l'administration: des bibliothécaires-documentalistes. À la demande du ministre, des membres du personnel des administrations et services de l'État peuvent être détachés au SCRIPT à temps plein ou à temps partiel par leur ministre de tutelle.
