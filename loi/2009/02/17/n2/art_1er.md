@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article L. 511-12 du Code du travail est modifié comme suit: Art. L. 511-12. L'indemnité de compensation est prise en charge respectivement par l'employeur et par l'Etat, d'après les règles suivantes: l'indemnité de compensation, correspondant à la première tranche de 8 heures pour les salariés travaillant normalement 20 heures par semaine ou moins et de 16 heures pour les salariés travaillant normalement plus de 20 heures par semaine, est prise en charge par l'employeur; le montant de la subvention accordée par l'Etat correspond au montant global de l'indemnité de compensation avancée par l'employeur pour les heures de travail perdues au-delà des 8 ou 16 heures par mois de calendrier.
