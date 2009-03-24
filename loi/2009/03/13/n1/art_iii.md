@@ -1,0 +1,3 @@
+# Art. III.
+
+La loi modifiée du 7 mars 1980 sur l'organisation judiciaire est complétée par un nouvel article 87: Art. 87. En matière civile et commerciale, en vue de la reconnaissance et de l'exécution des décisions judiciaires rendues par les juridictions luxembourgeoises en vertu d'un acte communautaire dans le cadre de la coopération judiciaire civile de l'Union européenne, le greffier en chef de la juridiction qui a rendu la décision judiciaire: certifie les titres exécutoires en vue de leur reconnaissance et de leur exécution dans un autre Etat membre de l'Union européenne; délivre, sur demande, les titres exécutoires et certificats.
