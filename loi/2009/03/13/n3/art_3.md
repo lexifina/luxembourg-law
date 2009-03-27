@@ -1,0 +1,3 @@
+# Art. 3.
+
+Seront punies d'une peine d'emprisonnement de huit jours à six mois et d'une amende de 251 à 50.000 euros ou d'une de ces peines seulement les infractions aux dispositions des articles 5, 6 et 9 du règlement (CE) N° 166/2006 du Parlement Européen et du Conseil du 18 janvier 2006 concernant la création d'un registre européen des rejets et des transferts de polluants et modifiant les directives 91/689/CE et 96/61/CE ainsi qu'aux dispositions des règlements grand-ducaux pris en exécution de la présente loi relatives à la communication, l'assurance et l'évaluation de la qualité des informations destinées au registre national prévu à l'article 2, paragraphe 1er.
