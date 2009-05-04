@@ -1,0 +1,17 @@
+# Art. 1er.
+
+(1) La présente loi s'applique aux pratiques commerciales déloyales des professionnels vis-à-vis des consommateurs portant atteinte à leurs intérêts économiques et ce avant, pendant et après l'offre en vente et la vente de produits.
+
+(2) La présente loi s'applique sans préjudice
+
+- 1. du droit des contrats, en particulier des règles relatives à la validité, à la formation ou aux effets des contrats;
+
+- 2. des dispositions communautaires ou nationales relatives à la santé et à la sécurité des produits;
+
+- 3. des dispositions législatives, réglementaires et administratives en matière de certification et d'indication du titre des ouvrages en métal précieux;
+
+- 4. des conditions d'établissement ou des régimes d'autorisation ou des codes de déontologie ou de toute autre disposition spécifique régissant les professions réglementées;
+
+- 5. de la loi modifiée du 16 juillet 1987 concernant le colportage, la vente ambulante, l'étalage de marchandises et la sollicitation de commandes;
+
+- 6. de la loi modifiée du 30 juillet 2002 réglementant certaines pratiques commerciales, sanctionnant la concurrence déloyale et transposant la directive 97/55/CE du Parlement européen et du Conseil modifiant la directive 84/450/CEE sur la publicité trompeuse afin d'y inclure la publicité comparative.

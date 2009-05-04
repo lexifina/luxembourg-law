@@ -1,0 +1,13 @@
+# Art. 8.
+
+Afin de déterminer si une pratique commerciale recourt au harcèlement, à la contrainte, y compris la force physique, ou à une influence injustifiée, les éléments suivants sont pris en considération:
+
+- a) le moment et l'endroit où la pratique est mise en oeuvre, sa nature et sa persistance;
+
+- b) le recours à la menace physique ou verbale;
+
+- c) l'exploitation en connaissance de cause par le professionnel de tout malheur ou circonstance particulière d'une gravité propre à altérer le jugement du consommateur, dans le but d'influencer la décision du consommateur à l'égard du produit;
+
+- d) tout obstacle non contractuel important ou disproportionné imposé par le professionnel lorsque le consommateur souhaite faire valoir ses droits contractuels, et notamment celui de mettre fin au contrat ou de changer de produit ou de fournisseur;
+
+- e) toute menace d'action alors que cette action n'est pas légalement possible.
