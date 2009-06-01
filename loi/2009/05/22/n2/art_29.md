@@ -1,0 +1,7 @@
+# Art. 29.
+
+(1) Dans le cas où il est fait application, par une personne pouvant agir en justice pour faire cesser un acte portant atteinte à un droit de propriété intellectuelle visé aux articles 23, 27 et 28, les mesures provisoires prévues par les articles 934 et suivants du nouveau Code de procédure civile seront abrogées ou cesseront de produire leurs effets de plein droit, si le demandeur n’a pas engagé une action conduisant à une décision au fond devant une juridiction compétente dans le délai qui sera déterminé par le président du tribunal ou le juge qui le remplace ordonnant les mesures ou, en l’absence d’une telle détermination, dans le délai d’un mois à compter de la signification de l’ordonnance.
+
+(2) Les mesures visées au paragraphe 1er peuvent être subordonnées par le président de la juridiction compétente à la constitution par le demandeur d’un cautionnement convenable ou d’une garantie équivalente adéquate destiné à assurer l’indemnisation éventuelle de tout préjudice subi par le défendeur, conformément aux dispositions du paragraphe 3.
+
+(3) Dans les cas où les mesures provisoires sont abrogées ou cessent d’être applicables en raison de toute action ou omission du demandeur, ou dans les cas où il est constaté ultérieurement qu’il n’y a pas eu atteinte ou menace d’atteinte au droit de propriété intellectuelle en cause, la juridiction peut condamner le demandeur, à la demande du défendeur, à verser à ce dernier un dédommagement approprié en réparation de tout dommage causé par ces mesures.
