@@ -1,5 +1,0 @@
-# Art. 27. Voies de recours
-
-(1) Contre les décisions administratives publiées en exécution des articles 12 et 22 de la présente loi, un recours en annulation est ouvert devant le tribunal administratif. Ce recours doit être introduit sous peine de déchéance dans un délai de quarante jours à compter de l'affichage prévu aux articles précités. Le recours est également ouvert aux associations d'importance nationale dotées de la personnalité morale et agréées en application de l'article 29 de la loi modifiée du 10 juin 1999 relative aux établissements classés. Les prédites associations sont réputées avoir un intérêt personnel.
-
-(2) Un recours en annulation est ouvert devant le tribunal administratif, dans les mêmes conditions et délais, contre la décision, prise au titre de l'article 13, paragraphe 2, de ne pas élaborer une étude d'évaluation. A moins que l'illégalité ait été constatée par les juridictions administratives dans le cadre d'une procédure régie par le présent paragraphe, elle ne peut pas être retenue dans le cadre d'un recours contre l'autorisation définitivement accordée au projet.

@@ -1,5 +1,0 @@
-# Art. 30. Dispositions transitoires concernant les projets soumis d'office à une évaluation
-
-Les projets définis à l'article 4 ci-dessus et dont la réalisation n'a pas encore été entamée au moment de l'entrée en vigueur de la présente loi sont soumis à la procédure définie aux articles 5 à 12 ci-dessus pour autant qu'ils n'aient pas encore fait l'objet d'une enquête publique au titre des articles 10 et 12 de la loi du 10 juin 1999 concernant les établissements classés ni au titre de l'article 14bis de la loi modifiée du 16 août 1967 précitée abrogé par l'article 29 cidessus, lorsqu'il s'agit de projets routiers, et pour autant qu'ils n'aient pas encore fait l'objet d'une étude de leur impact sur l'environnement naturel et l'environnement humain conformément aux dispositions de l'article 7 de la loi modifiée du 10 mai 1995 précitée, en vigueur avant la modification intervenant au titre de l'article 28 ci-dessus, lorsqu'il s'agit de projets ferroviaires.
-
-Les projets qui ne sont pas visés par l'alinéa premier peuvent faire l'objet d'un règlement grand-ducal pris en vertu de l'article 20 ci-avant.
