@@ -1,0 +1,3 @@
+# Art. 15. Voies de recours
+
+Contre les décisions administratives publiées en exécution de l’article 11 de la présente loi, un recours en annulation est ouvert devant le tribunal administratif. Ce recours doit être introduit sous peine de déchéance dans un délai de quarante jours à compter de l’affichage prévu aux articles précités. Le recours est également ouvert aux associations d’importance nationale dotées de la personnalité morale et agréées en application de l’article 29 de la loi modifiée du 10 juin 1999 relative aux établissements classés. Les prédites associations sont réputées avoir un intérêt personnel.
