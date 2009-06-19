@@ -1,0 +1,3 @@
+# Art. 4.
+
+Le deuxième alinéa de l'article 389-3 du code civil est modifié comme suit: Quand ses intérêts sont en opposition avec ceux du mineur, il doit faire nommer un administrateur ad hoc par le juge des tutelles. A défaut de diligence de l'administrateur légal, le juge peut procéder à cette nomination à la demande du ministère public, du mineur lui-même ou d'office.
