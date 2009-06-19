@@ -1,0 +1,3 @@
+# Article unique.
+
+Il est inséré au Titre VIII du Livre II du Code pénal un Chapitre IV-2, libellé comme suit: Chapitre IV-2. Du harcèlement obsessionnel Art. 442.2 Quiconque aura harcelé de façon répétée une personne alors qu'il savait ou aurait dû savoir qu'il affecterait gravement par ce comportement la tranquillité de la personne visée, sera puni d'une peine d'emprisonnement de quinze jours à deux ans et d'une amende de 251 à 3.000 euros, ou de l'une de ces peines seulement. Le délit prévu par le présent article ne pourra être poursuivi que sur plainte de la victime, de son représentant légal ou de ses ayants droit.»
