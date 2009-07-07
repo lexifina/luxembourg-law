@@ -1,0 +1,3 @@
+# Art. 16.
+
+L'article 24 de la même loi est remplacé par le texte suivant: 1. Les infractions à la présente loi sont recherchées et constatées par les officiers et agents de police judiciaire et par les agents des douanes et accises à partir du grade de brigadier principal. 2. Les conducteurs des moyens de transports affectés aux transports publics sont tenus de s'arrêter immédiatement sur leur injonction et de rester arrêtés pendant tout le temps nécessaire à l'accomplissement des mesures de contrôle. Le défaut de suivre cette injonction est puni d'une amende de 25 à 500 euros; cette amende a le caractère d'une peine de police.

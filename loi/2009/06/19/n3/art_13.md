@@ -1,0 +1,3 @@
+# Art. 13.
+
+L'article 9 de la loi modifiée du 12 juin 1965 sur les transports routiers est remplacé par le texte suivant: Les infractions à la présente loi et à ses règlements d'exécution sont recherchées et constatées par les officiers et agents de police judiciaire et par les agents de l'administration des douanes et accises à partir du grade de brigadier principal. Les conducteurs des moyens de transports sont tenus de s'arrêter immédiatement sur leur injonction et de rester arrêtés pendant tout le temps nécessaire à l'accomplissement des mesures de contrôle. Le défaut de suivre cette injonction est puni d'une amende de 25 à 500 euros; cette amende a le caractère d'une peine de police.
