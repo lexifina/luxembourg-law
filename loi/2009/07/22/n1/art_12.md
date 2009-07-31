@@ -1,0 +1,7 @@
+# Art. 12.
+
+Le gestionnaire de l'infrastructure ferroviaire et les entreprises ferroviaires prennent toutes les mesures requises en vue d'assurer la sécurité de l'exploitation du système ferroviaire et de maîtriser les risques qui en résultent, le cas échéant, en coopération les uns avec les autres. Ils appliquent les règles nationales de sécurité visées à l'article 11, paragraphe 1er et établissent leur système de gestion de la sécurité conformément aux dispositions de l'article 11, paragraphe 2.
+
+Sans préjudice de la responsabilité civile établie conformément aux prescriptions légales, le gestionnaire de l'infrastructure et chaque entreprise ferroviaire est responsable de sa partie du système ferroviaire et de la sécurité d'exploitation de celle-ci, y compris la fourniture de matériel et la sous-traitance de services, vis-à-vis des usagers, des clients, des travailleurs concernés et des tiers.
+
+La responsabilité du gestionnaire de l'infrastructure ferroviaire et de chaque entreprise ferroviaire dans l'exploitation du système ferroviaire n'affecte pas la responsabilité de chaque fabricant, fournisseur de services d'entretien, exploitant de wagons, prestataire de services et entité adjudicatrice de livrer du matériel roulant, des installations, des accessoires et des équipements ainsi que des services conformes aux exigences et conditions d'utilisation prescrites, de sorte que ceux-ci puissent être exploités en toute sécurité par l'entreprise ferroviaire respectivement par le gestionnaire de l'infrastructure ferroviaire.
