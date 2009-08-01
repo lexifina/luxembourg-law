@@ -1,3 +1,0 @@
-# Art. 18.
-
-Par dérogation aux dispositions prévues à l’article 11, respectivement le collège des bourgmestre et échevins ou l’organe habilité à engager l’établissement public placé sous la surveillance des communes, peut, lorsque le montant total, hors TVA, du marché à conclure n’excède pas douze mille cinq cents euros, valeur cent de l’indice des prix à la consommation au 1er janvier 1948, attribuer le marché à un concurrent résidant dans la commune, même si son offre ne figure pas parmi les trois offres régulières accusant les prix acceptables les plus bas, à condition que le prix offert par le concurrent local ne dépasse pas de plus de cinq pour cent celui de l’offre économiquement la plus avantageuse.

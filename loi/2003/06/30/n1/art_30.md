@@ -1,3 +1,0 @@
-# Art. 30.
-
-Lorsqu’un pouvoir adjudicateur subventionne directement à plus de cinquante pour cent un marché de travaux ou un marché de services en liaison avec un marché de travaux à passer par une entité autre que lui-même, il est obligé d’imposer à cette entité qu’elle respecte les dispositions du présent titre. Cette obligation ne concerne que les marchés de travaux figurant dans la classe 50, groupe 502, de l’annexe I et les marchés qui portent sur les travaux de bâtiment relatifs aux hôpitaux, aux équipements sportifs, récréatifs et de loisirs, aux bâtiments scolaires et universitaires et aux bâtiments à usage administratif.
