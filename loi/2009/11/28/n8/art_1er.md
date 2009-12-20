@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Toute commune qui, en exécution de l'article 173bis de la loi communale modifiée du 13 décembre 1988, détient seule ou ensemble avec d'autres personnes de droit public une participation directe ou indirecte d'au moins trente-quatre pour cent dans une société de droit privé agissant dans le domaine de l'électricité ou du gaz et ayant repris dans ce domaine une activité préalablement exercée en régie communale, peut mettre à la disposition de cette société ceux parmi ses agents relevant du statut du fonctionnaire communal ou engagés comme employé communal qui étaient affectés au service concerné au moment où la commune a pris sa participation dans la société de droit privé.
