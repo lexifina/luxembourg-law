@@ -1,3 +1,0 @@
-# Art. 3.
-
-Au-delà des points kilométriques déterminés conformément à l'article qui précède, peuvent être autorisées les constructions qui font partie d'un lotissement d'une superficie d'au moins 50 ares et dont la voie de desserte ne livre qu'un seul accès commun à la voirie de l'Etat. Des lotissements supérieurs à 100 ares pourront être desservis par deux accès communs à la voirie de l'Etat. Ces autorisations peuvent être accordées en conformité avec la loi du 13 janvier 1843 sur la compétence des tribunaux pour juger les contraventions en matière de grande voirie et sur les autorisations de faire des constructions ou des plantations le long des routes, complétée par les lois du 16 mai 1910 et du 22 février 1958.
