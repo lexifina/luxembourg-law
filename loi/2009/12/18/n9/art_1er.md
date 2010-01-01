@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Le Gouvernement est autorisé à participer au financement des travaux nécessaires à l'évacuation et à l'épuration des eaux usées des agglomérations de la Moselle inférieure, à la gestion des eaux de ruissellement en rapport avec ces travaux ainsi qu'à l'épuration de ces eaux à la station d'épuration régionale de Grevenmacher. Cette autorisation inclut le financement des infrastructures d'assainissement dans le Port de Mertert, le raccordement et le traitement des eaux usées de l'aire de service de Wasserbillig, située sur l'autoroute A1, ainsi que la pose de conduites d'eaux pluviales le long de la Moselle.
