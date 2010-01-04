@@ -1,0 +1,7 @@
+# Art. 92. Traductions et taxes annuelles
+
+1. L'article 4, alinéa 1er, de la loi du 27 mai 1977 portant a) approbation de la Convention sur la délivrance de brevets européens, signée à Munich ie 5 octobre 1973; b) adaptation de la législation nationale en matière de brevets est remplacé par le texte suivant: Si la demande de brevet a été publiée dans une langue autre que le français ou l'allemand, l'indemnité prévue à l'article précédent ne peut être réclamée que pour la période postérieure au jour où une traduction des revendications dans l'une des deux langues précitées soit aura été remise au service de la propriété industrielle et rendue accessible au public, soit aura été remise à la personne exploitant l'invention.
+
+2. L'article 6, alinéa 1er de la loi du 27 mai 1977 est modifié comme suit: Les tiers peuvent invoquer vis-à-vis du titulaire du brevet le texte des revendications de la demande de brevet européen dans la traduction prévue à l'article 4 lorsque la demande de brevet européen confère une protection qui est moins étendue dans ce texte que dans celui de la langue de procédure.
+
+3. L'article 10, alinéa 2 de la loi du 27 mai 1977 précitée est modifié comme suit: Les montants des annuités et, le cas échéant, des surtaxes à payer sont fixés par règlement grand-ducal. Les modalités de paiement de ces taxes sont les mêmes que celles applicables aux demandes et aux brevets luxembourgeois.

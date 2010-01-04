@@ -1,0 +1,5 @@
+# Art. 84. Désignation d'un représentant commun
+
+1. Si une demande est déposée par plusieurs personnes et si la requête en délivrance du brevet ne désigne pas de représentant commun, le demandeur cité en premier lieu dans la requête est réputé être représentant commun. Toutefois, si un demandeur est soumis à l'obligation de désigner un mandataire agréé, ce mandataire est considéré comme le représentant commun, à moins que le demandeur cité en premier lieu n'ait lui-même désigné un mandataire agréé.
+
+2. Si, au cours d'une procédure, un transfert de droit intervient au profit de plusieurs personnes et si ces personnes n'ont pas désigné, s'il y a lieu, de représentant commun, le paragraphe 1er est applicable. Si son application est impossible, le service ou, le cas échéant, le tribunal invite les ayants droit à désigner ce représentant commun dans un délai de deux mois. S'il n'est pas déféré à cette invitation, le service ou, le cas échéant, le tribunal désigne lui-même le représentant commun.

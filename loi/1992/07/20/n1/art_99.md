@@ -1,0 +1,3 @@
+# Art. 99. Classification internationale des brevets
+
+L'article 2 de la loi du 10 décembre 1975 portant approbation de l'Arrangement de Strasbourg concernant la classification internationale des brevets, signé à Strasbourg, le 24 mars 1971 est remplacé par le texte suivant: Le Service de la propriété intellectuelle est chargé de l'application de la classification internationale des brevets. Dans l'accomplissement de cette tâche il est autorisé à recourir aux services de l'Office européen des brevets de Munich et à lui communiquer le contenu des demandes de brevets luxembourgeois non encore rendues accessibles au public.

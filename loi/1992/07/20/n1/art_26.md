@@ -1,0 +1,11 @@
+# Art. 26. Droit de priorité
+
+1. Celui qui a régulièrement déposé, dans ou pour l'un des Etats parties à la Convention de Paris, l'Accord instituant l'OMC ou un accord bilatéral ou multilatéral portant sur la reconnaissance réciproque de droits de priorité , y compris le Grand-Duché de Luxembourg, une demande de brevet d'invention, de modèle d'utilité, de certificat d'utilité ou de certificat d'invention, ou son ayant cause jouit, pour effectuer le dépôt d'une demande de brevet pour la même invention, d'un droit de priorité pendant: un délai de douze mois après le dépôt de la première demande.
+
+2. Est reconnu comme donnant naissance au droit de priorité tout dépôt ayant la valeur d'un dépôt régulier en vertu de la législation nationale de l'Etat dans lequel il a été effectué ou en vertu d'accords bilatéraux ou multilatéraux de réciprocité conclus avec le Grand-Duché de Luxembourg.
+
+3. Par dépôt régulier, on doit entendre tout dépôt qui suffit à établir la date à laquelle la demande a été déposée et notamment tout dépôt qui satisfait aux conditions de l'article 20 de la présente loi, quel que soit le sort ultérieur de la demande qui fait l'objet de ce dépôt.
+
+4. Est considérée comme première demande, dont la date de dépôt est le point de départ des titres de priorité, une demande ultérieure ayant le même objet qu'une première demande antérieure, déposée dans ou pour le même Etat, y compris le Grand-Duché de Luxembourg, à la condition que cette demande antérieure, à la date de dépôt de la demande ultérieure, ait été retirée, abandonnée ou refusée, sans avoir été soumise à l'inspection du public et sans laisser subsister de droits et qu'elle n'ait pas encore servi de base pour la revendication du droit de priorité. La demande ne peut plus alors servir de base pour la revendication du droit de priorité.
+
+5. Dans la mesure où, pour la même invention, deux brevets ont été délivrés au même inventeur ou à son ayant cause avec la même date de dépôt ou de priorité respectivement, le brevet issu de la demande antérieure cesse de produire ses effets à compter de la date à laquelle a été délivré le brevet issu de la demande pour laquelle le droit de priorité est revendiqué. Le brevet qui s'est ainsi éteint ne renaît pas lorsque le brevet qui subsiste est atteint par une déchéance ou lorsque sa nullité est prononcée.

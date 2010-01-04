@@ -1,0 +1,7 @@
+# Art. 76. Actes constitutifs de la contrefaçon
+
+1. Toute atteinte portée aux droits du propriétaire du brevet, tels qu'ils sont définis aux articles 45, 46, 47 et 48, constitue une contrefaçon.
+
+2. La contrefaçon engage la responsabilité civile de son auteur.
+
+3. Toutefois, l'offre, la mise dans le commerce, l'utilisation, la détention en vue de l'utilisation ou la mise dans le commerce d'un produit contrefait, lorsque ces faits sont commis par une autre personne que le fabricant du produit contrefait, n'engagent la responsabilité de leur auteur que si ces faits ont été commis en connaissance de cause.
