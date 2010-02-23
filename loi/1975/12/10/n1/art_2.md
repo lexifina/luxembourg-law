@@ -1,0 +1,3 @@
+# Art. 2.
+
+Les terrains visés à l’article 1er et les bâtiments y construits ou en voie de construction ainsi que leurs équipements sont affectés par l’Etat et la Ville de Luxembourg à l’établissement dans l’intérêt de la réalisation de ses missions. L’établissement assumera l’actif et le passif tels qu’ils seront constatés par un bilan d’ouverture au moment de l’entrée en vigueur de la présente loi. Le passif comprendra les engagements que l’Etat et la Ville de Luxembourg ont pu souscrire à l’égard des tiers, à l’exception des sommes empruntées ayant servi en tout ou en partie à l’acquisition ou à la constitution des biens affectés.
