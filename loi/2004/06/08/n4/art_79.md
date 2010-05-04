@@ -1,5 +1,3 @@
 # Art. 79.
 
-L’intitulé du chapitre 1er du Titre V du Livre II du code pénal est rédigé comme suit:
-
-Chapitre 1er.- De la rébellion et de la sédition.
+(...) (devenu vacant à la suite de la loi du 11 avril 2010 )
