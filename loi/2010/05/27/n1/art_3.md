@@ -1,0 +1,5 @@
+# Art. 3. Dispositions transitoires
+
+- a) Les candidats ayant acquis les diplômes, grades et certificats visés par l’ancien article 4 de la loi du 29 juin 2005 fixant les cadres du personnel des établissements d’enseignement secondaire et secondaire technique continuent à être admissibles aux examens concours de recrutement pendant une période de trois années à partir de l’entrée en vigueur de la présente loi.
+
+- b) Par dérogation aux dispositions de l’article 5 de la loi du 29 juin 2005 fixant les cadres du personnel des établissements d’enseignement secondaire, les chargés de direction à tâche complète du régime préparatoire de l’enseignement secondaire technique, en activité de service à l’entrée en vigueur de la présente loi, classés au grade E5, peuvent être nommés aux fonctions de directeur adjoint de leur établissement d’attache, à condition de pouvoir se prévaloir de cinq années de service en qualité de chargé de direction à tâche complète du régime préparatoire. Dans ce cas, ils sont classés au grade E5ter.
