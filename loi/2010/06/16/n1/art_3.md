@@ -1,0 +1,3 @@
+# Art. 3.
+
+Le Gouvernement est autorisé à faire la déclaration suivante: Les articles 23, 26 et 52 de la Convention accordent aux parties contractantes une certaine souplesse afin qu'une procédure simple et rapide puisse être appliquée à la reconnaissance et à l'exécution des décisions. Les règles communautaires prévoient un système de reconnaissance et d'exécution qui est au moins aussi favorable que les règles énoncées dans la Convention. Par conséquent, une décision rendue par une juridiction d'un Etat membre de l'Union européenne sur une question relative à la Convention, est reconnue et exécutée au Luxembourg par application des règles internes pertinentes du droit communautaire.
