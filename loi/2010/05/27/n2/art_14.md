@@ -1,0 +1,5 @@
+# Art. 14.
+
+(1) Il est interdit de procéder à une modification aux produits visés par la présente loi sans pour autant procéder à une analyse des risques portant sur cette modification. Dans le cas où des modifications substantielles visant à modifier la performance, la destination ou le type original du produit sont effectuées sur le produit, ce produit devra être considéré comme nouveau produit mis sur le marché respectivement mis en service au sens de la présente loi. Les procédures respectives sont alors applicables. Toutes les modifications sont à documenter conformément à l'annexe VII respectivement au point 1.7.4 de l'annexe I de la présente loi.
+
+(2) Nonobstant le respect des instructions et conditions d'installation prévues par le fabricant d'une machine, celui qui installe à demeure une machine, doit faire une analyse des risques qui couvre notamment l'interaction de la machine avec l'entourage de la machine, respectivement l'intégration de la machine dans la construction ou le bâtiment où l'installation est faite.
