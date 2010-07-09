@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 1er de la loi du 13 décembre 2004 autorisant la participation de l'Etat à la construction d'une maison de soins pour personnes atteintes de troubles psychogériatriques à Erpeldange/Ettelbruck est modifié comme suit: Art. 1er. Le Gouvernement est autorisé à participer, selon les modalités fixées par convention entre parties, au financement de la construction par l'association Luxembourg Alzheimer a.s.b.l. à Erpeldange/Ettelbruck d'une maison de soins pour personnes atteintes de troubles psychogériatriques, qui comprend une cuisine de production fonctionnant comme atelier protégé, ainsi que d'un immeuble destiné à abriter une maison relais et une structure d'accueil pour jeunes à besoins spécifiques.
