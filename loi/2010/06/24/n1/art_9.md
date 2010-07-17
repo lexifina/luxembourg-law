@@ -1,0 +1,3 @@
+# Art. 9.
+
+Plusieurs bibliothèques, dont notamment les bibliothèques communales, associatives, thématiques de droit privé et scolaires, peuvent décider de demander ensemble l'agrément en tant que bibliothèque publique par leur regroupement en une bibliothèque unique à vocation régionale, composée de plusieurs entités. Ainsi regroupées, les entités déterminent entre elles la bibliothèque centrale, responsable du dépôt de la demande d'agrément et de la coordination du fonctionnement de la bibliothèque publique. Chaque entité est tenue de respecter les dispositions des articles 2 et 3. La coopération entre les bibliothèques centrales et leurs entités respectives est précisée par voie de convention entre parties.
