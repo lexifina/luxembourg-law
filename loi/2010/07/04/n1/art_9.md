@@ -1,0 +1,3 @@
+# Art. 9.
+
+Est approuvé l’Accord entre l’Union économique belgo-luxembourgeoise, d’une part, et la République du Panama, d’autre part, concernant l’encouragement et la protection réciproques des investissements, signé à Panama, le 26 mars 2009.
