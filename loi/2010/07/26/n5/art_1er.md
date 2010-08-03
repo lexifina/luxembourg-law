@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 75, alinéa 1 de la loi du 19 décembre 2008 portant réforme de la formation professionnelle est modifié comme suit: Art. 75. La présente loi entre en vigueur le premier jour du mois qui suit sa publication au Mémorial, à l'exception des dispositions ayant trait à l'organisation de la formation professionnelle de base et de la formation professionnelle initiale contenues notamment dans les chapitres II et III, lesquelles entrent en vigueur à partir du début de l'année scolaire 2012/2013. Toutefois, des règlements grand-ducaux peuvent déjà organiser la formation pour différents métiers et professions avant le début de cette année scolaire.
