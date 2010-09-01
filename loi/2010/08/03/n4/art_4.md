@@ -1,0 +1,7 @@
+# Art. 4.
+
+1. Lorsqu'une entreprise ferroviaire assure des dessertes intérieures à l'occasion d'un service international de voyageurs, le régulateur vérifie, à la demande du ministre ou des entreprises ferroviaires concernées, que le transport de voyageurs entre les gares situées dans des Etats membres différents constitue l'objet principal du service ainsi assuré. Le régulateur se prononce également sur l'existence éventuelle d'une atteinte à l'équilibre économique d'un contrat de service public par les dessertes intérieures susmentionnées, à la demande du ministre, de l'autorité qui a attribué ledit contrat, du gestionnaire de l'infrastructure ferroviaire ou de l'entreprise ferroviaire qui exécute le contrat de service public afin de permettre au ministre de limiter ou, le cas échéant, d'interdire lesdites dessertes intérieures.
+
+2. Un accord cadre initial peut être établi pour une période de cinq ans, sur base des caractéristiques des capacités utilisées par les candidats assurant des services avant le 1er janvier 2010, afin de tenir compte des investissements spécialisés ou de l'existence de contrats commerciaux. Le régulateur est chargé d'autoriser l'entrée en vigueur d'un tel accord.
+
+3. Le régulateur émet un avis sur la fixation des redevances de l'infrastructure ferroviaire telles qu'elles résultent de la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.
