@@ -1,0 +1,7 @@
+# Art. 5.
+
+Lors du dépôt de l’instrument de ratification, le Gouvernement est autorisé à faire la déclaration suivante:
+
+«Conformément aux dispositions de l’article 23 de la Convention du 29 mai 2000 relative à l’entraide judiciaire en matière pénale entre les Etats membres de l’Union européenne (ci-après dénommée «la Convention»), le Gouvernement du Grand-Duché de Luxembourg déclare que, lorsque des données à caractère personnel sont communiquées à un autre Etat membre par le Grand-Duché de Luxembourg au titre de la Convention, le Grand-Duché de Luxembourg peut, sous réserve des dispositions de l’article 23, paragraphe 1, point c) de la Convention, selon le cas d’espèce, exiger que, sauf si l’Etat membre concerné a obtenu le consentement de la personne concernée, les données à caractère personnel ne puissent être utilisées aux fins visées à l’article 23, paragraphe 1, points a) et b) de la Convention qu’avec l’accord préalable du Grand-Duché de Luxembourg dans le cadre de procédures pour lesquelles le Grand-Duché de Luxembourg aurait pu refuser ou limiter la transmission ou l’utilisation de données à caractère personnel conformément aux dispositions de la Convention ou des instruments visés à l’article 1er de la Convention.
+
+Si, dans un cas d’espèce, le Grand-Duché de Luxembourg refuse de donner son consentement suite à la demande d’un Etat membre en application des dispositions du paragraphe 1, il motivera sa décision par écrit.»

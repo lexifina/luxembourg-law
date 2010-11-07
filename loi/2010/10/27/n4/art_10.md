@@ -1,0 +1,3 @@
+# Art. 10.
+
+L’exécution par les autorités judiciaires compétentes d’une demande émise par un autre Etat membre au titre de l’article 3 du Protocole du 16 octobre 2001 est subordonnée à la condition que le fait qui a donné lieu à la demande d’entraide aurait permis d’ordonner la mesure prévue par l’article 66-3 du Code d’instruction criminelle s’il avait été commis au Grand-Duché de Luxembourg. Elle est par ailleurs subordonnée aux mêmes conditions que celles qui s’appliqueraient au Luxembourg pour l’exécution d’une demande d’entraide aux fins de perquisition ou de saisie émise par ce même Etat membre.
