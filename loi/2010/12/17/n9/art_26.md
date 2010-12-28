@@ -1,0 +1,9 @@
+# Art. 26.
+
+(1) Les SICAV sont soumises aux dispositions applicables aux sociétés anonymes en général, pour autant qu’il n’y est pas dérogé par la présente loi.
+
+(2) Les statuts d’une SICAV et toute modification qui y est apportée sont constatés dans un acte notarié spécial dressé en langue française, allemande ou anglaise au choix des comparants. Par dérogation aux dispositions de l’arrêté du 24 prairial, an XI, lorsque cet acte notarié est dressé en langue anglaise, l’obligation de joindre à cet acte une traduction en une langue officielle lorsqu’il est présenté à la formalité de l’enregistrement, ne s’applique pas.
+
+(3) Par dérogation à l’article 73 alinéa 2 de la loi du 10 août 1915 concernant les sociétés commerciales telle que modifiée, les SICAV ne sont pas tenues d’adresser les comptes annuels, de même que le rapport du réviseur d’entreprises agréé, le rapport de gestion et, le cas échéant, les observations du conseil de surveillance aux porteurs de parts en nom en même temps que la convocation à l’assemblée générale annuelle. La convocation indique l’endroit et les modalités de mise à disposition de ces documents aux porteurs de parts et précise que chaque porteur de parts peut demander que les comptes annuels, de même que le rapport du réviseur d’entreprises agréé, le rapport de gestion et, le cas échéant, les observations du conseil de surveillance lui soient envoyés.
+
+(4) Les convocations aux assemblées générales des porteurs de parts peuvent prévoir que le quorum et la majorité à l’assemblée générale sont déterminés en fonction des parts émises et en circulation le cinquième jour qui précède l’assemblée générale à vingt-quatre heures (heure de Luxembourg) (dénommée «date d’enregistrement»). Les droits d’un porteur de parts de participer à une assemblée générale et d’exercer le droit de vote attaché à ses parts sont déterminés en fonction des parts détenues par ce porteur de parts à la date d’enregistrement.
