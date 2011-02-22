@@ -1,0 +1,3 @@
+# Art. VII.
+
+Le début du 4e tiret de l'article 252 du Code pénal est modifié comme suit: des fonctionnaires et agents d'une autre organisation internationale publique, des personnes membres …
