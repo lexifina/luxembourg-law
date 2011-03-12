@@ -1,0 +1,11 @@
+# Art. 61.
+
+(1) L'Institut fixe les critères de qualité minimale des prestations fournies dans le cadre du service universel.
+
+Ce faisant, l'Institut applique la procédure établie conformément aux dispositions des articles 78 et 79 de la présente loi.
+
+(2) L'entreprise fournissant un service universel communique à l'Institut, une fois par an, les données permettant la vérification du respect des critères de qualités établis par l'Institut. De plus, elle publie, dans la forme et selon la méthode adéquates approuvées par l'Institut et garantissant aux utilisateurs finals et aux consommateurs l'accès à des informations complètes, comparables et faciles à exploiter, les résultats obtenus dans la fourniture du service universel au regard des critères de qualités établis par l'Institut.
+
+(3) L'Institut peut établir des objectifs de performance pour l'entreprise désignée ou l'entreprise tenue d'exécuter la mission de service universel. Dans la détermination de ces objectifs, l'Institut prend en considération le point de vue des parties intéressées conformément à la procédure établie par les articles 78 et 79 de la présente loi. Afin de mettre l'Institut en mesure de vérifier si les objectifs de performance ont été atteints, l'entreprise concernée met à la disposition de l'Institut toutes les informations nécessaires à cette vérification. En cas de carence persistante constatée par l'Institut, il peut prendre à l'égard de l'entreprise concernée les sanctions prévues par l'article 83 de la présente loi.
+
+Afin de s'assurer de l'exactitude et de la comparabilité des données mises à disposition par l'entreprise, l'Institut peut exiger une vérification indépendante ou des évaluations similaires des données relatives aux performances, réalisées aux frais de l'entreprise concernée.

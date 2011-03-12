@@ -1,0 +1,3 @@
+# Art. 43.
+
+Lorsque, dans les conditions déterminées à l'article 37, une entreprise notifiée veut utiliser un terrain pour y installer ses équipements et que ce terrain est déjà utilisé par une autre entreprise notifiée, le propriétaire du terrain oblige les deux entreprises à négocier une convention de partage des installations déjà en place qui règle notamment la répartition des frais d'entretien des équipements et installations partagés. En cas de désaccord ou de litige, chacune des parties concernées, y compris le propriétaire, peut demander à l'Institut de trancher, en vertu des pouvoirs qui lui sont accordés par l'article 44 de la présente loi.

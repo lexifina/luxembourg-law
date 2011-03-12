@@ -1,0 +1,9 @@
+# Art. 22.
+
+(1) Sans préjudice des obligations leur imposées suite à des analyses de marché, les entreprises notifiées sont libres de négocier, entre elles et avec des entreprises notifiées dans un autre Etat membre de la Communauté européenne, des accords établissant les modalités techniques et commerciales de l'accès ou de l'interconnexion.
+
+L'entreprise qui ne fournit pas de service de communications électroniques et n'exploite pas de réseau de communications électroniques au Luxembourg n'est pas obligée de notifier ses activités à l'Institut pour demander l'accès ou l'interconnexion.
+
+(2) Les opérateurs ont l'obligation, lorsque d'autres entreprises notifiées le demandent, de négocier une interconnexion réciproque pour fournir des services de communications électroniques accessibles au public, de façon à garantir la fourniture de services et leur interopérabilité dans l'ensemble de la Communauté européenne. Les opérateurs offrent l'accès et l'interconnexion à d'autres entreprises selon des modalités et conditions compatibles avec les obligations imposées par l'Institut conformément aux dispositions de la présente loi.
+
+(3) Les entreprises qui obtiennent des informations d'autres entreprises avant, pendant ou après le processus de négociation des accords d'accès ou d'interconnexion utilisent ces informations uniquement aux fins prévues lors de leur fourniture et respectent la confidentialité des informations transmises ou conservées. Les informations reçues ne peuvent être communiquées à d'autres parties, notamment d'autres services, filiales ou partenaires pour lesquels elles pourraient constituer un avantage concurrentiel.
