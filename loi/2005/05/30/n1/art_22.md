@@ -1,3 +1,0 @@
-# Art. 22.
-
-Lorsque l'Institut constate que le marché pour la fourniture d'un ensemble minimal de lignes louées ou d'une partie de celui-ci n'est pas concurrentiel, il identifie les entreprises puissantes sur le marché de la fourniture des éléments spécifiques de l'ensemble minimal de lignes louées sur tout le territoire ou une partie de celui-ci. L'Institut impose à ces entreprises, en relation avec ces marchés particuliers de lignes louées, des obligations relatives à la fourniture de l'ensemble minimal de lignes louées. A ces fins, l'Institut publie une liste des conditions applicables à l'ensemble minimal de lignes louées.

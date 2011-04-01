@@ -1,3 +1,0 @@
-# Art. 31.
-
-L'Institut peut imposer à un opérateur puissant sur le marché de l'accès ou de l'interconnexion la publication d'une offre de référence qui soit suffisamment détaillée pour garantir que les entreprises ne sont pas tenues de payer pour des ressources qui ne sont pas nécessaires pour le service demandé, comprenant une description des offres pertinentes réparties en divers éléments selon les besoins du marché, accompagnée des modalités et conditions correspondantes, y compris des prix. L'Institut précise les informations à fournir, le niveau de détail requis et le mode de publication. L'Institut peut imposer des modifications aux offres de référence afin de donner effet aux obligations imposées en vertu de la présente loi.
