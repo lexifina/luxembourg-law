@@ -1,3 +1,0 @@
-# Art. 7.
-
-Une pratique commerciale est réputée agressive si, dans son contexte factuel, compte tenu de toutes ses caractéristiques et des circonstances, elle altère ou est susceptible d'altérer de manière significative, du fait du harcèlement, de la contrainte, y compris le recours à la force physique, ou d'une influence injustifiée, la liberté de choix ou de conduite du consommateur moyen à l'égard d'un produit, et, par conséquent, l'amène ou est susceptible de l'amener à prendre une décision commerciale qu'il n'aurait pas prise autrement.
