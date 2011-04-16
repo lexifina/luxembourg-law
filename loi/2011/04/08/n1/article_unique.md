@@ -1,0 +1,3 @@
+# Article unique.
+
+A la fin de l'article 11 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat sont introduits les nouveaux paragraphes suivants: 8. Pour l'année 2011, par dérogation aux dispositions du paragraphe 2, l'adaptation des traitements, salaires, pensions, rentes et autres indemnités et montants généralement adaptés par référence aux dispositions ci-dessus, déclenchée par le dépassement d'une cote d'échéance avant le mois de septembre 2011, est effectuée le 1er octobre 2011. 9. Si le premier dépassement d'une cote d'échéance en 2011 se produit après septembre, les dispositions du paragraphe 8 ne s'appliquent pas.
