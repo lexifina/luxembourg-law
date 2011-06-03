@@ -1,0 +1,3 @@
+# Art. 13.
+
+Le conseil communal de la commune de la vallée de l’Ernz entrera en fonction dès que les nominations et les assermentations du bourgmestre et des échevins et les assermentations de la majorité des conseillers auront été opérées. Les membres des conseils communaux d’Ermsdorf et de Medernach cessent leurs activités dès l’entrée en fonction du conseil communal de la commune de la vallée de l’Ernz. Le conseil communal de la commune de la vallée de l’Ernz issu des élections du 9 octobre 2011 reprendra dès son entrée en fonction les activités des conseils communaux d’Ermsdorf et de Medernach.
