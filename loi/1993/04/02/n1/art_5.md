@@ -1,3 +1,0 @@
-# Art. 5.
-
-L'article 26 de la loi du 7 avril 1909 sur la réorganisation de l'administration des Eaux et Forêts est complété comme suit: Nul ne peut être agréé comme garde particulier exerçcant des attributions en matière de chasse, s'il ne remplit les conditions suivantes: être de nationalité luxembourgeoise, jouir des droits civils et politiques, offrir les garanties de moralité requises, satisfaire aux conditions d'aptitude physique requises pour l'exercice de la fonction, être détenteur d'un permis de chasse luxembourgeois annuel valable, avoir passé avec succès un examen dont le programme et la procédure sont fixés par règlement grand-ducal.
