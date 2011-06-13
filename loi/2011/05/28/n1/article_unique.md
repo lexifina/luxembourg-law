@@ -1,0 +1,3 @@
+# Article unique.
+
+Les articles 57 alinéa 1er, 71 alinéa 2 et 73 de la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif sont modifiés comme suit: Art. 57. al. 1er . «Le tribunal administratif est composé d’un président, d’un premier vice-président, de deux vice-présidents, de trois premiers juges et de quatre juges.» Art. 71.al. 2. «Le président, le premier vice-président, les vice-présidents, les premiers juges et les juges dans l’ordre de leur nomination.» Art. 73. «Le premier vice-président, les vice-présidents, les premiers juges et juges sont, en cas d’absence, d’empêchement ou de vacance de poste remplacés par un autre membre ou un membre suppléant du tribunal administratif.»
