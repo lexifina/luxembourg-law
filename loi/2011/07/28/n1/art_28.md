@@ -1,0 +1,17 @@
+# Art. 28.
+
+L’article 31 de la loi précitée du 19 juillet 2004 est remplacé par le texte suivant:
+
+«Art. 31.
+
+(1) Le projet d’aménagement particulier, qui revêt un caractère réglementaire, devient obligatoire trois jours après sa publication par voie d’affiches dans la commune, cette publication étant effectuée conformément à la procédure prévue pour les règlements communaux, définie par l’article 82 de la loi communale du 13 décembre 1988, telle qu’elle a été modifiée.
+
+Le projet prend dès lors la désignation de «plan d’aménagement particulier».
+
+(2) Les actes et promesses de vente ou de location, ainsi que ceux ayant pour objet de transférer un droit réel immobilier, de même que les affiches, annonces et tous autres moyens de publicité relatifs à de pareilles opérations concernant des terrains compris dans un plan d’aménagement particulier «nouveau quartier» feront mention de la date de l’approbation ministérielle du projet d’aménagement particulier. Ils ne porteront aucune indication qui soit contraire au projet dûment approuvé ou qui soit de nature à induire les acquéreurs en erreur, sous peine d’une amende de 1.250 à 12.500 euros.
+
+Sera passible des mêmes peines toute publication entreprise avant l’approbation du plan d’aménagement particulier «nouveau quartier» par le ministre.
+
+En cas de fixation de nouvelles limites d’une propriété foncière par suite de lotissement en vue de son affectation à la construction, une attestation certifiant la conformité de cette fixation de limites respectivement avec le plan d’aménagement particulier «nouveau quartier» ou avec le lotissement de terrains décidé par le conseil communal conformément à l’article 29 (1) est délivré par le bourgmestre au géomètre officiel réalisant cette opération. En cas de transfert d’un droit réel immobilier, une attestation certifiant la conformité respectivement avec le plan d’aménagement particulier «nouveau quartier» ou avec le lotissement de terrains décidé par le conseil communal conformément à l’article 29 (1) est délivrée par le bourgmestre à la personne cédant un tel droit et mention en est faite dans l’acte de cession avec l’obligation expresse de faire cette même mention dans tout acte ultérieur portant nouveau transfert du droit réel immobilier en question. La mention de l’attestation dans des actes ultérieurs est exigée sans préjudice de l’obligation d’une nouvelle attestation en cas de changement des éléments à la base de l’attestation.
+
+En cas d’inobservation des dispositions qui précèdent, la nullité de l’acte de vente, de location ou de transfert d’un droit réel immobilier pourra être poursuivie à la requête de l’acquéreur, du locataire ou autre contractant lésé, ou à leur défaut, de la commune, aux frais et dommages du vendeur ou du bailleur ou autre contractant fautif, et ce sans préjudice des réparations civiles, s’il y a lieu.»
