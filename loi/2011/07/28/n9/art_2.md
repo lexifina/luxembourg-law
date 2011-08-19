@@ -1,0 +1,3 @@
+# Art. 2.
+
+Les dépenses engagées au titre du projet visé à l'article 1er ne peuvent pas dépasser les montants de 52.000.000 euros pour la Maison du Nombre et le Centre de calculs, de 16.400.000 euros pour la Maison des Arts et des Etudiants et de 14.600.000 euros pour l'équipement de l'unité de production de froid. Ces montants correspondent à la valeur 677,02 de l'indice semestriel des prix de la construction au 1er avril 2009. Déduction faite des dépenses déjà engagées par le pouvoir adjudicateur, ces montants sont adaptés semestriellement en fonction de la variation de l'indice des prix de la construction précité.
