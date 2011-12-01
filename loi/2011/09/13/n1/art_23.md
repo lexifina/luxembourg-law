@@ -1,0 +1,3 @@
+# Art. 23.
+
+L'alinéa 4 de l'article 16 de la loi précitée du 10 juin 1999 est remplacé par le texte suivant: Les personnes ayant présenté des observations au cours de l'enquête publique prévue à l'article 10 ou 12bis de la présente loi sont informées par lettre recommandée de la part de la commune concernée qu'une décision d'autorisation ou de refus est intervenue et qu'il sera procédé à la publicité de cette décision conformément à l'alinéa 4. L'information individuelle peut être remplacée par l'insertion d'un avis dans au moins 4 journaux quotidiens imprimés et publiés au Grand-Duché. Les frais de cette publication sont à charge du requérant.

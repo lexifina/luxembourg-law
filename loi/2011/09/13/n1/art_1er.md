@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'alinéa 3 de l'article 4 de la loi modifiée du 10 juin 1999 relative aux établissements classés est remplacé par le texte suivant: Les établissements des classes 3, 3A et 3B sont soumis à autorisation des ministres, sans qu'il y ait lieu de recourir à la procédure de commodo et incommodo telle que prévue aux articles 10 et 12 ou à l'article 12bis, les établissements de la classe 3A n'étant autorisés toutefois que par le seul ministre ayant dans ses attributions le travail, les établissements de la classe 3B n'étant autorisés que par le seul ministre ayant dans ses attributions l'environnement.

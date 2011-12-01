@@ -1,0 +1,3 @@
+# Art. 14.
+
+Le point 1.2.2. du paragraphe 1er de l'article 9 de la loi précitée du 10 juin 1999 est remplacé par le texte suivant: Pour le cas où les renseignements demandés sont transmis dans le délai précité, l'autorité compétente doit informer le requérant: dans les quarante jours pour les établissements de la classe 1 visés par règlement grand-ducal pris en vertu de l'article 8, et dans les vingt-cinq jours pour les autres établissements de la classe 1 ainsi que pour les établissements des classes 2, 3, 3A et 3B suivant la date de l'avis de réception relatif à l'envoi des renseignements demandés que le dossier est complet.

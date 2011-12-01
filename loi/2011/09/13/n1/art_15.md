@@ -1,0 +1,3 @@
+# Art. 15.
+
+Le paragraphe 1er de l'article 11 de la loi précitée du 10 juin 1999 est remplacé par le texte suivant: 1. Lorsqu'un projet d'établissement relevant de la classe 1 est susceptible d'avoir des incidences notables sur l'homme ou l'environnement d'un autre Etat ou lorsqu'un Etat susceptible d'en être notablement affecté le demande, le dossier de demande, comprenant l'évaluation des incidences ou l'étude des risques ainsi que le rapport de sécurité est transmis à cet Etat, le plus rapidement possible, et au plus tard au moment de l'affichage et de la publication de la demande dont question à l'article 10 ou à l'article 12bis.
