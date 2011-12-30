@@ -1,0 +1,3 @@
+# Art. 2.
+
+A la fin de l'article L. 234-61 du Code du travail est ajouté un nouvel alinéa libellé comme suit: Par dérogation aux alinéas précédents, les personnes atteintes d'une maladie évolutive qui les oblige de suivre une formation spécifique afin d'assurer soit leur maintien dans l'emploi, soit leur employabilité, peuvent, sur avis favorable de la commission consultative prévue à l'article 4 de la loi du 24 octobre 2007 portant création d'un congé individuel de formation, la Commission médicale créée par la loi modifiée du 12 septembre 2003 relative aux personnes handicapées entendue en son avis, bénéficier de jours de congé-formation supplémentaires indépendamment du nombre d'heures investies dans leur formation.
