@@ -1,5 +1,0 @@
-# Art. 1er.
-
-(1) La présente loi règle l'assistance mutuelle en matière de recouvrement des créances, énumérées à l'article 2 ci-après, entre le Grand-Duché de Luxembourg et les autres Etats membres de la Communauté européenne.
-
-(2) La loi est appliquée et interprétée concurremment et conformément à la directive 76/308/CEE du Conseil du 15 mars 1976 concernant l'assistance mutuelle en matière de recouvrement des créances relatives à certains cotisations, droits, taxes et autres mesures, dans sa teneur actuelle issue des modifications y apportées par des directives modificatives, dont notamment la directive 2001/44/CE du Conseil du 15 juin 2001 modifiant la directive 76/308/CEE concernant l'assistance mutuelle en matière de recouvrement des créances résultant d'opérations faisant partie du système de financement du Fonds européen d'orientation et de garantie agricole, ainsi que de prélèvements agricoles et de droits de douane, et relative à la taxe sur la valeur ajoutée et à certains droits d'accise.
