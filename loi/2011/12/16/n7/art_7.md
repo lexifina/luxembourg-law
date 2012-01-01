@@ -1,0 +1,5 @@
+# Art. 7. Droits d'accises sur les tabacs
+
+L'article 8 de la loi du 17 décembre 2010 fixant les droits d'accises et taxes assimilés des produits énergétiques, de l'électricité, des produits de tabacs manufacturés, de l'alcool et des boissons alcooliques, est modifié comme suit:
+
+Les paragraphes (5) et (6) sont remplacés par les textes suivants: (5) Les tabacs à fumer fine coupe destinés à rouler les cigarettes et les autres tabacs à fumer qui sont mis à la consommation dans le pays, sont en outre passibles d'un droit d'accise autonome, d'après un barème établi par le Ministère des Finances, se composant: d'une part ad valorem ne pouvant pas dépasser 10 pour cent du prix de vente au détail, d'une part spécifique ne pouvant pas dépasser 10,00 euros par kilogramme. (6) Pour le tabac à fumer fine coupe destiné à rouler les cigarettes et les autres tabacs à fumer, le total du droit d'accise commun et du droit d'accise autonome perçus ne peut en aucun cas être inférieur à 25,00 euros par kilogramme.
