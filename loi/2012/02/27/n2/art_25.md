@@ -1,0 +1,5 @@
+# Art. 25.
+
+Si l’autorité centrale a de sérieuses raisons de penser que l’exécution d’une demande d’assistance pourrait porter atteinte à la sécurité nationale, elle en informe immédiatement la Cour.
+
+L’autorité centrale peut décider de suspendre tout acte nécessaire à l’exécution de la demande en attendant que l’autorité compétente nationale se prononce, conformément à la loi, sur une demande ayant pour objet la production ou la divulgation d’éléments de preuve qui touchent à la sécurité nationale. Dès que l’autorité centrale décide de suspendre l’exécution d’une demande d’assistance, elle entame des concertations avec la Cour afin d’envisager toutes les mesures raisonnablement possibles pour trouver une solution par la concertation. Lorsque toutes les mesures raisonnablement possibles ont été prises pour régler la question par la concertation, l’autorité centrale avise la Cour du fait que l’exécution de la demande ne peut avoir lieu sans porter atteinte aux intérêts de la sécurité nationale luxembourgeoise.
