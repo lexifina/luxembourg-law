@@ -1,0 +1,3 @@
+# Art. 9.
+
+Il est ajouté une nouvelle 2e phrase au premier alinéa du paragraphe (1) de l'article 47 de la loi du 13 février 2007 relative aux fonds d'investissement spécialisés dont la teneur est la suivante: Le tribunal d'arrondissement siégeant en matière commerciale prononce sur la demande du procureur d'Etat, agissant d'office ou à la requête de la CSSF, la dissolution et la liquidation d'un ou de plusieurs compartiments d'un fonds d'investissement spécialisé visé par la présente loi, dans les cas où l'autorisation concernant ce(s) compartiment(s) aura définitivement été refusée ou retirée.

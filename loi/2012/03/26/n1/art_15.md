@@ -1,0 +1,3 @@
+# Art. 15.
+
+Il est ajouté à l'article 71 de la loi du 13 février 2007 relative aux fonds d'investissement spécialisés un nouveau paragraphe (7) ayant la teneur suivante: L'autorisation d'un compartiment d'un fonds d'investissement spécialisé visé par la présente loi et le maintien de cette autorisation sont soumises à la condition que toutes les dispositions législatives, réglementaires ou conventionnelles qui concernent son organisation et son fonctionnement soient observées. Le retrait de l'autorisation d'un compartiment n'entraîne pas le retrait du fonds d'investissement spécialisé de la liste prévue à l'article 43, paragraphe (1).

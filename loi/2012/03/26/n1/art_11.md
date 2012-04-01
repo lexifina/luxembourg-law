@@ -1,0 +1,3 @@
+# Art. 11.
+
+L'article 52 de la loi du 13 février 2007 relative aux fonds d'investissement spécialisés est complété par un nouveau paragraphe (6) ayant la teneur suivante: Pour les fonds d'investissement spécialisés visés par la présente loi, les apports autres qu'en numéraire font l'objet au moment de l'apport d'un rapport à établir par un réviseur d'entreprises agréé. Les conditions et les modalités prévues à l'article 26-1 de la loi du 10 août 1915 concernant les sociétés commerciales sont applicables à l'établissement du rapport visé par le présent article, nonobstant la forme juridique adoptée par le fonds d'investissement spécialisé concerné.
