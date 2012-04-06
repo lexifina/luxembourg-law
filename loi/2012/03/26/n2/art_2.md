@@ -1,0 +1,3 @@
+# Art. 2.
+
+L'article 1er de la loi du 22 décembre 2006 relative à la participation du Luxembourg à l'IADM et à la 7e reconstitution des ressources du Fonds International de Développement Agricole est remplacé par la disposition suivante: Art. 1er. Le Gouvernement est autorisé à participer à concurrence de 30.260.000 euros à l'annulation des créances de l'Association Internationale de Développement sur les 38 Pays Pauvres Très Endettés (PPTE) et les 4 pays potentiellement éligibles à l'initiative PPTE renforcée, conformément à la résolution n° 211 adoptée le 21 avril 2006 par le Conseil des gouverneurs de l'AID.
