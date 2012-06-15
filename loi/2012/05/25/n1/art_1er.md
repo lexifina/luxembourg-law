@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Le Gouvernement est autorisé à réaliser les travaux de construction en rapport avec la liaison Micheville comprenant la réalisation de la section courante entre la route N31 et l’autoroute A4 au nord de la cité Raemerich, la construction d’un échangeur et d’un giratoire au droit du crassier d’Ehlerange ainsi que le raccordement de celui-ci au rond-point Raemerich, la construction d’un ouvrage au-dessus du giratoire d’Ehlerange (OA01) et d’un ouvrage au-dessus de la RN31 (OA03), ainsi que le traitement des terres polluées avec leur mise en dépôt consécutive, respectivement leur évacuation vers une décharge appropriée.
