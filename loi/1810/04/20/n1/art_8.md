@@ -1,3 +1,0 @@
-# 8.
-
-Toutes les chambres de la cour impériale se réuniront en la chambre du conseil, le premier mercredi d'après la rentrée. Le procureur général, ou un avocat général en son nom, prononcera un discours sur la manière dont la justice aura été rendue dans l'étendue du ressort pendant la précédente année; il remarquera les abus qui auraient pu se glisser dans l'administration en cette partie; il fera les réquisitions qu'il jugera convenables, d'après les dispositions des lois. La cour sera tenue de délibérer sur ces réquisitions; et le procureur général enverra au grand-juge copie de son discours et des arrêts qui seront intervenus.
