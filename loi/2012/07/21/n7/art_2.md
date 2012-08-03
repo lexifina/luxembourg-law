@@ -1,0 +1,3 @@
+# Art. 2.
+
+Au paragraphe 1er de l'article 3 de la loi précitée du 6 janvier 1995, il est inséré à la suite du deuxième alinéa un alinéa nouveau, libellé comme suit: Le demandeur précise s'il entend obtenir l'autorisation en qualité de grossiste-répartiteur, habilité à distribuer tous les médicaments couverts par une autorisation de mise sur le marché, ou en qualité de grossiste habilité à distribuer seulement certains de ces médicaments, qu'il indiquera dans sa demande. Dans ce dernier cas, l'autorisation à délivrer énoncera limitativement les médicaments qu'il est habilité à distribuer en gros.
