@@ -1,0 +1,3 @@
+# Art. 5.
+
+Le conjoint des personnes visées aux articles 2, 3 et 4 a droit au même type de carte que le titulaire du poste diplomatique ou administratif. Au sens de la présente loi est entendu par «conjoints» un couple, de sexe différent ou du même sexe, lié par le mariage ou par une forme de contrat/partenariat civil. L’exercice d’une activité professionnelle au Grand-Duché ne saurait priver les conjoints de l’obtention de cette carte. Cependant, dans le cadre de leurs activités professionnelles, les conjoints ne bénéficient pas des privilèges et immunités inhérents à leur statut et prévus par les Conventions internationales qui s’y rapportent.
