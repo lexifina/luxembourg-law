@@ -1,0 +1,3 @@
+# Art. 8. Montants des seuils des marchés
+
+La présente loi s'applique aux marchés dont la valeur estimée hors taxe sur la valeur ajoutée (TVA) est égale ou supérieure aux seuils prévus par la directive 2009/81/CE du Parlement européen et du Conseil du 13 juillet 2009 relative à la coordination des procédures de passation de certains marchés de travaux, de fournitures et de services par des pouvoirs adjudicateurs ou entités adjudicatrices dans les domaines de la défense et de la sécurité, et modifiant les directives 2004/17/CE et 2004/18/CE et par les actes de la Commission européenne pris en exécution de l'article 68 de cette directive.

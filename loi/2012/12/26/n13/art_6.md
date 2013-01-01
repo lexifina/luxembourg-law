@@ -1,0 +1,3 @@
+# Art. 6. Obligations de confidentialité des pouvoirs adjudicateurs ou des entités adjudicatrices
+
+Sans préjudice des dispositions de la présente loi, notamment celles relatives aux obligations en matière de publicité sur les marchés attribués et d'information des candidats et des soumissionnaires, figurant à l'article 30, paragraphe 3, et à l'article 36, le pouvoir adjudicateur ou l'entité adjudicatrice ne divulguent pas, sous réserve des droits acquis par contrat, les renseignements que les opérateurs économiques leur ont communiqués à titre confidentiel; ces renseignements comprennent notamment les secrets techniques ou commerciaux et les aspects confidentiels des offres.

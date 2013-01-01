@@ -1,0 +1,5 @@
+# Art. 53. Critères de sélection qualitative des sous-traitants
+
+Dans l'avis de sous-traitance, le soumissionnaire retenu indique les critères de sélection qualitative établis par le pouvoir adjudicateur ou l'entité adjudicatrice ainsi que les autres critères éventuels qu'il applique lors de la sélection qualitative des sous-traitants. Tous ces critères sont objectifs, non-discriminatoires et cohérents avec les critères appliqués par le pouvoir adjudicateur ou l'entité adjudicatrice pour la sélection des soumissionnaires pour le marché principal. Les capacités requises doivent être directement liées à l'objet du contrat de sous-traitance et les niveaux minimaux de capacités exigés doivent être proportionnés à cet objet.
+
+Le soumissionnaire retenu n'est pas tenu de sous-traiter s'il apporte la preuve, à la satisfaction du pouvoir adjudicateur ou de l'entité adjudicatrice, qu'aucun des sous-traitants participant à la mise en concurrence ou qu'aucune des offres présentées ne satisfait aux critères figurant dans l'avis de sous-traitance, empêchant ainsi le soumissionnaire retenu de satisfaire aux exigences figurant dans le marché principal.

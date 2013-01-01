@@ -1,0 +1,3 @@
+# Art. 20. Conditions d'exécution du marché
+
+Les pouvoirs adjudicateurs ou entités adjudicatrices peuvent exiger des conditions particulières concernant l'exécution du marché pour autant qu'elles soient compatibles avec le droit de l'Union et les lois et règlements en vigueur et qu'elles soient indiquées dans les documents du marché (avis de marché, cahier des charges, documents descriptifs ou documents complémentaires). Ces conditions peuvent notamment avoir pour objet la sous-traitance ou viser à assurer la sécurité des informations classifiées et la sécurité de l'approvisionnement que le pouvoir adjudicateur ou l'entité adjudicatrice exigent, conformément aux articles 21, 22 et 23, ou prendre en compte des considérations environnementales ou sociales.
