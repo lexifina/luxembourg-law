@@ -1,0 +1,3 @@
+# Art. 31. Mesures en matière d’assurance maladie: coefficients des actes et services des nomenclatures des médecins et des laboratoires d’analyses médicales
+
+Les mesures prévues à l’article 5 de la loi du 17 décembre 2010 portant réforme du système de soins de santé sont prorogées pour l’exercice 2013 et doivent dégager au cours de cet exercice au profit de l’assurance maladiematernité une économie se situant dans les limites prévues par ledit article. Un règlement grand-ducal peut, par dérogation à l’article 65 du Code de la sécurité sociale, préciser les modalités d’application du présent article.
