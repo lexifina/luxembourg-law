@@ -1,0 +1,3 @@
+# Art. XIV. Références
+
+Dans tous les textes législatifs et réglementaires dans lesquels une référence est faite au comité européen des contrôleurs bancaires ou à CEBS, au comité européen des régulateurs des marchés de valeurs mobilières ou à CESR, au comité européen des contrôleurs des assurances et des pensions professionnelles ou à CEIOPS et au droit communautaire, cette référence est remplacée par une référence à l’Autorité bancaire européenne, l’Autorité européenne des marchés financiers, l’Autorité européenne des assurances et des pensions professionnelles et au droit de l’Union respectivement.
