@@ -1,0 +1,7 @@
+# Art. 22. Equipements sous pression transportables conformes qui présentent un risque pour la santé et la sécurité
+
+(1) Lorsque l’ILNAS constate, après avoir effectué une évaluation conformément à l’article 21, paragraphe 1er de la présente loi, qu’un équipement sous pression transportable, quoique conforme aux annexes des accords internationaux sur le transport de marchandises dangereuses et à la présente loi, présente un risque pour la santé ou la sécurité des personnes ou pour d’autres aspects relatifs à la protection de l’intérêt public, il demande à l’opérateur économique concerné de prendre toutes les mesures appropriées pour faire en sorte que l’équipement sous pression transportable en cause, une fois mis sur le marché, ne présente plus ce risque, ou pour retirer l’équipement du marché ou le rappeler dans un délai raisonnable, proportionné à la nature du risque, selon ce qu’il décide.
+
+(2) L’opérateur économique s’assure que les mesures correctives s’appliquent à tous les équipements sous pression transportables en cause qu’il a mis à disposition sur le marché ou qu’il utilise dans toute l’Union européenne.
+
+(3) L’ILNAS informe immédiatement la Commission européenne et les autres Etats membres. Les informations fournies contiennent toutes les précisions disponibles, notamment les données nécessaires pour identifier l’équipement sous pression transportable en cause, l’origine et la chaîne d’approvisionnement de l’équipement, la nature du risque encouru, ainsi que la nature et la durée des mesures nationales prises.
