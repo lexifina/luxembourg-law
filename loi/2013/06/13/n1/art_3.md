@@ -1,0 +1,3 @@
+# Art. 3.
+
+L’article 12 de la même loi est modifié comme suit: Dans les trois jours à partir de l’expiration du délai de recours, respectivement le collège des bourgmestre et échevins et la personne désignée conformément à l’article 11 (2), alinéa 4, en ce qui concerne les élections à la Chambre des salariés et à la Chambre d’agriculture, transmettent ces recours et toutes les pièces qui s’y rapportent au juge de paix qui statue en audience publique, toutes affaires cessantes, après avoir entendu les parties et, s’il le juge utile, un délégué du collège échevinal, respectivement la personne désignée conformément à l’article 11 (2), alinéa 4. Dans tous les cas les débats seront publics et le jugement est réputé contradictoire.»
