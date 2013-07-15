@@ -1,0 +1,21 @@
+# Art. 87.
+
+Sont insérés à l’article 99 de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif les nouveaux paragraphes (6bis) et (6ter) de la teneur suivante:
+
+«( 6bis) Les articles 28 (5), 33 (1) à (3), 35, 36 et 37 de la présente loi sont applicables aux OPC qui n’ont pas les formes juridiques de fonds communs de placement ou de SICAV et dont le gestionnaire bénéficie et fait usage des dérogations prévues à l’article 3 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs.
+
+Le dépositaire des actifs d’un OPC qui n’a pas la forme juridique de fonds commun de placement ou de SICAV et dont le gestionnaire bénéficie et fait usage des dérogations prévues à l’article 3 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs doit, soit avoir son siège statutaire au Luxembourg, soit y être établi, s’il a son siège statutaire dans un autre État membre ou dans un autre État non membre.
+
+Sans préjudice de la disposition prévue au deuxième alinéa du présent paragraphe, le dépositaire doit être un établissement de crédit ou une entreprise d’investissement au sens de la loi modifiée du 5 avril 1993 relative au secteur financier. Une entreprise d’investissement n’est éligible au titre de dépositaire que dans la mesure où cette entreprise d’investissement répond par ailleurs aux conditions prévues à l’article 19, paragraphe (3), de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs.
+
+Pour les OPC qui n’ont pas les formes juridiques de fonds communs de placement ou de SICAV et dont le gestionnaire bénéficie et fait usage des dérogations prévues à l’article 3 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs pour lesquels aucun droit au remboursement ne peut être exercé pendant une période de cinq ans suivant la date des investissements initiaux et qui, conformément à leur politique principale en matière d’investissements, n’investissent généralement pas dans des actifs qui doivent être conservés conformément à l’article 19, paragraphe (8), point a), de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs ou qui investissent généralement dans des émetteurs ou des sociétés non cotées pour éventuellement en acquérir le contrôle conformément à l’article 24 de ladite loi, le dépositaire peut également être une entité de droit luxembourgeois qui a le statut de dépositaire professionnel d’actifs autres que des instruments financiers visé à l’article 26-1 de la loi modifiée du 5 avril 1993 relative au secteur financier.
+
+(6ter) Les OPC qui n’ont pas les formes juridiques de fonds communs de placement ou de SICAV et dont la gestion relève d’un gestionnaire agréé au titre du chapitre 2 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs, qui ont désigné un gestionnaire externe au sens de l’article 88-2, paragraphe (2), point a) de la présente loi, sont autorisés à déléguer à des tiers, en vue de mener leurs activités de manière plus efficace, l’exercice, pour leur propre compte, d’une ou plusieurs de leurs fonctions d’administration et de commercialisation, dans la mesure où le gestionnaire externe n’exerce pas lui-même les fonctions en question.
+
+Dans ce cas, les conditions préalables suivantes doivent être remplies:
+
+- a) la CSSF doit être informée de manière adéquate;
+
+- b) le mandat ne doit pas entraver le bon exercice de la surveillance dont la SICAV fait l’objet; en particulier, il ne doit ni empêcher la SICAV d’agir, ni empêcher la SICAV d’être gérée, au mieux des intérêts des investisseurs.
+
+Pour les OPC qui n’ont pas les formes juridiques de fonds communs de placement ou de SICAV et dont la gestion relève d’un gestionnaire agréé au titre du chapitre 2 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs, qui sont gérés de manière interne au sens de l’article 88-2, paragraphe (2), point b) de la présente loi, la délégation d’une ou de plusieurs de leurs fonctions doit se faire en conformité avec l’ensemble des conditions prévues par l’article 18 de la loi du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs.»

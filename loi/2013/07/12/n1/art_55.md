@@ -1,0 +1,5 @@
+# Art. 55. Communication d’informations à des autorités compétentes de pays tiers
+
+(1) La CSSF est autorisée à transmettre aux autorités compétentes d’un pays tiers des données et des analyses de données au cas par cas lorsque les conditions prévues à l’article 25 ou à l’article 26 de la directive 95/46/CE sont remplies et dans la mesure où la CSSF est assurée que cette transmission est nécessaire aux fins de l’application de la directive 2011/61/UE. Les autorités compétentes du pays tiers qui reçoivent des informations de la part de la CSSF ne sont autorisées à les transmettre aux autorités compétentes d’un autre pays tiers que moyennant accord écrit exprès de la CSSF.
+
+(2) Les informations reçues par la CSSF au titre de la directive 2011/61/UE ne peuvent être communiquées à une autorité de surveillance d’un pays tiers, sans le consentement exprès des autorités compétentes qui ont communiqué ces informations à la CSSF et exclusivement aux fins pour lesquelles ces autorités ont donné leur consentement.

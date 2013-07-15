@@ -1,0 +1,15 @@
+# Art. 53. Obligation de coopérer
+
+(1) La CSSF coopère avec les autorités compétentes des autres États membres ainsi qu’avec l’AEMF et le CERS en vue de l’accomplissement de leurs attributions au titre de la directive 2011/61/UE ou de l’exercice des pouvoirs qui leur sont conférés au titre de la directive précitée ou au titre de leur droit national.
+
+(2) La CSSF coopère avec les autorités compétentes, y compris lorsque les pratiques faisant l’objet d’une enquête ne constituent pas une violation d’une règle en vigueur au Luxembourg.
+
+(3) La CSSF communique aux autorités compétentes des autres États membres et communique immédiatement à l’AEMF les informations requises aux fins de l’exécution des missions qui leur sont assignées au titre de la directive 2011/61/UE.
+
+La CSSF, en tant qu’autorité compétente de l’État membre d’origine du gestionnaire, transmet une copie des modalités de coopération pertinentes qu’elle a conclues conformément aux articles 35, 37 et/ou 40 de la directive 2011/61/UE aux autorités compétentes de l’État membre d’accueil du gestionnaire concerné. La CSSF, conformément aux procédures relatives aux normes techniques de réglementation applicables visées à l’article 35, paragraphe (14), à l’article 37, paragraphe (17), ou à l’article 40, paragraphe (14), de la directive 2011/61/UE transmet les informations qu’elle a reçues des autorités de surveillance des pays tiers conformément aux modalités de coopération conclues avec ces autorités de surveillance concernant le gestionnaire ou, le cas échéant, conformément à l’article 45, paragraphe (6) ou (7) de ladite directive, aux autorités compétentes de l’État membre d’accueil du gestionnaire concerné.
+
+Lorsque la CSSF, en tant qu’autorité compétente de l’État membre d’accueil du gestionnaire, estime que la teneur des modalités de coopération conclues par l’État membre d’origine du gestionnaire concerné conformément aux articles 35, 37 et/ou 40 de la directive 2011/61/UE n’est pas conforme aux exigences des normes techniques de réglementation applicables, la CSSF peut porter la question à l’attention de l’AEMF, qui peut agir dans le cadre des attributions qui lui sont conférées en vertu de l’article 19 du règlement (UE) n° 1095/2010.
+
+(4) Lorsque la CSSF a des raisons claires et démontrables de soupçonner que des actes violant la directive 2011/61/UE sont ou ont été commis par un gestionnaire qui n’est pas soumis à sa surveillance, elle le notifie à l’AEMF et aux autorités compétentes des États membres d’origine et d’accueil du gestionnaire concerné d’une manière aussi circonstanciée que possible.
+
+(5) Si les autorités compétentes d’un autre État membre ont des raisons claires et démontrables de soupçonner que des actes violant la directive 2011/61/UE sont ou ont été commis par un gestionnaire qui est agréé au titre de la présente loi, les autorités concernées le notifient à la CSSF. La CSSF prend les mesures appropriées, fait part des résultats de ces mesures à l’AEMF et aux autorités compétentes qui ont procédé à la notification et, dans la mesure du possible, leur communique les développements importants survenus dans l’intervalle.
