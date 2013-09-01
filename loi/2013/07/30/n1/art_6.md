@@ -1,0 +1,11 @@
+# Art. 6.
+
+L’article 439 du Code pénal est modifié et complété comme suit:
+
+- 1° L’alinéa 2 prend la teneur suivante: Sera puni d’un emprisonnement de six mois à deux ans et d’une amende de 251 euros à 3.000 euros, ou de l’une de ces peines seulement, celui qui se sera introduit ou aura tenté de s’introduire dans une maison, un appartement, une chambre ou un logement habité par une personne avec laquelle il a cohabité, ou leurs dépendances, en violation d’une mesure d’expulsion régie par l’article Ier de la loi modifiée du 8 septembre 2003 sur la violence domestique, d’une ordonnance de référé attribuant provisoirement le logement commun au conjoint ou d’une ordonnance lui interdisant le retour au domicile, conformément à l’article 1017-1 ou 1017-7 du Nouveau Code de procédure civile.
+
+- 2° Il est ajouté un nouvel alinéa 3 qui prend la teneur suivante: Si l’introduction ou la tentative de l’introduction a été faite soit à l’aide de menaces ou de violences contre les personnes, soit au moyen d’effraction, d’escalade ou de fausses clefs, soit même au moyen des clefs ou autres appareils conçus pour l’ouverture des portes qu’il a dû remettre, le maximum de l’amende est porté à 5.000 euros et le maximum de la peine d’emprisonnement est porté à cinq ans.
+
+- 3° Il est ajouté un nouvel alinéa 4 qui prend la teneur suivante: Sera puni d’un emprisonnement de quinze jours à deux ans et d’une amende de 251 euros à 3.000 euros, ou de l’une de ces deux peines seulement, celui qui aura agi intentionnellement en violation d’une interdiction de s’approcher de la personne protégée, interdiction qui découle de la mesure d’expulsion régie par l’article Ier de la loi modifiée du 8 septembre 2003 sur la violence domestique.
+
+- 4° Il est ajouté un nouvel alinéa 5 qui prend la teneur suivante: Sera puni d’une peine d’emprisonnement de quinze jours à deux ans et d’une amende de 251 à 3.000 euros, ou de l’une de ces peines seulement, quiconque agira en violation des interdictions ou injonctions prononcées par le président du tribunal d’arrondissement en application de l’article 1017-8 du Nouveau Code de procédure civile. Les délits prévus au présent alinéa ne pourront être poursuivis que sur plainte de la victime ou de son représentant légal.
