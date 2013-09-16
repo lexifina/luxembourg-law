@@ -1,0 +1,3 @@
+# Art. 27.
+
+L'article 35 de la même loi est remplacé comme suit: Art. 35. Les inspecteurs de l'enseignement fondamental doivent être détenteurs d'un diplôme de master en relation avec l'enseignement ou d'un diplôme reconnu équivalent par le ministre ayant l'enseignement supérieur dans ses attributions. Pour être admis aux fonctions d'inspecteur de l'enseignement fondamental, les candidats doivent avoir occupé pendant cinq ans au moins soit une fonction dans la carrière supérieure de l'enseignement, soit une fonction dirigeante dans les administrations et services de l'État. Les inspecteurs de l'enseignement fondamental sont nommés par le Grand-Duc. Le ministre décide de l'affectation des inspecteurs aux différents arrondissements ou à des missions spécifiques.

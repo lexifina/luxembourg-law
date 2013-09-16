@@ -1,0 +1,3 @@
+# Art. 24.
+
+À l'article 22 de la même loi, l'alinéa 2 est remplacé par le texte suivant: Les chargés de cours, occupant un des emplois définis à l'article 16, point 8, peuvent bénéficier d'un contrat de travail à durée indéterminée dans la limite des postes prévus chaque année par la loi budgétaire et en fonction de la note moyenne, calculée à partir de toutes les notes obtenues à l'issue des épreuves sanctionnant la formation en cours d'emploi prévue à l'article 19. Le recrutement des nouveaux membres de la réserve se fait dans la limite des postes prévus chaque année par la loi budgétaire en tenant compte des besoins en personnel déterminés par la procédure de planification des besoins en personnel enseignant.

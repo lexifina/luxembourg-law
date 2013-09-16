@@ -1,0 +1,3 @@
+# Art. 7.
+
+L'article 64 de la même loi est remplacé par le texte suivant: Art. 64. Des instituteurs bénéficiant d'une décharge partielle ou complète de leur tâche d'enseignement, détachés au ministère de l'Éducation nationale, peuvent être affectés en qualité d'instituteurs-ressources à un arrondissement d'inspection pour un mandat renouvelable de 3 ans. Sous l'autorité du ministre, ils interviennent au niveau des écoles, afin d'accompagner les équipes pédagogiques dans la mise en oeuvre de leur plan de réussite scolaire ou sur demande de l'inspecteur d'arrondissement. Ils favorisent les échanges entre les écoles. Les conditions et les modalités de cette affectation sont déterminées par règlement grand-ducal.

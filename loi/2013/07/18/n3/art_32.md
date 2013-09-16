@@ -1,0 +1,3 @@
+# Art. 32.
+
+L'article 45, alinéa 1, de la même loi prend la teneur suivante: Peuvent intervenir dans l'enseignement fondamental les chargés de cours bénéficiant d'un contrat à durée indéterminée auprès d'une administration communale ainsi que les fonctionnaires communaux, les employés communaux et les salariés des communes faisant partie des carrières définies à l'article 2 ci-dessus, paragraphe 3, points I et II, à l'exception des agents des carrières du rédacteur et de l'expéditionnaire, en service auprès des écoles d'une commune ou d'un syndicat de communes à l'entrée en vigueur de la présente loi, suivant convention à établir par l'État avec les communes respectives.

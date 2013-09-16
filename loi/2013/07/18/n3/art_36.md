@@ -1,0 +1,3 @@
+# Art. 36.
+
+À l'article 54 de la même loi, il est ajouté un alinéa 2 dont la teneur est la suivante: Les dispositions arrêtées dans l'alinéa précédent sont également applicables aux instituteurs de l'éducation préscolaire et de l'enseignement primaire qui ont été nommés aux fonctions d'instituteur de l'éducation préscolaire ou de l'enseignement primaire après avoir obtenu le certificat d'études pédagogiques (CEP) pendant les années académiques 2005/06, 2006/07 et 2007/08 et qui, avant leur nomination de fonctionnaire, bénéficiaient d'un engagement comme chargé de cours auprès d'une commune en qualité d'employé communal ou de salarié au service de la commune.
