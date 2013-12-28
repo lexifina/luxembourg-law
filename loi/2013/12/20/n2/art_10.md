@@ -1,0 +1,25 @@
+# Art. 10.
+
+L’article 285 de la loi est modifié comme suit:
+
+- 1° Le deuxième tiret du point 4 du paragraphe 1er sera libellé comme suit:
+
+  - pour les ressortissants d’un autre Etat membre de l’Union européenne, être domicilié sur le territoire luxembourgeois et y avoir résidé au moment du dépôt de la liste des candidats.
+
+- 2° Le paragraphe 2 prendra la teneur suivante:
+
+- (2) Le ressortissant d’un autre Etat membre de l’Union européenne doit produire à l’appui de sa candidature:
+
+  - 1° une déclaration formelle précisant:
+
+    - a) sa nationalité, sa date et son lieu de naissance, sa dernière adresse dans l’Etat membre d’origine et son adresse au Grand-Duché de Luxembourg;
+
+    - b) le cas échéant, sur la liste électorale de quelle collectivité locale ou circonscription dans l’Etat membre d’origine il a été inscrit en dernier lieu;
+
+    - c) qu’il n’est pas simultanément candidat aux élections européennes dans un autre Etat membre;
+
+    - d) qu’il n’est pas déchu du droit d’éligibilité dans l’Etat membre d’origine, par l’effet d’une décision de justice individuelle ou d’une décision administrative pour autant que cette dernière puisse faire l’objet d’un recours ou, le cas échéant, que la perte du droit de vote est due aux conditions de résidence imposées par l’Etat d’origine.
+
+  - En cas de fausse déclaration sur un des points visés sub a), b), c) ou d) ci-dessus, les pénalités prévues par la présente loi sont applicables;
+
+  - 2° un document d’identité en cours de validité.
