@@ -1,0 +1,5 @@
+# Art. 1er.
+
+(1) Le paragraphe 2 de l'article 63 de la loi modifiée du 18 avril 2008 concernant le renouvellement du soutien au développement rural est remplacé par le texte suivant: (2) Par dérogation au paragraphe 1er, deuxième phrase, l'effet des dispositions relatives à l'octroi des aides prévues aux articles 3 à 13, 15, 36 et 37 est prolongé jusqu'au 30 juin 2014. L'effet des dispositions relatives à l'octroi des aides prévues aux articles 14, 17 à 19, 24, 26 et 31 à 34 est prolongé jusqu'au 31 décembre 2014. L'effet des dispositions relatives à l'octroi des aides prévues à l'article 25 est prolongé jusqu'au 31 décembre 2014. Si des engagements pluriannuels sont concernés, ces engagements doivent être en cours et venir à échéance au plus tard au 31 décembre 2013.
+
+(2) L'article 63 précité est complété par un paragraphe 3, libellé comme suit: (3) Un règlement grand-ducal détermine les modalités quant à la recevabilité des demandes d'aides. La date de recevabilité des demandes d'aides, à fixer par règlement grand-ducal, peut être antérieure à la date limite de la validité des mesures visées au paragraphe précédent.
