@@ -1,0 +1,3 @@
+# Art. 5.
+
+A l’article 10 de la loi précitée, le troisième alinéa est remplacé par la disposition suivante: L’exploitant d’un des établissements visés au paragraphe (1) sous 13 a), 17 et 18 de l’article 6, ou la personne qui le remplace, qui omet délibérément de veiller dans son établissement au respect de l’interdiction énoncée à l’article précité, est puni d’une amende de 251 à 1.000 euros. Est puni de la même peine l’exploitant ou la personne qui le remplace qui installe dans son établissement un fumoir clairement identifié comme local réservé aux fumeurs, mais ne répondant pas aux exigences définies au paragraphe (3) de l’article précité.
