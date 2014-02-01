@@ -1,0 +1,5 @@
+# Art. 9.
+
+(1) En cas d'échec de la procédure de règlement conventionnel, une procédure de redressement judiciaire peut être engagée par le débiteur devant le juge de paix du domicile du débiteur. En cas d'introduction d'une action devant le juge de paix en phase de règlement conventionnel, la requête en redressement judiciaire est à introduire devant ce juge. La requête est déposée endéans un délai de deux mois à compter de la date de publication du procèsverbal de carence au répertoire. Une copie du procès-verbal de carence visé à l'article 8 est jointe à la requête. Pour le surplus la procédure en redressement judiciaire sera introduite, instruite et jugée conformément aux articles 36 à 40.
+
+(2) Le débiteur n'ayant pas introduit une requête en vue de l'admission à la procédure de redressement judiciaire ne peut engager une nouvelle procédure de règlement collectif des dettes qu'après écoulement d'un délai de deux ans. Ce délai court à partir de la date de publication du procès-verbal de carence dans le répertoire.
