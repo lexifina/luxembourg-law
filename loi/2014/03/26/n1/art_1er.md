@@ -1,0 +1,3 @@
+# Art. 1er.
+
+La loi du 7 juin 2012 sur les attachés de justice est complétée par un article 17 nouveau libellé comme suit: Art. 17. (1) Les magistrats engagés suivant les modalités et conditions de la présente loi qui ont exercé une fonction du siège d'un ordre juridictionnel peuvent être nommés à un poste auprès d'un parquet et vice versa, ainsi qu'à un poste relevant de l'autre ordre juridictionnel. (2) Les membres de la Cour supérieure de justice et de la Cour administrative, réunis en assemblée générale conjointe sur convocation du président de la Cour supérieure de justice, établissent la liste de rang des magistrats visés au paragraphe 1er.
