@@ -1,0 +1,3 @@
+# Article unique.
+
+Est approuvé l’Accord interne entre les Représentants des Gouvernements des Etats membres de l’Union européenne, réunis au sein du Conseil, relatif au financement de l’aide de l’Union européenne au titre du cadre financier pluriannuel pour la période 2014-2020 conformément à l’Accord de partenariat ACP-UE et à l’affectation des aides financières destinées aux pays et territoires d’outre-mer auxquels s’appliquent les dispositions de la quatrième partie du Traité sur le fonctionnement de l’Union européenne, fait à Luxembourg et à Bruxelles, respectivement les 24 et 26 juin 2013.
