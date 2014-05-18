@@ -1,0 +1,5 @@
+# Art. 48. Information du public concernant les installations d’incinération des déchets et les installations de coïncinération des déchets
+
+(1) L’Administration de l’environnement dresse la liste des installations d’incinération des déchets ou des installations de coïncinération des déchets dont la capacité nominale est inférieure à deux tonnes par heure et la rend accessible au public dans les meilleurs délais possibles. A cette fin, les exploitants sont tenus d’informer l’Administration de l’environnement des installations qu’ils exploitent.
+
+(2) Pour les installations d’incinération des déchets ou les installations de coïncinération des déchets dont la capacité nominale est égale ou supérieure à deux tonnes par heure le rapport visé à l’article 72, paragraphe 4, point a) de la directive 2010/75/UE précitée comprend des informations concernant le fonctionnement et la surveillance de l’installation et fait état du déroulement du processus d’incinération ou de coïncinération, ainsi que des émissions dans l’air et dans l’eau, comparées aux valeurs limites d’émission. Ces informations sont mises à la disposition du public.

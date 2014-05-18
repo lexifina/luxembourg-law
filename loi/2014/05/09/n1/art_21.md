@@ -1,0 +1,21 @@
+# Art. 21. Fermeture du site
+
+(1) Sans préjudice de la loi modifiée du 19 décembre 2008 relative à l’eau et des règlements pris en son application, de la loi modifiée du 20 avril 2009 relative à la responsabilité environnementale en ce qui concerne la prévention et la réparation des dommages environnementaux ainsi que, le cas échéant, de la législation applicable en matière de protection des sols, le ministre fixe des conditions d’autorisation pour assurer le respect des paragraphes (3) et (4) du présent article lors de la cessation définitive des activités.
+
+(2) Lorsque l’activité implique l’utilisation, la production ou le rejet de substances dangereuses pertinentes, et étant donné le risque de contamination du sol et des eaux souterraines sur le site de l’exploitation, l’exploitant établit et soumet à l’Administration de l’environnement un rapport de base avant la mise en service de l’installation ou avant la première actualisation de l’autorisation délivrée à l’installation qui intervient après l’entrée en vigueur de la présente loi.
+
+Le rapport de base contient les informations nécessaires pour déterminer le niveau de contamination du sol et des eaux souterraines, de manière à effectuer une comparaison quantitative avec l’état du site lors de la cessation définitive des activités, telle que prévue au paragraphe (3).
+
+Le rapport de base contient au minimum les éléments suivants:
+
+- a) des informations concernant l’utilisation actuelle et, si elles existent, des informations sur les utilisations précédentes du site;
+
+- b) si elles existent, les informations disponibles sur les mesures du sol et des eaux souterraines reflétant l’état du site à l’époque de l’établissement du rapport ou, à défaut, de nouvelles mesures du sol et des eaux souterraines eu égard à l’éventualité d’une contamination de ceux-ci par les substances dangereuses devant être utilisées, produites ou rejetées par l’installation concernée.
+
+Toute information produite en application d’autres dispositions et satisfaisant aux exigences du présent paragraphe peut être incluse dans le rapport de base présenté ou y être annexée.
+
+(3) Lors de la cessation définitive des activités, l’exploitant évalue le niveau de contamination du sol et des eaux souterraines par des substances dangereuses pertinentes utilisées, produites ou rejetées par l’installation. Si l’installation est responsable d’une pollution significative du sol ou des eaux souterraines par des substances dangereuses pertinentes par rapport à l’état constaté dans le rapport de base visé au paragraphe (2), l’exploitant prend les mesures nécessaires afin de remédier à cette pollution, de manière à remettre le site dans cet état. A cette fin, il peut être tenu compte de la faisabilité technique des mesures envisagées.
+
+Sans préjudice du premier alinéa, lors de la cessation définitive des activités, si la contamination du sol et des eaux souterraines sur le site présente un risque important pour la santé humaine ou pour l’environnement, en raison des activités autorisées exercées par l’exploitant avant que l’autorisation relative à l’installation ait été mise à jour pour la première fois après l’entrée en vigueur de la présente loi, et compte tenu de l’état du site de l’installation constaté conformément à l’article 13, paragraphe (1), point d), l’exploitant prend les mesures nécessaires visant à éliminer, maîtriser, confiner ou réduire les substances dangereuses pertinentes, de sorte que le site, compte tenu de son utilisation actuelle ou de l’utilisation qu’il a été convenu de lui donner à l’avenir, cesse de représenter un tel risque.
+
+(4) Lorsque l’exploitant n’est pas tenu d’établir le rapport de base visé au paragraphe (2), il prend les mesures nécessaires, lors de la cessation définitive des activités, visant à éliminer, maîtriser, confiner ou réduire les substances dangereuses pertinentes, de sorte que le site, compte tenu de son utilisation actuelle ou de l’utilisation qu’il a été convenu de lui donner à l’avenir, cesse de présenter un risque important pour la santé humaine ou pour l’environnement en raison de la contamination du sol et des eaux souterraines résultant des activités autorisées et compte tenu de l’état du site de l’installation constaté conformément à l’article 13, paragraphe (1), point d).
