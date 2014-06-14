@@ -1,0 +1,3 @@
+# Art. 1er.
+
+L'article 15 (2) de la loi modifiée du 10 août 1991 sur la profession d'avocat est modifié comme suit: L'ordre du jour de l'assemblée générale annuelle comprend notamment la présentation du rapport d'activités du Bâtonnier et du Conseil de l'Ordre, la présentation des comptes relatifs à l'année écoulée, l'approbation de ces comptes, la désignation parmi les membres de l'Assemblée d'un ou de plusieurs réviseurs des comptes pour l'exercice à venir et, s'il y a lieu, l'élection du Bâtonnier, des membres du Conseil de l'Ordre et celle des membres du Conseil disciplinaire et administratif ainsi que la proposition des membres du Conseil disciplinaire et administratif d'appel.
