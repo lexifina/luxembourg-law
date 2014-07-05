@@ -1,0 +1,3 @@
+# Art. 3.
+
+L'article 140 prend la teneur suivante: Art. 140. Est puni d'un emprisonnement de huit jours à un an et d'une amende de 251 à 1.250 euros ou d'une de ces peines seulement, le ressortissant de pays tiers qui, sans motif justifié de non-retour, séjourne irrégulièrement sur le territoire après avoir fait l'objet d'une mesure régulière de placement en rétention ou d'assignation à résidence ayant pris fin sans qu'il ait pu être procédé à son éloignement.
