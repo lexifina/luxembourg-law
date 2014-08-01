@@ -1,3 +1,0 @@
-# Art. 16. Coopération internationale
-
-Dans la mesure nécessaire à l'accomplissement de ses missions de surveillance du marché qui se dégagent de la présente loi, l'Institut coopère avec les institutions et agences internationales et communautaires ainsi qu'avec les autorités compétentes des autres Etats membres de l'Union européenne et de pays tiers ayant signé avec le Grand-Duché de Luxembourg une convention de coopération dans une ou plusieurs des matières concernées par les directives visées par la présente loi et procède à l'échange des informations et documentations utiles aux recherches requises effectuées de sa propre initiative ou initiées par une instance internationale ou communautaire ou une autorité étrangère compétente.
