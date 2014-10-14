@@ -1,0 +1,3 @@
+# Art. 8. Remise de matériel audiovisuel
+
+Dans l’intérêt de la promotion du secteur de la production audiovisuelle au Grand-Duché de Luxembourg, et sans préjudice des dispositions de l’article 2 alinéa 1 de la loi du 18 mai 1989 portant création du Centre national de l’audiovisuel, les bénéficiaires principaux des certificats d’investissement audiovisuel ont l’obligation de remettre au Fonds, sans frais pour celui-ci, une copie de l’œuvre audiovisuelle produite ayant bénéficié du régime instauré par la présente loi, ainsi qu’une copie de tout matériel de promotion disponible et un extrait d’au moins trente (30) secondes de cette œuvre, libres de droits, le tout sur des supports matériels à définir par le Fonds.
