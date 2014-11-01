@@ -1,0 +1,3 @@
+# Art. 12.
+
+L'article 10 de la même loi est remplacé par un nouvel article 10 dont la teneur est la suivante: Art. 10. Le Fonds peut disposer des ressources suivantes: des allocations inscrites à la convention pluriannuelle entre le Fonds et l'Etat telle que visée à l'article 4, provenant du budget des recettes et des dépenses de l'Etat; des contributions financières perçues en application des dispositions de l'article 4, paragraphe 3; des recettes pour prestations fournies; des dons et legs, en espèces ou en nature; des revenus issus de la gestion du Fonds et de la valorisation de son patrimoine; d'emprunts.
