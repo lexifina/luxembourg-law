@@ -1,0 +1,3 @@
+# Art. 6.
+
+L'article 12 de la loi précitée du 27 février 2011 est remplacé comme suit: Art. 12. Les procès-verbaux ou extraits de procès-verbaux contenant des indices d'infraction sont soumis au Procureur d'État territorialement compétent pour telle suite que de droit. Il en est de même des documents et pièces dont la commission a pu prendre connaissance. La commission d'enquête présente un rapport public sur ses travaux. Elle y acte ses conclusions et formule, le cas échéant, ses observations quant aux responsabilités que l'enquête révèle et ses propositions sur une modification de la législation. Ce rapport donne lieu à un débat en séance publique à la Chambre des Députés, qui en tire les conclusions.
