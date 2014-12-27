@@ -1,3 +1,0 @@
-# Art. 8.
-
-Les articles 22 à 29 de l'ordonnance royale grand-ducale du 12 octobre 1841, et de la loi du 28 avril 1922, pour autant qu'elles se rapportent à l'objet de la présente loi, sont abrogés. L'arrêté grand-ducal du 22 août 1957 portant réglementation de l'emploi du thiophosphate de diéthyle et de paranitrophényle et de tous les esters thiophosphoriques (E 605), l'arrêté ministériel du 26 août 1957 portant dérogation à l'interdiction de l'emploi du thiophosphate de diéthyle et de paranitrophényle et des esters thiophosphoriques et l'arrêté grand-ducal du 25 septembre 1959, portant réglementation de la fabrication, de l'importation et du commerce des pesticides sont abrogés.
