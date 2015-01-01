@@ -1,3 +1,0 @@
-# Art. 1er.
-
-L'article 63 du code civil est complété par un deuxième et un troisième alinéa libellés comme suit: L'officier de l'état civil ne pourra procéder à la publication prévue à l'alinéa ci-dessus, ni en cas de dispense de publication, conformément à l'article 169 alinéa premier ci-après, à la célébration du mariage qu'après la remise, par chacun des futurs époux, d'un certificat médical, datant de moins de deux mois et attestant, à l'exclusion de toute autre indication, que l'intéressé a été examiné en vue du mariage. L'officier de l'état civil qui ne se conformera pas aux prescriptions de l'alinéa précédent, sera puni des peines prévues à l'article 264 du code pénal.
