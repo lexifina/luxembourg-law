@@ -1,0 +1,5 @@
+# Art. 10.
+
+(1) Sont démissionnaires avec l'entrée en vigueur de la présente loi les bourgmestres et les échevins des anciennes communes. Les échevins démissionnaires sont tenus de continuer l'exercice de leurs mandats conformément à l'article 47, alinéa 2 de la loi communale précitée. Les fonctions de bourgmestre de l'ancienne commune d'Eschweiler cessent définitivement à la date d'entrée en vigueur de la présente loi. Le bourgmestre de l'ancienne commune de Wiltz continue l'exercice de ses fonctions jusqu'à ce que le bourgmestre de la nouvelle commune ait prêté serment conformément à l'article 62 de la loi communale précitée.
+
+(2) Pour la période transitoire qui s'étend du 1er janvier 2015 jusqu'au renouvellement intégral des conseils communaux suite aux élections communales ordinaires du 8 octobre 2017, le nouveau conseil communal procède parmi ses membres à la désignation des candidats à proposer à la nomination respectivement par le Grand-Duc et le ministre ayant l'Intérieur dans ses attributions pour les fonctions respectivement de bourgmestre et d'échevin de la nouvelle commune.
