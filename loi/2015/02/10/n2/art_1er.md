@@ -1,0 +1,3 @@
+# Art. 1er.
+
+A la suite de l'article 63 de la loi modifiée du 4 février 2005 relative au référendum au niveau national, il est inséré un chapitre 5 nouveau libellé comme suit: Chapitre 5 - Bureau centralisateur gouvernemental Art. 63bis. Le Gouvernement en conseil installe à l'occasion de chaque référendum au niveau national un bureau centralisateur chargé de la détermination et de la diffusion du résultat officieux. Dans le cadre de cette mission, les membres du bureau centralisateur gouvernemental sont autorisés à se faire remettre des copies des procès-verbaux des bureaux de vote. Un règlement grand-ducal détermine la composition, le fonctionnement et les attributions du bureau centralisateur gouvernemental et fixe le montant des indemnités revenant à ses membres.»
