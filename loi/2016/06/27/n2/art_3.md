@@ -1,0 +1,7 @@
+# Art. 3. Mise à disposition sur le marché et mise en service.
+
+(1) Ne peuvent être mis à disposition sur le marché et en service que les équipements sous pression et les ensembles qui satisfont aux exigences de la présente loi. Ils doivent être installés et entretenus convenablement et utilisés conformément à leur destination.
+
+(2) Lors des foires, des expositions, des démonstrations et d’autres manifestations similaires, des équipements sous pression ou d’ensembles non conformes à la présente loi peuvent être présentés, pour autant qu’une indication visible spécifie clairement que ces équipements sous pression ou ensembles ne peuvent pas être mis à disposition sur le marché ou mis en service tant qu’ils n’ont pas été rendus conformes. Lors de démonstrations, les mesures de sécurité adéquates doivent être prises afin d’assurer la sécurité des personnes.
+
+La présente loi n’affecte pas la faculté du département de la surveillance du marché de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services (ILNAS), ci-après «département de la surveillance du marché» de prescrire, dans le respect du droit de l’Union européenne, les exigences qu’il estime nécessaires pour assurer la protection des personnes lors de la mise à disposition sur le marché ou la mise en service des équipements sous pression ou ensembles en question, pour autant que cela n’implique pas de modifications de ces équipements sous pression ou ensembles par rapport à la présente loi.
