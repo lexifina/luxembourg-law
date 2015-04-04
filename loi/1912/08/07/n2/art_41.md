@@ -1,3 +1,0 @@
-# Art. 41.
-
-La caisse de secours est alimentée par des contributions spéciales à fournir respectivement et par parts égales par l'Etat, par les communes ou syndicats de communes et respectivement les établissements publics auxquels les membres participants sont attachés et par les participants eux-mêmes. La contribution à fournir sera déterminée par le règlement d'administration publique à prendre en conformité de l'art. 7 de la présente loi. Toutefois, elle ne pourra pas dépasser 1 % du montant des traitements pour chacun des trois facteurs prédénommés. Le contingent à fournir par les membres de la caisse sera réparti entre eux par portions égales.
