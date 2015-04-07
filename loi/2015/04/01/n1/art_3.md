@@ -1,0 +1,3 @@
+# Art. 3.
+
+L'article 1er, paragraphe (1) de la loi modifiée du 13 novembre 2002 portant transposition en droit luxembourgeois de la directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l'exercice permanent de la profession d'avocat dans un Etat membre autre que celui où la qualification a été acquise et portant: 1. modification de la loi modifiée du 10 août 1991 sur la profession d'avocat; 2. modification de la loi du 31 mai 1999 régissant la domiciliation des sociétés, est complété par le texte qui suit et qui est inséré à la ligne en dessous de la mention concernant le Royaume-Uni: en Croatie: Odvjetnik/Odvjetnica.

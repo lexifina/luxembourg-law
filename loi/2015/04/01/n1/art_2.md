@@ -1,0 +1,3 @@
+# Art. 2.
+
+L'article 37-1 (7) alinéa 1 de la loi modifiée du 10 août 1991 sur la profession d'avocat est modifié comme suit: En cas de refus ou de retrait total ou partiel du bénéfice de l'assistance judiciaire, les motifs de la décision sont indiqués. Contre les décisions de refus ou de retrait du bénéfice de l'assistance judiciaire prises par le Bâtonnier, le requérant peut introduire un recours devant le Conseil disciplinaire et administratif. Le recours est introduit auprès du Président du Conseil disciplinaire et administratif sous forme de lettre recommandée dans un délai de dix jours à partir de la notification de la décision du Bâtonnier. Le Conseil disciplinaire et administratif ou l'un de ses membres délégué à cet effet entend le requérant en ses explications.
