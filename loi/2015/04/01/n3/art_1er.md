@@ -1,0 +1,13 @@
+# Art. 1er.
+
+(1) Il est institué un comité du risque systémique (ci-après «comité») ayant pour mission de coordonner la mise en œuvre, par les autorités représentées au comité, de la politique macroprudentielle dont l’objectif ultime est de contribuer au maintien de la stabilité du système financier luxembourgeois, notamment en renforçant la résilience du système financier et en diminuant l’accumulation des risques systémiques, en assurant ainsi une contribution durable du secteur financier à la croissance économique.
+
+(2) Le comité est institué, conformément à la recommandation du Comité européen du risque systémique (ci-après «CERS») du 22 décembre 2011 concernant le mandat macroprudentiel des autorités nationales (CERS/2011/3), sous la forme d’un collège qui contribue à une coopération adéquate entre les autorités investies des compétences respectives dans le domaine de la surveillance micro- et macroprudentielle.
+
+La coordination de la mise en œuvre de la politique macroprudentielle par le comité s’effectue sans préjudice des compétences propres dont dispose, en vertu du Traité sur le fonctionnement de l’Union européenne, la Banque centrale européenne (ci-après «BCE») et la Banque centrale du Luxembourg (ci-après «BCL») en tant que membre du Système européen des banques centrales et de l’Eurosystème ainsi qu’en vertu de sa loi organique.
+
+(3) Aux fins de la réalisation de l’objectif de la politique macroprudentielle, le comité poursuit des objectifs intermédiaires, servant de spécifications opérationnelles pour l’objectif ultime de la politique macroprudentielle, en tenant compte de la structure et des vulnérabilités du système financier national.
+
+Le comité est habilité à recommander, en tenant compte de la structure et des vulnérabilités du système financier national, de la dimension cyclique des risques systémiques au Luxembourg et des règlements, décisions, avis et recommandations des institutions, autorités et comités européens compétents, l’utilisation de tout instrument macroprudentiel qu’il juge nécessaire aux fins de réaliser l’objectif de la politique macroprudentielle et les objectifs intermédiaires.
+
+(4) Le comité évalue périodiquement le caractère approprié des objectifs intermédiaires ainsi que l’efficacité et l’efficience des instruments macroprudentiels choisis au regard de la réalisation de l’objectif de la politique macroprudentielle, de l’expérience acquise dans l’application de la politique macroprudentielle, des évolutions structurelles du système financier national et international, de l’apparition de nouveaux risques systémiques et de l’amplification ou de l’atténuation de risques systémiques existants.
