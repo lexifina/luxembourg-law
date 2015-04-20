@@ -1,0 +1,5 @@
+# Art. 7.
+
+(1) Toute association sans but lucratif, d’importance nationale, qui a un intérêt légitime à assurer que les dispositions de la présente loi soient respectées, qui jouit de la personnalité juridique depuis au moins 1 an à la date des faits et qui a été préalablement agréée par le ministre ayant la Justice dans ses attributions, peut exercer devant les juridictions civiles ou administratives les droits reconnus à la victime d’une discrimination en ce qui concerne tout acte ou tout fait constituant une violation des dispositions de la présente loi et portant préjudice direct ou indirect aux intérêts collectifs qu’elle a pour objet de défendre en vertu de son objet statutaire, même si elle ne justifie pas d’un intérêt matériel ou moral.
+
+(2) Si toutefois les faits ont été commis envers des personnes considérées individuellement, l’association sans but lucratif ne peut exercer par voie principale les droits reconnus à la victime d’une discrimination qu’à la condition que ces personnes donnent expressément et par écrit leur accord.
