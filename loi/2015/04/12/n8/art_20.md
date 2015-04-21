@@ -1,0 +1,3 @@
+# Art. 20.
+
+L'article 634 du Code d'instruction criminelle est modifié comme suit: Les dispositions concernant la suspension simple et le sursis simple sont applicables respectivement aux prévenus et condamnés n'habitant pas le Grand-Duché de Luxembourg. Celles concernant la suspension probatoire et le sursis probatoire sont applicables à l'étranger n'habitant pas le Grand-Duché de Luxembourg s'il a sa résidence légale habituelle: dans un autre Etat membre de l'Union européenne, ou dans un Etat qui a ratifié la Convention européenne pour la surveillance des personnes condamnées ou libérées sous condition, ou dans un Etat lié au Grand-Duché de Luxembourg par une convention relative à l'exécution des peines ou à la suspension probatoire.
