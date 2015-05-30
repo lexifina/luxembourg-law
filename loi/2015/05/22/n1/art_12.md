@@ -1,0 +1,3 @@
+# Art. 12.
+
+L’article 13, paragraphe (2), de la loi modifiée du 7 juin 2012 sur les attachés de justice prend la teneur suivante: (2) Les attachés de justice nommés à titre définitif peuvent être délégués pour exercer les fonctions de juge de paix, de juge d’instruction, de juge de la jeunesse, de juge des tutelles ou de juge des référés. Aucun attaché de justice ne peut exercer la fonction visée à l’article 179, paragraphe 2 du Code d’instruction criminelle et les fonctions visées aux articles 11 et 12 de la loi modifiée du 21 juin 1999 portant règlement de procédure devant les juridictions administratives.
