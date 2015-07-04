@@ -1,0 +1,3 @@
+# Art. 17.
+
+L’article 57, paragraphe (5) est complété par un nouvel alinéa libellé comme suit: Pour le cas où le ministre demande une reconsidération de la décision, le régulateur procède à une analyse approfondie des arguments avancés par le ministre à l’appui de sa demande de reconsidération. Si le régulateur estime que les motifs développés par le ministre sont justifiés, il prend une nouvelle décision et la transmet au ministre. Si le régulateur estime que la demande n’est pas justifiée, il en informe le ministre en indiquant les arguments qui ont conduit au maintien de la décision. Le régulateur procède à la publication de la décision et en informe le demandeur.
