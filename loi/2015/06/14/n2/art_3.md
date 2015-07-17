@@ -1,0 +1,5 @@
+# Art. 3.
+
+Le Nouveau Code de procédure civile est modifié comme suit: A la Première Partie, Livre VII, Titre VI intitulé – Règles générales sur l’exécution forcée des jugements et actes -, le Chapitre III intitulé - Décisions étrangères soumises à un traité ou un acte communautaire - la Section Ière intitulée «Des décisions étrangères soumises à un traité ou un acte communautaire prévoyant une procédure d’exequatur» comprenant les articles 679 à 685-2, est complétée par un nouvel article 685-2bis libellé comme suit:
+
+Art. 685-2bis: Les décisions judiciaires en matière civile rendues dans un Etat membre de l’Union européenne qui y sont exécutoires et qui aux termes du règlement (UE) n° 650/2012 du Conseil du 4 juillet 2012 relatif à la compétence, la loi applicable, la reconnaissance et l’exécution des décisions, et l’acceptation et l’exécution des actes authentiques en matière de successions et à la création d’un certificat successoral européen remplissent les conditions pour être reconnues et exécutées au Luxembourg, sont rendues exécutoires dans les formes prévues par ce règlement.
