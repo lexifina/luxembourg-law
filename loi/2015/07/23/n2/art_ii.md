@@ -1,0 +1,33 @@
+# Art II.
+
+Le Code de la sécurité sociale est modifié comme suit:
+
+- 1° L’article 16, alinéa 1, point 2) prend la teneur suivante: tant que l’assuré se soustrait sans motif valable aux examens médicaux prévus à l’article L. 552-2, paragraphe 2, alinéa 4 du Code du travail;
+
+- 2° L’article 95, alinéa 1 est remplacé comme suit: Le tableau des maladies professionnelles est déterminé par règlement grand-ducal sur proposition d’une Commission supérieure des maladies professionnelles dont l’organisation, le fonctionnement et l’indemnisation des membres et experts commis sont déterminés par un règlement grand-ducal. Les frais de fonctionnement de la commission sont entièrement à charge de l’Etat.
+
+- 3° L’article 105 est remplacé comme suit: Art. 105. L’assuré subissant une perte de revenu professionnel par suite d’un accident ou d’une maladie professionnelle a droit à une rente partielle à partir de la reprise d’une activité professionnelle avant l’âge de soixante-cinq ans à condition qu’il justifie au moment de la consolidation d’un taux d’incapacité permanente de dix pour cent au moins au sens de l’article 119 du chef de l’accident du travail ou de la maladie professionnelle en cause, que la perte de revenu du même chef atteigne dix pour cent au moins au cours des périodes de référence visées aux articles 107 et 108, que l’assuré soit reconnu, par le médecin du travail compétent, incapable d’exercer pour le compte d’autrui son dernier poste de travail ou de maintenir son dernier régime de travail ou qu’il soit, de l’avis du Contrôle médical de la sécurité sociale, incapable d’exercer sa dernière activité pour son propre compte, que l’incapacité prévue au tiret qui précède soit, de l’avis du Contrôle médical de la sécurité sociale, principalement imputable aux séquelles de l’accident du travail ou de la maladie professionnelle. Si la Commission mixte visée à l’article L. 552-1 du Code du travail a décidé le reclassement professionnel interne ou externe de l’assuré, cette décision initiale de reclassement s’impose à l’Association d’assurance accident.
+
+- 4° L’article 107, alinéa 3 est remplacé comme suit: La rente partielle remplace définitivement l’indemnité compensatoire prévue au Titre V du Livre V du Code du travail. La rente partielle est versée à titre de compensation au Fonds pour l’emploi jusqu’à concurrence de l’indemnité compensatoire avancée indûment. Si le montant de l’indemnité compensatoire dépasse celui de la rente partielle définitive, il n’est pas procédé à la récupération d’un trop perçu éventuel dans le chef du bénéficiaire de bonne foi.
+
+- 5° L’intitulé précédant l’article 111 prend la teneur «Rente professionnelle d’attente» et cet article est remplacé comme suit: Art. 111. L’assuré qui justifie au moment de la consolidation d’un taux d’incapacité permanent de dix pour cent au moins au sens de l’article 119 du chef d’un accident du travail ou d’une maladie professionnelle et qui bénéficie d’un reclassement professionnel externe décidé par la Commission mixte visée à l’article L. 552-1 du Code du travail principalement imputable, de l’avis du Contrôle médical de la sécurité sociale, aux séquelles de l’accident du travail ou de la maladie professionnelle en cause, est inscrit comme demandeur d’emploi auprès de l’Agence pour le développement de l’emploi, mais a droit, à la place de l’indemnité de chômage, à une rente professionnelle d’attente dont le montant est fixé à quatre-vingt-cinq pour cent de la rente complète. Tant que le reclassement professionnel externe n’est pas possible, la rente professionnelle d’attente susvisée remplace l’indemnité professionnelle d’attente prévue au Titre V du Livre V du Code du travail. La rente professionnelle d’attente est versée à titre de compensation au Fonds pour l’emploi, respectivement à l’organisme d’assurance pension jusqu’à concurrence de l’indemnité de chômage ou de l’indemnité professionnelle d’attente avancées indûment. Les modalités d’application du présent article et de l’article 107, alinéa 3 peuvent être précisées par règlement grand-ducal.
+
+- 6° L’article 112 est remplacé comme suit: Art. 112. Si de l’avis du Contrôle médical de la sécurité sociale, un assuré ayant exercé une activité professionnelle pour son propre compte au moment de la survenance de l’accident ou de la maladie professionnelle ne peut plus exercer principalement à cause de cet accident ou de cette maladie son activité professionnelle sans être invalide au sens de l’article 187, il a droit à la rente professionnelle d’attente prévue à l’article 111 jusqu’à sa reconversion professionnelle à condition qu’il soit inscrit comme demandeur d’emploi auprès de l’Agence pour le développement de l’emploi.
+
+- 7° La première phrase de l’article 114 est remplacée comme suit: L’Association d’assurance accident prend en charge les mesures de reconversion professionnelle nécessitées par les assurés qui remplissent les conditions prévues aux articles 105 ou 111.
+
+- 8° L’article 121 est complété par un alinéa 4 libellé comme suit: Il n’est pas alloué de rente complète au bénéficiaire d’une rente professionnelle d’attente.
+
+- 9° L’article 123, alinéa 2 est complété par la phrase suivante: La rente partielle et la rente professionnelle d’attente ne peuvent être demandées qu’après l’octroi de l’indemnité pour préjudice physiologique et d’agrément correspondant à un taux d’incapacité de dix pour cent aux moins.
+
+- 10° A la suite de l’article 127, alinéa 2 il est inséré un nouvel alinéa 3 libellé comme suit: Le Fonds pour l’emploi, le Fonds national de solidarité, l’organisme d’assurance pension ou l’Office social qui a versé des prestations à un bénéficiaire de rente pour une période pendant laquelle celui-ci avait droit à une rente a droit, sur demande présentée sous forme de simple lettre, au remboursement des arrérages de rente, redus pour cette période et non encore versés au bénéficiaire, jusqu’à concurrence des prestations allouées durant la même période.
+
+- Les alinéas 3 et 4 actuels deviennent les alinéas 4 et 5 nouveaux.
+
+- 11° A l’article 139, alinéa 3, les termes «des facteurs de capitalisation prévus à l’article 119» sont remplacés par les termes «de facteurs de capitalisation à déterminer par règlement grand-ducal».
+
+- 12° A l’article 190, alinéa 1, le renvoi à l’article 105 est remplacé par celui à l’article 106.
+
+- 13° L’article 240, alinéa 1, point 4 prend la teneur suivante: par parts égales aux assurés et aux institutions débitrices des prestations en cause pour autant qu’il s’agit de périodes visées à l’article 171, alinéa 1, point 3);
+
+- 14° A l’article 440, alinéa 1 sous 2) le bout de phrase «en vertu des articles 120 et 235» est remplacé par les termes «en vertu des articles 127 et 235».
