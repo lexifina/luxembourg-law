@@ -38,7 +38,7 @@ Aux fins de la présente loi, on entend par:
 
 - (13) «CSSF»: la Commission de Surveillance du Secteur Financier;
 
-- (14) directive 77/91/CEE »: la directive 77/91/CEE du Conseil du 13 décembre 1976 tendant à coordonner, pour les rendre équivalentes, les garanties qui sont exigées dans les États membres des sociétés au sens de l’article 58, alinéa 2, du traité, en vue de la protection des intérêts tant des associés que des tiers, en ce qui concerne la constitution de la société anonyme ainsi que le maintien et les modifications de son capital;
+- (14) directive 77/91/CEE»: la directive 77/91/CEE du Conseil du 13 décembre 1976 tendant à coordonner, pour les rendre équivalentes, les garanties qui sont exigées dans les États membres des sociétés au sens de l’article 58, alinéa 2, du traité, en vue de la protection des intérêts tant des associés que des tiers, en ce qui concerne la constitution de la société anonyme ainsi que le maintien et les modifications de son capital;
 
 - (15) «directive 83/349/CEE»: la directive 83/349/CEE du Conseil du 13 juin 1983 fondée sur l’article 54, paragraphe 3 sous g) du traité concernant les comptes consolidés, telle que modifiée;
 
