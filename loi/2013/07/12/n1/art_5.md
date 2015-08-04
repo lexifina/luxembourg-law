@@ -32,6 +32,8 @@ Les personnes visées au présent paragraphe doivent remplir en permanence les c
 
 (6) L’article 1-1, l’article 37-1 et l’article 37-3 de la loi modifiée du 5 avril 1993 relative au secteur financier s’appliquent également à la fourniture, par les gestionnaires, des services visés au paragraphe (4) du présent article.
 
+Par ailleurs, l’article 101, paragraphe 4, alinéa 2 de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif s’applique aux gestionnaires qui fournissent le service visé au point a) du paragraphe (4) du présent article.
+
 (7) Les gestionnaires doivent communiquer à la CSSF sur demande toutes les informations qui sont nécessaires pour permettre à la CSSF de suivre à tout moment le respect des conditions prévues par la présente loi.
 
 (8) Les établissements de crédit et les entreprises d’investissement agréés au titre de la loi modifiée du 5 avril 1993 relative au secteur financier ne sont pas tenus d’obtenir un agrément au titre de la présente loi pour pouvoir proposer des services d’investissement, tels que la gestion individuelle de portefeuille en rapport avec des FIA. Toutefois les entreprises d’investissement ne peuvent proposer, directement ou indirectement, des parts ou des actions de FIA à des investisseurs établis dans l’Union européenne, ou placer ces parts ou actions auprès d’investisseurs établis dans l’Union européenne, que dans la mesure où les parts ou actions peuvent être commercialisées conformément à la directive 2011/61/UE.
