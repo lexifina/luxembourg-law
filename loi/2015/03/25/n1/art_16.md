@@ -1,0 +1,31 @@
+# Art. 16.
+
+A la suite de l’article 19bis, il est inséré un nouvel article 19ter libellé comme suit:
+
+Art. 19ter
+
+1. Le fonctionnaire qui désire s’inscrire à un cycle d’études pouvant conduire à une qualification supplémentaire peut se voir accorder par le ministre, sur avis du ministre du ressort, une dispense de service pour pouvoir participer aux cours et examens de ce cycle d’études.
+
+Pour pouvoir bénéficier de la dispense de service, le fonctionnaire doit:
+
+- a) avoir au moins dix années de service depuis la date de sa nomination;
+
+- b) s’inscrire à un cycle d’études en relation avec ses attributions et missions ou dans d’autres domaines susceptibles de promouvoir son développement professionnel auprès de l’Etat;
+
+- c) avoir épuisé le congé individuel de formation prévu à l’article 28, paragraphe 1er, lettre r).
+
+Pendant la dispense de service, le fonctionnaire continue de bénéficier intégralement de son traitement. Au cas où il quitte, pour quelque raison que ce soit, son service auprès de l’Etat moins de dix ans après l’octroi de la dispense de service, il doit rembourser à l’Etat le traitement correspondant à la dispense de service qu’il a touché, calculé proportionnellement au temps qui manque pour atteindre dix années.
+
+2. La dispense de service peut correspondre au maximum à vingt pour cent de la tâche du fonctionnaire.
+
+Le nombre maximum de fonctionnaires d’une administration ou d’un département ministériel pouvant bénéficier de la dispense de service est fixé à vingt pour cent de l’effectif total du groupe de traitement auquel ils appartiennent.
+
+3. La dispense de service peut être demandée et accordée pour une période initiale maximale de deux années d’études. Elle peut être prolongée d’année en année pour continuer le cycle d’études commencé.
+
+La demande de dispense de service initiale est adressée, au moins six mois avant l’échéance du délai d’inscription au cycle d’études, par la voie hiérarchique au ministre du ressort qui la transmet au ministre. Elle doit être motivée et indiquer l’institution en charge du cycle d’études, la nature, le contenu et la durée totale du cycle d’études, le nombre d’heures de cours, de formations et d’examens prévues ainsi que les date de début et de fin de la ou des années d’études.
+
+La demande de renouvellement est adressée de la même manière au moins un mois avant le début de l’année d’études subséquente. Elle doit être motivée et indiquer les résultats obtenus aux examens des années d’études précédentes, le nombre d’heures de cours, de formations et d’examens prévus pour l’année d’études ainsi que les date de début et de fin de l’année d’études.
+
+4. La dispense de service est considérée comme période d’activité de service intégrale pour l’application des avancements en échelon, des avancements en traitement, pour les promotions ainsi que pour le droit d’admission à l’examen de promotion.
+
+La mise en compte de la dispense de service pour le droit à la pension et pour le calcul de la pension est déterminée par la législation relative aux pensions des fonctionnaires de l’Etat.
