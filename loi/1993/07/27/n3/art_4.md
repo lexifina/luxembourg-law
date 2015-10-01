@@ -1,0 +1,7 @@
+# Art. 4.
+
+(1) Les titulaires des fonctions de directeur, de directeur adjoint, de conseiller de direction première classe, de conseiller-informaticien première classe, de conseiller de direction, de conseiller-informaticien, de conseiller de direction adjoint, de conseiller-informaticien adjoint, d'attaché de Gouvernement premier en rang, de chargé d'études-informaticien principal, d'attaché de Gouvernement, de chargé d'études-informaticien, d'inspecteur de direction premier en rang, d'inspecteur principal premier en rang, d'inspecteur de direction, d'inspecteur principal, d'inspecteur, de receveur A, de contrôleur en chef, de receveur B, de contrôleur adjoint, de receveur C, de vérificateur, d'inspecteur-informaticien principal 1er en rang, d'inspecteur-informaticien principal, d'inspecteur-informaticien, de chef de bureau informaticien, de chef de bureau informaticien adjoint, d'informaticien principal, de receveur D, de receveur adjoint, de vérificateur adjoint et de lieutenant, sont nommés par le Grand-Duc.
+
+(2) Les titulaires des autres fonctions sont nommés par le Ministre ayant dans ses attributions l'administration des douanes et accises.
+
+(3) Avant d'entrer en fonction, les agents de tout grade énumérés aux alinéas (1) et (2) de l'article qui précède, prêteront le serment prévu par l'article 2 sub 4. respectivement par l'article 3 sub 1. de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
