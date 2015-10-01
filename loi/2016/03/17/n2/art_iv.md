@@ -1,0 +1,3 @@
+# Art. IV.
+
+L’article 46, paragraphe 2, alinéa 1 de la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l’Etat est remplacé par la disposition suivante: (2) Pour être classé à un emploi de l’un des sous-groupes visés sous les points a), b) et c) du paragraphe 1er, l’employé doit avoir suivi avec succès l’enseignement des cinq premières années d’études dans un établissement d’enseignement secondaire ou avoir réussi le cycle moyen de l’enseignement secondaire technique soit du régime technique, soit du régime de la formation du technicien ou avoir obtenu le diplôme d’aptitude professionnelle ou présenter une attestation portant sur des études reconnues équivalentes.
