@@ -1,0 +1,3 @@
+# Art. XXII.
+
+Les commissaires de district sont intégrés dans la catégorie de traitement A, groupe de traitement A1, sous-groupe administratif avec classement au grade 16. Ils continuent toutefois à bénéficier en ce qui concerne la fixation de leur traitement des dispositions de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat qui leur sont applicables à la veille de l’entrée en vigueur de la présente loi. La loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l’Etat reste sans effet en relation avec l’application du présent article.
