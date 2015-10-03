@@ -1,3 +1,0 @@
-# Art. 14.
-
-Toute personne qui, contrairement aux prescriptions législatives ou réglementaires concernant la lutte contre le phylloxéra, établit ou renouvelle une plantation de vigne, ou livre du matériel de vignes pour une plantation de vigne, de même que toute personne qui, à dessein ou par suite de négligence grossière, aura propagé le phylloxéra sur un terrain, aura à supporter les frais qu'entraînent les mesures que les autorités ont dû prendre de ce fait. A ces frais s'ajoute le montant des indemnités à payer à des tiers. Le recouvrement de ces frais et indemnités sera effectué à charge du tiers responsable dans la forme établie pour la perception de l'impôt mobilier.
