@@ -1,0 +1,3 @@
+# Art. 3.
+
+A l’article 47, paragraphe 1er de la même loi, les vingt-quatrième à vingt-septième tirets sont remplacés par l’alinéa suivant: Il en est de même des infractions commises à l’encontre des prescriptions prévues au règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets: toute personne qui effectue un transfert illicite tel que défini à l’article 2, 35); toute personne qui procède au mélange de déchets pendant le transfert en violation des dispositions de l’article 19; toute personne qui viole une décision prise par l’autorité compétente au titre de l’article 24, paragraphes 2 et 3.
