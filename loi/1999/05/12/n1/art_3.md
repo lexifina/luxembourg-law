@@ -1,3 +1,0 @@
-# Art. 3.
-
-Au moment de l'entrée en vigueur de la présente loi, l'administration de l'environnement et l'inspection du travail et des mines, peuvent engager, par dépassement des effectifs autorisés par la loi budgétaire pour l'exercice 1999, respectivement un fonctionnaire dans la carrière supérieure de l'attaché de direction, un fonctionnaire dans la carrière supérieure de l'ingénieur, trois fonctionnaires dans la carrière moyenne de l'ingénieur technicien, un fonctionnaire dans la carrière inférieure de l'expéditionnaire et quatre fonctionnaires dans la carrière moyenne de l'ingénieur technicien, un fonctionnaire dans la carrière moyenne du rédacteur, un fonctionnaire dans la carrière inférieure de l'expéditionnaire technique.
