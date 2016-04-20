@@ -1,0 +1,3 @@
+# Art. 14. Présomption de conformité sur la base des normes nationales.
+
+Lorsque les normes harmonisées visées à l'article 12 n'ont pas été rédigées et publiées et les normes internationales visées à l'article 13 n'ont pas été publiées, le département de la surveillance du marché considère également, en vue de la mise à disposition sur le marché visée à l'article 3 ou de la libre circulation visée à l'article 4, comme répondant aux objectifs de sécurité visés à l'article 3 et énoncés à l'annexe I le matériel électrique construit conformément aux dispositions en matière de sécurité des normes en vigueur dans l'Etat membre de fabrication s'il assure une sécurité équivalente à celle requise au Grand-Duché de Luxembourg.
