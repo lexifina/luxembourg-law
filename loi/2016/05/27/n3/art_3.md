@@ -1,0 +1,7 @@
+# Art. 3. Libre circulation.
+
+(1) Le département de la surveillance du marché de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services (ILNAS), ci-après «département de la surveillance du marché» s’abstient d’interdire, de restreindre ou d’entraver la mise sur le marché et la mise en service d’ascenseurs ou la mise à disposition sur le marché de composants de sécurité pour ascenseurs sur le territoire national lorsque ceux-ci satisfont à la présente loi.
+
+(2) Le département de la surveillance du marché ne fait pas obstacle, lors des foires, des expositions et des démonstrations, à la présentation d’ascenseurs ou de composants de sécurité pour ascenseurs non conformes à la présente loi, pour autant qu’une indication visible spécifie clairement qu’ils ne sont pas conformes et qu’ils ne seront pas mis ou mis à disposition sur le marché avant leur mise en conformité. Lors de démonstrations, les mesures de sécurité adéquates doivent être prises afin d’assurer la protection des personnes.
+
+(3) La présente loi n’affecte pas la faculté du département de la surveillance du marché de prescrire, dans le respect du droit de l’Union européenne, les exigences qu’il estime nécessaires pour assurer la protection des personnes lors de la mise en service et l’utilisation des ascenseurs en question, pour autant que cela n’implique pas de modifications de ces ascenseurs par rapport à la présente loi.

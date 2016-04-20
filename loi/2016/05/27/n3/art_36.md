@@ -1,0 +1,5 @@
+# Art. 36. Dispositions transitoires.
+
+Sont admis à être librement mis en service les ascenseurs ou mis à disposition sur le marché les composants de sécurité pour ascenseurs relevant du règlement grand-ducal du 25 octobre 1999 elatif aux ascenseurs, adopté selon la procédure prévue par la loi modifiée du 9 août 1971 concernant l’exécution et la sanction des décisions et des directives ainsi que la sanction des règlements des Communautés européennes en matière économique, technique, agricole, forestière, sociale et en matière de transports, et portant application de la directive 95/16/CE du Parlement européen et du Conseil du 29 juin 1995 concernant le rapprochement des législations des Etats membres relatives aux ascenseurs et qui ont été mis sur le marché avant le 20 avril 2016.
+
+Les certificats et décisions délivrés par des organismes notifiés conformément au règlement grand-ducal du 25 octobre 1999, adopté selon la procédure prévue par la loi précitée du 9 août 1971, sont valables en vertu de la présente loi.
