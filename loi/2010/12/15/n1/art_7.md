@@ -1,0 +1,13 @@
+# Art. 7. - Obligations des distributeurs
+
+- (1) Lorsqu’ils mettent un jouet à disposition sur le marché, les distributeurs agissent avec la diligence requise en ce qui concerne les exigences applicables.
+
+- (2) Avant de mettre un jouet à disposition sur le marché, les distributeurs vérifient qu’il porte le marquage ou les marquages de conformité requis, qu’il est accompagné des documents requis et d’instructions et d’informations de sécurité dans au moins une des trois langues administratives désignées dans la loi du 24 février 1984, et que le fabricant et l’importateur ont respecté les exigences visées respectivement à l’article 4, paragraphes 5 et 6, et à l’article 6, paragraphe 3.
+
+- Lorsqu’un distributeur considère, ou a des raisons de croire, qu’un jouet n’est pas conforme aux exigences essentielles de sécurité visées à l’article 10 et à l’annexe II de la directive 2009/48/CE du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite, il ne met le jouet à disposition sur le marché qu’après que ce jouet a été mis en conformité avec ces exigences. En outre, si le produit présente un risque, le distributeur en informe le fabricant ou l’importateur ainsi que l’Institut.
+
+- (3) Tant qu’un jouet est sous leur responsabilité, les distributeurs s’assurent que les conditions de stockage ou de transport ne compromettent pas sa conformité aux exigences visées à l’article 10 et à l’annexe II de la directive 2009/48/CE du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite.
+
+- (4) Les distributeurs qui considèrent, ou ont des raisons de croire, qu’un jouet qu’ils ont mis à disposition sur le marché n’est pas conforme à la législation communautaire d’harmonisation applicable, veillent à ce que les mesures correctives nécessaires pour le mettre en conformité, le retirer ou le rappeler, si nécessaire, soient prises. En outre, si le jouet présente un risque, les distributeurs en informent immédiatement l’Institut et les autres autorités nationales compétentes des Etats membres dans lesquels ils ont mis le jouet à disposition, en fournissant des précisions, notamment, sur la non-conformité et sur toute mesure corrective adoptée.
+
+- (5) A la demande motivée de l’Institut, les distributeurs lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité du jouet, en anglais ou dans une des trois langues administratives désignées dans la loi du 24 février 1984. Ils coopèrent, à la demande de l’Institut, à toute mesure adoptée en vue d’éliminer les risques présentés par des jouets qu’ils ont mis sur le marché.
