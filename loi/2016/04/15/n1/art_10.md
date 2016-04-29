@@ -1,0 +1,17 @@
+# Art. 10.
+
+(1) Pendant une période transitoire qui s'étend sur la période correspondant à un mandat du conseil communal et se termine à l'occasion des élections communales ordinaires de 2023, la commune de Habscht est composée de deux circonscriptions électorales distinctes, à savoir la circonscription électorale de Hobscheid, formée par le territoire de l'ancienne commune de Hobscheid, et la circonscription électorale de Septfontaines, formée par le territoire de l'ancienne commune de Septfontaines. La circonscription électorale de Hobscheid est représentée au conseil communal par onze conseillers et la circonscription électorale de Septfontaines par quatre conseillers. A partir des élections communales ordinaires de 2023, les deux circonscriptions électorales sont supprimées.
+
+(2) L'élection du premier conseil communal de la commune de Habscht se fait au scrutin de liste avec représentation proportionnelle dans la commune de Hobscheid et au système de la majorité relative dans la commune de Septfontaines lors des élections communales ordinaires qui ont lieu le 8 octobre 2017 conformément au paragraphe 3 et selon les dispositions afférentes de la loi électorale modifiée du 18 février 2003.
+
+(3) Les élections communales qui pourraient avoir lieu pendant la période transitoire visée au paragraphe 1er se font selon le scrutin de liste avec représentation proportionnelle dans la circonscription électorale de l'ancienne commune de Hobscheid et au système de la majorité relative dans la circonscription électorale de l'ancienne commune de Septfontaines conformément aux dispositions de la loi électorale précitée qui s'appliquent séparément dans les deux circonscriptions électorales sous réserve des dérogations qui suivent:
+
+- 1. Pour l'application de la loi électorale précitée, le terme de «commune» désigne chaque circonscription électorale.
+
+- 2. Par dérogation à l'article 197, alinéa 2 de la loi électorale précitée, les électeurs de chaque circonscription électorale concourent exclusivement à l'élection des conseillers de leur circonscription.
+
+- 3. Par dérogation aux articles 221 et 258 de la loi électorale précitée, avant de procéder à la proclamation publique des personnes élues, les présidents et secrétaires des bureaux principaux de vote des circonscriptions électorales de Hobscheid et de Septfontaines se réunissent dans les locaux du bureau principal de vote de la circonscription électorale de Hobscheid en vue de vérifier si parmi les personnes susceptibles d'être proclamées élues dans les deux circonscriptions électorales il ne s'en trouve pas qui tombent dans l'une des catégories visées par l'article 196, alinéa 1 de la loi électorale précitée. Si tel est le cas, le président du bureau principal de vote de la circonscription électorale de Hobscheid procède par tirage au sort pour désigner la personne à proclamer élue.
+
+- Des opérations de tirage au sort il est dressé un procès-verbal à signer en sextuple exemplaire par les présidents et secrétaires des bureaux principaux de vote des deux circonscriptions électorales. Un exemplaire de ce procès-verbal est à joindre à chacun des trois exemplaires du procès-verbal à établir conformément à l'article 259, alinéa 1er de la loi électorale précitée par chaque bureau de vote principal.
+
+(4) Les deux circonscriptions électorales sont supprimées en cas de dissolution du premier conseil communal par le Grand-Duc avant les élections ordinaires du 8 octobre 2023.
