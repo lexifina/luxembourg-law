@@ -1,0 +1,3 @@
+# Art. 37.
+
+L'alinéa 2 de l'article 6 du texte coordonné de la loi du 23 décembre 1909 portant création d'un registre de commerce et des sociétés est modifié comme suit: L'inscription d'une société commerciale, d'un groupement d'intérêt économique ou d'un groupement européen d'intérêt économique doit être requise dans le mois au plus tard par celui ou ceux qui ont pouvoir de les représenter en justice. S'ils sont plusieurs, ils sont tenus solidairement de requérir l'immatriculation. Peut également requérir l'inscription le notaire, rédacteur de l'acte constitutif ou modificatif de la société ou du groupement.

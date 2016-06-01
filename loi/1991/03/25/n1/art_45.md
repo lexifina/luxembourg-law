@@ -1,0 +1,3 @@
+# Art. 45.
+
+L'article 22 alinéa 2 du texte coordonné de l'arrêté grand-ducal du 23 décembre 1909 concernant l'exécution de la loi du même jour sur le registre de commerce et des sociétés est modifié comme suit: Il doit veiller à ce que les personnes ou les sociétés ou les groupements que la loi oblige à une insertion, à une radiation ou à une modification, satisfassent à cette obligation. Les autorités judiciaires et administratives sont tenues de dénoncer au préposé les contraventions qui peuvent parvenir à leur connaissance, et de lui fournir tous renseignements nécessaires pour la tenue régulière du registre de commerce et des sociétés.
