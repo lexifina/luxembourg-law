@@ -9,3 +9,7 @@
 (4) Les gestionnaires, dans la mesure où ils gèrent des FIA de type fermé dont la période de souscription pour les investisseurs s’est terminée avant le 22 juillet 2011 et sont constitués pour une période expirant au plus tard trois ans après le 22 juillet 2013 peuvent continuer à gérer de tels FIA sans devoir se conformer aux dispositions de la présente loi, à l’exception de l’article 20 et, le cas échéant, des articles 24 à 28, ou de soumettre une demande aux fins d’obtenir un agrément au titre de la présente loi.
 
 (5) Les articles 35 à 36 et 38 à 44 de la présente loi seront applicables lorsque la Commission européenne aura adopté l’acte délégué au titre de l’article 67, paragraphe (6), de la directive 2011/61/UE, et à compter de la date qui y figure. Les articles 37 et 45 de la présente loi cesseront d’être applicables lorsque la Commission européenne aura adopté l’acte délégué au titre de l’article 68, paragraphe (6), de la directive 2011/61/UE et à compter de la date qui y figure.
+
+(6) Les gestionnaires, qui ont été agréés au titre du chapitre 2 avant la date d’entrée en vigueur de la loi du 10 mai 2016 portant transposition de la directive 2014/91/UE, auront jusqu’au 15 septembre 2016 pour désigner un réviseur d’entreprises agréé conformément à l’article 7bis.
+
+Les dispositions contenues dans l’article 7bis sont à observer dans leur ensemble pour les comptes annuels se rapportant aux exercices comptables clôturant au ou après le 31 décembre 2016.

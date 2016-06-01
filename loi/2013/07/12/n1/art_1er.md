@@ -112,6 +112,8 @@ Aux fins de la présente loi, on entend par:
 
   - f) un État membre, autre que l’État membre de référence, dans lequel un gestionnaire établi dans un pays tiers commercialise les parts ou les actions d’un FIA de pays tiers;
 
+  - g) l’Etat membre, autre que l’Etat membre d’origine, dans lequel un gestionnaire établi dans l’Union européenne fournit les services visés à l’article 6, paragraphe 4, de la directive 2011/61/UE.
+
 - (38) «État membre de référence»: l’État membre déterminé conformément à l’article 37, paragraphe (4), de la directive 2011/61/UE;
 
 - (39) «fonds d’investissement alternatifs (FIA)»: des organismes de placement collectif, y compris leurs compartiments d’investissement, qui:
