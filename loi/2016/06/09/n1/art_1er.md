@@ -1,0 +1,3 @@
+# Art. 1er.
+
+A l'article 11 de la loi modifiée du 23 décembre 2004 établissant un système d'échange de quotas d'émission de gaz à effet de serre, le paragraphe 1er est remplacé par le texte suivant: (1) A compter de 2019, l'intégralité des quotas qui ne sont pas délivrés à titre gratuit conformément aux articles 10bis et 10quater de la directive 2003/87 telle que modifiée et qui ne sont pas placés dans la réserve de stabilité du marché créée par la décision (UE) 2015/1814 du Parlement européen et du Conseil du 6 octobre 2015 concernant la création et le fonctionnement d'une réserve de stabilité du marché pour le système d'échange de quotas d'émission de gaz à effet de serre de l'Union et modifiant la directive 2003/87/CE sont mis aux enchères.

@@ -1,0 +1,3 @@
+# Art. 2.
+
+L'article 11 de la même loi est complété par un paragraphe 1bis libellé comme suit: 1bis. Lorsque, avant application de l'article 1er, paragraphe 5, de la décision (UE) 2015/1814 précitée, le volume de quotas à mettre aux enchères au cours de la dernière année de chaque période visée à l'article 14, paragraphe 1er, de la présente loi dépasse de plus de 30% le volume moyen attendu de quotas à mettre aux enchères au cours des deux premières années de la période suivante, deux tiers de la différence entre ces volumes sont déduits des volumes à mettre aux enchères au cours de la dernière année de la période et sont ajoutés en parts égales aux volumes à mettre aux enchères au cours des deux premières années de la période suivante.
