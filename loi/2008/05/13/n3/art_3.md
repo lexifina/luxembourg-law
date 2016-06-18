@@ -1,0 +1,5 @@
+# Art. 3.
+
+(1) Les dispositions relatives à la protection de la grossesse et de la maternité ne constituent pas une discrimination, mais une condition pour la réalisation de l’égalité de traitement entre les hommes et les femmes.
+
+(2) Le principe de l’égalité de traitement n’empêche pas le maintien ou l’adoption de mesures spécifiques destinées à prévenir ou à compenser des désavantages liés au motif visé à l’article 1er, paragraphe (1) pour assurer la pleine égalité dans la pratique.
