@@ -1,3 +1,0 @@
-# Art. 7.
-
-Les articles 1er à 3 de la loi modifiée du 25 février 1967 ayant pour objet diverses mesures en faveur de personnes devenues victimes d'actes illégaux de l'occupant sont abrogés et remplacés par les dispositions suivantes: Art. 1er. Il est créé un Comité directeur pour le Souvenir de la Résistance, ci-après appelé le "Comité". Le Comité prend la succession du Conseil National de la Résistance et constitue l'organe représentatif de toutes les organisations de Résistance devant les autorités publiques. Art. 2. Les attributions et la composition du Comité ainsi que le mode de désignation et les indemnités de ses membres sont déterminés par règlement grand-ducal.
