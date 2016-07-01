@@ -1,0 +1,7 @@
+# Art. 17.
+
+(1) Pour le calcul des prestations relatives aux périodes computables le salaire de référence au nombre indice de base (cent points) est fixé uniformément et sans distinction de sexe à deux euros et quatre-vingt-dix-sept centimes par jour pour les ouvriers et à soixante-quatorze euros et trente-sept centimes par mois pour les employés en ce qui concerne les périodes accomplies à partir de l'âge de vingt et un ans antérieurement au 1er janvier 1948 et au salaire social minimum augmenté de vingt pour-cent pour les périodes postérieures à cette date. Pour les périodes accomplies avant l'âge de vingt et un ans les salaires de référence ci-dessus sont réduits à cinquante pour-cent pour les travailleurs de seize à dix-sept ans, à soixante pour-cent pour les travailleurs de dix-sept à dix-huit ans, à soixante-dix pour-cent pour les travailleurs de dix-huit à dix-neuf ans, à quatre-vingts pour-cent pour les travailleurs de dix-neuf à vingt ans; à quatre-vingt-dix pour-cent pour les travailleurs de vingt à vingt et un ans.
+
+(2) Les périodes computables sont calculées, le mois à raison de vingt-cinq jours et les périodes inférieures au mois à raison du nombre des jours ouvrables qu'elles contiennent effectivement.
+
+(3) Pour les périodes d'assurance computées par mois civil, toute fraction de mois compte comme mois entier pour autant qu'elle comprend au moins seize jours civils. Dans le cas contraire elle sera négligée.
