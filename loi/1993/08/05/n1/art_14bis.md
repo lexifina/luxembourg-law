@@ -1,0 +1,35 @@
+# Art. 14bis.
+
+1. Une analyse coûts-avantages est réalisée, conformément aux dispositions du paragraphe 6, lorsque:
+
+- a) une nouvelle installation de production d'électricité thermique dont la puissance thermique totale est supérieure à 20 MW est planifiée, afin d'évaluer les coûts et les avantages d'une mise en service de l'installation en tant qu'installation de cogénération à haut rendement;
+
+- b) une installation existante de production d'électricité thermique d'une puissance thermique totale supérieure à 20 MW fait l'objet d'une rénovation substantielle, afin d'évaluer les coûts et les avantages d'une conversion de cette installation en installation de cogénération à haut rendement;
+
+- c) une installation industrielle d'une puissance thermique totale supérieure à 20 MW génératrice de chaleur fatale à un niveau de température utile est planifiée ou fait l'objet d'une rénovation substantielle, afin d'évaluer les coûts et avantages d'une valorisation de la chaleur fatale en vue de satisfaire une demande justifiée du point de vue économique, y compris par la cogénération, et du raccordement de cette installation à un réseau de chaleur et de froid;
+
+- d) un nouveau réseau de chaleur et de froid est planifié, ou, dans un réseau de chaleur et de froid existant, une nouvelle installation de production d'énergie d'une puissance supérieure à 20 MW est planifiée ou une telle installation fait l'objet d'une rénovation substantielle, afin d'évaluer les coûts et les avantages d'une valorisation de la chaleur fatale provenant des installations industrielles situées à proximité.
+
+L'analyse coûts-avantages doit être réalisée antérieurement au dépôt de la demande d'autorisation visée dans la loi modifiée du 10 juin 1999 relative aux établissements classés. L'analyse coûts-avantages est à adresser au ministre pour contrôle et avis. Le ministre rend son avis dans les trois mois dès la réception de l'analyse coûts-avantages. L'avis du ministre est à joindre au dossier de demande d'autorisation en vertu de la loi modifiée du 10 juin 1999 relative aux établissements classés.
+
+Pour les cas visés aux points a) et b), l'avis du ministre relatif à l'analyse coûts-avantages est également à joindre à la demande d'autorisation pour nouvelles capacités de production visée à l'article 15 de la loi modifiée du 1er août 2007 relative à l'organisation du marché de l'électricité.
+
+2. L'installation d'équipements de captage de dioxyde de carbone produit par une installation de combustion en vue de son stockage géologique conformément à la loi du 27 août 2012 relative au stockage géologique du dioxyde de carbone n'est pas considérée comme une rénovation aux fins des points b), c) et d) du paragraphe 1er.
+
+3. L'analyse coûts-avantages visée aux points c) et d) du paragraphe 1er est réalisée en coopération avec les entreprises responsables de l'exploitation des réseaux de chaleur et de froid.
+
+4. Sont exemptées de cette analyse coûts-avantages:
+
+- a) les installations de production d'électricité utilisées dans les périodes de pointe de charge ou de secours qui sont conçues pour fonctionner moins de 1.500 heures d'exploitation par an en moyenne mobile calculée sur une période de cinq ans;
+
+- b) les installations qui doivent être placées à proximité d'un site de stockage géologique autorisé au titre de la loi du 27 août 2012 relative au stockage géologique du dioxyde de carbone.
+
+5. Les paragraphes 1er à 4 s'appliquent également aux installations relevant de la loi du 9 mai 2014 relative aux émissions industrielles.
+
+6. L'analyse coûts-avantages tient compte des principes repris à l'annexe IX, partie 2, de la directive 2012/27/UE du Parlement européen et du Conseil du 25 octobre 2012 relative à l'efficacité énergétique.
+
+Les modifications à l'annexe IX, partie 2, de la directive 2012/27/UE visée à l'alinéa 1er au moyen d'un acte délégué que la Commission est habilitée à prendre en vertu de l'article 22 de la directive 2012/27/UE s'appliquent avec effet au jour de la date de l'entrée en vigueur des actes modificatifs afférents de l'Union européenne.
+
+Le ministre publiera un avis au Mémorial, renseignant sur les modifications ainsi intervenues, en y ajoutant une référence à l'acte publié au Journal officiel de l'Union européenne.
+
+Les principes directeurs pour la méthodologie, les hypothèses et la durée considérée pour l'analyse économique sont fixés par voie de règlement grand-ducal.

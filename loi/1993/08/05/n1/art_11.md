@@ -1,0 +1,29 @@
+# Art. 11.
+
+1. Les entreprises poursuivant une activité économique, sans égard à leur forme légale, y non compris les petites et moyennes entreprises (PME) telles que définies à l'annexe I du règlement (UE) n° 651/2014 de la Commission européenne du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité, réalisent un audit énergétique effectué de manière indépendante et rentable par des experts qualifiés ou agréés en vertu de l'article 11bis au plus tard cinq mois après l'entrée en vigueur de la présente loi, puis tous les quatre ans au minimum à partir du dernier audit énergétique.
+
+2. Les entreprises visées au paragraphe 1er dont la consommation énergétique ne dépasse pas 100 MWh peuvent établir un audit simplifié qui tient compte du rapport coût-efficacité de l'audit et qui reprend des critères minimaux équivalents à ceux prévus au paragraphe 6.
+
+3. Les audits énergétiques peuvent être autonomes ou faire partie d'un audit environnemental plus large.
+
+4. Les audits énergétiques visés au paragraphe 1er peuvent être réalisés par des experts ou des auditeurs énergétiques internes remplissant les conditions a) à e) de l'article 11bis, paragraphe 2. Dans ce cas, l'expert ou l'auditeur interne doit, dans son occupation journalière au sein de l'entreprise, être étranger à l'activité auditée et doit bénéficier dans le cadre de son activité d'auditeur d'une indépendance et d'une liberté d'action totale.
+
+5. En vue d'assurer un contrôle ponctuel du respect de l'obligation visée au paragraphe 1er, le ministre ayant l'Énergie dans ses attributions, dénommé ci-après «le ministre», peut demander aux entreprises concernées de lui transmettre, endéans un délai de quinze jours à partir de la réception de la demande, les informations relatives à la réalisation de l'audit énergétique, sauf si elles démontrent qu'elles tombent sous le coup des dispenses prévues au paragraphe 8.
+
+6. Les audits énergétiques doivent:
+
+- a) se fonder sur des données opérationnelles actualisées, mesurées et traçables concernant la consommation d'énergie et, pour l'électricité, les profils de charge;
+
+- b) comporter un examen détaillé du profil de consommation énergétique des bâtiments ou groupes de bâtiments, ainsi que des opérations ou installations industrielles, notamment le transport;
+
+- c) s'appuyer, dans la mesure du possible, sur une analyse du coût du cycle de vie plutôt que sur de simples délais d'amortissement pour tenir compte des économies à long terme, des valeurs résiduelles des investissements à long terme et des taux d'actualisation;
+
+- d) être proportionnés et suffisamment représentatifs pour permettre de dresser une image fiable de la performance énergé- tique globale et de recenser de manière sûre les possibilités d'amélioration les plus significatives.
+
+7. Les audits énergétiques donnent lieu à des calculs détaillés et validés concernant les mesures proposées afin que des informations claires soient disponibles en ce qui concerne les économies potentielles.
+
+8. Les entreprises visées au paragraphe 1er qui mettent en œuvre un système de management de l'énergie ou de l'environnement, certifié par un organisme d'accréditation signataire de l'accord de reconnaissance multilatéral établi par la coordination européenne des organismes d'accréditation, sont exemptées des exigences prévues au paragraphe 1er, pour autant que le système de management concerné prévoit un audit énergétique faisant appel à des critères minimaux équivalents à ceux prévus au paragraphe 6.
+
+9. Les entreprises auditées assurent un archivage d'au moins dix ans des données et des rapports relatifs aux audits énergétiques réalisés.
+
+10. Un règlement grand-ducal détermine les critères minimaux transparents et non discriminatoires pour l'établissement d'audits énergétiques, la simplification des critères pour les entreprises visées au paragraphe 1er ayant une consommation énergétique qui ne dépasse pas 100 MWh, les critères de proportionnalité et de représentativité, les modalités de transmission mentionnées au paragraphe 5 ainsi que les modalités de contrôle du respect de l'obligation reprise au présent article.
