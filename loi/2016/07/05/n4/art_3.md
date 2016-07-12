@@ -1,0 +1,3 @@
+# Art. 3.
+
+L’article 11, alinéa 1 de la loi modifiée du 7 mars 1980 sur l’organisation judicaire est modifié comme suit: Art. 11. Le tribunal d’arrondissement de Luxembourg est composé d’un président, de trois premiers viceprésidents, d’un juge d’instruction directeur, de vingt vice-présidents, d’un juge directeur du tribunal de la jeunesse et des tutelles, de deux juges de la jeunesse, de deux juges des tutelles, de trente premiers juges, de vingt-six juges, d’un procureur d’Etat, de deux procureurs d’Etat adjoints, de cinq substituts principaux, de douze premiers substituts et de dix substituts.
