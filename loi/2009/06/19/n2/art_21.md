@@ -1,9 +1,0 @@
-# Art. 21.
-
-Conformément à l'article 20 paragraphe (1) de la présente loi, les prestataires de service établis dans un autre Etat membre sont dispensés des exigences imposées aux professionnels établis sur le territoire du Grand-Duché de Luxembourg relatives à:
-
-- 1° l'autorisation, l'inscription ou l'affiliation à une organisation professionnelle ou à un organisme professionnel. Afin de faciliter l'application des dispositions disciplinaires en vigueur sur le territoire du Grand-Duché de Luxembourg, l'autorité compétente luxembourgeoise peut prévoir soit une inscription temporaire intervenant automatiquement ou une adhésion pro forma à une telle organisation ou à un tel organisme professionnels, à condition qu'elles ne retardent ni ne compliquent en aucune manière la prestation de services et n'entraînent pas de frais supplémentaires pour le prestataire de services. Une copie de la déclaration et, le cas échéant, du renouvellement visé à l'article 29 paragraphe (1) de la présente loi, accompagnés, pour les professions qui ont des implications en matière de santé ou de sécurité publiques visées à l'article 23 de la présente loi, d'une copie des documents visés à l'article 22 paragraphe (3) point 5° de la présente loi sont envoyés à l'organisation ou à l'organisme professionnel pertinent par l'autorité compétente luxembourgeoise et constituent une inscription temporaire intervenant automatiquement ou une adhésion pro forma à cet effet.
-
-- 2° l'inscription à un organisme de sécurité sociale de droit public, pour régler avec un organisme assureur les comptes afférents aux activités exercées au profit des assurés sociaux.
-
-- Toutefois, le prestataire de services informe préalablement ou, en cas d'urgence, ultérieurement, l'organisme visé au point 2° du présent article, de sa prestation de services.

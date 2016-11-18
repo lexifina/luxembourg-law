@@ -1,7 +1,0 @@
-# Art. 7.
-
-Est assimilé à un titre de formation sanctionnant une formation visée à l’article 6 de la présente loi, y compris quant au niveau de formation visé, tout titre de formation ou ensemble de titres de formation qui a été délivré par une autorité compétente dans un Etat membre, dès lors qu’il sanctionne une formation acquise dans la Communauté européenne, reconnue par cet Etat membre comme étant de niveau équivalent et qu’il y confère les mêmes droits d’accès à une formation ou d’exercice de celle-ci, ou qui prépare à l’exercice de cette profession.
-
-Est également assimilée à un tel titre de formation, dans les mêmes conditions que celles prévues au premier alinéa, toute qualification professionnelle qui, sans répondre aux exigences prévues par les dispositions législatives, réglementaires ou administratives de l’Etat membre d’origine pour l’accès à une profession ou son exercice, confère à son titulaire des droits acquis en vertu de ces dispositions.
-
-En particulier, ceci s’applique dans le cas où l’Etat membre d’origine relève le niveau de formation requis pour l’accès à une formation ou son exercice et où une personne ayant suivi la formation antérieure, qui ne répond pas aux exigences de la nouvelle qualification, bénéficie de droits acquis en vertu de dispositions législatives, réglementaires ou administratives; dans un tel cas, la formation antérieure est considérée par l’autorité compétente du Grand-Duché de Luxembourg, aux fins de l’application de l’article 8 ci-dessous, comme correspondant au niveau de la nouvelle formation.
