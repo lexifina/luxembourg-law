@@ -1,0 +1,3 @@
+# Art. 5.
+
+Un règlement grand-ducal, pris sur avis du Conseil d'Etat, fixe pour certaines des professions énumérées dans le champ d'application de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé et dont les diplômes ont été délivrés conformément à la loi du 26 mars 1992 précitée, ainsi que pour les personnes qui ont obtenu au Luxembourg un certificat d'aide-soignant, les mesures d'assimilation par rapport aux niveaux de fin d'études des différents régimes de l'enseignement secondaire technique ainsi que par rapport au brevet de technicien supérieur.

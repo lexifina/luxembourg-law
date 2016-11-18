@@ -1,0 +1,5 @@
+# Art. 28.
+
+Les infirmiers gradués et experts en sciences hospitalières engagés à la mise en vigueur de la présente loi sous le statut de l'employé privé à l'Ecole de l'Etat pour Paramédicaux, l'Ecole Paramédicale de la Clinique St. Louis d'Ettelbruck, l'Ecole pour Paramédicaux annexée à l'Hôpital de la Ville d'Esch-sur-Alzette, l'Ecole des Congrégations Hospitalières Catholiques du Grand-Duché de Luxembourg pour Professions Paramédicales et qui ne remplissent pas les conditions prévues aux articles 22 et 23, peuvent être engagés au lycée technique dans les conditions et selon les modalités prévues par la loi modifiée du 27 janvier 1972 fixant le régime des employés de l'Etat.
+
+Les personnes qui ne remplissent pas les conditions de l'article 3 a) de la loi du 27 janvier 1972 précitée peuvent être engagées sur la base des dispositions de la loi modifiée du 7 juin 1937 portant règlement légal du louage de service des employés privés et de la loi modifiée du 27 mai 1989 sur le contrat de travail.
