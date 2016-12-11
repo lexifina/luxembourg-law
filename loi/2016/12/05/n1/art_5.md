@@ -1,0 +1,7 @@
+# Art. 5. Limites à l’utilisation des preuves obtenues uniquement grâce à l’accès au dossier d’une autorité de concurrence.
+
+(1) Les preuves portant sur les déclarations effectuées en vue d’obtenir la clémence et sur les propositions de transaction, obtenues par une personne physique ou morale uniquement grâce à l’accès au dossier d’une autorité de concurrence, sont irrecevables dans le cadre d’actions en dommages et intérêts.
+
+(2) Les preuves portant sur les informations préparées par une personne physique ou morale expressément aux fins d’une procédure engagée par une autorité de concurrence, portant sur les informations établies par une autorité de concurrence et envoyées aux parties au cours de sa procédure ou portant sur les propositions de transaction qui ont été retirées, qui ont été obtenues par une personne physique ou morale uniquement grâce à l’accès au dossier d’une autorité de concurrence, ne sont recevables dans le cadre d’actions en dommages et intérêts qu’à condition que l’autorité de concurrence ait auparavant clos sa procédure en adoptant une décision ou d’une autre manière.
+
+(3) Les preuves obtenues par une personne physique ou morale uniquement grâce à l’accès au dossier d’une autorité de concurrence et qui ne relèvent pas du paragraphe 1er ou 2 ne peuvent être utilisées dans le cadre d’une action en dommages et intérêts que par cette personne ou par une personne physique ou morale qui lui a succédé dans ses droits, ce qui inclut la personne qui a racheté sa demande.
