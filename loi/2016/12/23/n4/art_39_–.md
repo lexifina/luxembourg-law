@@ -1,0 +1,3 @@
+# Art. 39. – Procédure de sauvegarde de l’Union.
+
+Si en vertu de l’article 44, paragraphes 6 et 7, et de l’article 45, paragraphe 1er, de la directive 2013/53/UE du Parlement européen et du Conseil du 20 novembre 2013 relative aux bateaux de plaisance et aux véhicules nautiques à moteur, la mesure nationale prise par l’autorité compétente d’un autre État membre ou par l’ILNAS est jugée justifiée, l’ILNAS prend les mesures nécessaires conformément à l’article 13 de la loi précitée du 4 juillet 2014 pour s’assurer du retrait du produit non conforme du marché luxembourgeois et il en informe la Commission européenne. Si la mesure nationale prise par l’ILNAS conformément à l’article 38 est jugée non justifiée, l’ILNAS la retire.

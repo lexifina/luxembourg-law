@@ -1,0 +1,3 @@
+# Art. 5. – Dispositions nationales relatives à la navigation.
+
+La présente loi est sans préjudice des dispositions de la loi du 23 septembre 1997 portant réglementation de la navigation de plaisance et portant modification de certaines autres dispositions légales, de la loi modifiée du 28 juin 1984 portant réglementation de la police de la navigation intérieure, des sports nautiques et de la natation et du ou des règlements grand-ducaux pris en leur exécution, sous réserve que ces dispositions n’obligent pas à modifier des bateaux qui sont conformes à la présente loi et qu’elles soient justifiées et proportionnées.
