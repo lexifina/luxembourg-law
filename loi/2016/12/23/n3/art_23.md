@@ -1,0 +1,9 @@
+# Art. 23. – Surveillance du marché et contrôle des produits entrant sur le marché.
+
+(1) En ce qui concerne les équipements marins, le département de la surveillance du marché assure la surveillance du marché conformément au cadre de surveillance du marché de l’Union européenne défini au chapitre III du règlement (CE) n° 765/2008 précité du 9 juillet 2008, sous réserve des paragraphes 2 et 3 du présent article.
+
+(2) Le département de la surveillance du marché consulte le Commissaire afin de pouvoir tenir compte des spécificités du secteur des équipements marins, y compris des différentes procédures appliquées dans le cadre de l’évaluation de conformité, et notamment des responsabilités imposées à l’Etat luxembourgeois, en tant qu’Etat du pavillon, par les conventions internationales.
+
+(3) La surveillance du marché peut comprendre des contrôles documentaires ainsi que des contrôles des équipements marins portant le marquage «barre à roue», qu’ils aient ou non été mis à bord des navires. Les contrôles pratiqués sur des équipements marins déjà installés à bord de navires sont limités aux examens qui peuvent être effectués dans des conditions telles que les équipements concernés restent pleinement en fonction à bord. Ils sont effectués par les organismes agréés selon les instructions du département de la surveillance du marché, après consultation du Commissaire. Les organismes agréés sont automatiquement autorisés à effectuer les prédits contrôles au nom et pour le compte du département de la surveillance du marché.
+
+(4) Lorsque le département de la surveillance du marché a l’intention de procéder à des contrôles par échantillonnage, il peut, si cela est raisonnable et possible, exiger du fabricant qu’il mette à disposition les échantillons nécessaires ou qu’il donne accès sur place à ces échantillons, à ses frais.

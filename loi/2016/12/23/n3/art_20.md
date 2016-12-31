@@ -1,0 +1,5 @@
+# Art. 20. – Restriction, suspension et retrait d’une notification.
+
+(1) Lorsque l’OLAS a établi ou a été informé qu’un organisme notifié ne répondait plus aux exigences prévues à l’annexe III, ou qu’il ne s’acquittait pas de ses obligations en vertu de la présente loi, il soumet la notification à des restrictions, la suspend ou la retire, selon le cas, en fonction de la gravité du manquement au regard de ces exigences ou de ces obligations conformément à l’article 7, paragraphe 2, dernier alinéa de la loi précitée du 4 juillet 2014. Il en informe immédiatement la Commission européenne et les autorités compétentes des autres Etats membres de l’Union européenne, au moyen du système d’information mis à disposition par la Commission européenne à cette fin.
+
+(2) En cas de restriction, de suspension ou de retrait d’une notification, ou lorsque l’organisme notifié a cessé ses activités, l’OLAS prend les mesures qui s’imposent pour faire en sorte que les dossiers dudit organisme soient traités par un autre organisme notifié ou tenus à la disposition des autorités notifiantes et des autorités de surveillance du marché compétentes qui en font la demande.

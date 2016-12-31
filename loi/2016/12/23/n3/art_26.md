@@ -1,0 +1,7 @@
+# Art. 26. – Produits conformes qui présentent néanmoins un risque pour la sécurité maritime, la santé ou l’environnement.
+
+(1) Lorsqu’il est constaté, après réalisation de l’évaluation visée à l’article 24, paragraphe 1er, qu’un équipement marin, conforme à la présente loi, présente néanmoins un risque pour la sécurité maritime, la santé ou l’environnement, le département de la surveillance du marché demande à l’opérateur économique concerné de prendre toutes les mesures appropriées, qu’il prescrit après consultation du Commissaire, pour faire en sorte que l’équipement marin concerné, une fois mis sur le marché, ne présente plus ce risque, ou pour le retirer du marché ou le rappeler dans le délai raisonnable, proportionné à la nature du risque.
+
+(2) L’opérateur économique s’assure que les mesures correctives appropriées sont prises pour tous les produits en cause qu’il a mis à disposition sur le marché dans l’ensemble de l’Union européenne ou, le cas échéant, qu’il a installés à bord de navires battant pavillon d’un Etat membre de l’Union européenne.
+
+(3) Le département de la surveillance du marché informe immédiatement la Commission européenne et les autorités compétentes des autres Etats membres de l’Union européenne. Les informations fournies contiennent toutes les précisions disponibles, notamment les données nécessaires pour identifier l’équipement marin concerné, l’origine et la chaîne d’approvisionnement de cet équipement marin, la nature du risque encouru, ainsi que la nature et la durée des mesures adoptées au Luxembourg.
