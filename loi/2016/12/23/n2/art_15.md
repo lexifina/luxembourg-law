@@ -1,0 +1,9 @@
+# Art. 15. – Identification et traçabilité des explosifs.
+
+(1) Les opérateurs économiques se conforment à un système d’identification unique et de traçabilité des explosifs qui tient compte de leur taille, forme ou conception, sauf lorsqu’il n’est pas nécessaire d’apposer un identifiant unique sur l’explosif en raison de son faible niveau de risque, basé sur ses caractéristiques et des facteurs tels que son faible effet détonant, son utilisation et le faible risque qu’il présente pour la sûreté en raison des faibles effets potentiels d’une utilisation détournée.
+
+Le système ne s’applique pas aux explosifs transportés et livrés hors conditionnement ou en camion pompe pour déchargement direct dans le trou de mine, ni aux explosifs fabriqués sur les sites d’utilisation et qui sont chargés directement après avoir été fabriqués (production sur site).
+
+(2) Ce système prévoit la collecte et la conservation de données, y compris, le cas échéant, sous forme électronique, permettant l’identification unique et la traçabilité des explosifs ainsi que l’apposition d’un identifiant unique sur l’explosif et/ou son emballage permettant d’accéder à ces données. Ces données se rapportent à l’identification unique de l’explosif, y compris son emplacement lorsqu’il est en la possession d’opérateurs économiques et l’identité de ces opérateurs économiques.
+
+(3) Les données visées au paragraphe 2 sont testées à intervalles réguliers et protégées contre tout dommage ou destruction accidentels ou délibérés. Ces données sont conservées pendant dix ans à compter de la transaction ou, lorsque les explosifs ont été utilisés ou éliminés, dix ans à partir de leur utilisation ou élimination, même lorsque l’opérateur économique n’exerce plus ses activités. Elles sont immédiatement disponibles à la demande du département de la surveillance du marché ou de l’ITM.
