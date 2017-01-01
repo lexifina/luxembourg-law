@@ -1,0 +1,3 @@
+# § 33 Erstmalige Anwendung des Gesetzes
+
+(3) Bis zur Bekanntgabe des ersten Steuerbescheids auf Grund dieses Gesetzes hat der Steuerschuldner zu den im § 22 Absatz 1 bezeichneten oder nach § 22 Absatz 2 bestimmten Fälligkeitstagen Vorauszahlungen auf die Grundsteuer von je einem Viertel oder einem Zwölftel der nach den rechtlichen Vorschriften zuletzt festgesetzten gesamten Jahressteuerschuld zu entrichten. Ergeben sich unter Zugrundelegung der zuletzt festgesetzten Jahressteuerschuld nach § 22 Absatz 3 andere Fälligkeitstage und andere Teilbeträge, so sind diese für die Vorauszahlungen massgebend.
