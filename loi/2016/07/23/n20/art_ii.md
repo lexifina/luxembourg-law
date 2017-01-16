@@ -1,0 +1,3 @@
+# Art. II.
+
+A l'article 6, un nouveau point 6bis° est inséré après le point 6° de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises: «6bis° dans le cas des sociétés à responsabilité limitée simplifiées, les nom, prénoms, date et lieu de naissance des associés, leur adresse privée ou professionnelle précise, le nombre de parts sociales détenues par chacun et le numéro de l'autorisation d'établissement délivrée conformément à la loi modifiée du 2 septembre 2011 réglementant l'accès aux professions d'artisan, de commerçant, d'industriel ainsi qu'à certaines professions libérales;».
