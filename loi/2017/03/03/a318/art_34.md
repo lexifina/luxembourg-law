@@ -1,0 +1,7 @@
+# Art. 34.
+
+L’article 40 de la loi précitée est modifié comme suit :
+
+Art. 40.
+
+Par dérogation à l’article 29, alinéa 3 de la loi communale modifiée du 13 décembre 1988, le règlement sur les bâtisses, les voies publiques et les sites, lequel prend la forme d’un règlement communal, est transmis au ministre dans un délai de quinze jours qui suit le vote du conseil communal par voie de lettre recommandée avec avis de réception. Il ne saurait être procédé à la publication du règlement communal précité conformément à l’article 82 de la loi communale modifiée du 13 décembre 1988 qu’après l’expiration d’un délai de trente jours qui court à compter de la réception par le ministre dudit règlement communal. Les affiches prévues par l’article 82 précité mentionnent la date de la transmission au ministre du règlement sur les bâtisses, les voies publiques et les sites.
