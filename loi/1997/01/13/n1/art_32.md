@@ -1,0 +1,7 @@
+# Art. 32.- Mesures préventives
+
+En vue de la réalisation des opérations prévues aux titres II et III, chapitre Ier de la présente loi, le ministre fait établir un plan d’urgence externe par catégorie de risque pour la santé humaine et animale ainsi que l’environnement. Ce plan est élaboré en collaboration avec le Service national de la protection civile qui en assure l’exécution conformément à la loi modifiée du 18 novembre 1976 portant organisation de la protection civile.
+
+Si au moment de l’octroi de l’autorisation ou en cours de l’opération le ministre estime, au vu des renseignements obtenus par l’exploitant ou à la suite de nouvelles connaissances scientifiques, que le plan préétabli risque de ne pas répondre suffisamment aux conditions de sécurité nécessaires pour garantir la protection de la santé humaine et animale ainsi que de l’environnement, il peut apporter des modifications ponctuelles ou des précisions aux prescriptions de ce plan.
+
+Le ministre s’assure encore que les personnes susceptibles d’être affectées sont informées, d’une manière appropriée et sans avoir à en faire la demande, sur les mesures de sécurité et sur le comportement à adopter en cas d’accident. Ces informations sont répétées et mises à jour à intervalles appropriés. Elles sont également rendues accessibles au public. Ces informations sont mises à la disposition des Etats membres de l’Union européenne, susceptibles d’être affectés en cas d’accident, dans le cadre de la coopération transfrontalière visée à l’article 34 paragraphe (1).

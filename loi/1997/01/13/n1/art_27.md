@@ -1,0 +1,5 @@
+# Art. 27. Mesures de sauvegarde
+
+(1) Sans préjudice de l’application de l’article 37 ci-après, si le ministre, en raison d’informations nouvelles complémentaires, devenues disponibles après que l’autorisation a été donnée et qui affectent l’évaluation des risques pour l’environnement ou en raison de la réévaluation des informations existantes sur la base de connaissances scientifiques nouvelles ou complémentaires, a des raisons précises de considérer qu’un OGM en tant que produit ou élément de produit ayant fait l’objet d’une autorisation en bonne et due forme au Luxembourg ou dans un autre Etat membre présente un risque pour la santé humaine ou l’environnement, il peut limiter ou interdire, à titre provisoire, l’utilisation et/ou la vente de cet OGM en tant que produit ou élément de produit. Il en informe immédiatement la Commission et les autres Etats membres et indique les motifs de sa décision.
+
+(2) Le ministre aligne sa décision définitive sur celle prise dans la suite par la Commission ou, le cas échéant, le Conseil de l’Union Européenne.
