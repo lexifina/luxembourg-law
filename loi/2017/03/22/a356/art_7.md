@@ -1,0 +1,3 @@
+# Art. 7.
+
+Toutes les informations pertinentes concernant les conditions et les procédures applicables à la délivrance des autorisations relatives aux travaux de génie civil nécessaires en vue du déploiement d’éléments de réseaux de communications électroniques à haut débit, y compris toute information relative aux dérogations applicables à ces éléments en ce qui concerne une partie ou la totalité des autorisations requises, sont mises à disposition du public moyennant le guichet unique électronique visé par l’article 6 de la loi modifiée du 24 mai 2011 relative aux services dans le marché intérieur.
