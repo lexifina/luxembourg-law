@@ -1,0 +1,5 @@
+# Art. 14. Cessation d’activité
+
+Avant la cessation d’activité définitive d’un établissement, l’exploitant doit déclarer cette cessation d’activité par lettre recommandée avec accusé de réception, en cinq exemplaires, à l’Inspection du travail et des mines, qui transmet d’office un exemplaire à l’Administration de l’environnement, à la Direction de la santé, à l’Administration des services de secours et, pour information et affichage, au bourgmestre de la commune d’implantation de l’établissement.
+
+Dans les soixante jours à compter de la réception de la déclaration de cessation d’activité, le ministre ayant le Travail dans ses attributions et le ministre ayant l’Environnement dans ses attributions, suivant leurs compétences respectives en matière d’autorisation, fixent les conditions en vue de la réalisation et la protection des intérêts visés à l’article 1er. Les mêmes dispositions s’appliquent lorsque la cessation d’activité n’est pas déclarée alors qu’elle est constatée par les personnes visées à l’article 32.

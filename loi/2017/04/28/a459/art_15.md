@@ -1,0 +1,3 @@
+# Art. 15. Évaluation des dangers liés aux accidents majeurs pour une substance dangereuse donnée
+
+Lorsque le ministre ayant le Travail dans ses attributions, le ministre ayant l’Environnement dans ses attributions et le ministre ayant la Santé dans ses attributions considèrent qu’il est impossible, en pratique, pour une substance dangereuse donnée, relevant de la partie 1 ou figurant à la partie 2 de l'annexe I, d'engendrer une libération de matière ou d'énergie susceptible de créer un accident majeur dans des conditions normales et dans des conditions anormales que l'on peut raisonnablement prévoir, le ministre ayant le Travail dans ses attributions en informe la Commission européenne.
