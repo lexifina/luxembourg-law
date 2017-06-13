@@ -1,0 +1,5 @@
+# Art. 3.
+
+A l’article 83 de la même loi, le paragraphe 1er, alinéa 1er, est modifié comme suit:
+
+A la fin de l’alinéa, les mots ainsi que des mesures régulatrices de l’Institut sont remplacés par les mots des mesures régulatrices de l’Institut, des articles 3, paragraphes 1er à 7, 4, paragraphes 1er à 3, 5, paragraphes 1er à 4, 6bis, 6ter, 6quater, 6quinquies, 6sexies, 6septies, 7, 9, 11, 12, 14 et 15 du Règlement (UE) n° 531/2012 du Parlement européen et du Conseil du 13 juin 2012 concernant l’itinérance sur les réseaux publics de communications mobiles à l’intérieur de l’Union (refonte) ainsi que des articles 3, 4, et 5.2 du Règlement (UE) 2015/2120 du Parlement européen et du Conseil du 25 novembre 2015 établissant des mesures relatives à l’accès à un internet ouvert et modifiant la directive 2002/22/CE concernant le service universel et les droits des utilisateurs au regard des réseaux et services de communications électroniques et le règlement (UE) n° 531/2012 concernant l’itinérance sur les réseaux publics de communications mobiles à l’intérieur de l’Union.

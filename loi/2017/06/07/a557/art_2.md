@@ -1,0 +1,27 @@
+# Art. 2.
+
+Après l’article 74 de la même loi il est inséré un nouveau titre Xbis libellé comme suit:
+
+« Titre Xbis - Collecte et conservation des données à caractère personnel des clients d’un service à prépaiement
+
+Art. 74bis. (1) Toute entreprise fournissant des services à prépaiement a l’obligation de saisir l’identité de la personne à laquelle le service est fourni, préalablement à la fourniture du service.
+
+A cette fin, l’entreprise collecte les données suivantes:
+
+- 1. S’il s’agit d’une personne physique:
+
+  - a) Le nom, le prénom, le lieu de résidence habituelle, le lieu et la date de naissance de la personne;
+
+  - b) Le type, le pays de délivrance et le numéro de la pièce d’identité ou de l’attestation de dépôt d’une demande de protection internationale de la personne, ainsi qu’une copie de cette pièce d’identité ou d’attestation.
+
+- 2. S’il s’agit d’une personne morale:
+
+  - a) La dénomination ou raison sociale, l’adresse du lieu d’établissement;
+
+  - b) Les mêmes données que sous le point 1, mais concernant la personne physique mandataire de la personne morale.
+
+- 3. Le type de service ainsi que le numéro d’appel alloué et, en cas d’utilisation d’une carte SIM, le numéro de la carte SIM (ICCID : Integrated Circuit Card Identifier - Identifiant de la carte à circuit intégré).
+
+(2) L’entreprise doit conserver les données visées au paragraphe 1er pendant la totalité de la période de fourniture du service, ainsi que pendant une période de trois ans à compter du jour de la désactivation du numéro d’appel. Après la période de conservation prévue à la phrase qui précède, l’entreprise est obligée d’effacer irrémédiablement et sans délai les données en question.
+
+En cas de collecte des données visées au paragraphe 1er par un revendeur lors de la vente par intermédiaire, le revendeur a l’obligation d’effacer irrémédiablement et sans délai les données visées au paragraphe 1er dès leur transmission à l’entreprise. La transmission doit intervenir au plus tard endéans un délai de cinq jours ouvrables à partir de la vente.
