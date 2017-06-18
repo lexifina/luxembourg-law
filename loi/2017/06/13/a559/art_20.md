@@ -1,0 +1,11 @@
+# Art. 20.
+
+(1) Lorsqu’un consommateur indique à son prestataire de services de paiement qu’il souhaite ouvrir un compte de paiement auprès d’un prestataire de services de paiement situé dans un État membre autre que le Luxembourg, le prestataire de services de paiement auprès duquel le consommateur détient un compte de paiement fournit au consommateur, dès réception d’une telle demande, l’assistance suivante :
+
+- 1. la fourniture gratuite au consommateur d’une liste de tous les ordres permanents de virement et de tous les mandats de domiciliation initiés par le débiteur actuellement actifs, lorsque ceux-ci sont disponibles, et les informations disponibles concernant les virements entrants récurrents et les domiciliations initiées par le créancier récurrentes qui ont été effectués sur le compte de paiement du consommateur au cours des treize derniers mois ;
+
+- 2. le transfert de tout solde positif éventuel du compte de paiement détenu par le consommateur sur le compte de paiement ouvert ou détenu par le consommateur auprès du nouveau prestataire de services de paiement, pour autant que la demande comporte tous les renseignements permettant d’identifier le nouveau prestataire de services de paiement et le compte de paiement du consommateur ;
+
+- 3. la clôture du compte de paiement détenu par le consommateur.
+
+(2) Sans préjudice de l’article 74, paragraphe 1er de la loi modifiée du 10 novembre 2009 relative aux services de paiement, et si le consommateur n’a pas d’obligations de paiement en suspens liées à son compte de paiement, le prestataire de services de paiement auprès duquel le consommateur détient ledit compte de paiement accomplit les étapes décrites au paragraphe 1er à la date indiquée par le consommateur, qui correspond à au moins six jours ouvrables après la réception par ce prestataire de services de paiement de la demande du consommateur qu’il souhaite ouvrir un compte de paiement auprès d’un prestataire de services de paiement situé dans un État membre autre que le Luxembourg, sauf accord contraire entre les parties. Le prestataire de services de paiement informe immédiatement le consommateur si des obligations en cours empêchent la clôture de son compte de paiement.

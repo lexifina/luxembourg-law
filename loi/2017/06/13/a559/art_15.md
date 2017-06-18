@@ -1,0 +1,15 @@
+# Art. 15.
+
+(1) Dans un délai de cinq jours ouvrables à compter de la réception des informations demandées au prestataire de services de paiement transmetteur visées à l’article 13, le prestataire de services de paiement destinataire, pour autant que l’autorisation le prévoie et selon les modalités prévues dans celle-ci, et dans la mesure où les informations communiquées par le prestataire de services de paiement transmetteur ou le consommateur lui permettent de le faire, accomplit les tâches suivantes :
+
+- 1. mettre en place les ordres permanents de virement demandés par le consommateur et les exécuter avec effet à la date indiquée dans l’autorisation ;
+
+- 2. prendre les dispositions nécessaires pour accepter les domiciliations et pour les accepter avec effet à la date indiquée dans l’autorisation ;
+
+- 3. le cas échéant, informer les consommateurs de leurs droits en vertu de l’article 5, paragraphe 3, lettre d), du règlement (UE) n° 260/2012 du Parlement européen et du Conseil du 14 mars 2012 établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et modifiant le règlement (CE) n° 924/2009 ;
+
+- 4. communiquer aux payeurs mentionnés dans l’autorisation et effectuant des virements entrants récurrents sur le compte de paiement d’un consommateur les coordonnées de son compte de paiement auprès du prestataire de services de paiement destinataire et transmettre aux payeurs une copie de l’autorisation donnée par le consommateur. Si le prestataire de services de paiement destinataire ne dispose pas de toutes les informations dont il a besoin pour informer les payeurs, il demande au consommateur ou au prestataire de services de paiement transmetteur de lui fournir les informations manquantes ;
+
+- 5. communiquer aux bénéficiaires mentionnés dans l’autorisation et utilisant la domiciliation pour percevoir des fonds provenant du compte de paiement du consommateur les coordonnées de son compte de paiement auprès du prestataire de services de paiement destinataire et la date à partir de laquelle les domiciliations doivent être effectuées à partir de ce compte de paiement, et transmettre aux bénéficiaires une copie de l’autorisation donnée par le consommateur. Si le prestataire de services de paiement destinataire ne dispose pas de toutes les informations dont il a besoin pour informer les bénéficiaires, il demande au consommateur ou au prestataire de services de paiement transmetteur de lui fournir les informations manquantes.
+
+(2) Lorsque le consommateur choisit de fournir lui-même les informations visées au paragraphe 1er, points 4 et 5 aux payeurs ou aux bénéficiaires plutôt que de donner son accord spécifique en vertu de l’article 12 au prestataire de services de paiement destinataire pour que celui-ci s’en charge, le prestataire de services de paiement destinataire lui fournit des lettres types indiquant les coordonnées du compte de paiement et la date de début précisée dans l’autorisation, dans le délai prévu au paragraphe 1er.
