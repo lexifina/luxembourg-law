@@ -1,0 +1,5 @@
+# Art. 46.
+
+(1) Les entreprises de tramway, les gestionnaires d’infrastructure et les entités en charge de la maintenance, y compris leurs contractants, concluent des dispositions contractuelles garantissant qu’ils s’échangent mutuellement toutes les informations pertinentes relatives à la sécurité obtenues en appliquant le processus de contrôle décrit à l’annexe VI, afin de permettre aux autres parties de prendre les mesures correctives nécessaires pour garantir le maintien du niveau de sécurité du système de tramway.
+
+(2) Si les entreprises de tramway, les gestionnaires d’infrastructure et les entités en charge de la maintenance décèlent, grâce au processus de contrôle, un risque pertinent pour la sécurité résultant d’anomalies, d’une construction non conforme ou de dysfonctionnements d’équipements techniques, notamment ceux de sous-systèmes structurels, ils signalent ces risques aux autres parties concernées afin de leur permettre de prendre toutes les mesures correctives nécessaires pour garantir le maintien du niveau de sécurité du système de tramway.

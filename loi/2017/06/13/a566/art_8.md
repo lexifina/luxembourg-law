@@ -1,0 +1,7 @@
+# Art. 8.
+
+Le gestionnaire de l’infrastructure et les entreprises de tramway prennent toutes les mesures requises en vue d’assurer la sécurité de l’exploitation du système tramway et de maîtriser les risques qui en résultent, le cas échéant, en coopération les uns avec les autres. Ils appliquent les règles nationales de sécurité visées à l’article 7, paragraphe 1er et établissent leur système de gestion de la sécurité conformément aux dispositions de l’article 23 paragraphe 2 de la présente loi.
+
+Sans préjudice de la responsabilité civile établie conformément aux prescriptions légales, le gestionnaire de l’infrastructure et chaque entreprise de tramway est responsable de sa partie du système tramway et de la sécurité d’exploitation de celle-ci, y compris la fourniture de matériel et la sous-traitance de services, vis-à-vis des tiers.
+
+La responsabilité du gestionnaire de l’infrastructure et de chaque entreprise de tramway dans l’exploitation du système tramway n’affecte pas la responsabilité de chaque fabricant, fournisseur de services d’entretien, détenteur, prestataire de services et entité adjudicatrice de livrer du matériel roulant, des installations, des accessoires et des équipements ainsi que des services conformes aux exigences et conditions d’utilisation prescrites, de sorte que ceux-ci puissent être exploités en toute sécurité par l’entreprise de tramway respectivement par le gestionnaire de l’infrastructure.
