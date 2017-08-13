@@ -1,0 +1,3 @@
+# Art. 29.
+
+Par dérogation à l’article 1er, les articles 5 à 12 sont également applicables aux chargés de cours, détenteurs d’un diplôme luxembourgeois de fin d’études secondaires ou d’un diplôme luxembourgeois de fin d’études secondaires techniques ou d’un diplôme reconnu équivalent par le ministre ayant l’Éducation nationale dans ses attributions, membres de la réserve de suppléants de l’enseignement fondamental, bénéficiant d’un contrat à durée indéterminée, à tâche partielle ou complète, suite à leur demande, et pendant une durée de trois ans à compter de la date d’introduction du cours « vie et société » dans l’enseignement fondamental.

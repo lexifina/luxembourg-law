@@ -1,0 +1,3 @@
+# Art. 14.
+
+Lors des opérations d’affectation dans le cadre de la réserve de suppléants prévue à l’article 16, alinéa 1er, de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental, l’agent ayant participé à au moins 80 pour cent de la formation théorique ainsi qu’à l’intégralité de la formation pratique visé à l’article 4, paragraphe 1er, point 7 de la présente loi, ainsi que l’agent ayant atteint l’âge de cinquante-sept ans visé à l’article 4, paragraphe 2 de la présente loi, sont classés sous le point 4 de l’article 16, alinéa 1er de la loi modifiée du 6 février 2009 précitée, après les agents détenteurs du certificat de formation, lesquels sont classés sous le point 3.

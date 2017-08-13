@@ -1,0 +1,3 @@
+# Art. 30.
+
+Les deux coopérateurs pastoraux sont, à leur demande, repris dans la réserve de suppléants de l’enseignement fondamental prévue à la section 1ère du chapitre 2 et restent classés au même grade et échelon atteints au moment de leur reprise dans le tableau de l’Annexe C, rubrique « Cultes » de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État. Les avancements ultérieurs sont subordonnés aux dispositions de l’article 56, paragraphe 2, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
