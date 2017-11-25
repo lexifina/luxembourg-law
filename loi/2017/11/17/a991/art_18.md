@@ -1,0 +1,3 @@
+# Art. 18. Mesures transitoires
+
+Jusqu'au 31 décembre 2022, la commercialisation au Grand-Duché de Luxembourg de matériels de multiplication et de plantes fruitières produits à partir de plantes mères initiales, de plantes mères de base, de plantes mères certifiées ou de matériels CAC existant avant le 1er janvier 2017 et ayant été certifiés officiellement ou satisfaisant aux conditions requises pour être qualifiés comme matériels CAC avant le 31 décembre 2022 est autorisée. Lorsqu'ils sont commercialisés, ces matériels de multiplication et plantes fruitières sont identifiés par l'inscription d'une référence au présent article sur l'étiquette et par un document.

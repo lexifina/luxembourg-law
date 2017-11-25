@@ -1,0 +1,3 @@
+# Art. 11. Matériels de multiplication et plantes fruitières produits dans des pays tiers
+
+L’organisme officiel responsable peut appliquer à l’importation de matériels de multiplication et de plantes fruitières en provenance de pays tiers à l’Union européenne des conditions au moins équivalentes à celles indiquées, à titre temporaire ou permanent, dans les prescriptions spécifiques adoptées en application de l’article 4. Si de telles conditions ne sont pas prévues dans ces prescriptions spécifiques, les conditions applicables à l’importation doivent être au moins équivalentes à celles qui s’appliquent à la production nationale.
