@@ -1,0 +1,5 @@
+# Art. 5.
+
+(1) Lorsqu’une personne s’estime lésée par le non-respect à son égard du principe de l’égalité de traitement et établit directement ou par l’intermédiaire d’une association sans but lucratif ayant compétence pour ce faire conformément à l’article 7 qui suit ou par l’intermédiaire d’un syndicat ayant compétence pour ce faire conformément et dans les limites de l’article L. 253-5 paragraphe (2) du Code du travail, ou dans le cadre d’une action née de la convention collective de travail ou de l’accord conclu en application de l’article L. 165-1 du Code du travail conformément et dans les limites de l’article L. 253-5, paragraphe (1) du Code du travail, devant la juridiction civile ou administrative, des faits qui permettent de présumer l’existence d’une discrimination directe ou indirecte, il incombe à la partie défenderesse de prouver qu’il n’y a pas eu violation du principe de l’égalité de traitement.
+
+(2) Le paragraphe (1) ne s’applique pas aux procédures pénales.
