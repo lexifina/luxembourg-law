@@ -1,0 +1,3 @@
+# Art. 4.
+
+Sur proposition motivée du ministre ayant le Tourisme dans ses attributions, le Gouvernement peut octroyer, en complément aux subventions déterminées à l’article 3, des aides spéciales au cas où la création d’infrastructures touristiques régionales s’impose et que les moyens financiers des communes, des syndicats de communes, des syndicats d’initiative, des associations sans but lucratif œuvrant en faveur du tourisme ainsi que des groupements d’intérêt économique promouvant le tourisme au niveau national sont insuffisants, ou si la création des infrastructures à réaliser présente un intérêt national.
