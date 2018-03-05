@@ -1,0 +1,7 @@
+# Art. 59.
+
+L’article 1er de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement est modifié comme suit :
+
+- 1. Au point 6, les mots conformément à l’article 59, sont remplacés par les mots conformément à l’article 61 de la directive 2014/59/UE du Parlement européen et du Conseil du 15 mai 2014 établissant un cadre pour le redressement et la résolution des établissements de crédit et des entreprises d’investissement et modifiant la directive 82/891/CEE du Conseil ainsi que les directives du Parlement européen et du Conseil 2001/24/CE, 2002/47/CE, 2004/25/CE, 2005/56/CE, 2007/36/CE, 2011/35/UE, 2012/30/UE et 2013/36/UE et les règlements du Parlement européen et du Conseil (UE) n° 1093/2010 et (UE) n° 648/2012, dénommée ci-après «directive 2014/59/UE», et les mots visés à l’article 57, paragraphe 3 sont remplacés par les mots visés à l’article 59, paragraphe 3 de la directive 2014/59/UE ;
+
+- 2. Au point 8, les mots du Parlement européen et du Conseil du 15 mai 2014 établissant un cadre pour le redressement et la résolution des établissements de crédit et des entreprises d’investissement et modifiant la directive 82/891/CEE du Conseil ainsi que les directives du Parlement européen et du Conseil 2001/24/CE, 2002/47/CE, 2004/25/CE, 2005/56/CE, 2007/36/CE, 2011/35/UE, 2012/30/UE et 2013/36/UE et les règlements du Parlement européen et du Conseil (UE) n° 1093/2010 et (UE) n° 648/2012, dénommée ci-après «directive 2014/59/UE» sont supprimés.

@@ -1,0 +1,3 @@
+# Art. 43.
+
+À l’article 109, paragraphe 2, deuxième tiret, de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, les mots prévues par la loi du 27 juillet 2000 portant transposition de la directive 97/9/CE relative aux systèmes d’indemnisation des investisseurs dans la loi modifiée du 5 avril 1993 relative au secteur financier sont remplacés par les mots de la partie III, titre III, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement et à l’article 22-1 de la loi modifiée du 5 avril 1993 relative au secteur financier.
