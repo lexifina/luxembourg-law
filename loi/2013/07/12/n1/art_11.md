@@ -20,4 +20,4 @@ Aucun investisseur dans un FIA ne peut bénéficier d’un traitement préféren
 
 - a) ne sont pas autorisés à placer tout ou partie du portefeuille du client dans des parts ou des actions de FIA qu’ils gèrent, à moins d’avoir reçu l’accord général préalable du client;
 
-- b) sont soumis, pour ce qui concerne les services visés à l’article 5, paragraphe (4), aux dispositions prévues par la loi du 27 juillet 2000 portant transposition de la directive 97/9/CE relative aux systèmes d’indemnisation des investisseurs dans la loi modifiée du 5 avril 1993 relative au secteur financier.
+- b) sont soumis, pour ce qui concerne les services visés à l’article 5, paragraphe (4), aux dispositions de la partie III, titre III, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement et à l’article 22-1 de la loi modifiée du 5 avril 1993 relative au secteur financier .
