@@ -1,0 +1,11 @@
+# Art. 35.
+
+L’article 172 de la même loi est remplacé par la disposition suivante :
+
+Art. 172.
+
+Dès réception de la demande, le collège des bourgmestre et échevins vérifie si elle comporte les indications et pièces requises. Il vérifie si le requérant est inscrit sur les listes électorales.
+
+Si le requérant remplit les conditions de l’électorat, le collège des bourgmestre et échevins lui envoie, dans le cas visé à l’article 171, alinéa 1er, au plus tard quinze jours avant le scrutin et, dans le cas visé à l’article 171, alinéa 2, au plus tard trente jours avant le scrutin, sous pli recommandé, la lettre de convocation comprenant la liste des candidats et l’instruction annexée à la présente loi, une enveloppe électorale et un bulletin de vote dûment estampillés conformément aux dispositions de l’article 78 de la présente loi ainsi qu’une enveloppe pour la transmission de l’enveloppe électorale, portant la mention « Élections Vote par correspondance », l’indication du bureau de vote destinataire du suffrage à l’angle droit en bas et le numéro d’ordre, le nom, les prénoms et l’adresse de l’électeur à l’angle gauche en haut.
+
+Si le requérant ne remplit pas les conditions du vote par correspondance, le collège des bourgmestre et échevins lui notifie son refus, dans le cas visé à l’article 171, alinéa 1er, au plus tard vingt jours avant le scrutin et, dans le cas visé à l’article 171, alinéa 2, au plus tard trente-cinq jours avant le scrutin.

@@ -1,0 +1,9 @@
+# Art. 34.
+
+L’article 171 de la même loi est remplacé par la disposition suivante :
+
+Art. 171.
+
+La demande doit être déposée électroniquement ou parvenir par envoi postal au collège des bourgmestre et échevins, sous peine de déchéance, au plus tôt douze semaines et au plus tard vingt-cinq jours avant le jour du scrutin, si la lettre de convocation doit être envoyée à une adresse au Grand-Duché de Luxembourg.
+
+Si la lettre de convocation doit être envoyée à une adresse se situant à l’étranger, ce dernier délai est de quarante jours au plus tard avant le jour du scrutin.
