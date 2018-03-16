@@ -1,0 +1,3 @@
+# Art. 72.
+
+L'action publique résultant des infractions prévues par la présente loi est prescrite après une année révolue à partir du jour où les crimes et délits ont été commis, sans préjudice de ce qui est statué par l'article 94 de la loi électorale.

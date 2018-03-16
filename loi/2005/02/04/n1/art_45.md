@@ -1,0 +1,3 @@
+# Art. 45.
+
+Lorsque le scrutin est clos, le bureau fait le récolement des bulletins non employés, lesquels sont immédiatement détruits. Il est fait mention du nombre de ces bulletins au procès-verbal.
