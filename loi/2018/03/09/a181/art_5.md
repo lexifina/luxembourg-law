@@ -1,0 +1,5 @@
+# Art. 5.
+
+À l’article 32, l’alinéa 3 prend la teneur suivante :
+
+Toute liste de candidats doit comprendre un nombre de candidats au moins égal au nombre des délégués effectifs et suppléants à élire. Au cas où pour un groupe électoral il n’aurait été présenté qu’une seule liste de candidats et que cette liste ne présente pas assez de délégués à élire, le nombre total de membres élus, ainsi que le nombre de délégués prévu pour ce groupe électoral, est diminué d’autant. Au cas où pour un groupe électoral il n’aurait été présenté aucune liste de candidats ou une(des) liste(s) ne contenant aucun candidat, le nombre total de membres élus, ainsi que le nombre de délégués prévu pour ce groupe électoral, n'est pas diminué d’autant, mais il sera procédé à des nouvelles élections uniquement dans ce groupe après constitution de l'assemblée plénière et dans un délai maximal de six mois. Toute proposition de candidats doit être signée par un nombre d’électeurs égal à celui des membres effectifs à élire par le groupe électoral en question.
