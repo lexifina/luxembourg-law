@@ -1,3 +1,0 @@
-# Art. 22.
-
-Les salaires payés pendant le congé spécial dans le secteur privé et les indemnités versées aux indépendants sont à charge de l'État pour ce qui concerne les volontaires de la protection civile, les responsables de la fédération nationale des corps de sapeurs-pompiers ainsi que les instructeurs et les personnes relevant de l'administration des services de secours et à charge de la commune concernée en ce qui concerne les volontaires des services d'incendie et de sauvetage le tout suivant des modalités à fixer par règlement grand-ducal. Les salaires et indemnités redus à raison du congé spécial accordé aux membres des organismes de secours agréés en vertu de l'article 15 de la présente loi sont à charge de l'État.
