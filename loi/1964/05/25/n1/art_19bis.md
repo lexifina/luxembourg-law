@@ -1,0 +1,11 @@
+# Art. 19bis.
+
+Le Ministre de l’Agriculture peut décider qu’il n’est pas tenu d’assemblée générale lorsque le remembrement est exécuté dans le cadre de travaux d’intérêt général.
+
+Dans ce cas, les parcelles situées sur l’emprise de ce projet peuvent, en totalité ou en partie, être acquises à l’amiable par le maître de l’ouvrage. Afin de constituer une réserve d'apport dans le remembrement, le maître de l'ouvrage peut également acquérir à l'amiable des parcelles incluses dans le périmètre de remembrement. L'Office peut être chargé par le maître de l'ouvrage de cette mission d'acquisition à l'amiable.
+
+L’emprise du projet peut aussi être prélevée, en totalité ou en partie, sur l’ensemble des parcelles sises à l’intérieur du périmètre de remembrement. Dans ce cas, chaque propriétaire de parcelles incluses dans le périmètre subit, sur l’ensemble de son apport à l’opération du remembrement, un prélèvement proportionnel à la superficie apportée dans le remembrement. Les indemnités revenant aux propriétaires sont fixées de commun accord entre le maître de l’ouvrage, le collège des syndics de l’association syndicale de remembrement, prévue à l’article 10, et l’Office. En cas de désaccord entre ces trois parties l'indemnité est fixée par le Ministre de l'Agriculture. Les montants des indemnités calculées sont comptabilisés sur les numéros de compte des ayants droit gérés par l'Office pour chaque propriétaire dans le cadre de la procédure de remembrement. Des acomptes sont liquidés conformément aux modalités de l'art. 19ter ci-après. Les montants dus sont garantis par le maître de l'ouvrage. En cas de désaccord, les contestations relatives aux indemnités sont jugées comme en matière d’expropriation pour cause d’utilité publique.
+
+Le prélèvement à opérer, pour la réalisation du projet, sur les propriétaires des parcelles incluses dans le périmètre, ne peut pas dépasser le vingtième de la superficie des terrains que ce périmètre englobe.
+
+Lorsque par suite de la réalisation du projet d’aménagement du territoire, des travaux supplémentaires sont à faire au réseau des chemins d’exploitation et des voies d’écoulement d’eau, les frais occasionnés par ces travaux sont à charge du maître de l’ouvrage.

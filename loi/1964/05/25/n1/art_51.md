@@ -1,0 +1,3 @@
+# Art. 51.
+
+Si, au cours de l'exécution du remembrement conventionnel ou légal, ou après la passation de l'acte, la propriété d'une parcelle est l'objet d'un litige, de même que s'il apparaît que des personnes qui n'étaient pas propriétaires, mais qui étaient reconnues comme tels au cadastre, y ont pris part, le remembrement et l'acte afférent n'en sont pas moins réputés valables. Le propriétaire effectif est subrogé par les soins de l'Office national du remembrement, soit à la suite de l'accord des parties, soit à la suite d'une décision de justice, dans les droits et obligations indûment acquis par la partie ayant agi en ses lieu et place.
