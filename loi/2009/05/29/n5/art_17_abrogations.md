@@ -1,3 +1,0 @@
-# Art. 17. Abrogations
-
-La loi du 13 mars 2007 portant – 1. transposition en droit luxembourgeois en matière d’infrastructures de transport de la directive 97/11/CE du Conseil du 3 mars 1997 modifiant la directive 85/337/CEE concernant l’évaluation des incidences de certains projets publics et privés sur l’environnement – 2. modification de la loi du 16 août 1967 ayant pour objet la création d’une grande voirie de communication et d’un fonds des routes, telle que modifiée – 3. modification de la loi du 10 mai 1995 relative à la gestion de l’infrastructure ferroviaire, telle que modifiée est abrogée.
