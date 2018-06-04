@@ -1,0 +1,7 @@
+# Art. 28. Dispositions relatives aux contreparties centrales, aux organismes de compensation et aux systèmes de règlement
+
+(1) Les établissements de crédit, les entreprises d’investissement et les opérateurs de marché exploitant un MTF au Luxembourg peuvent convenir avec un système de règlement, un organisme de compensation ou une contrepartie centrale, que ceux-ci soient établis au Luxembourg ou dans un autre Etat membre, de dispositifs appropriés afin d’organiser le règlement ou la compensation de tout ou partie des transactions conclues par les membres ou participants dans le cadre des systèmes du MTF.
+
+(2) La CSSF ne peut interdire aux établissements de crédit, aux entreprises d’investissement et aux opérateurs de marché exploitant un MTF au Luxembourg le recours à un système de règlement, à un organisme de compensation ou à une contrepartie centrale d'un autre Etat membre, sauf si cette interdiction est nécessaire pour préserver le fonctionnement ordonné du MTF en tenant compte des conditions imposées à l’article 17, paragraphe 3, pour le recours aux systèmes de règlement.
+
+Pour éviter la répétition injustifiée des contrôles, la CSSF tient compte de la supervision et de la surveillance des systèmes de compensation et de règlement déjà exercées par les banques centrales chargées de la supervision des systèmes de compensation et de règlement ou par d’autres autorités de surveillance compétentes à l’égard de ces systèmes.

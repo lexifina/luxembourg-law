@@ -1,0 +1,3 @@
+# Art. 61. Publication de données relatives à la qualité de l'exécution des transactions
+
+Pour les instruments financiers soumis à l’obligation de négociation visée aux articles 23 et 28 du règlement (UE) n° 600/2014, les plates-formes de négociation et internalisateurs systématiques, et, pour les autres instruments financiers, les systèmes d'exécution, mettent à la disposition du public, sans frais, les données relatives à la qualité d’exécution des transactions au moins une fois par an. Ces rapports périodiques incluent des informations détaillées sur le prix, les coûts, la rapidité et la probabilité d’exécution pour les différents instruments financiers.

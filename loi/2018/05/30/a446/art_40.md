@@ -1,0 +1,3 @@
+# Art. 40. OTF effectuant des déclarations de transactions
+
+Un OTF qui effectue des déclarations de transactions pour le compte d’un établissement de crédit ou d’une entreprise d’investissement en vertu de l’article 26, paragraphe 7, du règlement (UE) n° 600/2014, dispose de mécanismes de sécurité efficaces pour garantir la sécurité et l’authentification des moyens de transfert d’informations, réduire au minimum le risque de corruption des données et d’accès non autorisé et empêcher les fuites d’informations en préservant la confidentialité des données à tout moment. L’OTF dispose des ressources suffisantes et des mécanismes de sauvegarde pour pouvoir assurer ses services à tout moment.

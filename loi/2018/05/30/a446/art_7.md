@@ -1,0 +1,43 @@
+# Art. 7. Résilience des systèmes, coupe-circuit et trading électronique
+
+(1) Les marchés réglementés disposent de systèmes, de procédures et de mécanismes efficaces pour garantir que leurs systèmes de négociation sont résilients, possèdent une capacité suffisante pour gérer les volumes les plus élevés d’ordres et de messages, sont en mesure d’assurer un processus de négociation ordonné en période de graves tensions sur les marchés, sont soumis à des tests exhaustifs afin de confirmer que ces conditions sont réunies et sont régis par des mécanismes de continuité des activités assurant le maintien de leurs services en cas de défaillance de leurs systèmes de négociation.
+
+(2) Les marchés réglementés disposent :
+
+- 1. d’accords écrits avec toutes les entreprises d’investissement ou établissements de crédit qui appliquent une stratégie de tenue de marché sur le marché réglementé ;
+
+- 2. de systèmes veillant à ce qu’un nombre suffisant d’entreprises d’investissement ou d’établissements de crédit participent à ces accords, qui exigent d’eux qu’ils affichent des cours fermes et compétitifs avec pour résultat d’apporter de la liquidité au marché de manière régulière et prévisible lorsque cette exigence est adaptée à la nature et à la taille des négociations sur ce marché réglementé.
+
+(3) Les accords écrits visés au paragraphe 2 précisent au minimum :
+
+- 1. les obligations de l’entreprise d’investissement ou de l’établissement de crédit en matière d’apport de liquidité et, le cas échéant, toute autre obligation découlant de la participation au système visé au paragraphe 2, point 2 ;
+
+- 2. toute incitation sous forme de rabais ou sous une autre forme proposée par le marché réglementé à une entreprise d’investissement ou à un établissement de crédit afin d’apporter de la liquidité au marché de manière régulière et prévisible et, le cas échéant, tout autre droit acquis par l’entreprise d’investissement ou par l’établissement de crédit en raison de sa participation au système visé au paragraphe 2, point 2.
+
+Le marché réglementé contrôle et s’assure que l’entreprise d’investissement ou l’établissement de crédit se conforme aux exigences de ces accords écrits contraignants. Le marché réglementé informe la CSSF du contenu de l’accord écrit contraignant et fournit, sur demande de la CSSF, toute information complémentaire permettant à celle-ci de s’assurer que le marché réglementé respecte le présent paragraphe.
+
+(4) Les marchés réglementés disposent de systèmes, de procédures et de mécanismes efficaces permettant de rejeter les ordres dépassant des seuils de volume et de prix préalablement établis ou des ordres manifestement erronés.
+
+(5) Les marchés réglementés sont en mesure de suspendre ou de limiter la négociation en cas de fluctuation importante des prix d’un instrument financier sur ce marché ou sur un marché lié sur une courte période et, dans des cas exceptionnels, d’annuler, de modifier ou de corriger une transaction. Les marchés réglementés veillent à ce que les paramètres de suspension de la négociation soient judicieusement calibrés de façon à tenir compte de la liquidité des différentes catégories et sous-catégories d’actifs, de la nature du modèle de marché et des catégories d’utilisateurs, et soient suffisants pour éviter des dysfonctionnements importants dans le bon fonctionnement de la négociation.
+
+Les marchés réglementés notifient à la CSSF les paramètres de suspension de la négociation, ainsi que tout changement notable apporté à ces paramètres, d’une manière cohérente et autorisant les comparaisons. La CSSF notifie ces paramètres à l’AEMF.
+
+Lorsqu’un marché réglementé significatif en termes de liquidités dans cet instrument financier suspend la négociation, il dispose des systèmes et procédures nécessaires pour veiller à ce qu’il informe les autorités compétentes concernées. La CSSF coordonne, le cas échéant, une réponse au niveau de l’ensemble du marché en concertation avec les autres autorités compétentes concernées et détermine s’il convient de suspendre la négociation sur d’autres plates-formes sur lesquelles l’instrument financier est négocié jusqu’à la reprise de la négociation sur le marché initial.
+
+(6) Les marchés réglementés disposent de systèmes, de procédures et de mécanismes efficaces et exigent de leurs membres ou de leurs participants qu’ils procèdent à des essais appropriés d’algorithmes et mettent à disposition les environnements facilitant ces essais, pour garantir que les systèmes de trading algorithmique ne donnent pas naissance ou ne contribuent pas à des conditions de négociation de nature à perturber le fonctionnement ordonné du marché et pour gérer les conditions de négociation de nature à perturber le fonctionnement ordonné du marché qui découlent de ces systèmes de trading algorithmique, y compris de systèmes permettant de limiter la proportion d’ordres non exécutés par rapport aux transactions susceptibles d’être introduites dans le système par un membre ou un participant, de ralentir le flux d’ordres si le système risque d’atteindre sa capacité maximale ainsi que de limiter le pas minimal de cotation sur le marché et de veiller à son respect.
+
+(7) Les marchés réglementés offrant un accès électronique direct disposent de systèmes, de procédures et de mécanismes efficaces pour garantir que les membres ou participants ne sont autorisés à fournir de tels services que s’ils ont la qualité d’entreprise d’investissement agréée conformément à la directive 2014/65/UE ou d’établissement de crédit agréé conformément à la directive 2013/36/UE du Parlement européen et du Conseil et du 26 juin 2013 concernant l'accès à l'activité des établissements de crédit et la surveillance prudentielle des établissements de crédit et des entreprises d'investissement, modifiant la directive 2002/87/CE et abrogeant les directives 2006/48/CE et 2006/49/CE, dénommée ci-après « directive 2013/36/UE », que des critères adéquats sont établis et appliqués pour déterminer l’adéquation des personnes auxquelles cet accès peut être accordé et que le membre ou participant reste responsable des ordres et transactions exécutés au moyen de ce service en ce qui concerne les exigences de la directive 2014/65/UE.
+
+Par ailleurs, les marchés réglementés établissent des normes appropriées concernant les contrôles des risques et les seuils de risque applicables à la négociation par l’intermédiaire d’un tel accès et sont en mesure de distinguer les ordres ou transactions exécutés par une personne utilisant l’accès électronique direct des autres ordres ou transactions exécutés par le membre ou le participant et, si nécessaire, de les bloquer.
+
+Les marchés réglementés disposent de mécanismes permettant de suspendre ou de mettre fin à l’accès électronique direct accordé à un client par un membre ou un participant en cas de non-respect des alinéas 1er et 2.
+
+(8) Les marchés réglementés veillent à ce que leurs règles en matière de services de colocalisation soient transparentes, équitables et non discriminatoires.
+
+(9) Les marchés réglementés veillent à ce que leurs structures tarifaires, y compris les frais d’exécution, les commissions pour services auxiliaires et les rabais éventuels, soient transparentes, équitables et non discriminatoires et à ce qu’elles ne créent pas d’incitations à passer, modifier ou annuler des ordres pour exécuter des transactions d’une façon qui contribue à des conditions de négociation de nature à perturber le fonctionnement ordonné du marché ou à conduire à des abus de marché. En particulier, les marchés réglementés imposent des obligations de tenue de marché sur les actions individuelles ou sur un panier adapté d’actions en échange de tout rabais octroyé.
+
+Les marchés réglementés peuvent adapter leurs tarifs pour les ordres annulés en fonction de la durée pendant laquelle l’ordre a été maintenu et calibrer les tarifs en fonction de chaque instrument financier auquel ils s’appliquent.
+
+Afin de refléter la charge supplémentaire que cela représente sur la capacité du système, les marchés réglementés peuvent imposer des tarifs plus élevés aux membres ou participants qui passent un ordre qui est ensuite annulé, qui passent une proportion élevée d’ordres annulés par rapport aux ordres exécutés ou qui appliquent une technique de trading algorithmique à haute fréquence.
+
+(10) Les marchés réglementés sont en mesure d’identifier, au moyen d’un marquage effectué par les membres ou participants, les ordres générés par le trading algorithmique, les différents algorithmes utilisés pour la création d’ordres et les personnes pertinentes initiant ces ordres. Ces informations sont mises à la disposition de la CSSF sur demande.

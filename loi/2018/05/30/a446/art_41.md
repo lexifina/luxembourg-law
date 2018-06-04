@@ -1,0 +1,3 @@
+# Art. 41. Liste officielle des OTF
+
+La CSSF tient la liste officielle des OTF exploités au Luxembourg. Elle communique cette liste à l’AEMF. Chaque modification de cette liste donne lieu à une communication analogue. La liste officielle est publiée sur le site internet de la CSSF et est actualisée à chaque modification.
