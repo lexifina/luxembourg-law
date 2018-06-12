@@ -14,7 +14,9 @@
 
 - – elles ne donnent pas suite aux injonctions de la CSSF,
 
-- – elles risquent, par leur comportement, de mettre en péril la gestion saine et prudente de l’établissement concerné.
+- – elles risquent, par leur comportement, de mettre en péril la gestion saine et prudente de l’établissement concerné,
+
+- – elles ne respectent pas les obligations prévues par les articles 13 et 14 du règlement (UE) 2015/2365 du Parlement européen et du Conseil du 25 novembre 2015 relatif à la transparence des opérations de financement sur titres et de la réutilisation et modifiant le règlement (UE) n° 648/2012.
 
 (2) Peuvent être prononcés par la CSSF, classés par ordre de gravité:
 
