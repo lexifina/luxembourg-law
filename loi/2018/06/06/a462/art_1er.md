@@ -1,0 +1,7 @@
+# Art. 1er. Désignation de l’autorité compétente
+
+(1) La Commission de surveillance du secteur financier, dénommée ci-après « CSSF », est l’autorité compétente, chargée, en application de l’article 11, paragraphe 1er, du règlement (UE) n° 909/2014 du Parlement européen et du Conseil du 23 juillet 2014 concernant l’amélioration du règlement de titres dans l’Union européenne et les dépositaires centraux de titres, et modifiant les directives 98/26/CE et 2014/65/UE ainsi que le règlement (UE) n° 236/2012, dénommé ci-après « règlement (UE) n° 909/2014 », d’exercer les missions prévues par le règlement (UE) n° 909/2014 en ce qui concerne l’agrément et la surveillance des dépositaires centraux de titres établis au Luxembourg.
+
+(2) Le paragraphe 1er est sans préjudice des missions qui incombent à la Banque centrale du Luxembourg au titre du Traité sur le Fonctionnement de l’Union européenne et des statuts du Système européen de banques centrales et de la Banque centrale européenne, ainsi que de la loi modifiée du 23 décembre 1998 relative au statut monétaire et à la Banque centrale du Luxembourg et du titre V de la loi modifiée du 10 novembre 2009 relative aux services de paiement.
+
+(3) La CSSF notifie à l’Autorité européenne des marchés financiers, dénommée ci-après « AEMF », les décisions visées par les articles 21, paragraphe 1er, et 58, paragraphe 1er, du règlement (UE) n° 909/2014, ainsi que les informations visées à l’article 61, paragraphe 6, du règlement (UE) n° 909/2014.
