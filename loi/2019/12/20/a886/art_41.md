@@ -1,0 +1,5 @@
+# Art. 41. Modification de la loi électorale du 18 février 2003 telle que modifiée
+
+L’article 126, paragraphe 9, alinéa 1er, de la loi électorale du 18 février 2003 telle que modifiée, est libellé comme suit :
+
+« Sur présentation d’un contrat de travail, la Chambre, de l’assentiment de son Bureau, qui juge de la réalité des relations de travail, indemnise le député des frais à lui accrus du fait de l’engagement d’un collaborateur, sans que cette indemnité ne puisse dépasser un maximum de 340 points indiciaires annuels, à augmenter d’un douzième à titre d’allocation de fin d’année. Le contrat de travail peut être remplacé par une convention d’honoraires dans le cas où il s’agit de l’engagement d’un avocat inscrit au tableau de l’un des ordres des avocats ou d’un membre d’une autre profession indépendante dont l’accès et l’exercice sont réglementés. Le député ne peut pas demander l’indemnisation des frais à lui accrus du fait de l’engagement de son conjoint, du partenaire avec lequel il vit dans un partenariat déclaré au Luxembourg ou à l’étranger, du partenaire avec lequel il vit en communauté de vie ou de ses parents, enfants, frères ou soeurs. ».
