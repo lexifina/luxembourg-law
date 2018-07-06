@@ -1,0 +1,7 @@
+# Art. 35. Articles pyrotechniques conformes qui présentent un risque pour la santé ou sécurité.
+
+(1) Lorsque le département de la surveillance du marché constate, après avoir réalisé l’évaluation visée à l’article 33, paragraphe 1er, qu’un article pyrotechnique, bien que conforme à la présente loi, présente un risque pour la santé ou la sécurité des personnes ou pour d’autres aspects relatifs à la protection de l’intérêt public, il invite l’opérateur économique en cause à prendre toutes les mesures appropriées qu’il prescrit en vertu de l’article 13, paragraphe 2 de la loi précitée du 4 juillet 2014 pour faire en sorte que l’article pyrotechnique concerné, une fois mis sur le marché, ne présente plus ce risque, ou pour le retirer du marché ou le rappeler dans le délai raisonnable, proportionné à la nature du risque.
+
+(2) L’opérateur économique veille à ce que des mesures correctives soient prises à l’égard de tous les articles pyrotechniques en cause qu’il a mis à disposition sur le marché dans toute l’Union européenne.
+
+(3) Le département de la surveillance du marché informe immédiatement la Commission européenne et les autorités compétentes des autres États membres de l’Union européenne. Les informations fournies contiennent toutes les précisions disponibles, notamment les données nécessaires pour identifier l’article pyrotechnique concerné, l’origine et la chaîne d’approvisionnement de cet article pyrotechnique, la nature du risque encouru, ainsi que la nature et la durée des mesures nationales adoptées.
