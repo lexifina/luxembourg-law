@@ -1,0 +1,3 @@
+# Art. 22.
+
+La loi modifiée du 13 mars 1993 relative à l’exécution en droit luxembourgeois de la directive 89/665 du Conseil du 21 décembre 1989 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des procédures de recours en matière de marchés publics et la loi du 27 juillet 1997 relative à l’exécution en droit luxembourgeois de la directive 92/13/CEE du Conseil du 25 février 1992 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des règles communautaires sur les procédures de passation des marchés des entités opérant dans les secteurs de l’eau, de l’énergie, des transports et des télécommunications sont abrogées.
