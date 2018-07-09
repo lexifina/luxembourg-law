@@ -1,0 +1,9 @@
+# Art. 29. Principes généraux
+
+(1) Le pouvoir adjudicateur ou l'entité adjudicatrice est libre d'organiser la procédure qui conduit au choix du concessionnaire sous réserve du respect des dispositions de la présente loi.
+
+(2) La procédure d'attribution de concession respecte les principes énoncés à l'article 3. En particulier, au cours de la procédure d'attribution de concession, le pouvoir adjudicateur ou l'entité adjudicatrice ne donne pas, de manière discriminatoire, d'information susceptible d'avantager certains candidats ou soumissionnaires par rapport à d'autres.
+
+(3) Les opérateurs économiques sont tenus de respecter et de faire respecter par toute personne agissant en qualité de sous-traitant, à quelque stade que ce soit, et par toute personne mettant du personnel à disposition pour l’exécution de la concession, toutes les obligations applicables dans les domaines du droit environnemental, social et du travail établies par le droit de l'Union européenne, le droit national, les conventions collectives ou par les dispositions internationales en matière de droit environnemental, social et du travail énumérées, en ce qui concerne les dispositions internationales, à l'annexe X de la directive 2014/23/UE du Parlement et du Conseil du 26 février 2014 sur l’attribution de contrats de concession, telle que modifiée par les actes délégués de la Commission européenne pris en conformité de l’article 30 de cette directive.
+
+Sans préjudice de l’application des sanctions visées dans d’autres dispositions légales, règlementaires ou conventionnelles, le pouvoir adjudicateur ou l’entité adjudicatrice qui constatent dans le chef des candidats, soumissionnaires ou concessionnaires des manquements visés à l’alinéa 1er du présent paragraphe, appliquent les mesures prévues à l’article 37, paragraphes 4 à 9 ou, si la concession est déjà conclue, les sanctions prévues en cas de manquement contractuel.

@@ -1,0 +1,3 @@
+# Art. 23. Concessions réservées
+
+Les pouvoirs adjudicateurs et les entités adjudicatrices peuvent réserver le droit de participer aux procédures d'attribution de concession à des ateliers protégés et à des opérateurs économiques dont l'objet principal est l'intégration sociale et professionnelle de personnes handicapées ou défavorisées, ou prévoir que ces concessions ne peuvent être exploitées que dans le contexte de programmes d'emplois protégés, à condition qu'au moins 30 pour cent du personnel de ces ateliers, opérateurs économiques ou programmes soient des travailleurs handicapés ou défavorisés. L'avis de concession ou, dans le cas des concessions de services au sens de l'article 18, l'avis de préinformation fait référence au présent article.

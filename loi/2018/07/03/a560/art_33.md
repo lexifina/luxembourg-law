@@ -1,0 +1,9 @@
+# Art. 33. Mise à disposition des documents de concession par voie électronique
+
+(1) Les pouvoirs adjudicateurs et entités adjudicatrices offrent par des moyens électroniques l'accès gratuit, sans restriction, direct et complet aux documents de concession à partir de la date de publication d'un avis de concession ou d’un avis de concession simplifié ou, lorsque l'avis de concession ou l’avis de concession simplifié ne comprennent pas d'invitation à présenter une offre, de la date d'envoi d'une invitation à présenter une offre. Le texte de l'avis de concession ou de l’avis de concession simplifié ou de l'invitation précise l'adresse internet à laquelle les documents de concession sont accessibles.
+
+(2) Lorsque, dans des circonstances dûment justifiées, pour des raisons de sécurité exceptionnelle, des raisons techniques ou en raison du caractère particulièrement sensible d'informations commerciales nécessitant un niveau de protection très élevé, un accès gratuit, sans restriction, direct et complet par des moyens électroniques à certains documents de concession ne peut pas être offert, les pouvoirs adjudicateurs ou entités adjudicatrices indiquent dans l'avis ou l'invitation à confirmer l'intérêt que les documents de concession concernés seront transmis par d'autres moyens que des moyens électroniques et que le délai de présentation des offres est prolongé.
+
+(3) Pour autant que la demande en ait été faite en temps utile, les pouvoirs adjudicateurs et entités adjudicatrices ou les services compétents fournissent à tous les candidats ou soumissionnaires participant à la procédure d'attribution de concession les informations complémentaires sur les documents de concession six jours au plus tard avant la date limite fixée pour la réception des offres.
+
+(4) L’utilisation des moyens électroniques dans les procédures d’attribution de contrats de concession est déterminée par voie de règlement grand-ducal.
