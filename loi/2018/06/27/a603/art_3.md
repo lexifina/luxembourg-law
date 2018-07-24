@@ -1,0 +1,3 @@
+# Art. 3.
+
+Les personnes qui souhaitent procéder à l’exportation, au transfert, à l’importation ou au transit des biens visés par la présente loi et les règlements pris en son exécution, ou fournir des services de courtage ou d’assistance technique en relation avec des produits liés à la défense ou des biens à double usage, ou fournir un transfert intangible de technologie, doivent utiliser des autorisations générales ou présenter une demande d’autorisation individuelle ou globale auprès des ministres ayant le Commerce extérieur et les Affaires étrangères dans leurs attributions, ci-après dénommés « les ministres », suivant les dispositions de l’article 15.
