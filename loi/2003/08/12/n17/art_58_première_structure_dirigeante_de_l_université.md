@@ -1,3 +1,0 @@
-# Art. 58. Première structure dirigeante de l'Université
-
-Par dérogation aux dispositions figurant aux articles 17 et 19 à 22, dès l'entrée en vigueur de la présente loi, les membres du conseil de gouvernance et du rectorat sont nommés par le Grand-Duc. Ces responsables disposent de douze mois au maximum pour mettre en place les nouvelles structures administratives, pédagogiques et de recherche de l'Université. La nomination du recteur et des trois vice-recteurs au plus est faite pour un mandat de cinq ans. Le renouvellement de ce mandat est fait suivant les procédures définies dans la présente loi.

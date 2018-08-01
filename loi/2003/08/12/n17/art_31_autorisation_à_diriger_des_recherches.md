@@ -1,3 +1,0 @@
-# Art. 31. Autorisation à diriger des recherches
-
-L'autorisation à diriger des recherches est accordée à un enseignant-chercheur par le conseil facultaire après examen de ses travaux de recherche sanctionné par un avis favorable d'une commission constituée de spécialistes de la discipline de rattachement de l'enseignant-chercheur telle que visée à l'article 28; cette commission est nommée par le rectorat sur proposition du doyen de la faculté de rattachement de l'enseignant-chercheur. Cette procédure n'est pas applicable aux personnes investies du droit de diriger des recherches qui leur a été conféré par une université étrangère reconnue.
