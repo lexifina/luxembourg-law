@@ -1,0 +1,3 @@
+# Art. 2.
+
+En dehors des dispositions de la présente loi, les devoirs et la discipline des policiers sont régis par les articles 1bis et 1ter et les chapitres 5 et 14 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, à l’exception de l’article 9, paragraphe 1er, alinéa 2, et paragraphes 2 à 4, de l’article 10, paragraphe 1er, de l’article 11, paragraphe 1er, de l’article 44, des articles 47, 48, des articles 50 à 52, de l’article 53, alinéa 4, de l’article 54, paragraphes 1er à 3, des articles 55, 56 et 58, de l’article 59, alinéa 3, de l’article 60, alinéa 4, de l’article 64, de l’article 65, alinéa 1er, de l’article 68, alinéa 3, des articles 69 à 78.
