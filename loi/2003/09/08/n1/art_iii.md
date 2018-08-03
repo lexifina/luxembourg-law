@@ -1,0 +1,19 @@
+# Art. III.
+
+Le ministre ayant dans ses attributions la Justice, la police, le Ministère public, les services d’assistance aux victimes de violence domestique et les services prenant en charge les auteurs de violence domestique établissent chaque année des statistiques ventilées par sexe, âge et relation entre auteur et victime et indiquant pour chaque rubrique l’existence ou l’absence d’une situation de cohabitation entre l’auteur et la victime, chacun pour ce qui le concerne, notamment, sur le nombre de plaintes, dénonciations, mesures d’expulsion, autres types d’intervention policière, interventions sociales, poursuites et condamnations pour les infractions visées aux articles suivants:
+
+327 à 330 combinés à l’article 330-1,
+
+372 à 377,
+
+393; 394; 395; 396; 397,
+
+401bis,
+
+409,
+
+434 à 438, combiné à l’article 438-1 et
+
+439 alinéa 2 du Code pénal
+
+ainsi, que sur les mesures visées aux articles 1017-1 à 1017-12 du Nouveau Code de procédure civile.
