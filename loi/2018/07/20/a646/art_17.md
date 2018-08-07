@@ -1,0 +1,3 @@
+# Art. 17.
+
+Les employés de l’État visés à l’article 7 et relevant de la rubrique « Administration générale » telle qu’énoncée à l’article 12 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, en service auprès de l’administration gouvernementale, affectés au Ministère de la culture, service du « Lëtzebuerger online Dictionnaire » au moment de l’entrée en vigueur de la présente loi, sont intégrés dans le cadre du personnel du Centre au grade et échelon atteints au moment de l’entrée en vigueur de la présente loi.
