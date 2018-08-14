@@ -1,0 +1,5 @@
+# Art. 2.
+
+Les dépenses occasionnées par l’acquisition de l’avion de transport militaire A400M ne peuvent dépasser le montant de cent vingt millions d’euros à prix constants aux conditions économiques de juin 2001 sans préjudice d’une adaptation des paiements annuels en fonction de l’évolution des conditions économiques telle que déterminée par l’évolution du déflateur PIB applicable à la zone euro. Ce montant ne comprend pas la taxe sur la valeur ajoutée, les taxes, les droits de douane et les charges similaires liés à l’acquisition de l’avion de transport militaire A400M.
+
+Les dépenses occasionnées par l’exploitation, le fonctionnement et le soutien en service de l’avion de transport militaire A400M sur une durée estimée de trente-cinq ans, ne peuvent dépasser le montant de 420 000 000 euros à prix constants aux conditions économiques d’octobre 2017 sans préjudice d’une adaptation des paiements annuels en fonction de l’évolution des conditions économiques telle que déterminée par l’évolution du déflateur PIB applicable à la zone euro. Ce montant ne comprend pas la taxe sur la valeur ajoutée, les taxes et les droits de douane.
