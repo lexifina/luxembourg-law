@@ -1,0 +1,11 @@
+# Art. 45. Droit à un recours juridictionnel contre une décision de l’autorité de contrôle
+
+(1) Contre les décisions prises par l’autorité de contrôle judiciaire en application de l’article 44, paragraphe 3, lorsque le traitement de données à caractère personnel visé par la réclamation relève du champ d’application de la présente loi, un recours juridictionnel peut être introduit par la personne concernée devant la chambre du conseil de la cour d’appel.
+
+La requête y afférente est consignée sur un registre tenu à cet effet au greffe de la chambre du conseil de la cour d’appel. Sous peine d’irrecevabilité, la requête doit être déposée au greffe de la chambre du conseil de la cour d’appel dans le délai d’un mois qui court à partir du jour de la notification de la décision en cause par l’autorité de contrôle judiciaire à la personne concernée, ou, lorsque l’autorité de contrôle judiciaire n’a pas statué sur la réclamation de la personne concernée, à partir de l’expiration d’un délai de trois mois à partir du jour de la saisine de l’autorité de contrôle judiciaire par la personne concernée. Le greffier avertit la personne concernée et le responsable du traitement au moins huit jours avant les jour et heure de l’audience.
+
+Le responsable du traitement ou son représentant et la personne concernée et, le cas échéant, son mandataire ont seul le droit d’assister à l’audience et de fournir tels mémoires et de faire telles réquisitions, verbales ou écrites, qu’ils jugent convenables. L’audience de la chambre du conseil n’est pas publique.
+
+Les notifications et avertissements visés au présent paragraphe se font dans les formes prévues pour les notifications en matière répressive. Ni le délai de recours, ni la saisine de la chambre du conseil de la cour d’appel en application du présent paragraphe n’ont d’effet suspensif.
+
+(2) Contre les décisions prises par la Commission nationale pour la protection des données sur base de l’article 44, paragraphe 1er, et contre les décisions prises par l’autorité de contrôle judiciaire sur base de l’article 44, paragraphe 3, lorsque le traitement de données à caractère personnel visé par la réclamation relève du champ d’application du règlement (UE) n° 2016/679, la personne concernée peut introduire un recours devant le tribunal administratif qui statue comme juge du fond.

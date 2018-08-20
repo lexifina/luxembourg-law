@@ -1,0 +1,3 @@
+# Art. 17. Droits des personnes concernées lors des enquêtes judiciaires et des procédures pénales
+
+Lorsque les données à caractère personnel sont relatives à des faits qui font l’objet d’une enquête préliminaire, d’une instruction préparatoire, qui ont été renvoyés devant une juridiction de jugement, qui font l’objet d’une citation, ou lorsque l’autorité compétente sur base de la loi modifiée du 10 août 1992 relative à la protection de la jeunesse est saisie de ces faits, les droits visés aux articles 12, 13 et 15 sont exercés conformément aux dispositions du Code de procédure pénale ou à d’autres dispositions légales applicables.

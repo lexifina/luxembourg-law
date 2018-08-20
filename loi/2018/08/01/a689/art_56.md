@@ -1,0 +1,9 @@
+# Art. 56. Loi modifiée du 19 décembre 2014 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière
+
+L’article 6 de la loi modifiée du 19 décembre 2014 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière est remplacé comme suit :
+
+Art. 6.
+
+(1) Le traitement des données à caractère personnel dans le cadre de la présente loi est effectué à des fins de prévention, de recherche et de constatation des infractions pénales ou administratives relevant de son champ d'application et se fait conformément aux articles 24 à 32 de la décision 2008/615/JAI précitée et aux dispositions, y non contraires, de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+
+(2) Toute personne concernée a le droit d'obtenir des informations sur les données à caractère personnel transmises dans le cadre de la présente loi, y compris la date de la demande et l'autorité compétente de l'État membre de l'infraction, conformément aux articles 11 à 17 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
