@@ -1,0 +1,7 @@
+# Art. 30.
+
+L’article 142, l’alinéa 1er est remplacé par le texte suivant :
+
+(1) Les avantages provenant d’une occupation salariée, visés à l’article 95, alinéa 3 sont imposables par voie d’une retenue d’impôt à charge de l’employeur. Le taux de la retenue d’impôt est fixé à 20 pour cent. Pour les régimes complémentaires de pension financés moyennant un support externe, l’assiette d’imposition est constituée par les allocations, cotisations et primes d’assurance versées par l’employeur, tandis que dans le cadre d’un régime de pension interne financé moyennant des dotations aux provisions au passif du bilan de l’entreprise, l’assiette d’imposition est constituée par les dotations faites par l’employeur et dont est déduit un rendement théorique résultant de l’application du taux technique fixé par règlement grand-ducal en matière de financement minimum des régimes complémentaires de pension aux provisions constituées à la clôture de l’exercice d’exploitation précédent.
+
+La retenue d’impôt s’applique également lorsque l’employeur opte pour une imposition forfaitaire des provisions pour pension complémentaire existant au 31 décembre 1999. Si les provisions constituées au 1er janvier 2000 sont inférieures à la valeur actuelle des promesses recalculée suivant l’article 51 de la loi du 8 juin 1999 relative aux régimes complémentaires de pension, leur imposition suit le mode d’imposition de l’amortissement du déficit pour lequel l’employeur a opté dans le cadre de l’article 52 de la loi précitée.
