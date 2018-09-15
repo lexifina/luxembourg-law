@@ -1,0 +1,7 @@
+# Art. 41.
+
+(1) Lorsque l'autorité judiciaire luxembourgeoise visée à l’article 10 estime que les coûts d'exécution de la décision d'enquête européenne peuvent être considérés comme étant exceptionnellement élevés, elle peut consulter l'autorité d'émission sur le point de savoir si les coûts pourraient être partagés, et selon quelles modalités, ou si la décision d'enquête européenne pourrait être modifiée. Elle informe préalablement l'autorité d'émission des spécifications détaillées de la part des coûts considérée comme étant exceptionnellement élevée.
+
+Dans des circonstances exceptionnelles, si aucun accord ne peut être dégagé en ce qui concerne les coûts visés à l’alinéa 1er, l'autorité d'émission peut décider de retirer la décision d'enquête européenne en tout ou en partie ou de maintenir la décision d'enquête européenne, et de supporter la part des coûts considérée comme étant exceptionnellement élevée.
+
+(2) Lorsque l’autorité judiciaire luxembourgeoise qui a émis une décision d’enquête européenne est consultée par l’autorité d’exécution au sujet des coûts d’exécution, considérés comme étant exceptionnellement élevés, de la décision d’enquête européenne, elle peut négocier avec l’autorité d’exécution un partage des coûts d’exécution. Si aucun accord ne peut être dégagé, elle peut décider de retirer la décision d’enquête européenne en tout ou en partie ou de maintenir la décision d’enquête européenne et de supporter la part des coûts considérée comme étant exceptionnellement élevée.
