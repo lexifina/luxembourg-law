@@ -1,0 +1,7 @@
+# Art. 25.
+
+1. Le conjoint ou le partenaire d’un fonctionnaire ou l’ayant droit visé à l’article 21 a droit à une pension de survie égale à la part fondamentale et à soixante pour cent du reste de la pension à laquelle le fonctionnaire aurait eu droit ou qu’il avait obtenue, sans que le total de la pension et des majorations spéciales prévues à l’article 28 puisse dépasser deux tiers de la part fondamentale et soixante pour cent du reste de la pension maximum de fonctionnaire prévue à l’article 11.III., alinéa 5.
+
+2. Si le total de la pension de survie résultant du calcul ci-avant sous 1. et des majorations spéciales prévues à l’article 28 ainsi que des prestations de pension de survie, découlant du même donnant-droit, échues auprès d’un régime de pension légal luxembourgeois ou étranger ou auprès d’un organisme international est inférieur à un seuil de 3.487,6908 euros, valeur année de base 1984, augmentés de quatre pour cent pour chaque enfant bénéficiaire d’une pension d’orphelin, la pension de survie est égale à la part fondamentale et à soixante-quinze pour cent du reste de la pension à laquelle le fonctionnaire aurait eu droit ou qu’il avait obtenue, sans que la pension de survie totale ne puisse dépasser le montant-limite correspondant au seuil prévisé. Le cas échéant, la pension servie par l’Etat est réduite en conséquence.
+
+3. Par part fondamentale au sens des dispositions qui précèdent il faut entendre les dix soixantièmes du traitement qui a servi de base au calcul de la pension.

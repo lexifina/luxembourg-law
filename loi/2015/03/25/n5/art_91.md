@@ -1,0 +1,5 @@
+# Art. 91.
+
+La loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat est abrogée. Elle continue, toutefois, de sortir ses effets pour les pensions échues ou à échoir sur sa base dans le contexte d’un droit à une pension différée, à l’exception des dispositions relatives au cumul de pensions avec d’autres revenus ou pensions et rentes, à l’adaptation des pensions au niveau de vie et à l’évolution de la valeur du nombre indice et à la réintégration conformément aux articles 51 et 53 de la présente loi, qui se substituent aux dispositions correspondantes abrogées. Restent également d’application les dispositions transitoires prévues à l’égard de cette loi au niveau des ayants droit à une pension de conjoint divorcé survivant.
+
+Il en est de même en ce qui concerne la loi modifiée du 7 août 1912 concernant la création d’une caisse de prévoyance pour les fonctionnaires et employés des communes, syndicats de communes et établissements publics placés sous la surveillance des communes.

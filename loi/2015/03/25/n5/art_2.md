@@ -1,0 +1,3 @@
+# Art. 2.
+
+Sont exclues du champ d’application de la présente loi, les personnes visées à l’article 1er sous a) à c) qui ne peuvent pas se prévaloir de services prestés et rémunérés dans l’une des qualités y définies ou en tant que stagiaire ou encore sur la base d’une relation de travail contractuelle individuelle et personnelle, avant la date du 1er janvier 1999, par l’Etat, une commune, un syndicat de communes, un établissement public ou par la Société nationale des Chemins de Fer luxembourgeois et, en ce qui concerne le point b) de l’article 1er qui précède, également par un établissement public placé sous la surveillance d’une commune ou par l’organisme de pension y visé.
