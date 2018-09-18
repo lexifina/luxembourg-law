@@ -1,0 +1,9 @@
+# Art. 40.
+
+L’octroi du congé de la coopération au développement aux experts et des représentants des organisations non gouvernementales exerçant une activité professionnelle salariée est subordonnée aux conditions suivantes:
+
+- 1° l’intéressé doit pouvoir justifier d’au moins un an de service auprès du même employeur;
+
+- 2° sauf accord de la part de l’employeur, le congé de la coopération au développement ne peut être rattaché à une période de congé annuel payé ou à une période de maladie pour le cas où ce cumul entraînerait une absence continue dépassant la durée totale du congé annuel dû;
+
+- 3° l’octroi du congé de la coopération au développement sollicité peut être refusé si l’absence du salarié risque d’avoir une répercussion majeure préjudiciable à l’exploitation de l’entreprise, au bon fonctionnement de l’administration ou du service public ou au déroulement harmonieux du congé annuel payé des autres membres du personnel.

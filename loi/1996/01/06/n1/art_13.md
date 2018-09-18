@@ -1,0 +1,3 @@
+# Art. 13.
+
+L’apport de l’organisation non gouvernementale agréée peut inclure un financement provenant de ses propres ressources et de sources d’autres organisations non gouvernementales agréées et des bénéficiaires locaux, sans que l’apport de ces derniers puisse dépasser celui des organisations non gouvernementales agréées. Les ressources propres de l’organisation non gouvernementale et les sources d’autres organisations non gouvernementales doivent avoir été collectées au Luxembourg. Les conditions dans lesquelles un apport autre que financier de la part des bénéficiaires locaux peut être valorisé et mis en compte sont fixées par règlement grand-ducal.

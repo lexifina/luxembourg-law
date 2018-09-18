@@ -1,0 +1,3 @@
+# Art. 6.
+
+Le ministre présente chaque année à la Chambre des Députés un rapport sur le fonctionnement et les activités du Fonds, ainsi qu’un décompte spécifiant toutes les recettes et l’attribution des dépenses par pays et par grands types d’intervention sectorielle. Le rapport est complété par les autres interventions de l’administration publique en matière de coopération au développement, afin de donner à la Chambre des Députés une vue d’ensemble sur les activités du Gouvernement dans le cadre de l’aide publique luxembourgeoise au développement. Il fait également état des travaux du comité interministériel prévu à l’article 50 de la présente loi, notamment pour ce qui est de la cohérence des politiques pour le développement.
