@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Le Gouvernement est autorisé à faire procéder à la réalisation du pôle d’échange Howald et au réaménagement de la rue des Scillas. Le projet comprend les études, expertises et les travaux proprement dits portant sur le réaménagement de la rue des Scillas et de la partie inférieure du Rangwee, le dédoublement du tunnel Rangwee, les infrastructures de desserte et de transport de la zone « Midfield » entre la rue des Scillas, la rue Raiffeisen et la rue Albert Einstein, l’aménagement de la gare routière et de la plateforme d’assise du tram, les travaux relatifs au système d’assainissement des eaux et aux déplacements de réseaux de même que les mesures pour la mobilité durable et les mesures compensatoires ainsi que les frais annexes.
