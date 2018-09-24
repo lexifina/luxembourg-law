@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Il est créé une « Maison de l’orientation », qui désigne le regroupement, en un seul lieu, de tout ou partie(s) de services et administrations publics, ainsi que d’organismes privés actifs dans le domaine de l’orientation scolaire et professionnelle ayant adressé une demande écrite au ministre ayant l’Education nationale dans ses attributions. L’action de la Maison de l’orientation s’adresse à tout citoyen, indépendamment de son âge, cherchant conseil au niveau de son orientation scolaire et professionnelle en vue d’identifier ses capacités, ses compétences et ses intérêts, de prendre des décisions éclairées en vue du choix de ses études et formations, ainsi qu’au regard de ses projets professionnels.
