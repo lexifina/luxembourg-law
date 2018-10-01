@@ -1,0 +1,19 @@
+# Art. 50.
+
+L’article 309 de la même loi est modifié comme suit :
+
+- 1° Dans l’intitulé, les mots et d’intermédiation d’assurance à titre accessoire sont insérés après le mot réassurances.
+
+- 2° Le contenu de l’article 309 est remplacé par un libellé de la teneur suivante :
+
+- Art. 309 -
+
+- Sont punis d'un emprisonnement de huit jours à trois mois et d'une amende de 2.500 à 500.000 euros ou d'une de ces peines seulement, les agents, courtiers, dirigeants de société de courtage, sous-courtiers et en général toute personne qui fait dans ou à partir du Grand-Duché de Luxembourg au nom d'un tiers :
+
+  - (i) des opérations d'intermédiation en assurance ou en réassurance ; ou
+
+  - (ii) des opérations d’intermédiation en assurance à titre accessoire, à l’exception de celles visées à l’article 281-1, paragraphe 1er,
+
+- ou qui concourt à ces opérations sans avoir obtenu l'agrément du ministre prévu aux articles 272 et 280, paragraphe 1er, point a) ou s’être fait immatriculer au registre des distributeurs conformément à l’article 280, paragraphe 1er, point b).
+
+- La tentative sera punissable d'un emprisonnement de huit jours à deux mois et d'une amende de 1.250 à 250.000 euros ou d'une de ces peines seulement.
