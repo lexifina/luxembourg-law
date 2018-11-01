@@ -1,0 +1,5 @@
+# Art. 8.
+
+En cas de cessions ou de saisies faites pour le paiement des dettes alimentaires prévues notamment par les articles 203, 205 à 207, 212, 213, 214, 230, 234, 372-2, 359, 376-2, 385 et 387-14 du Code civil, le terme mensuel courant de la pension alimentaire sera, chaque mois, prélevé sur les portions incessible et insaisissable des rémunérations, pensions, rentes et indemnités de chômage complet.
+
+Les portions cessible et saisissable pourront, le cas échéant, être retenues en sus, soit pour sûreté du terme mensuel courant excédant les portions incessible et insaisissable, soit pour sûreté des termes arriérés de la pension alimentaire et des frais, soit au profit des créanciers ordinaires, opposants ou cessionnaires.
