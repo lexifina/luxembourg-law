@@ -1,0 +1,3 @@
+# Art. 21.
+
+L'article 2, paragraphe 1, point b) de la loi modifiée du 1er août 1988 portant création d'une allocation d'éducation est modifié comme suit: élève dans son foyer un ou plusieurs enfants pour lesquels sont versées au requérant, à son conjoint non séparé ou à son partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, des allocations familiales et qui remplissent à son égard les conditions prévues à l'article 2 de la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la Caisse nationale des prestations familiales;

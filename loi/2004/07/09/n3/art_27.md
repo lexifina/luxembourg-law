@@ -1,0 +1,7 @@
+# Art. 27.
+
+La loi du 27 décembre 1817 sur le droit de succession, est complétée comme suit:
+
+- 1° Au numéro 2 de l'article 24, il est ajouté un deuxième alinéa ayant la teneur suivante: Tout ce qui est recueilli ou acquis entre partenaires au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats et liés depuis au moins trois ans par une déclaration de partenariat inscrite conformément aux dispositions de l'article 3 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, laissant un ou plusieurs enfants communs ou des descendants de ceux-ci.
+
+- 2° Le numéro 3 de l'article 24 est remplacé par la disposition suivante: Tout ce qui est recueilli ou acquis par l'époux survivant dans la succession de l'époux prédécédé ou par le partenaire, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, survivant dans la succession du partenaire prédécédé et liés depuis au moins trois ans par une déclaration de partenariat inscrite conformément aux dispositions de l'article 3 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, en usufruit ou à titre de pension ou de rétribution périodique, si, par le décès du premier mourant, ses enfants issus d'un précédent mariage ou d'un partenariat, ou les descendants de ceux-ci, ont acquis la propriété ou sont chargés de la pension ou de la rétribution périodique.
