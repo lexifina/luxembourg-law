@@ -1,0 +1,3 @@
+# Art. 93.
+
+Le stagiaire fonctionnaire qui se trouve en période de stage au moment de l’entrée en vigueur de la présente loi, qui a passé l’ensemble des épreuves de l’évaluation du stage prévues initialement et qui, par l’effet de la présente loi, ne se trouverait plus en période de stage, bénéficie de sa nomination avec effet à la date d’entrée en vigueur de la présente loi. Dans le cas où la durée restante du stage est inférieure à une année, la date de nomination est considérée comme étant survenue le lendemain de la fin du stage calculé selon les nouvelles dispositions introduites par la présente loi pour l’application des avancements en échelon et en grade et, s’il y a lieu, des accessoires de traitement.
