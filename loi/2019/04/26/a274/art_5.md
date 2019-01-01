@@ -1,0 +1,3 @@
+# Art. 5. Dispositions transitoires
+
+L’article 164bis, alinéa 17 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu s’applique de manière correspondante aux membres appartenant à un groupe intégré au moment de la mise en vigueur de l’article 168bis de la même loi à condition que tous les membres du groupe intégré expriment leur choix dans une demande écrite conjointe à introduire auprès de l’Administration des contributions directes avant la fin du premier exercice d’exploitation de la période pour laquelle l’article 168bis s’applique la première fois à leur égard et s’engagent à appliquer cet article pendant leur appartenance au groupe intégré.
