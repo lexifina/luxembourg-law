@@ -1,0 +1,3 @@
+# Art. 2.
+
+L’approbation est assortie des réserves et notifications émises par le Grand-Duché de Luxembourg qui figurent au « Modèle pour la formulation du projet de position au regard des réserves et des notifications de la Convention multilatérale pour la mise en œuvre des mesures relatives aux conventions fiscales pour prévenir l’érosion de la base d’imposition et le transfert de bénéfices » déposé par le Grand-Duché de Luxembourg au moment de la signature de la Convention multilatérale pour la mise en œuvre des mesures relatives aux conventions fiscales pour prévenir l’érosion de la base d’imposition et le transfert de bénéfices.
