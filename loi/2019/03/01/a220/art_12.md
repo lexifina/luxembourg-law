@@ -1,0 +1,5 @@
+# Art. 12. Renouvellement de certificats de l’Union européenne pour bateaux de navigation intérieure
+
+(1) Le certificat de l’Union européenne pour bateaux de navigation intérieure est renouvelé à l’expiration de sa période de validité, selon les conditions fixées à l’article 6, à la suite d’une visite technique visant à vérifier si le bâtiment est conforme aux prescriptions techniques prévues aux annexes II et V de la directive telle que modifiée par acte délégué de la Commission européenne pris en conformité avec l’article 32 de cette directive. Tout certificat de l’Union délivré par une autorité compétente notifiée à la Commission européenne peut être renouvelé par le ministre.
+
+(2) Lorsqu’un certificat de l’Union européenne pour bateaux de navigation intérieure est renouvelé, les dispositions transitoires prévues à l’annexe II de la directive telle que modifiée par acte délégué de la Commission européenne pris en conformité avec l’article 32 de cette directive s’appliquent aux bâtiments dans les conditions précisées dans ladite annexe.

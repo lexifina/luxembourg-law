@@ -1,0 +1,5 @@
+# Art. 14. Modifications importantes ou réparations importantes du bâtiment
+
+En cas de modification importante ou de réparation importante qui affecte la conformité d’un bâtiment avec les prescriptions techniques visées aux annexes II et V de la directive telle que modifiée par acte délégué de la Commission européenne pris en conformité avec l’article 32 de cette directive en ce qui concerne sa solidité structurelle, sa navigation, sa manoeuvrabilité ou ses caractéristiques spéciales, ce bâtiment doit, avant tout nouveau voyage, être soumis à la visite technique prévue à l’article 6.
+
+À la suite de cette visite, le certificat de l’Union européenne pour bateaux de navigation intérieure existant est adapté pour tenir compte des caractéristiques techniques modifiées du bâtiment ou ledit certificat est retiré et un nouveau certificat est délivré. Si le certificat initial avait été délivré par l’autorité compétente d’un autre État membre, le ministre en informe l’autorité compétente de cet autre État membre dans un délai de trente jours à compter de la date de délivrance du nouveau certificat par le ministre.
