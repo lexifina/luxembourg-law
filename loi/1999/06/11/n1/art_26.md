@@ -1,5 +1,0 @@
-# Art. 26.
-
-L'allocation et l'utilisation d'un sillon exigent de la part de l'entreprise bénéficiaire la détention d'un certificat de sécurité, attestant que l'entreprise remplit toutes les exigences techniques et opérationnelles pour effectuer les services de transport pour lesquels le ou les sillons ont été alloués, et que les exigences de sécurité requises qui s'appliquent au personnel de conduite et d'accompagnement des trains, au matériel roulant et à l'organisation interne de l'entreprise, sont respectées. Les exigences de validité du certificat de sécurité sont celles qui se dégagent des traités internationaux auxquels le Luxembourg a adhéré, ou qui sont prévues par les lois et règlements luxembourgeois applicables à la circulation des trains sur le réseau ferroviaire national.
-
-Les conditions d'obtention et de validité du certificat de sécurité et les modalités de son établissement sont arrêtées par règlement grand-ducal qui détermine également les conditions selon lesquelles un certificat de sécurité établi par l'autorité compétente d'un autre Etat membre pourra être intégralement ou partiellement reconnu.
