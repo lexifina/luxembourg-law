@@ -1,0 +1,5 @@
+# Art. 1er.
+
+(1) Les exigences en matière de sécurité et de notification prévues par la présente loi ne s’appliquent pas aux entreprises soumises aux exigences énoncées aux articles 45 et 46 de la loi modifiée du 27 février 2011 sur les réseaux et les services de communications électroniques ni aux prestataires de services de confiance soumis aux exigences à l’article 19 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
+
+(2) Lorsqu’une loi ou un acte juridique sectoriel de l’Union exige des opérateurs de services essentiels ou des fournisseurs de service numérique qu’ils assurent la sécurité de leurs réseaux et systèmes d’information ou qu’ils procèdent à la notification des incidents, à condition que les exigences en question aient un effet au moins équivalent à celui des obligations prévues par la présente loi, les dispositions de cette loi ou de cet acte juridique sectoriel de l’Union s’appliquent.
