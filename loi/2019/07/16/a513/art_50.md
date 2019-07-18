@@ -1,0 +1,9 @@
+# Art. 50. Prospectus allégé consistant en des documents distincts
+
+(1) L’émetteur qui dispose déjà d’un document d’enregistrement allégé approuvé par un opérateur de marché établi au Luxembourg est tenu d’établir uniquement une note relative aux valeurs mobilières allégée en cas d’admission de valeurs mobilières à la négociation sur un marché réglementé. Dans ce cas, la note relative aux valeurs mobilières allégée est approuvée séparément.
+
+(2) Lorsque, à la suite de l’approbation du document d’enregistrement allégé, il a été constaté un fait nouveau significatif ou une erreur ou inexactitude substantielle concernant les informations contenues dans le document d’enregistrement allégé, la note relative aux valeurs mobilières allégée fournit les informations qui doivent normalement figurer dans le document d’enregistrement allégé ou un supplément au document d’enregistrement allégé est soumis pour approbation au plus tard en même temps que la note relative aux valeurs mobilières.
+
+L’ensemble formé par le document d’enregistrement allégé et, le cas échéant, son supplément, complété par la note relative aux valeurs mobilières allégée, constitue, une fois approuvé par l’opérateur de marché, un prospectus allégé.
+
+(3) Lorsqu’un émetteur a déposé un document d’enregistrement allégé sans approbation préalable, l’ensemble des documents, y compris des informations actualisées, est soumis à l’approbation de l’opérateur de marché.

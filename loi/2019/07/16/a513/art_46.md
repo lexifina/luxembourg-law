@@ -1,0 +1,5 @@
+# Art. 46. Responsabilité concernant le prospectus allégé
+
+(1) La responsabilité des informations fournies dans un prospectus allégé et dans tout supplément à celui-ci incombe à l’émetteur ou à la personne qui sollicite l’admission à la négociation sur un marché réglementé ou au garant, selon le cas. Le prospectus allégé identifie clairement les personnes responsables au titre du prospectus allégé et le cas échéant de tout supplément à celui-ci par leur nom et fonction ou, dans le cas des personnes morales, par leur dénomination et leur siège statutaire, et contient une déclaration de leur part attestant que, à leur connaissance, les informations fournies dans le prospectus allégé sont conformes à la réalité et ne comportent pas d’omissions de nature à en altérer la portée.
+
+(2) La responsabilité des informations fournies dans un document d’enregistrement allégé n’incombe aux personnes visées au paragraphe 1er que dans les cas où le document d’enregistrement allégé est utilisé en tant que partie constitutive d’un prospectus allégé approuvé.

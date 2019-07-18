@@ -1,0 +1,3 @@
+# Art. 55. Admission à la négociation sur un marché réglementé effectuée à l’aide d’un prospectus allégé établi conformément à la législation d’un pays tiers
+
+L’opérateur de marché concerné peut approuver un prospectus allégé se rapportant à une admission de valeurs mobilières à la négociation sur un marché réglementé ou organisé d’un émetteur d’un pays tiers et qui a été établi conformément à la législation nationale de ce pays tiers, pour autant que le prospectus allégé ait été élaboré selon des exigences en matière d’information équivalentes à la présente loi et que le prospectus allégé soit rédigé dans une langue acceptée par l’opérateur de marché concerné.

@@ -1,0 +1,13 @@
+# Art. 2. Définitions
+
+(1) Sauf dispositions contraires prévues aux parties III et IV, les termes utilisés dans la présente loi ont la signification qui leur est attribuée par le règlement (UE) 2017/1129.
+
+(2) Aux fins de la présente loi, on entend par :
+
+- 1° « AEMF » : l’Autorité européenne des marchés financiers ;
+
+- 2° « CSSF » : la Commission de surveillance du secteur financier ;
+
+- 3° « État membre » : un État membre de l’Union européenne. Sont assimilés aux États membres de l’Union européenne les États parties à l’accord sur l’Espace économique européen autres que les États membres de l’Union européenne, dans les limites définies par cet accord et les actes y afférents ;
+
+- 4° « pays tiers » : un État autre qu’un État membre.
