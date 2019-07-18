@@ -1,3 +1,0 @@
-# Art. 55. Supplément au prospectus simplifié
-
-Tout fait nouveau significatif ou toute erreur ou inexactitude substantielles concernant les informations contenues dans le prospectus simplifié, qui est de nature à influencer l'évaluation des valeurs mobilières et survient ou est constatée entre l'approbation du prospectus simplifié et le début des négociations sur le marché réglementé en question, est mentionné dans un supplément au prospectus simplifié. Ce supplément est approuvé, dans un délai maximal de sept jours ouvrables, de la même manière et publié au moins selon les mêmes modalités que le prospectus simplifié initial.
