@@ -1,3 +1,0 @@
-# Art. 4.
-
-Le contrôle des mesures sanitaires imposées en exécution de la présente loi est exercé par le médecin inspecteur du ressort. A cet effet la compétence des médecins-inspecteurs, déterminée par l'art. 8 de la loi du 31 décembre 1952, concernant l'institution des médecins-inspecteurs et l'exercice de leurs attributions, s'étendra d'une part aux appareils et substances capables d'émettre des radiations ionisantes, d'autre part à tous les établissements où sont produits, fabriqués, détenus, vendus ou utilisés les appareils et substances, ainsi qu'aux moyens de transport des substances capables d'émettre des radiations ionisantes.
