@@ -1,0 +1,3 @@
+# Art. 37.
+
+Les prestataires de services postaux transmettent à l’Institut toutes les informations, y compris les informations financières et les données statistiques, qui sont nécessaires à celui-ci pour garantir la conformité avec les dispositions de la présente loi et de ses règlements d’exécution ou avec les dispositions des règlements adoptées par l’Institut. Les prestataires de services postaux fournissent ces informations rapidement et sur demande, en respectant les délais, le niveau de détail et la forme exigés par l’Institut. L’Institut indique les motifs justifiant sa demande d’informations.
