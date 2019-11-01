@@ -1,0 +1,13 @@
+# Art. 1er.
+
+(1) Les avocats, qui à la veille du retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne sont inscrits aux listes I et II du tableau visé à l’article 8, paragraphe 3, point 4, de la loi modifiée du 10 août 1991 sur la profession d’avocat et qui sont ressortissants du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, restent inscrits sur ces listes pour une durée maximale de douze mois sous la condition qu’un avocat ressortissant luxembourgeois bénéficie réciproquement d’un traitement identique au Royaume-Uni de Grande-Bretagne et d’Irlande du Nord.
+
+Le Conseil de l’ordre est compétent pour constater le respect de cette condition de la réciprocité.
+
+(2) Les avocats, qui à la veille du retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne sont inscrits à la liste IV du tableau visé à l’article 8, paragraphe 3, point 4, de la loi modifiée du 10 août 1991 sur la profession d’avocat et qui sont soit ressortissants du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, soit exercent la profession d’avocat sous un titre professionnel du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, restent inscrits sur cette liste pour une durée maximale de douze mois sous la condition qu’un avocat ressortissant luxembourgeois ainsi qu’un ressortissant d’un État membre de l’Union européenne exerçant la profession d’avocat sous un titre professionnel du Luxembourg, bénéficient réciproquement d’un traitement identique au Royaume-Uni de Grande-Bretagne et d’Irlande du Nord.
+
+Le Conseil de l’ordre est compétent pour constater le respect de cette condition de la réciprocité.
+
+(3) Les articles 9, 10 et 12 de la loi modifiée du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un État membre autre que celui où la qualification a été acquise restent applicables pendant ce même délai de douze mois aux avocats visés au paragraphe précédent.
+
+Ces articles s’appliquent au-delà de ce délai aux avocats visés au paragraphe 2 qui ont déposé leur demande d’inscription à la liste I du tableau en vertu de l’article 9 de la loi modifiée du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un État membre autre que celui où la qualification acquise sous réserve d’avoir déposé leur demande au plus tard à l’expiration du délai de douze mois et d’avoir acquis l’expérience professionnelle exigée au plus tard à l’expiration de ce délai.
