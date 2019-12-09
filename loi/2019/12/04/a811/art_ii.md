@@ -1,0 +1,5 @@
+# Art. II.
+
+L’article 8, paragraphe 2, de la loi du 1er avril 2015 portant création d’un comité du risque systémique et modifiant la loi modifiée du 23 décembre 1998 relative au statut monétaire et à la Banque centrale du Luxembourg est complété par un alinéa libellé comme suit :
+
+« Sans préjudice de l’article 32 de la loi modifiée du 23 décembre 1998 relative au statut monétaire et à la Banque centrale du Luxembourg et - portant abrogation du cours légal des billets émis par la Banque Internationale à Luxembourg ; - modifiant l’article 1er de la loi du 12 juillet 1895 concernant le paiement des salaires des ouvriers, la Banque centrale du Luxembourg a un droit d’accès à des informations agrégées disponibles auprès d’administrations étatiques, d’établissements publics autres que ceux placés sous la surveillance des communes et d’autres autorités étatiques compétentes pour autant que ces informations soient nécessaires à ses activités de recherche et d’analyses en relation avec la mission du comité du risque systémique. ».
