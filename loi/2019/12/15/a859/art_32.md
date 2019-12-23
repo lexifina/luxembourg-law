@@ -1,0 +1,19 @@
+# Art. 32.
+
+Il est inséré à la suite de l’article 58 de la même loi un nouvel article 58-1 qui prend la teneur suivante :
+
+« Art. 58-1.
+
+(1) La CSSF examine les stratégies, les processus et les procédures de communication d’informations établis par les fonds de pension en vue de se conformer à la présente loi et aux mesures prises pour son exécution.
+
+Cet examen, dont la fréquence et la portée sont définies par la CSSF, tient compte des circonstances dans lesquelles les fonds de pension exercent leurs activités et, le cas échéant, des tiers qui exercent pour elles des fonctions clés ou d’autres activités externalisées. L’examen comprend les éléments suivants :
+
+- a) une appréciation des exigences qualitatives relatives au système de gouvernance ;
+
+- b) une appréciation des risques auxquels le fonds de pension est exposé ;
+
+- c) une appréciation de la capacité du fonds de pension à évaluer et à gérer ces risques.
+
+(2) La CSSF se dote d’outils de suivi et procède à des tests de résistance, qui lui permettent de détecter toute détérioration de la situation financière d’un fonds de pension. Elle fait le suivi des mesures prises par les fonds de pension pour remédier aux détériorations constatées.
+
+(3) La CSSF a le pouvoir d’exiger des fonds de pension qu’ils remédient aux faiblesses et carences détectées dans le cadre du processus de contrôle prudentiel.

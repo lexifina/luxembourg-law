@@ -1,0 +1,29 @@
+# Art. 25.
+
+Il est inséré à la suite de l’article 52 de la même loi, un nouveau chapitre 4bis qui prend la teneur suivante :
+
+Chapitre 4bis Externalisation
+
+Art. 52-1.
+
+(1) Les assep peuvent confier, en totalité ou en partie, toute activité, y compris des fonctions clés, leur gestion, leur gestion de l’actif et leur gestion du passif, à des prestataires de services opérant pour leur compte.
+
+(2) Les assep conservent l’entière responsabilité du respect des obligations qui leur incombent en vertu de la présente loi lorsqu’elles externalisent des fonctions clés ou d’autres activités.
+
+(3) L’externalisation de fonctions clés ou d’autres activités n’est pas effectuée d’une manière susceptible d’entraîner l’une des conséquences suivantes :
+
+- a) compromettre la qualité du système de gouvernance de l’assep concernée ;
+
+- b) accroître indûment le risque opérationnel ;
+
+- c) compromettre la capacité de la CSSF de vérifier que l’assep concernée se conforme à ses obligations ;
+
+- d) nuire à la prestation continue d’un service satisfaisant à l’égard des affiliés et bénéficiaires.
+
+(4) Les assep veillent au bon fonctionnement des activités externalisées, par le processus de sélection d’un prestataire de services et par un contrôle continu des activités de ce prestataire de services.
+
+(5) Les assep qui externalisent des fonctions clés, la gestion de l’actif, la gestion du passif ou d’autres activités visées par la présente loi concluent un contrat écrit avec le prestataire de services. Ce contrat doit définir les droits et obligations de l’assep et du prestataire de services.
+
+(6) Les assep informent en temps utile la CSSF de toute externalisation des activités visées par la présente loi. Lorsqu’il s’agit d’externaliser des fonctions clés ou la gestion des assep, la CSSF en est informée avant que l’accord relatif à cette externalisation entre en vigueur. Les assep informent la CSSF de toute évolution importante ultérieure concernant des activités externalisées.
+
+(7) La CSSF a le pouvoir de demander à tout moment aux assep et aux prestataires de services des informations sur les fonctions clés ou d’autres activités externalisées. ».
