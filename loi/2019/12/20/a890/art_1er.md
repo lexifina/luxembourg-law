@@ -1,0 +1,3 @@
+# Art. 1er. Objet et champ d’application
+
+La présente loi a pour objet d’établir des règles relatives à un mécanisme destiné à régler les différends entre le Luxembourg et un ou plusieurs États membres de l’Union européenne lorsque ces différends découlent de l’interprétation et de l’application d’accords et de conventions conclus par le Luxembourg avec un ou plusieurs États membres de l’Union européenne et prévoyant l’élimination de la double imposition du revenu et, le cas échéant, de la fortune. Elle établit également les droits et obligations des personnes concernées lorsque de tels différends se produisent.

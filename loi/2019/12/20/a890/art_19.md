@@ -1,0 +1,3 @@
+# Art. 19. Entrée en vigueur
+
+La présente loi s’applique à toute réclamation qui porte sur des différends relatifs à des revenus ou à des capitaux perçus au cours d’un exercice fiscal commençant le 1er janvier 2018 ou après cette date. L’autorité compétente du Luxembourg et l’autorité compétente de chacun des autres États membres concernés peuvent cependant convenir au cas par cas d’appliquer les dispositions de la loi à une réclamation introduite avant la date d’entrée en vigueur de la loi ou portant sur des différends relatifs à des revenus ou à des capitaux perçus au cours d’un exercice fiscal commençant avant le 1er janvier 2018.

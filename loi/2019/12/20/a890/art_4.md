@@ -1,0 +1,11 @@
+# Art. 4. Procédure amiable
+
+(1) Au cas où l’autorité compétente du Luxembourg et les autorités compétentes des autres États membres concernés ont admis la réclamation en vertu de l’article 3, elles s’efforcent de régler le différend à l’amiable dans un délai de deux ans à compter de la dernière notification de la décision de l’autorité compétente du Luxembourg ou des autorités compétentes des autres États membres concernés d’admettre la réclamation.
+
+L’autorité compétente du Luxembourg peut demander la prorogation du délai de deux ans d’un an maximum, sur la base d’une justification écrite. La demande de prorogation est adressée à toutes les autorités compétentes des autres États membres concernés.
+
+(2) Dès que l’autorité compétente du Luxembourg et les autorités compétentes des autres États membres concernés sont parvenues à un accord sur la manière de régler le différend dans le délai prévu au paragraphe 1er, l’autorité compétente du Luxembourg notifie cet accord à la personne concernée sous la forme d’une décision contraignante pour l’autorité compétente du Luxembourg et exécutoire pour la personne concernée, nonobstant les délais prévus par le droit luxembourgeois ou le droit des États membres de l’Union européenne concernés, et sous réserve que la personne concernée accepte la décision et renonce à faire valoir son droit à un recours administratif ou contentieux.
+
+Au cas où la personne concernée a déjà introduit un recours administratif ou contentieux, la décision ne devient contraignante et exécutoire qu’une fois que la personne concernée a fourni à l’autorité compétente du Luxembourg et aux autorités compétentes des autres États membres concernés des éléments de preuve attestant que des mesures ont été prises pour mettre fin au recours pré-mentionné. Ces éléments de preuve sont fournis au plus tard soixante jours à compter de la date à laquelle l’accord sous la forme de décision contraignante a été notifié à la personne concernée.
+
+(3) Lorsque l’autorité compétente du Luxembourg et les autorités compétentes des autres États membres concernés ne sont pas parvenues à un accord sur la manière de régler le différend dans le délai visé au paragraphe 1er, l’autorité compétente du Luxembourg en informe la personne concernée en indiquant les raisons pour lesquelles il n’a pas été possible de parvenir à un accord.
