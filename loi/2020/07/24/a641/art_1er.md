@@ -1,0 +1,15 @@
+# Art. 1er.
+
+(1) L’État, représenté par le ministre ayant les Classes moyennes dans ses attributions, désigné ci-après par « ministre », peut accorder une aide en faveur des entreprises disposant d’une autorisation d’établissement délivrée en application de la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales, et exerçant au moins une des activités économiques énumérées à l’annexe.
+
+(2) Les entreprises qui, au 31 décembre 2019 étaient en difficulté au sens de l’article 2, paragraphe 18, du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sont exclues de l’aide prévue à l’article 3.
+
+Par dérogation à l’alinéa 1er, l’aide prévue à l’article 3 peut être octroyée à des micros ou petites entreprises qui étaient déjà en difficulté au 31 décembre 2019, dès lors que celles-ci ne font pas l’objet d’une procédure collective d’insolvabilité en vertu du droit national qui leur est applicable et n’ont pas bénéficié d’une aide au sauvetage sous forme de prêt non encore remboursée, d’une aide au sauvetage sous forme d’une garantie à laquelle il n’a pas encore été mis fin ou d’une aide à la restructuration dans le cadre d’un plan de restructuration qui est encore en cours. Ces conditions sont appréciées au moment de l’octroi de l’aide.
+
+Par dérogation, l’aide prévue à l’article 3 peut être accordée à une entreprise exclue en application de l’alinéa 1er à condition que l’aide respecte les seuils et conditions fixés par le règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne aux aides de minimis.
+
+(3) Les entreprises exerçant des activités dans le domaine de la transformation et de la commercialisation des produits agricoles ne peuvent bénéficier d’une aide au titre de la présente loi qu’à condition que cette aide ne soit cédée ni partiellement, ni totalement, à des producteurs primaires et ne soit pas fixée sur la base du prix ou de la quantité des produits achetés à des producteurs primaires ou mis sur le marché par les entreprises concernées.
+
+(4) Lorsqu’une entreprise exerce une ou plusieurs activités énumérées à l’annexe et des activités qui ne tombent pas dans le champ d’application de la présente loi, alors seules ces premières activités peuvent être considérées comme éligibles sous réserve d’assurer une séparation des activités.
+
+(5) Les employeurs qui ont été condamnés à au moins deux reprises pour contraventions aux dispositions interdisant le travail clandestin ou aux dispositions interdisant l’emploi de ressortissants de pays tiers en séjour irrégulier, au cours des quatre dernières années précédant le jugement de la juridiction compétente, sont exclus du champ d’application de la présente loi pendant une durée de trois années à compter de la date de ce jugement.
