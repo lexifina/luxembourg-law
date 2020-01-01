@@ -1,0 +1,3 @@
+# Art. 26.
+
+Les indemnités des fonctionnaires stagiaires et des employés se trouvant dans la période prévue à l’article 20, paragraphe 1er, de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État en activité, en congé de maternité, en congé parental ou en congé sans traitement au 1er janvier 2019 sont recalculées avec effet au 1er janvier 2019 en vertu respectivement de l’article 37, paragraphe 2, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État et de l’article 20, paragraphe 1er, de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État.
