@@ -1,0 +1,9 @@
+# Art. 4.
+
+Sans préjudice des attributions et compétences des médecins-inspecteurs et de la Police grand-ducale, le bourgmestre est compétent pour contrôler lesdits logements et chambres pour vérifier le respect des critères prévus à l’article 2, paragraphe 1er.
+
+Lorsque dans l’exécution de sa mission de contrôle, l’accès auxdits logements et chambres n’est pas accordé au bourgmestre ou à celui qui le remplace, et si l’existence de conditions sanitaires défectueuses ou de manquements aux conditions légales de sécurité contre les risques d’incendie, de gaz et d’électricité peut être présumée sur base d’indices graves, la visite est conditionnée à l’accord explicite du président du tribunal d’arrondissement du lieu de situation desdits logements et chambres. Le bourgmestre ou celui qui le remplace a le droit de requérir directement le concours de la force publique pour l’exécution de sa mission. Il signale sa présence à l’exploitant ou au propriétaire ou à celui qui le remplace. Celui-ci a le droit de les accompagner lors de la visite.
+
+Le bourgmestre ou celui qui le remplace peut se faire assister par des agents de la Direction de la santé pour vérifier le respect des critères prévus à l’article 2, paragraphe 1er, alinéa 1, point 1°, ou, si besoin, par tout expert pour vérifier les autres critères prévus à l’article 2, paragraphe 1er.
+
+Le contrôle d’un logement ou d’une chambre a lieu entre huit heures et dix-huit heures. L’exploitant ou le propriétaire du logement ou de la chambre en question est informé du contrôle au moins un jour de calendrier avant le jour du contrôle. Il en informe sans délai l’occupant concerné. Il est dressé un rapport au bourgmestre de chaque contrôle mentionnant le nom des personnes qui sont entrées dans les lieux visés, les motifs, les lieux et la date du contrôle. Copie est remise à l’exploitant ou au propriétaire.
