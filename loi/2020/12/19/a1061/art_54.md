@@ -1,0 +1,5 @@
+# Art. 54. Modification de la loi modifiée du 27 juillet 1997 sur le contrat d’assurance
+
+À l’article 2, paragraphe 1er, de la loi modifiée du 27 juillet 1997 sur le contrat d’assurance, il est inséré un nouvel alinéa qui prend la teneur suivante :
+
+« Un contrat d’assurance reste valable et son exécution reste soumise à la présente loi, au cas où une entreprise d’assurance de l’Espace économique européen ou d’un pays tiers perd son autorisation de pratiquer des opérations d’assurance directe au Grand-Duché de Luxembourg tout en gardant son agrément dans son État d’origine et que ce contrat a été valablement émis ou reconduit par une entreprise autorisée à travailler au Grand-Duché de Luxembourg en régime de libre établissement ou de libre prestation de services au moment de l’émission ou de la reconduction de ce contrat. Un tel contrat ne peut toutefois faire l’objet d’une reconduction ni d’aucune opération d’assurance directe donnant lieu à l’émission de primes postérieurement à la perte de l’autorisation. ».
