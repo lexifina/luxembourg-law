@@ -1,3 +1,0 @@
-# Art. 2. Publicité
-
-Aux fins d'application du présent règlement, le projet de plan national de mise en œuvre dont question à l'article 8 du règlement (CE) visé à l'article 1er fait l'objet d'une publicité sur support électronique. Un avis concernant le projet de plan et informant sur le début de la période de publicité, qui est d'un mois au moins, est inséré dans 4 journaux quotidiens imprimés et publiés au Grand-Duché. Au cours de ladite période, les intéressés peuvent émettre leurs observations et suggestions par le biais dudit support ou transmettre ces dernières directement à l'autorité compétente. Le plan national fait l'objet d'une publicité sur support électronique.
