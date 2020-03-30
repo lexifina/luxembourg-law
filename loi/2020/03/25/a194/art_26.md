@@ -1,0 +1,3 @@
+# Art. 26.
+
+À l’article 9-2 de la même loi, l’alinéa 2 est complété par une seconde phrase libellée comme suit : « Dans ce cas, des actions coordonnées peuvent être engagées pour rechercher une solution. Au moment de déterminer quels pays tiers ne permettent pas la mise en œuvre des politiques et procédures requises en application de l’article 4-1, paragraphe (1), la CSSF et le CAA tiennent compte de toutes les contraintes juridiques susceptibles de faire obstacle à une bonne mise en œuvre de ces politiques et procédures, y compris en matière de secret, de protection des données et d’autres contraintes limitant l’échange d’informations qui peuvent être utiles à cette fin. ».
