@@ -1,0 +1,11 @@
+# Art. 12. Indemnités de l’Ombudsman fir Kanner a Jugendlecher
+
+(1) L’Ombudsman fir Kanner a Jugendlecher touche une indemnité correspondant au traitement d’un fonctionnaire de l’État dont la fonction est classée au grade 17 dans le groupe de traitement A1. Pendant l’exercice de ses fonctions, les dispositions légales et réglementaires sur les traitements et pensions des fonctionnaires de l’État lui sont applicables. Il bénéficie également de la majoration d’échelon prévue à l’article 17 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+
+(2) Pour le cas où l’Ombudsman fir Kanner a Jugendlecher est issu de la fonction publique, il est mis en congé pendant la durée de son mandat dans son administration d’origine. Il continue à relever du régime de sécurité sociale correspondant à son statut.
+
+(3) En cas de cessation de son mandat avant l’âge légal de retraite, pour une raison autre que celle prévue à l’article 10, paragraphe 3, le titulaire issu de la Fonction publique est, sur sa demande, réintégré dans son administration d’origine à un emploi correspondant au traitement qu’il a touché précédemment, augmenté des échelons et majorations de l’indice se rapportant aux années de service passées comme Ombudsman fir Kanner a Jugendlecher jusqu’à concurrence du dernier échelon du grade. A défaut de vacance de poste, il est créé un emploi par dépassement des effectifs, correspondant à ce traitement. Cet emploi sera supprimé de plein droit à la première vacance qui se produira dans une fonction appropriée du cadre normal.
+
+(4) Pour le cas où l’Ombudsman fir Kanner a Jugendlecher n’est pas issu de la Fonction publique, il reste affilié au régime de sécurité sociale auquel il était soumis pendant l’exercice de sa dernière occupation.
+
+(5) En cas de cessation de son mandat avant l’âge légal de retraite, pour une raison autre que celle prévue à l’article 10, paragraphe 3, le titulaire touche, pendant la durée maximale d’un an, une indemnité d’attente mensuelle de 310 points indiciaires. Cette indemnité d’attente est réduite dans la mesure où l’intéressé touche un revenu professionnel ou bénéficie d’une pension personnelle.
