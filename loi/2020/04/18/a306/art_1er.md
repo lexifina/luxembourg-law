@@ -1,0 +1,3 @@
+# Art. 1er.
+
+En ce qui concerne les comptes des partis politiques relatifs à l’exercice comptable clôturé le 31 décembre 2019, la date limite fixée au 1er juillet 2020 par l’article 12 de la loi modifiée du 21 décembre 2007 portant réglementation du financement des partis politiques, est reportée d’un nombre de jours correspondant à la durée de l’état de crise, tel que déclaré par le règlement grand-ducal modifié du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre Covid-19.
