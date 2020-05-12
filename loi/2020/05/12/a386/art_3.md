@@ -1,0 +1,3 @@
+# Art. 3.
+
+Par dérogation à l’article 50 de la loi modifiée du 22 mars 2004 relative à la titrisation et portant modification de - la loi modifiée du 5 avril 1993 relative au secteur financier ; - la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier ; - la loi du 27 juillet 2003 sur le trust et les contrats fiduciaires ; - la loi modifiée du 4 décembre 1967 relative à l’impôt sur le revenu ; - la loi modifiée du 16 octobre 1934 concernant l’impôt sur la fortune ; - la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée, les délais de publication du rapport annuel et du rapport semestriel découlant dudit article sont prorogés de trois mois.
