@@ -21,3 +21,5 @@ Les dispositions des articles 91, 92 et 93 leur sont applicables.
 Lorsque la Cour Constitutionnelle estime qu’une affaire, dont elle est saisie, revêt une importance particulière, elle siège en formation plénière de neuf membres.
 
 (5) L'organisation de la Cour Constitutionnelle et la manière d'exercer ses attributions sont réglées par la loi.
+
+(6) Les dispositions des lois déclarées non conformes à la Constitution par un arrêt de la Cour Constitutionnelle cessent d’avoir un effet juridique le lendemain de la publication de cet arrêt dans les formes prévues pour la loi, à moins que la Cour Constitutionnelle n’ait ordonné un autre délai. La Cour Constitutionnelle détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d’être remis en cause.
