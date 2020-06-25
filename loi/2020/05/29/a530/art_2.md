@@ -1,0 +1,3 @@
+# Art. 2.
+
+Pour les personnes bénéficiant d’une préretraite au sens de l’article 35 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État et qui ont été engagées sur base de l’article 33 de la loi précitée du 25 mars 2015, en application de l’article 17 du règlement grand-ducal modifié du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19, le contrat de travail à durée déterminée ainsi conclu et qui est en cours au moment de l’entrée en vigueur de la loi continue à produire ses effets jusqu’à son terme.
