@@ -1,3 +1,0 @@
-# Art. 2.
-
-Dans le cadre de la mise en œuvre de l’accueil extrascolaire en rapport avec le plan de prise en charge en alternance des élèves de l’enseignement fondamental à partir du 25 mai 2020 jusqu’au 15 juillet 2020, l’article 16 de la loi modifiée du 19 mars 1988 concernant la sécurité dans les administrations et services de l’État, dans les établissements publics et dans les écoles ne s’applique pas pour toute réalisation, transformation, modification de locaux et d’installations qui portent sur les services d’éducation et d’accueil ayant pour objet l’accueil des élèves et de jeunes enfants scolarisés.
