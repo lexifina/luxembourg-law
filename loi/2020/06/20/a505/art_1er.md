@@ -1,3 +1,0 @@
-# Art. 1er.
-
-Par dérogation à l’article 33, paragraphe 3, point 1, de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle et pendant l’année scolaire 2019/2020, aucune note n’est attribuée à une compétence qui n’a pas pu être évaluée pendant la durée de l’état de crise, tel que déclaré par le règlement grand-ducal modifié du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 ou en raison de la pandémie de Covid-19.
