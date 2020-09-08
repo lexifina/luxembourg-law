@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Aux articles 1er et 4 de la loi modifiée du 5 juin 2009 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs et modifiant la loi modifiée du 27 juillet 1993 ayant pour objet 1. le développement et la diversification économiques et 2. l’amélioration de la structure générale et de l’équilibre régional de l’économie, le terme C+E est remplacé par le terme CE, le terme C1+E est remplacé par le terme C1E, le terme D+E est remplacé par le terme DE et le terme D1+E est remplacé par le terme D1E. »
