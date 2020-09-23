@@ -7,5 +7,3 @@ Sans préjudice des articles 2 et 3, tout rassemblement de personnes mettant en 
 (2) L’ensemble des obligations prévues au paragraphe 1er alinéa 2, ne s’appliquent ni aux acteurs cultuels, culturels et sportifs lors de l’exercice de leurs activités, ni aux personnes participant à des activités scolaires et parascolaires. L’obligation de se voir assigner des places assises ne s’applique ni dans le cadre de l’exercice de la liberté de manifester, ni aux funérailles, ni aux foires, marchés et salons où le public circule.
 
 (3) L’obligation de distanciation physique et de port du masque prévue au paragraphe 1er ne s’applique ni aux mineurs de moins de six ans, ni aux personnes qui font partie d’un même ménage ou cohabitent , ni aux personnes visées au paragraphe 1er, alinéa 1er .
-
-(4) Dès lors que, par nature, le maintien de la distanciation physique n’est pas possible entre la personne en situation de handicap et la personne qui l’accompagne, cette dernière met en œuvre d’autres mesures sanitaires de nature à prévenir la propagation du virus SARS-CoV-2.
