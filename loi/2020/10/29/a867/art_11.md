@@ -1,0 +1,3 @@
+# Art. 11.
+
+À l’article 18, de la même loi, les termes à l’exception des articles 13 et 14 sont remplacés par les termes à l’exception des articles 13 et 14 de la présente loi et de l’article 12 de la loi du 29 octobre 2020 modifiant : 1° la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ; 2° la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière ; 3° la loi du 23 septembre 2020 portant des mesures concernant la tenue de réunions dans les sociétés et dans les autres personnes morales.
