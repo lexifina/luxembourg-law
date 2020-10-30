@@ -1,6 +1,6 @@
 # Art. 5.
 
-(1) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2 et l’état de santé des personnes infectées ou à haut risque d’être infectées, les personnes infectées renseignent le directeur de la santé ou son délégué ainsi que les fonctionnaires ou employés désignés à cet effet par le directeur de la santé sur leur état de santé et sur l’identité des personnes avec lesquelles elles ont eu des contacts physiques dans la période qui ne peut être supérieure à quarante-huit heures respectivement avant l’apparition des symptômes ou avant le résultat positif d’un test diagnostique de l’infection au virus SARS-CoV-2.
+(1) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2 et l’état de santé des personnes infectées ou à haut risque d’être infectées, les personnes infectées renseignent le directeur de la santé ou son délégué, ainsi que les fonctionnaires, employés ou les salariés mis à disposition du ministère de la Santé en application de l’article L. 132-1 du Code du travail, désignés à cet effet par le directeur de la santé, sur leur état de santé et sur l’identité des personnes avec lesquelles elles ont eu des contacts susceptibles de générer un haut risque d’infection dans la période qui ne peut être supérieure à quarante-huit heures respectivement avant l’apparition des symptômes ou avant le résultat positif d’un test diagnostique de l’infection au virus SARS-CoV-2.
 
 Le traitement de données visé au paragraphe 1er, alinéa 1er, comprend les catégories de données suivantes :
 

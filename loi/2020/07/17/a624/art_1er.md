@@ -22,6 +22,6 @@ Au sens de la présente loi, on entend par :
 
 - 6° « confinement forcé » : le placement sans son consentement d’une personne infectée au sens de l’article 8 dans un établissement hospitalier ou une autre institution, établissement ou structure approprié et équipé ;
 
-- 7° « rassemblement » : la réunion organisée de personnes physiques de manière simultanée dans un même lieu sur la voie publique, dans un lieu accessible au public ou dans un lieu privé ;
+- 7° « rassemblement » : la réunion de personnes dans un même lieu sur la voie publique, dans un lieu accessible au public ou dans un lieu privé ;
 
 - 8° « masque » : un masque de protection ou tout autre dispositif permettant de recouvrir le nez et la bouche d’une personne physique. Le port d’une visière ne constitue pas un tel dispositif.

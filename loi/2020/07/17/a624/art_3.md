@@ -1,7 +1,23 @@
 # Art. 3.
 
-(1) Sans préjudice des articles 2 et 4, paragraphe 2, le port d’un masque est obligatoire en toutes circonstances pour les activités qui accueillent un public et qui se déroulent en lieu fermé, ainsi que dans les transports publics, sauf pour le conducteur lorsqu’une distance interpersonnelle de deux mètres est respectée ou un panneau de séparation le sépare des passagers.
+La circulation sur la voie publique entre vingt-trois heures et six heures du matin est interdite, à l’exception des déplacements suivants :
 
-(2) Toutefois, lorsque l’exercice de tout ou partie d’une activité qui accueille un public au sens du paragraphe 1er est incompatible, par sa nature même, avec le port d’un masque, l’organisateur ou le professionnel concerné met en œuvre d’autres mesures sanitaires de nature à empêcher la propagation du virus.
+- 1° les déplacements en vue de l’activité professionnelle ou de la formation ou d’enseignement ;
 
-(3) L’obligation de port du masque ne s’applique ni aux mineurs de moins de six ans, ni aux personnes en situation de handicap ou présentant une pathologie munies d’un certificat médical justifiant de cette dérogation, ni aux acteurs cultuels, culturels et sportifs lors de l’exercice de leurs activités.
+- 2° les déplacements pour des consultations médicales ou des dispenses de soins de santé ne pouvant être différés ou prestés à distance ;
+
+- 3° les déplacements pour l’achat de médicaments ou de produits de santé ;
+
+- 4° les déplacements pour des motifs familiaux impérieux, pour l’assistance et les soins aux personnes vulnérables ou précaires ou pour la garde des enfants ;
+
+- 5° les déplacements répondant à une convocation judiciaire, policière ou administrative ;
+
+- 6° les déplacements vers ou depuis une gare ou un aéroport dans le cadre d’un voyage à l’étranger ;
+
+- 7° les déplacements liés à des transits sur le réseau autoroutier ;
+
+- 8° les déplacements brefs dans un rayon d’un kilomètre autour du lieu de résidence pour les besoins des animaux de compagnie ;
+
+- 9° en cas de force majeure ou situation de nécessité.
+
+En aucun cas, ces déplacements ne doivent donner lieu à rassemblement.
