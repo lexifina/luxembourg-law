@@ -1,0 +1,41 @@
+# Art. 1er.
+
+L’article L.326-9, du Code du travail, est modifié comme suit :
+
+- 1° Le paragraphe 1er prend la teneur suivante :
+
+- « (1) Lorsque le médecin du travail, après avoir procédé à un examen médical, constate l’inaptitude du salarié à occuper un poste de travail, il doit en informer le salarié et l’employeur par lettre recommandée, indiquant les voie et délai de recours. » ;
+
+- 2° Le paragraphe 5 prend la teneur suivante :
+
+- « (5) Si l’employeur occupe au jour de la saisine de la Commission mixte un effectif total d’au moins vingt-cinq travailleurs et si après avoir respecté les dispositions des paragraphes 1er et 2 le médecin du travail compétent déclare le salarié inapte à son dernier poste de travail et aux tâches y relatives ou régime de travail, il saisit la Commission mixte si le salarié est en possession d’un certificat d’aptitude au poste de travail, établi par le médecin du travail compétent lors de l’embauche à ce dernier poste de travail ou s’il présente une ancienneté d’au moins trois ans.
+
+- Le médecin du travail compétent établit un avis motivé constatant, le cas échéant, l’inaptitude du salarié pour le poste occupé. Dans son avis, le médecin du travail compétent se prononce sur les capacités de travail résiduelles du salarié, sur une réduction du temps de travail éventuelle conformément à l’article L.551-1, paragraphe 3, alinéas 2 et 3, sur les possibilités de mutation et d’adaptation éventuelle du poste de travail, sur le caractère transitoire ou définitif de l’inaptitude et il arrête la périodicité endéans laquelle le salarié doit se soumettre à la réévaluation médicale visée à l’article L.551-6, paragraphe 4.
+
+- Lors de chaque réévaluation médicale le médecin du travail compétent peut modifier la périodicité arrêtée initialement. La périodicité doit être de moins de deux ans, à moins que les restrictions aient un caractère définitif.
+
+- Le médecin du travail compétent saisit la Commission mixte en lui transmettant son avis, accompagné des pièces justificatives établies en application des paragraphes 1er et 2. La Commission mixte décide soit le reclassement professionnel interne, soit le reclassement professionnel externe conformément à l’article L.552-1, paragraphe 1er.
+
+- Le médecin du travail compétent en informe l’employeur et le salarié concerné en leur faisant parvenir une copie du document portant saisine. » ;
+
+- 3° Le paragraphe 6 prend la teneur suivante :
+
+- « (6) Si l’employeur occupe au jour de la saisine de la Commission mixte un effectif total de moins de vingt-cinq travailleurs et que le salarié est en possession d’un certificat d’aptitude au poste de travail, établi par le médecin de travail compétent lors de l’embauche à ce dernier poste de travail ou s’il présente une ancienneté d’au moins trois ans, le médecin du travail compétent peut, en accord avec le salarié, saisir la Commission mixte conformément au paragraphe 5, alinéas 2 à 5. L’accord du salarié doit être transmis par le médecin du travail compétent à la Commission mixte au moment de la saisine. La Commission mixte décide le reclassement professionnel interne ou externe conformément à l’article L.552-1, paragraphe 1er. Un reclassement professionnel interne ne peut être décidé que sur accord de l’employeur.
+
+- En cas de reclassement professionnel externe l’employeur est tenu de payer à son salarié, une indemnité forfaitaire qui varie en fonction de l’ancienneté de service du salarié comme suit :
+
+  - 1° un mois de salaire après une ancienneté de service continus de cinq ans au moins ;
+
+  - 2° deux mois de salaire après une ancienneté de service continus de dix ans au moins ;
+
+  - 3° trois mois de salaire après une ancienneté de service continus de quinze ans au moins ;
+
+  - 4° quatre mois de salaire après une ancienneté de service continus de vingt ans et plus.
+
+- L’ancienneté de service est appréciée à la date de la notification de la décision de reclassement professionnel externe.
+
+- L’indemnité est calculée sur base des salaires bruts effectivement versés au salarié pour les douze derniers mois qui précèdent immédiatement celui de la notification de la décision de reclassement professionnel externe. Sont compris dans les salaires servant au calcul de l’indemnité forfaitaire les indemnités pécuniaires de maladie ainsi que les primes et suppléments courants, à l’exclusion des salaires pour heures supplémentaires, des gratifications et toutes indemnités pour frais accessoires exposés.
+
+- Cette indemnité ainsi versée au salarié est remboursée à l’employeur par le Fonds pour l’emploi sur demande écrite avec pièces à l’appui. La demande est à présenter, sous peine de forclusion, dans un délai de six mois à compter du jour de la notification de la décision de la Commission mixte.
+
+- Si l’employeur occupe au jour de la saisine de la Commission mixte un effectif total d’au moins vingt-cinq travailleurs, la procédure prévue à l’article L.551-2, paragraphe 1er s’applique. ».

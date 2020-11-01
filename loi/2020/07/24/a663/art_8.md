@@ -1,0 +1,11 @@
+# Art. 8.
+
+L’article L.551-7, paragraphe 1er, alinéa 1er, du même code, est modifié comme suit :
+
+« (1) Le directeur de l’Agence pour le développement de l’emploi alloue, sur leur demande, aux employeurs du secteur privé et du secteur communal ainsi qu’aux établissements publics, une participation au salaire du travailleur en reclassement professionnel interne ou bénéficiant du statut de personne en reclassement externe qui présente une perte de rendement, à charge du Fonds pour l’emploi. Le début de la participation au salaire est fixé au jour de l’introduction de la demande auprès de l’Agence pour le développement de l’emploi.
+
+La perte de rendement est établie en fonction de la diminution de la capacité de travail du travailleur, de l’effort de maintien à l’emploi entrepris par l’employeur en faveur des travailleurs reclassés et de la nature du travail à prester. L’évaluation de cette perte de rendement résulte d’une part des conclusions découlant d’une étude du poste de travail à occuper par le travailleur reclassé et d’un bilan des déficits et des capacités résiduelles du travailleur à établir par le médecin du travail de l’Agence pour le développement de l’emploi ainsi que d’un examen réalisé par un agent de l’Agence pour le développement de l’emploi qui dispose à cet effet d’un outil standardisé et objectif destiné à comparer le profil de capacité du travailleur concerné et le profil requis pour le poste occupé.
+
+La participation au salaire est fixée proportionnellement à la perte de rendement ainsi établie sans pouvoir dépasser soixante-quinze pour cent du salaire versé au travailleur, y compris la part patronale des cotisations de sécurité sociale. Toutefois, elle peut être portée à cent pour cent du salaire versé au travailleur pendant la durée d’une mesure de réhabilitation ou de reconversion décidée par la Commission mixte en application de l’article L. 552-2, paragraphe 4.
+
+La perte de rendement pourra être réévaluée périodiquement par le directeur de l’Agence pour le développement de l’emploi en cas d’adaptation du temps ou du poste de travail suite à une réévaluation médicale. La participation au salaire sera adaptée ou retirée si la perte de rendement réévaluée augmente, diminue ou disparaît, ou en cas de changement des conditions de travail du travailleur. ».
