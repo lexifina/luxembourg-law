@@ -2,7 +2,7 @@
 
 La circulation sur la voie publique entre vingt-trois heures et six heures du matin est interdite, à l’exception des déplacements suivants :
 
-- 1° les déplacements en vue de l’activité professionnelle ou de la formation ou d’enseignement ;
+- 1° les déplacements en vue de l’activité professionnelle ou de la formation ou de l’enseignement ;
 
 - 2° les déplacements pour des consultations médicales ou des dispenses de soins de santé ne pouvant être différés ou prestés à distance ;
 
@@ -20,4 +20,4 @@ La circulation sur la voie publique entre vingt-trois heures et six heures du ma
 
 - 9° en cas de force majeure ou situation de nécessité.
 
-En aucun cas, ces déplacements ne doivent donner lieu à rassemblement.
+Ces déplacements ne doivent en aucun cas donner lieu à rassemblement

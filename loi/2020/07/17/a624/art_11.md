@@ -1,6 +1,6 @@
 # Art. 11.
 
-(1) Les infractions aux mesures de prévention prévues à l’article 2, alinéa 1er, points 1°, 3°, 6° et 8°, ainsi que les infractions aux mesures de protection prévues à l’article 3bis, alinéa 1er, et à l’article 4, paragraphes 5 et 8, commises par les commerçants, artisans, gérants ou autres personnes responsables des activités y visées sont punies d’une amende administrative d’un montant maximum de 4 000 euros.
+(1) Les infractions aux articles 3bis, 3ter, 3quater commises par les commerçants, artisans, gérants ou autres personnes responsables des établissements et activités y visées sont punies d’une amende administrative d’un montant maximum de 4 000 euros.
 
 En cas de commission d’une nouvelle infraction, après une sanction prononcée par une décision ayant acquis force de chose décidée ou jugée, le montant maximum est porté au double, et l’autorisation d’établissement délivrée à l’entreprise en application de la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales peut être suspendue pour une durée de trois mois par le ministre ayant les Classes moyennes dans ses attributions.
 
@@ -8,7 +8,7 @@ Les entreprises qui ont été sanctionnées sur base de l’alinéa 2 par une d�
 
 Les infractions à la loi sont constatées par les agents et officiers de police administrative de la Police grand-ducale et par les agents de l’Administration des douanes et accises à partir du grade de brigadier principal. La constatation fait l’objet d’un rapport mentionnant le nom du fonctionnaire qui y a procédé, le jour et l’heure du constat, les nom, prénoms et adresse de la personne ou des personnes ayant commis l’infraction, ainsi que toutes autres déclarations que ces personnes désirent faire acter.
 
-Copie en est remise à la personne ayant commis l’infraction visée à l’alinéa 1er. Cette personne a accès au dossier et est mise à même de présenter ses observations écrites dans un délai de deux semaines à partir de la remise de la copie précitée. L’amende est prononcée par le ministre ayant la Santé dans ses attributions, ci-après « ministre ».
+Copie en est remise à la personne ayant commis l’infraction visée à l’alinéa 1er. Si cette personne ne peut pas être trouvée sur les lieux, le procès-verbal lui est notifié par lettre recommandée. La personne ayant commis l’infraction a accès au dossier et est mise à même de présenter ses observations écrites dans un délai de deux semaines à partir de la remise de la copie précitée ou de sa notification par lettre recommandée. L’amende est prononcée par le ministre ayant la Santé dans ses attributions, ci-après « ministre ».
 
 L’Administration de l’enregistrement, des domaines et de la TVA est chargée du recouvrement des amendes administratives prononcées par le ministre. Le recouvrement est poursuivi comme en matière d’enregistrement.
 
