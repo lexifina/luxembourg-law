@@ -6,13 +6,11 @@ Les personnes visées à l’alinéa 1er, première phrase, ne sont pas soumises
 
 (2) Le port du masque est obligatoire en toutes circonstances pour les activités ouvertes à un public qui circule et qui se déroulent en lieu fermé, ainsi que dans les transports publics, sauf pour le conducteur lorsqu’une distance interpersonnelle de deux mètres est respectée ou un panneau de séparation le sépare des passagers.
 
-(3) Sans préjudice des paragraphes 1er et 2 et de l’article 3quinquies , le port du masque est obligatoire pour tout rassemblement qui met en présence plus de quatre personnes, dans un lieu fermé ou en plein air.
-
 (4) Sans préjudice des paragraphes 1er et 2 et de l’article 3quinquies, tout rassemblement à partir de quatre et jusqu’à dix personnes incluses est soumis à la condition que les personnes portent un masque et observent une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent.
 
-Tout rassemblement au-delà de dix et jusqu’à cent personnes incluses est soumis à la condition que les personnes portent un masque et se voient attribuer des places assises en observant une distance minimale de deux mètres.
+Tout rassemblement qui met en présence entre onze et cent personnes incluses est soumis à la condition que les personnes portent un masque et se voient attribuer des places assises en observant une distance minimale de deux mètres.
 
-(5) Tout rassemblement au-delà de cent personnes est interdit. Ne sont pas pris en considération pour le comptage de ces cent personnes, les orateurs, les acteurs cultuels, ainsi que les acteurs de théâtre et de film, les musiciens ainsi que les danseurs qui exercent une activité artistique professionnelle et qui sont sur scène. Cette interdiction ne s’applique ni à la liberté de manifester, ni aux marchés à l’extérieur, ni aux transports publics. Le port du masque est obligatoire à tout moment. Les manifestations sportives ont lieu à huis clos.
+(5) Tout rassemblement au-delà de cent personnes est interdit. Ne sont pas pris en considération pour le comptage de ces cent personnes, les acteurs cultuels. Cette interdiction ne s’applique ni à la liberté de manifester, ni aux marchés à l’extérieur, ni aux transports publics. Le port du masque est obligatoire à tout moment. Les manifestations sportives ont lieu à huis clos.
 
 (6) L’obligation de distanciation physique et de port du masque prévue aux paragraphes 2, 3, 4 et 5 ne s’applique :
 

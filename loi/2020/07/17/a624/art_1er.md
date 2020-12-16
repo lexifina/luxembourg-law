@@ -25,3 +25,5 @@ Au sens de la présente loi, on entend par :
 - 7° « rassemblement » : la réunion de personnes dans un même lieu sur la voie publique, dans un lieu accessible au public ou dans un lieu privé ;
 
 - 8° « masque » : un masque de protection ou tout autre dispositif permettant de recouvrir le nez et la bouche d’une personne physique. Le port d’une visière ne constitue pas un tel dispositif.
+
+- 9° « centre commercial » : tout ensemble de magasins spécialisés ou non, conçu comme un tout.

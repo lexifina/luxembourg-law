@@ -6,29 +6,43 @@ Constitue une surface de vente, la surface bâtie, mesurée à l’intérieur de
 
 Ne sont pas considérés comme surfaces de vente :
 
-- les galeries marchandes d’un centre commercial pour autant qu’aucun commerce de détail n’y puisse être exercé ;
+- 1° les galeries marchandes d’un centre commercial pour autant qu’aucun commerce de détail n’y puisse être exercé ;
 
-- les établissements d’hébergement, les établissements de restauration, les débits de boissons alcoolisées et non alcoolisées ;
+- 2° les établissements d’hébergement, les établissements de restauration, les débits de boissons alcoolisées et non alcoolisées ;
 
-- les salles d’exposition des garagistes ;
+- 3° les salles d’exposition des garagistes ;
 
-- les agences de voyage ;
+- 4° les agences de voyage ;
 
-- les agences de banque ;
+- 5° les agences de banque ;
 
-- les agences de publicité ;
+- 6° les agences de publicité ;
 
-- les centres de remise en forme ;
+- 7° les centres de remise en forme ;
 
-- les salons de beauté ;
+- 8° les salons de beauté ;
 
-- les salons de coiffure ;
+- 9° les salons de coiffure ;
 
-- les opticiens ;
+- 10° les opticiens ;
 
-- les salons de consommation.
+- 11° les salons de consommation.
 
-(2) Dans les établissements ouverts au public, les activités suivantes sont interdites :
+(2) Tout exploitant d’un centre commercial qui est doté d’une galerie marchande, doit obligatoirement mettre en place au plus tard trois jours ouvrables après l’entrée en vigueur de la présente loi un protocole sanitaire à accepter par la Direction de la santé. Le protocole doit être notifié au plus tard trois jours ouvrables après l’entrée en vigueur de la présente loi à la Direction de la santé par voie de lettre recommandée avec accusé de réception. La Direction de la santé dispose d’un délai de trois jours ouvrables dès réception du protocole pour accepter celui-ci. Passé ce délai, le silence de la part de la Direction de la Santé vaut acceptation du protocole.
+
+En cas de non-acceptation du protocole, la Direction de la santé émet des propositions de corrections et les notifie par voie de lettre recommandée avec accusé de réception. Un délai supplémentaire de deux jours est accordé pour s’y conformer.
+
+Pendant les délais visés aux alinéas 1er et 2, les magasins du centre commercial peuvent continuer à exercer leurs activités.
+
+Pour être accepté, le protocole sanitaire tel qu’énoncé à l’alinéa 1er doit obligatoirement :
+
+- 1° renseigner un référent Covid-19 en charge de la mise en œuvre du protocole sanitaire et qui sert d’interlocuteur en cas de contrôle ;
+
+- 2° renseigner le nombre de clients pouvant être accueillis en même temps à l’intérieur du centre commercial et les mesures sanitaires imposées aux clients, ainsi que l’affichage de ces informations de manière visible aux points d’entrées ;
+
+- 3° mettre en place un concept de gestion et de contrôle des flux de personnes en place à l’entrée, à l’intérieur et à la sortie du centre commercial.
+
+(3) Dans les établissements ouverts au public, les activités suivantes sont interdites :
 
 - 1° les représentations cinématographiques ;
 
