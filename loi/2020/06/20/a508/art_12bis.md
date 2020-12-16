@@ -1,0 +1,3 @@
+# Art. 12bis. Disposition transitoire
+
+Les demandes d’aides soumises avant le 16 décembre 2020 sont traitées selon les conditions prévues avant l’entrée en vigueur de la loi du 19 décembre 2020 portant modification : 1° de la loi du 18 avril 2020 visant à mettre en place un régime de garantie en faveur de l’économie luxembourgeoise dans le cadre de la pandémie de Covid-19 ; 2° de la loi du 20 juin 2020 visant à mettre en place un régime d’aides en faveur des projets liés à la lutte contre la pandémie de Covid-19 ; 3° de la loi du 24 juillet 2020 visant à stimuler les investissements des entreprises dans l’ère du Covid-19, à l’exception de l’article 7, paragraphe 4.
