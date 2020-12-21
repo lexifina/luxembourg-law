@@ -1,0 +1,17 @@
+# Art. 9.
+
+L’article 3, paragraphe 2, lettre f), de la même loi est modifié comme suit :
+
+- 1° L’alinéa 1er prend la teneur suivante :
+
+- les aides aux entreprises en difficulté, exception faite :
+
+  - i. des aides destinées à remédier aux dommages causés par certaines calamités naturelles ;
+
+  - ii. des aides en faveur de jeunes entreprises,
+
+- pour autant que ces aides n’ont pas pour effet de traiter les entreprises en difficulté plus favorablement que les autres entreprises ;
+
+  - iii. pour la période comprise entre le 1er janvier 2020 et le 30 juin 2021, des aides aux entreprises en difficulté qui n’étaient pas en difficulté au 31 décembre 2019, pour autant qu’elles ne fassent pas l’objet d’une procédure collective d’insolvabilité ou ne remplissent pas, selon le droit national qui leur est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de leurs créanciers.
+
+- 2° À l’alinéa 2, les termes au sens du paragraphe 3 sont remplacés par au sens de l’alinéa 1er.
