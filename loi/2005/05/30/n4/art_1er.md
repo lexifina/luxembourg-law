@@ -1,0 +1,3 @@
+# Art. 1er. Champ d’application
+
+Sous réserve des dispositions générales concernant la protection des personnes à l’égard du traitement des données à caractère personnel ou régissant les réseaux et services de communications électroniques, les dispositions suivantes s’appliquent spécifiquement au traitement de ces données à caractère personnel dans le cadre de la fourniture de services de communications électroniques accessibles au public sur les réseaux de communications publics, y compris les réseaux de communications publics qui prennent en charge les dispositifs de collecte de données et d’identification.

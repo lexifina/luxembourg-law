@@ -1,0 +1,35 @@
+# Art. 3. Sécurité du traitement
+
+(1) Le fournisseur de services prend les mesures techniques et d’organisation appropriées afin de garantir la sécurité de ses services, le cas échéant conjointement avec l’opérateur en ce qui concerne la sécurité du réseau. En cas d’atteinte ou de risque d’atteinte grave à la sécurité du réseau ou des services, le fournisseur de services et le cas échéant l’opérateur prend les mesures appropriées pour y remédier, les frais étant à sa seule charge.
+
+Sous réserve des dispositions générales de la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel, les mesures visées ci-dessus, pour le moins:
+
+- – garantissent que seules des personnes autorisées peuvent avoir accès aux données à caractère personnel à des fins légalement autorisées,
+
+- – protègent les données à caractère personnel stockées ou transmises contre la destruction accidentelle ou illicite, la perte ou l’altération accidentelles et le stockage, le traitement, l’accès et la divulgation non autorisés ou illicites, et
+
+- – assurent la mise en œuvre d’une politique de sécurité relative au traitement des données à caractère personnel.
+
+La Commission nationale pour la protection des données est habilitée à vérifier les mesures prises par les fournisseurs de services de communications électroniques accessibles au public, ainsi qu’à émettre des recommandations sur les meilleures pratiques concernant le degré de sécurité que ces mesures devraient atteindre.
+
+(2) Sans préjudice de ce qui précède, le fournisseur de services et le cas échéant l’opérateur informe ses abonnés de tout risque imminent d’atteinte à la sécurité du réseau ou des services mettant en cause la confidentialité des communications ainsi que du moyen éventuel pour y remédier, y compris en en indiquant le coût probable.
+
+(3) En cas de violation de données à caractère personnel, le fournisseur de services de communications électroniques accessibles au public avertit sans retard la Commission nationale pour la protection des données de la violation.
+
+Lorsque la violation de données à caractère personnel est de nature à affecter négativement les données à caractère personnel ou la vie privée d’un abonné ou d’un particulier, le fournisseur avertit également sans retard indu l’abonné ou le particulier concerné de la violation.
+
+La notification d’une violation des données à caractère personnel à l’abonné ou au particulier concerné n’est pas nécessaire si le fournisseur a prouvé, à la satisfaction de la Commission nationale pour la protection des données, qu’il a mis en œuvre les mesures de protection technologiques appropriées et que ces dernières ont été appliquées aux données concernées par ladite violation. De telles mesures de protection technologiques rendent les données incompréhensibles à toute personne qui n’est pas autorisée à y avoir accès.
+
+Sans préjudice de l’obligation du fournisseur d’informer l’abonné et le particulier concerné, si le fournisseur n’a pas déjà averti l’abonné ou le particulier de la violation de données à caractère personnel, la Commission nationale pour la protection des données peut, après avoir examiné les effets éventuellement négatifs de cette violation, exiger du fournisseur qu’il s’exécute.
+
+La notification faite à l’abonné ou au particulier décrit au minimum la nature de la violation de données à caractère personnel et les points de contact auprès desquels des informations supplémentaires peuvent être obtenues et recommande des mesures à prendre pour atténuer les conséquences négatives possibles de la violation de données à caractère personnel. La notification faite à la Commission nationale pour la protection des données décrit en outre les conséquences de la violation de données à caractère personnel, et les mesures proposées ou prises par le fournisseur pour y remédier.
+
+La Commission nationale pour la protection des données peut adopter des lignes directrices et, le cas échéant, édicter des instructions précisant les circonstances dans lesquelles le fournisseur est tenu de notifier la violation de données à caractère personnel, le format applicable à cette notification et sa procédure de transmission.
+
+Lors d’un premier manquement aux obligations de notification, le fournisseur est averti par la Commission nationale pour la protection des données. En cas de manquement répété la Commission nationale peut prononcer une amende d’ordre qui ne peut excéder 50.000 euros.
+
+Un recours en réformation est ouvert devant le tribunal administratif contre les décisions prises par la Commission nationale pour la protection des données dans le cadre du présent article.
+
+(4) Les fournisseurs tiennent à jour un inventaire des violations de données à caractère personnel, notamment de leur contexte, de leurs effets et des mesures prises pour y remédier, les données consignées devant être suffisantes pour permettre à la Commission nationale pour la protection des données de vérifier le respect des dispositions du paragraphe (3). Cet inventaire comporte uniquement les informations nécessaires à cette fin.
+
+(5) Quiconque contrevient aux dispositions des paragraphes (1), (2) et (4) est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d’astreinte dont le maximum est fixé par ladite juridiction.
