@@ -56,9 +56,11 @@ Les transporteurs aériens transmettent d’office, sur support numérique ou su
 
 Les données des personnes visées à l’alinéa 1er sont anonymisées par le directeur de la santé ou son délégué à l’issue d’une durée de quatorze jours après leur réception.
 
-(3) Sans préjudice des dispositions de la loi du 1er août 2018 sur la déclaration obligatoire de certaines maladies dans le cadre de la protection de la santé publique, en vue de suivre l’évolution de la propagation du virus SARS-CoV-2, les professionnels de santé visés dans cette loi transmettent au directeur de la santé ou à son délégué les nom, prénoms, sexe, numéro d’identification ou date de naissance ainsi que la commune de résidence ou l’adresse des personnes dont le résultat d’un test diagnostique de l’infection au virus SARS-CoV-2 a été négatif.
+(3) Sans préjudice des dispositions de la loi du 1er août 2018 sur la déclaration obligatoire de certaines maladies dans le cadre de la protection de la santé publique, en vue de suivre et d’acquérir les connaissances fondamentales sur l’évolution de la propagation du virus SARS-CoV-2 :
 
-Les données des personnes visées à l’alinéa 1er sont anonymisées par le directeur de la santé ou son délégué à l’issue d’une durée de soixante-douze heures après leur réception.
+- 1° les professionnels de santé visés dans cette loi transmettent au directeur de la santé ou à son délégué les nom, prénoms, sexe, numéro d’identification ou date de naissance ainsi que la commune de résidence ou l’adresse des personnes dont le résultat d’un test de dépistage sérologique de la Covid-19 a été négatif. Ces données sont anonymisées par le directeur de la santé ou son délégué à l’issue d’une durée de soixante-douze heures après leur réception.
+
+- 2° les laboratoires d’analyses médicales transmettent au directeur de la santé ou à son délégué les nom, prénoms, sexe, numéro d’identification ou date de naissance, la commune de résidence ou l’adresse des personnes qui se sont soumises à un test de dépistage sérologique de la Covid-19, ainsi que le résultat de ce test. Ces données sont anonymisées par le directeur de la santé ou son délégué à l’issue d’une durée de deux ans.
 
 (4) En l’absence des coordonnées des personnes infectées et des personnes à haut risque d’être infectées, le directeur de la santé ou son délégué ont accès aux données énumérées à l’article 5, paragraphe 2, lettres a) à d), de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques et aux données d’affiliation du Centre commun de la sécurité sociale.
 

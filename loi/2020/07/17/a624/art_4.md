@@ -6,7 +6,7 @@ Les personnes visées à l’alinéa 1er, première phrase, ne sont pas soumises
 
 (2) Le port du masque est obligatoire en toutes circonstances pour les activités ouvertes à un public qui circule et qui se déroulent en lieu fermé, ainsi que dans les transports publics, sauf pour le conducteur lorsqu’une distance interpersonnelle de deux mètres est respectée ou un panneau de séparation le sépare des passagers.
 
-(4) Sans préjudice des paragraphes 1er et 2 et de l’article 3quinquies, tout rassemblement à partir de quatre et jusqu’à dix personnes incluses est soumis à la condition que les personnes portent un masque et observent une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent.
+(4) Sans préjudice des paragraphes 1er et 2 et de l’article 3quinquies, tout rassemblement de plus de quatre et jusqu’à dix personnes incluses est soumis à la condition que les personnes portent un masque et observent une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent.
 
 Tout rassemblement qui met en présence entre onze et cent personnes incluses est soumis à la condition que les personnes portent un masque et se voient attribuer des places assises en observant une distance minimale de deux mètres.
 
@@ -26,7 +26,7 @@ Tout rassemblement qui met en présence entre onze et cent personnes incluses es
 
 L’obligation de distanciation physique ne s’applique pas non plus aux marchés à l’extérieur et aux usagers des transports publics.
 
-L’obligation de se voir assigner des places assises ne s’applique ni dans le cadre de l’exercice de la liberté de manifester, ni aux funérailles, ni aux marchés, musées, centres d’art, ni dans le cadre de la pratique des activités visées à l’article 3quinquies.
+L’obligation de se voir assigner des places assises ne s’applique ni dans le cadre de l’exercice de la liberté de manifester, ni aux funérailles, ni aux marchés, ni dans le cadre de la pratique des activités visées à l’article 3quinquies ni dans les transports publics.
 
 (7) Dans les salles d’audience des juridictions constitutionnelle, judiciaires, y compris les juridictions de la sécurité sociale, administratives et militaires, l’obligation de respecter une distance minimale de deux mètres ne s’applique pas :
 
