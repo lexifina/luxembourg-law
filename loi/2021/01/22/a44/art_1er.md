@@ -1,0 +1,5 @@
+# Art. 1er.
+
+À l’article 43, paragraphe 1er, de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée, la lettre t) est rétablie dans sa teneur suivante :
+
+- « t) jusqu’au 31 décembre 2022, les livraisons de dispositifs médicaux de diagnostic in vitro de la COVID-19 qui sont conformes aux exigences applicables énoncées dans le règlement grand-ducal modifié du 24 juillet 2001 relatif aux dispositifs médicaux ou le règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission, et dans les autres législations applicables de l’Union européenne, et les prestations de services étroitement liés à ces dispositifs, ainsi que, jusqu’au 31 décembre 2022, la livraison de vaccins contre la COVID-19 autorisés par les États membres de l’Union européenne ou la Commission européenne, et les prestations de services étroitement liés à ces vaccins. ».
