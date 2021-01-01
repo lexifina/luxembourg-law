@@ -1,0 +1,3 @@
+# Art. 1er.
+
+À l’article 38, paragraphe 4, de la loi modifiée du 4 décembre 2019 relative à l’Office du Ducroire Luxembourg, les termes en raison de l’état de crise tel que constaté par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19, sont supprimés et les termes et en 2021 sont insérés à la suite des termes en 2020.
