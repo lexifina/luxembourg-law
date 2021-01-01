@@ -1,0 +1,3 @@
+# Art. 18.
+
+Les communes ont la possibilité de ne pas exiger totalement ou partiellement le paiement de la taxe spécifique, notamment en cas de projet de construction ou d'aménagement aux fins d'occupation, en cas de transfert des droits de propriété, pour l'année au cours de laquelle la vente ou la cession de l'immeuble est constatée par acte authentique et les deux années subséquentes, en cas d'activité agricole à titre professionnel ainsi qu'en cas de réservation d'une place à bâtir ou d'un logement à des fins d'habitation ou d'occupation personnelle par le propriétaire lui-même ou l'un de ses enfants pendant un délai maximum à fixer par voie de règlement communal.
