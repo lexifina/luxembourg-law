@@ -6,13 +6,15 @@ Les personnes visées à l’alinéa 1er, première phrase, ne sont pas soumises
 
 (2) Le port du masque est obligatoire en toutes circonstances pour les activités ouvertes à un public qui circule et qui se déroulent en lieu fermé, ainsi que dans les transports publics, sauf pour le conducteur lorsqu’une distance interpersonnelle de deux mètres est respectée ou un panneau de séparation le sépare des passagers.
 
-(4) Sans préjudice des paragraphes 1er et 2 et de l’article 3quinquies, tout rassemblement de plus de quatre et jusqu’à dix personnes incluses est soumis à la condition que les personnes portent un masque et observent une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent.
+(3) La consommation de boissons alcooliques sur la voie publique et dans les lieux accessibles au public est interdite.
 
-Tout rassemblement qui met en présence entre onze et cent personnes incluses est soumis à la condition que les personnes portent un masque et se voient attribuer des places assises en observant une distance minimale de deux mètres.
+(4) Sans préjudice des paragraphes 1er et 2 et de l’article 4bis , tout rassemblement de plus de quatre et jusqu’à dix personnes incluses est soumis à la condition que les personnes portent un masque et observent une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres et du port du masque ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent.
 
-(5) Tout rassemblement au-delà de cent personnes est interdit. Ne sont pas pris en considération pour le comptage de ces cent personnes, les acteurs cultuels. Cette interdiction ne s’applique ni à la liberté de manifester, ni aux marchés à l’extérieur, ni aux transports publics. Le port du masque est obligatoire à tout moment. Les manifestations sportives ont lieu à huis clos.
+Tout rassemblement qui met en présence entre onze et cent personnes incluses est soumis à la condition que les personnes portent un masque et se voient attribuer des places assises en observant une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent.
 
-(6) L’obligation de distanciation physique et de port du masque prévue aux paragraphes 2, 3, 4 et 5 ne s’applique :
+(5) Tout rassemblement au-delà de cent personnes est interdit. Ne sont pas pris en considération pour le comptage de ces cent personnes, les acteurs cultuels les orateurs, les acteurs sportifs et leurs encadrants, ainsi que les acteurs de théâtre et de film, les musiciens et les danseurs qui exercent une activité artistique professionnelle et qui sont sur scène. Cette interdiction ne s’applique ni à la liberté de manifester, ni aux marchés à l’extérieur, ni aux transports publics. Le port du masque est obligatoire à tout moment. Les manifestations sportives ont lieu à huis clos.
+
+(6) L’obligation de distanciation physique et de port du masque prévue aux paragraphes 2 et 4 ne s’applique :
 
 - 1° ni aux mineurs de moins de six ans ;
 
@@ -22,11 +24,9 @@ Tout rassemblement qui met en présence entre onze et cent personnes incluses es
 
 - 4° ni aux acteurs de théâtre et de film, aux musiciens, ainsi qu’aux danseurs qui exercent une activité artistique professionnelle ;
 
-- 5° ni dans le cadre de la pratique des activités visées aux articles 3quinquies et 3 septies.
-
 L’obligation de distanciation physique ne s’applique pas non plus aux marchés à l’extérieur et aux usagers des transports publics.
 
-L’obligation de se voir assigner des places assises ne s’applique ni dans le cadre de l’exercice de la liberté de manifester, ni aux funérailles, ni aux marchés, ni dans le cadre de la pratique des activités visées à l’article 3quinquies ni dans les transports publics.
+L’obligation de se voir assigner des places assises ne s’applique ni dans le cadre de l’exercice de la liberté de manifester, ni aux funérailles, ni aux marchés, ni dans le cadre de la pratique des activités visées à l’article 4bis ni dans les transports publics.
 
 (7) Dans les salles d’audience des juridictions constitutionnelle, judiciaires, y compris les juridictions de la sécurité sociale, administratives et militaires, l’obligation de respecter une distance minimale de deux mètres ne s’applique pas :
 
@@ -35,3 +35,5 @@ L’obligation de se voir assigner des places assises ne s’applique ni dans le
 - 2° aux membres de la juridiction concernée, y compris le greffier et, le cas échéant, le représentant du ministère public, si la partie de la salle d’audience où siègent ces personnes est équipée d’un dispositif de séparation permettant d’empêcher la propagation du virus SARS-CoV-2 entre ces personnes.
 
 En faisant usage de sa prérogative de police d’audience, le magistrat qui préside l’audience peut dispenser du port du masque une personne qui est appelée à prendre la parole dans le cadre du procès en cours, pour la durée de sa prise de parole, si cette personne est en situation d’handicap ou si elle présente une pathologie et est munie d’un certificat médical.
+
+(8) Les règles énoncées aux paragraphes 2, 4 et 5 ne s’appliquent pas aux activités scolaires, y inclus péri- et parascolaires.

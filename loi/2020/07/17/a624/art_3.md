@@ -1,6 +1,6 @@
 # Art. 3.
 
-La circulation sur la voie publique entre vingt-et-une heures et six heures du matin est interdite, à l’exception des déplacements suivants :
+La circulation sur la voie publique entre vingt-trois heures et six heures du matin est interdite, à l’exception des déplacements suivants :
 
 - 1° les déplacements en vue de l’activité professionnelle ou de la formation ou de l’enseignement ;
 
