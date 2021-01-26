@@ -1,0 +1,5 @@
+# Art. 2.
+
+L’article 1er de la même loi est complété par un nouvel alinéa 2, libellé comme suit :
+
+« Sont considérés comme teneurs de compte central au sens de la présente loi, pour les titres de créance, tels que visés à l’alinéa 1er, point 11), lettre (b), non cotés, les entreprises d’investissement visées à l’article 1er, point 9), de la loi modifiée du 5 avril 1993 relative au secteur financier et les établissements de crédit visés à l’article 1er, point 12), de ladite loi. Ces entreprises d’investissement et établissements de crédit disposent de mécanismes de contrôle et de sécurité des systèmes informatiques adaptés pour la tenue de comptes centraux permettant l’enregistrement dans un compte d’émission de l’intégralité des titres composant chaque émission admise à leurs opérations, d’assurer la circulation des titres par virement de compte à compte, de vérifier que le montant total de chaque émission admise à leurs opérations et enregistrée dans un compte d’émission est égal à la somme des titres enregistrés aux comptes-titres de leurs titulaires de compte et l’exercice des droits attachés aux titres inscrits en compte-titres. ».
