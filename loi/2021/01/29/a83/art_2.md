@@ -1,0 +1,7 @@
+# Art. 2.
+
+L’article 16ter de la même loi est remplacé comme suit :
+
+Art. 16ter.
+
+Par dérogation à l’article 11, alinéa 2, de la loi modifiée du 21 décembre 2007 portant réglementation du financement des partis politiques et nonobstant toute disposition contraire des statuts des partis politiques et sans que les statuts doivent en prévoir la possibilité, le compte rendu de la situation financière de l’exercice comptable 2020 de l’entité constituée au niveau des circonscriptions électorales, de la section locale et de l’organisation sectorielle d’un parti doit être validé par son comité après avoir fait l’objet d’un contrôle de la part des commissaires aux comptes.
