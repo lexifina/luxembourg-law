@@ -1,8 +1,8 @@
 # Art. 5.
 
-(1) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2 et l’état de santé des personnes infectées ou à haut risque d’être infectées, les personnes infectées renseignent le directeur de la santé ou son délégué, ainsi que les fonctionnaires, employés ou les salariés mis à disposition du ministère de la Santé en application de l’article L. 132-1 du Code du travail, désignés à cet effet par le directeur de la santé, sur leur état de santé et sur l’identité des personnes avec lesquelles elles ont eu des contacts susceptibles de générer un haut risque d’infection dans la période qui ne peut être supérieure à quarante-huit heures respectivement avant l’apparition des symptômes ou avant le résultat positif d’un test diagnostique de l’infection au virus SARS-CoV-2.
+(1) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2 et l’état de santé des personnes infectées ou à haut risque d’être infectées, les personnes infectées renseignent le directeur de la santé ou son délégué, ainsi que les fonctionnaires, employés ou les salariés mis à disposition du ministère de la Santé en application de l’article L. 132-1 du Code du travail ou toute autre personne , désignés à cet effet par le directeur de la santé, sur leur état de santé et sur l’identité des personnes avec lesquelles elles ont eu des contacts susceptibles de générer un haut risque d’infection dans la période qui ne peut être supérieure à quarante-huit heures respectivement avant l’apparition des symptômes ou avant le résultat positif d’un test diagnostique de l’infection au virus SARS-CoV-2.
 
-Le traitement de données visé au paragraphe 1er, alinéa 1er, comprend les catégories de données suivantes :
+Les traitements des données visés au paragraphe 1er, alinéa 1er, comprennent les catégories de données suivantes :
 
 - 1° pour les personnes infectées :
 
@@ -58,10 +58,12 @@ Les données des personnes visées à l’alinéa 1er sont anonymisées par le d
 
 (3) Sans préjudice des dispositions de la loi du 1er août 2018 sur la déclaration obligatoire de certaines maladies dans le cadre de la protection de la santé publique, en vue de suivre et d’acquérir les connaissances fondamentales sur l’évolution de la propagation du virus SARS-CoV-2 :
 
-- 1° les professionnels de santé visés dans cette loi transmettent au directeur de la santé ou à son délégué les nom, prénoms, sexe, numéro d’identification ou date de naissance ainsi que la commune de résidence ou l’adresse des personnes dont le résultat d’un test de dépistage sérologique de la Covid-19 a été négatif. Ces données sont anonymisées par le directeur de la santé ou son délégué à l’issue d’une durée de soixante-douze heures après leur réception.
+- 1° les professionnels de santé visés dans cette loi transmettent au directeur de la santé ou à son délégué les nom, prénoms, sexe, numéro d’identification ou date de naissance ainsi que la commune de résidence ou l’adresse des personnes dont le résultat d’un test diagnostique de l’infection au virus SARS-CoV-2 a été négatif.
 
 - 2° les laboratoires d’analyses médicales transmettent au directeur de la santé ou à son délégué les nom, prénoms, sexe, numéro d’identification ou date de naissance, la commune de résidence ou l’adresse des personnes qui se sont soumises à un test de dépistage sérologique de la Covid-19, ainsi que le résultat de ce test. Ces données sont anonymisées par le directeur de la santé ou son délégué à l’issue d’une durée de deux ans.
 
-(4) En l’absence des coordonnées des personnes infectées et des personnes à haut risque d’être infectées, le directeur de la santé ou son délégué ont accès aux données énumérées à l’article 5, paragraphe 2, lettres a) à d), de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques et aux données d’affiliation du Centre commun de la sécurité sociale.
+(3bis) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2, les responsables de structures d’hébergement transmettent au moins une fois par mois au directeur de la santé ou à son délégué les nom, prénoms, numéro d’identification ou date de naissance des personnes qu’ils hébergent. Ces données sont anonymisées par le directeur de la santé ou son délégué à l’issue d’une durée d’un mois après leur réception.
+
+(4) En l’absence des coordonnées des personnes infectées et des personnes à haut risque d’être infectées, le directeur de la santé ou son délégué ont accès aux données énumérées à l’article 5, paragraphe 2, lettres a) à d), de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques et aux données d’affiliation du Centre commun de la sécurité sociale, ainsi qu’aux données d’identification et coordonnées de contact du Centre de gestion informatique de l’éducation .
 
 (5) Le traitement des données est opéré conformément à l’article 10.

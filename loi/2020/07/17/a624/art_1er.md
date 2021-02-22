@@ -27,3 +27,9 @@ Au sens de la présente loi, on entend par :
 - 8° « masque » : un masque de protection ou tout autre dispositif permettant de recouvrir le nez et la bouche d’une personne physique. Le port d’une visière ne constitue pas un tel dispositif.
 
 - 9° « centre commercial » : tout ensemble de magasins spécialisés ou non, conçu comme un tout.
+
+- 10° « structure d’hébergement » : tout établissement hébergeant des personnes au sens de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ;
+
+- 11° « vaccinateur » : tout médecin qui pose l’indication de la vaccination et prescrit le vaccin contre le virus SARS-CoV-2 ;
+
+- 12° « personne à vacciner » : toute personne qui donne son accord à se faire vacciner contre le virus SARS-CoV-2 ou à l’égard de laquelle son représentant légal donne son accord. ».

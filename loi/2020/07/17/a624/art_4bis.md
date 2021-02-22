@@ -20,6 +20,10 @@ Ces conditions ne s’appliquent pas si le nombre de deux personnes par vestiair
 
 (6) Les restrictions prévues aux paragraphes 1er à 3 et au paragraphe 5 ne s’appliquent pas au groupe de sportifs constitué exclusivement par des personnes qui font partie d’un même ménage ou cohabitent, ni aux activités scolaires sportives, y inclus péri- et parascolaires sportives.
 
+Toutes les activités sportives des catégories de jeunes de moins de treize ans relevant des clubs affiliés à des fédérations sportives agréées sont interrompues en cas de mesures prises dans le cadre de la lutte contre la pandémie Covid-19, supprimant les cours en présentiel relevant de l’enseignement fondamental au plan national. Ces activités sportives peuvent reprendre lorsque les mesures précitées prennent fin.
+
 (7) Les restrictions prévues aux paragraphes 1er à 4 ne s’appliquent ni aux sportifs d’élite déterminés en application de l’article 13 de la loi modifiée du 3 août 2005 concernant le sport, à leurs partenaires d’entraînement et encadrants des sportifs d’élite, ni aux sportifs professionnels, ni aux sportifs des cadres nationaux fédéraux toutes catégories confondues, ni aux élèves du Sportlycée et aux élèves des centres de formation fédéraux, ni aux sportifs des équipes des divisions les plus élevées des disciplines sportives respectives au niveau senior, ainsi qu’à leurs encadrants, pour les entraînements et compétitions.
+
+Sont autorisés à participer aux compétitions les seuls sportifs et encadrants qui peuvent faire preuve d’un résultat négatif soit d’une recherche de l’antigène viral, soit d’un test de détection de l’ARN viral du SARS-CoV-2 réalisé moins de soixante-douze heures avant le début de la compétition.
 
 (8) Toute activité occasionnelle et accessoire de restauration est interdite autour d’une activité ou manifestation sportive.
