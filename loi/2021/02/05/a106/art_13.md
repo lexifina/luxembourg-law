@@ -1,0 +1,3 @@
+# Art. 13.
+
+Lorsque dans l’intérêt d’une optimisation de l’offre de transport ou d’une organisation rationnelle des transports publics des synergies sont possibles entre les services de transports publics dont question à l’article 4, paragraphe 1er et des services qui relèvent des attributions d’une commune ou d’un syndicat de communes, le ministre peut, suite à la constatation du besoin du trafic selon les dispositions de l’article 5, conclure avec la commune ou le syndicat de communes une convention réglant en particulier les modalités d’exécution des prestations de transport en question ainsi que la prise en charge de l’organisation et du coût de celles-ci.
