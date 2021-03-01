@@ -1,5 +1,0 @@
-# Art. 26.
-
-Si le contrevenant qui n'a pas sa résidence normale au Luxembourg, ne s'acquitte pas de l'avertissement taxé sur le lieu même de l'infraction, il devra verser aux fonctionnaires de la police grand-ducale ou de l'administration des douanes et accises une somme destinée à couvrir l'amende et les frais de justice éventuels en vue de la consignation de cette somme entre les mains du receveur de l'Enregistrement du siège de la Justice de paix compétente. Un règlement grand-ducal en fixe le montant et les modalités d'application; le montant ne peut pas excéder le double du maximum de l'amende, fixé aux articles 23 et 24.
-
-Jusqu'à remise de cette somme, augmentée éventuellement par les frais d'enlèvement et de garde résultant de la mise en fourrière, le véhicule conduit par le contrevenant peut être retenu. Il ne peut toutefois être retenu plus de quarante-huit heures sans l'accord du procureur d'Etat. Le conducteur contrevenant et le propriétaire ou détenteur du véhicule sont solidairement responsables du paiement de ces frais.
