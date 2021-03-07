@@ -1,0 +1,5 @@
+# Art. 19. Accès au dossier patient et aux données du patient décédé
+
+(1) Sauf volonté contraire exprimée par écrit de son vivant par le patient disposant de la capacité nécessaire, la personne de confiance éventuellement désignée, le conjoint non séparé de corps, les enfants majeurs, les autres ayants droit du patient, son partenaire légal, ainsi que toute personne qui, au moment du décès, a vécu avec lui en communauté de vie, ont, après son décès, accès au dossier patient du défunt et aux données relatives à sa santé et peuvent s’en faire délivrer copie pour leur permettre de connaître les causes de sa mort, de défendre sa mémoire, ou de faire valoir leurs droits légitimes.
+
+(2) Sauf volonté contraire exprimée par écrit de son vivant par un patient mineur admis conformément à l’article 13 paragraphe 2 à exercer soi-même ses droits, les parents ou toute autre personne investie de l’autorité parentale d’un mineur conservent après le décès de ce dernier un accès discrétionnaire au dossier patient du mineur décédé et aux données relatives à sa santé et peuvent s’en faire délivrer copie sans indication de motifs.
