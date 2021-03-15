@@ -36,4 +36,6 @@ L’obligation de se voir assigner des places assises ne s’applique ni dans le
 
 En faisant usage de sa prérogative de police d’audience, le magistrat qui préside l’audience peut dispenser du port du masque une personne qui est appelée à prendre la parole dans le cadre du procès en cours, pour la durée de sa prise de parole, si cette personne est en situation d’handicap ou si elle présente une pathologie et est munie d’un certificat médical.
 
-(8) Les règles énoncées aux paragraphes 2, 4 et 5 ne s’appliquent pas aux activités scolaires, y inclus péri- et parascolaires.
+(8) Les règles de distanciation physique énoncées au paragraphe 4 ainsi que les dispositions du paragraphe 5 ne s’appliquent pas aux activités scolaires, y inclus péri- et parascolaires.
+
+Le port du masque est obligatoire pour les activités scolaires, y inclus péri- et parascolaires. Cette obligation ne s’applique aux élèves qu’à partir du cycle 2 de l’enseignement fondamental ou à partir du niveau d’enseignement correspondant dans les établissements d’enseignement privés visés par la loi modifiée du 13 juin 2003 concernant les relations entre l’État et l’enseignement privé.
