@@ -1,0 +1,5 @@
+# Art. 2.
+
+(1) Les dépenses engagées au titre de la participation financière au programme stratégique d’infrastructure de la NSPA visé à l’article 1er ne peuvent dépasser le montant de 200 000 000 euros hors inflation. Ce montant correspond à la valeur 821,57 de l’indice semestriel des prix de la construction au 1er octobre 2019 et ne comprend pas la taxe sur la valeur ajoutée. Déduction faite des dépenses déjà engagées, ce montant est adapté semestriellement en fonction de la variation de l’indice des prix de la construction précité.
+
+(2) Les dépenses engagées au titre des frais liés à la construction de l’infrastructure OCP2 visée à l’article 1er ne peuvent dépasser le montant de 1 750 000 euros hors inflation. Ce montant correspond à la valeur 821,57 de l’indice semestriel des prix de la construction au 1er octobre 2019 et ne comprend pas la taxe sur la valeur ajoutée. Déduction faite des dépenses déjà engagées, ce montant est adapté semestriellement en fonction de la variation de l’indice des prix de la construction précité.
