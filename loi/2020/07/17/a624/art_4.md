@@ -6,7 +6,7 @@ Les personnes visées à l’alinéa 1er, première phrase, ne sont pas soumises
 
 (2) Le port du masque est obligatoire en toutes circonstances pour les activités ouvertes à un public qui circule et qui se déroulent en lieu fermé, ainsi que dans les transports publics, sauf pour le conducteur lorsqu’une distance interpersonnelle de deux mètres est respectée ou un panneau de séparation le sépare des passagers.
 
-(3) La consommation de boissons alcooliques sur la voie publique et dans les lieux accessibles au public est interdite.
+(3) Sans préjudice de l’article 2, paragraphe 1er, la consommation de boissons alcooliques sur la voie publique et dans les lieux accessibles au public est interdite.
 
 (4) Sans préjudice des paragraphes 1er et 2 et de l’article 4bis , tout rassemblement de plus de quatre et jusqu’à dix personnes incluses est soumis à la condition que les personnes portent un masque et observent une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres et du port du masque ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent.
 
