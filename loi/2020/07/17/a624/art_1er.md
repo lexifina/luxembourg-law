@@ -32,4 +32,6 @@ Au sens de la présente loi, on entend par :
 
 - 11° « vaccinateur » : tout médecin qui pose l’indication de la vaccination et prescrit le vaccin contre le virus SARS-CoV-2 ;
 
-- 12° « personne à vacciner » : toute personne qui donne son accord à se faire vacciner contre le virus SARS-CoV-2 ou à l’égard de laquelle son représentant légal donne son accord. ».
+- 12° « personne à vacciner » : toute personne qui donne son accord à se faire vacciner contre le virus SARS-CoV-2 ou à l’égard de laquelle son représentant légal donne son accord.
+
+- 13° « terrasse » : tout espace à l’extérieur et à l’air libre, ouvert sur trois surfaces au minimum afin de permettre la libre circulation de l’air et la ventilation naturelle de l’espace.
