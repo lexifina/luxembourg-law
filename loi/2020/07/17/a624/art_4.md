@@ -1,6 +1,6 @@
 # Art. 4.
 
-(1) Les rassemblements à domicile ou à l’occasion d’événements à caractère privé, dans un lieu fermé ou en plein air, sont limités aux personnes qui font partie du même ménage, qui cohabitent ou qui se trouvent au domicile dans le cadre de l’exercice d’un droit de visite et d’hébergement ou dans l’exercice des résidences alternées, et à un maximum de deux visiteurs qui font également partie d’un même ménage ou qui cohabitent. Ne sont pas considérées comme des visiteurs, les personnes qui se trouvent au domicile dans le cadre de l’exercice de leurs activités professionnelles.
+(1) Les rassemblements à domicile ou à l’occasion d’événements à caractère privé, dans un lieu fermé ou en plein air, sont limités aux personnes qui font partie du même ménage, qui cohabitent ou qui se trouvent au domicile dans le cadre de l’exercice d’un droit de visite et d’hébergement ou dans l’exercice des résidences alternées, et à un maximum de quatre visiteurs ou d’un autre ménage ou d’une même cohabitation quel que soit le nombre de personnes composant ceux-ci . Ne sont pas considérées comme des visiteurs, les personnes qui se trouvent au domicile dans le cadre de l’exercice de leurs activités professionnelles.La limite de quatre personnes ne s’applique pas aux événements organisés dans les établissements visés à l’article 2.
 
 Les personnes visées à l’alinéa 1er, première phrase, ne sont pas soumises à l’obligation de distanciation physique et le port du masque n’est pas obligatoire.
 
@@ -8,11 +8,29 @@ Les personnes visées à l’alinéa 1er, première phrase, ne sont pas soumises
 
 (3) Sans préjudice de l’article 2, paragraphe 1er, la consommation de boissons alcooliques sur la voie publique et dans les lieux accessibles au public est interdite.
 
-(4) Sans préjudice des paragraphes 1er et 2 et des articles 4bis et 4quater, tout rassemblement de plus de quatre et jusqu’à dix personnes incluses est soumis à la condition que les personnes portent un masque et observent une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres et du port du masque ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent.
+(4) Sans préjudice des paragraphes 1er, 2 et 5, alinéa 3, et des articles 4bis et 4quater, tout rassemblement de plus de quatre et jusqu’à dix personnes incluses est soumis à la condition que les personnes portent un masque et observent une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres et du port du masque ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent.
 
-Sans préjudice des paragraphes 1er et 2 et des articles 4bis et 4quater, tout rassemblement qui met en présence entre onze et cent personnes incluses est soumis à la condition que les personnes portent un masque et se voient attribuer des places assises en observant une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent.
+Sans préjudice des paragraphes 1er, 2 et 5, alinéa 3, et des articles 4bis et 4quater, tout rassemblement qui met en présence entre onze et cent cinquante personnes incluses est soumis à la condition que les personnes portent un masque et se voient attribuer des places assises en observant une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent.
 
-(5) Tout rassemblement au-delà de cent personnes est interdit. Ne sont pas pris en considération pour le comptage de ces cent personnes, les acteurs cultuels les orateurs, les sportifs professionnels et leurs encadrants, ainsi que les acteurs de théâtre et de film, les musiciens et les danseurs qui exercent une activité artistique professionnelle et qui sont sur scène. Cette interdiction ne s’applique ni à la liberté de manifester, ni aux marchés à l’extérieur, ni aux transports publics. Le port du masque est obligatoire à tout moment. Les manifestations sportives ont lieu à huis clos.
+(5) Tout rassemblement au-delà de cent cinquante personnes est interdit. Ne sont pas pris en considération pour le comptage de ces cent cinquante personnes, les acteurs cultuels les orateurs, les sportifs et leurs encadrants, ainsi que les acteurs de théâtre et de film, les musiciens et les danseurs qui exercent une activité artistique et qui sont sur scène. Cette interdiction ne s’applique ni à la liberté de manifester, ni aux marchés à l’extérieur, ni aux transports publics. Le port du masque est obligatoire à tout moment.
+
+Ne sont pas visés par l’interdiction prévue à l’alinéa 1er, les événements accueillant plus de cent cinquante personnes sans pouvoir dépasser la limite maximale de mille personnes lorsqu’ils font l’objet d’un protocole sanitaire à accepter préalablement par la Direction de la santé.
+
+Le protocole doit être notifié à la Direction de la santé par voie de lettre recommandée avec accusé de réception par l’organisateur de l’événement visé à l’alinéa 3. La Direction de la santé dispose d’un délai de dix jours ouvrables dès réception du protocole pour accepter celui-ci. Passé ce délai, le silence de la part de la Direction de la santé vaut acceptation du protocole.
+
+En cas de non-acceptation du protocole, la Direction de la santé émet des propositions de corrections et les notifie par voie de lettre recommandée avec accusé de réception. Un délai supplémentaire de cinq jours est accordé pour s’y conformer.
+
+Pour être accepté, le protocole sanitaire tel qu’énoncé à l’alinéa 3 respecte les conditions suivantes :
+
+- 1° renseigner un référent Covid-19 en charge de la mise en œuvre du protocole sanitaire et qui sert d’interlocuteur en cas de contrôle ;
+
+- 2° préciser si l’événement a lieu à l’extérieur ou à l’intérieur, si celui-ci a un caractère unique ou répétitif ;
+
+- 3° renseigner le nombre de personnes pouvant être accueillies en même temps ;
+
+- 4° préciser les mesures sanitaires prévues et imposées au personnel et aux visiteurs ainsi que les moyens d’affichage de ces informations de manière visible aux points d’entrées ;
+
+- 5° mettre en place un concept de gestion et de contrôle des flux de personnes à l’entrée, à l’intérieur et à la sortie du lieu accueillant l’événement.
 
 (6) L’obligation de distanciation physique et de port du masque prévue aux paragraphes 2 et 4 ne s’applique :
 
