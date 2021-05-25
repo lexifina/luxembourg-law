@@ -1,0 +1,5 @@
+# Art. 21.
+
+À l’article 45 de la même loi, il est inséré un nouveau paragraphe 3bis qui prend la teneur suivante :
+
+« (3bis) La CSSF, en sa qualité d’autorité compétente chargée de la surveillance des succursales d’établissements de crédit dont l’administration centrale se trouve dans un pays tiers ou des établissements CRR faisant partie d’un groupe de pays tiers, coopère étroitement avec les autorités compétentes des autres États membres chargées de la surveillance des succursales d’établissements de crédit dont l’administration centrale se trouve dans un pays tiers ou des établissements CRR faisant partie du même groupe de pays tiers, de manière à s’assurer que toutes les activités dudit groupe de pays tiers dans l’Union européenne font l’objet d’une surveillance complète, afin d’éviter un contournement des exigences applicables aux groupes de pays tiers en vertu de la présente loi, de la directive 2013/36/UE et du règlement (UE) n° 575/2013 et de prévenir toute incidence préjudiciable à la stabilité financière du Luxembourg ou de l’Union européenne. ».

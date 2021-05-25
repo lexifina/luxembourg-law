@@ -1,0 +1,73 @@
+# Art. 68.
+
+À la suite de l’article 31 de la même loi, il est inséré un nouvel article 31-1 prenant la teneur suivante :
+
+« Art. 31-1.
+
+(1) Lorsqu’une entité se trouve dans une situation où elle satisfait à l’exigence globale de coussin de fonds propres, cette exigence étant considérée en sus de chacune des exigences visées à l’article 59-13bis, points 1., 2. et 3, de la loi modifiée du 5 avril 1993 relative au secteur financier, mais ne satisfait pas à cette exigence globale de coussin de fonds propres lorsque celle-ci est considérée en sus des exigences visées aux articles 46-3 et 46-4 de la présente loi, calculées conformément à l’article 46, paragraphe 2, point 1., de la présente loi, le conseil de résolution a le pouvoir, conformément aux paragraphes 2 et 3 du présent article, d’interdire à cette entité de distribuer un montant supérieur au montant maximal distribuable relatif à l’exigence minimale de fonds propres et d’engagements éligibles, ci-après le « M-MMD », calculé conformément au paragraphe 4 du présent article, au moyen de l’une quelconque des mesures suivantes :
+
+- 1. procéder à une distribution en relation avec les fonds propres de base de catégorie 1 ;
+
+- 2. créer une obligation de verser une rémunération variable ou des prestations de retraite discrétionnaires, ou de verser une rémunération variable si l’obligation de versement a été créée à un moment où l’entité ne satisfaisait pas à l’exigence globale de coussin de fonds propres ; ou
+
+- 3. effectuer des paiements liés à des instruments de fonds propres additionnels de catégorie 1.
+
+Lorsqu’une entité se trouve dans la situation visée à l’alinéa 1er, elle en informe immédiatement le conseil de résolution.
+
+(2) Dans la situation visée au paragraphe 1er, le conseil de résolution, après consultation de l’autorité de surveillance, examine, sans retard inutile, s’il convient d’exercer le pouvoir visé au paragraphe 1er en prenant en considération tous les éléments suivants :
+
+- 1. le motif, la durée et l’ampleur de l’absence de conformité, ainsi que son incidence sur la résolvabilité ;
+
+- 2. l’évolution de la situation financière de l’entité et la probabilité qu’elle remplisse, dans un avenir prévisible, la condition visée à l’article 33, paragraphe 1er, point 1. ;
+
+- 3. la perspective que l’entité soit en mesure d’assurer le respect des exigences visées au paragraphe 1er dans un délai raisonnable ;
+
+- 4. lorsque l’entité n’est pas en mesure de remplacer les engagements qui ne respectent plus les critères d’éligibilité ou d’échéance visés aux articles 72ter et 72quater du règlement (UE) n° 575/2013, ou à l’article 46-2 ou 46-6, paragraphe 2, de la présente loi, la question de savoir si cette impossibilité est circonscrite et individuelle ou si elle est due à une perturbation à l’échelle du marché ;
+
+- 5. la question de savoir si l’exercice du pouvoir visé au paragraphe 1er constitue le moyen le plus adéquat et proportionné pour remédier à la situation de l’entité, en tenant compte de son incidence potentielle tant sur les conditions de financement de l’entité concernée que sur sa résolvabilité.
+
+Tant que l’entité demeure dans la situation visée au paragraphe 1er, le conseil de résolution réévalue, au moins chaque mois, s’il y a lieu d’exercer le pouvoir visé au paragraphe 1er.
+
+(3) Si le conseil de résolution constate que l’entité se trouve toujours dans la situation visée au paragraphe 1er neuf mois après que celle-ci a notifié cette situation, le conseil de résolution, après consultation de l’autorité de surveillance, exerce le pouvoir visé au paragraphe 1er, sauf s’il constate qu’au moins deux des conditions suivantes sont remplies :
+
+- 1. l’absence de conformité est due à de graves perturbations du fonctionnement des marchés financiers qui entraînent d’importantes tensions sur plusieurs segments des marchés financiers ;
+
+- 2. les perturbations visées au point 1. non seulement ont pour conséquence une plus grande volatilité des prix des instruments de fonds propres et d’engagements éligibles de l’entité ou un accroissement de ses coûts, mais entraînent aussi une fermeture totale ou partielle des marchés qui empêche l’entité d’émettre des instruments de fonds propres et d’engagements éligibles sur ces marchés ;
+
+- 3. la fermeture des marchés visée au point 2. est observée non seulement pour l’entité concernée, mais aussi pour plusieurs autres entités ;
+
+- 4. les perturbations visées au point 1. empêchent l’entité concernée d’émettre des instruments de fonds propres et d’engagements éligibles suffisants pour remédier à l’absence de conformité ; ou
+
+- 5. l’exercice du pouvoir visé au paragraphe 1er entraîne des effets de contagion négatifs pour une partie du secteur bancaire, qui sont dès lors susceptibles de nuire à la stabilité financière.
+
+Lorsque l’exception visée à l’alinéa 1er s’applique, le conseil de résolution notifie sa décision à l’autorité de surveillance et explique son appréciation par écrit.
+
+Chaque mois, le conseil de résolution procède à une réévaluation afin de déterminer si l’exception visée à l’alinéa 1er s’applique.
+
+(4) Le M-MMD est calculé en multipliant la somme obtenue conformément au paragraphe 5 par le facteur déterminé conformément au paragraphe 6. Le M-MMD est réduit de tout montant résultant de l’une quelconque des mesures visées au paragraphe 1er, point 1., 2. ou 3.
+
+(5) La somme à multiplier conformément au paragraphe 4 est constituée :
+
+- 1. de tous bénéfices intermédiaires non inclus dans les fonds propres de base de catégorie 1 conformément à l’article 26, paragraphe 2, du règlement (UE) n° 575/2013, nets de toute distribution de bénéfices ou de tout paiement résultant des mesures visées au paragraphe 1er, point 1., 2. ou 3., du présent article ; plus
+
+- 2. tous les bénéfices de fin d’exercice non inclus dans les fonds propres de base de catégorie 1 conformément à l’article 26, paragraphe 2, du règlement (UE) n° 575/2013, nets de toute distribution de bénéfices ou de tout paiement résultant des mesures visées au paragraphe 1er, point 1., 2. ou 3., du présent article ; moins
+
+- 3. les montants qui seraient à acquitter au titre de l’impôt si les éléments visés aux points 1. et 2. du présent paragraphe n’étaient pas distribués.
+
+(6) Le facteur visé au paragraphe 4 est déterminé comme suit :
+
+- 1. lorsque les fonds propres de base de catégorie 1 détenus par l’entité qui ne sont pas utilisés pour satisfaire aux exigences visées à l’article 92bis du règlement (UE) n° 575/2013 et aux articles 46-3 et 46-4 de la présente loi, exprimés en pourcentage du montant total d’exposition au risque calculé conformément à l’article 92, paragraphe 3, du règlement (UE) n° 575/2013, se trouvent dans le premier quartile de l’exigence globale de coussin de fonds propres (autrement dit son quartile le plus bas), le facteur est de 0 ;
+
+- 2. lorsque les fonds propres de base de catégorie 1 détenus par l’entité qui ne sont pas utilisés pour satisfaire aux exigences fixées à l’article 92bis du règlement (UE) n° 575/2013 et aux articles 46-3 et 46-4 de la présente loi, exprimés en pourcentage du montant total d’exposition au risque calculé conformément à l’article 92, paragraphe 3, du règlement (UE) n° 575/2013, se trouvent dans le deuxième quartile de l’exigence globale de coussin de fonds propres, le facteur est de 0,2 ;
+
+- 3. lorsque les fonds propres de base de catégorie 1 détenus par l’entité qui ne sont pas utilisés pour satisfaire aux exigences fixées à l’article 92bis du règlement (UE) n° 575/2013 et aux articles 46-3 et 46-4 de la présente loi, exprimés en pourcentage du montant total d’exposition au risque calculé conformément à l’article 92, paragraphe 3, du règlement (UE) n° 575/2013, se trouvent dans le troisième quartile de l’exigence globale de coussin de fonds propres, le facteur est de 0,4 ;
+
+- 4. lorsque les fonds propres de base de catégorie 1 détenus par l’entité qui ne sont pas utilisés pour satisfaire aux exigences fixées à l’article 92bis du règlement (UE) n° 575/2013 et aux articles 46-3 et 46-4 de la présente loi, exprimés en pourcentage du montant total d’exposition au risque calculé conformément à l’article 92, paragraphe 3, du règlement (UE) n° 575/2013, se trouvent dans le quatrième quartile de l’exigence globale de coussin de fonds propres (autrement dit son quartile le plus élevé), le facteur est de 0,6.
+
+Les limites haute et basse de chacun des quartiles de l’exigence globale de coussin de fonds propres sont calculées comme suit :
+
+Limite basse du quartile = Exigence globale de coussin de fonds propres4× Qn-1
+
+Limite haute du quartile = Exigence globale de coussin de fonds propres4× Qn
+
+où « Qn » est le numéro d’ordre du quartile concerné. ».
