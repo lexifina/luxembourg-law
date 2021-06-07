@@ -1,0 +1,7 @@
+# Art. 17.
+
+(1) Le membre de la Force publique ne remplissant plus les conditions physiques à l’avancement à la suite de sa participation à une opération pour le maintien de la paix, est placé hors cadre par dépassement des effectifs et peut avancer hors cadre aux grades supérieurs de sa carrière, simultanément avec ses collègues de rang égal ou immédiatement inférieur.
+
+(2) Le volontaire de l’Armée ne remplissant plus les conditions physiques pour une nomination auprès de l’Etat à la suite de sa participation à une opération pour le maintien de la paix, bénéficie, par dérogation aux dispositions légales et réglementaires existantes, et notamment de l’article 14 de la loi du 23 juillet 1952 concernant l’organisation militaire, d’un droit de priorité pour l’accès aux emplois de la carrière inférieure des administrations de l’Etat, des communes, des établissements publics relevant de l’Etat et des communes et de la Société Nationale des Chemins de Fer Luxembourgeois, même s’il n’a pas accompli une période de service de trois ans en tant que volontaire de l’Armée, les autres conditions d’admission aux emplois brigués devant par ailleurs être remplies.
+
+(3) Les dispositions des paragraphes 1er et 2 ne s’appliquent pas si l’Etat rapporte la preuve que l’invalidité est imputable à des événements qui ne sont pas en rapport avec la participation à une opération pour le maintien de la paix.
