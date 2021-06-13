@@ -1,23 +1,13 @@
 # Art. 3.
 
-La circulation sur la voie publique entre minuit et six heures du matin est interdite, à l’exception des déplacements suivants :
+(1) Les médecins, les médecins-dentistes, les pharmaciens et les professions de santé visées par la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé sont soumis, dès lors qu’ils font partie du personnel d’un établissement hospitalier, d’une structure d’hébergement pour personnes âgées, d’un service d’hébergement pour personnes en situation d’handicap, d’un centre psycho-gériatrique, d’un réseau d’aides et de soins, d’un service d’activités de jour, ou d’un service de formation, ainsi que tout autre personnel dès lors qu’il a un contact étroit avec les patients, pensionnaires ou les usagers des établissements susmentionnés, ont l’obligation de présenter trois fois par semaine à l’arrivée sur leur lieu de travail un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place, et dont le résultat est négatif. Les structures mettent à la disposition du personnel des locaux, le matériel et les instructions nécessaires à la réalisation des tests.
 
-- 1° les déplacements en vue de l’activité professionnelle ou de la formation ou de l’enseignement ;
+Les personnes vaccinées, rétablies ou testées négatives sont dispensées de l’obligation visée à l’alinéa 1er.
 
-- 2° les déplacements pour des consultations médicales ou des dispenses de soins de santé ne pouvant être différés ou prestés à distance ;
+Au cas où le résultat du test autodiagnostique est positif, ou si les personnes visées à l’alinéa 1er refusent ou sont dans l’impossibilité de présenter un certificat tel que visé aux articles 3bis muni d’un code QR, 3ter muni d’un code QR et 3quater soit muni d’un code QR, soit certifié par l’une des personnes visées à l’article 3quater autorisées à exercer leur profession au Luxembourg, l’accès au poste de travail est refusé aux personnes concernées.
 
-- 3° les déplacements pour l’achat de médicaments ou de produits de santé ;
+(2) Les prestataires de services externes ainsi que les visiteurs à partir de l’âge de six ans d’un établissement hospitalier, d’une structure d’hébergement pour personnes âgées, d’un service d’hébergement pour personnes en situation d’handicap, d’un centre psycho-gériatrique, d’un réseau d’aides et de soins, d’un service d’activités de jour, d’un service de formation sont soumis, dès lors qu’ils ont un contact étroit avec les patients, les pensionnaires ou les usagers des établissements susmentionnés, à l’obligation de présenter un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place, et dont le résultat est négatif. Les structures mettent à la disposition des prestataires de services externes et des visiteurs des locaux, le matériel et les instructions nécessaires à la réalisation des tests.
 
-- 4° les déplacements pour des motifs familiaux impérieux, pour l’assistance et les soins aux personnes vulnérables ou précaires ou pour la garde des enfants ;
+Les personnes vaccinées, rétablies ou testées négatives sont dispensées de l’obligation visée à l’alinéa 1er.
 
-- 5° les déplacements répondant à une convocation judiciaire, policière ou administrative ;
-
-- 6° les déplacements vers ou depuis une gare ou un aéroport dans le cadre d’un voyage à l’étranger ;
-
-- 7° les déplacements liés à des transits sur le réseau autoroutier ;
-
-- 8° les déplacements brefs dans un rayon d’un kilomètre autour du lieu de résidence pour les besoins des animaux de compagnie ;
-
-- 9° en cas de force majeure ou situation de nécessité.
-
-Ces déplacements ne doivent en aucun cas donner lieu à rassemblement
+Au cas où le résultat du test autodiagnostique est positif, ou si les personnes visées à l’alinéa 1er refusent ou sont dans l’impossibilité de présenter un certificat tel que visé aux articles 3bis muni d’un code QR, 3ter muni d’un code QR et 3quater soit muni d’un code QR, soit certifié par l’une des personnes visées à l’article 3quater autorisées à exercer leur profession au Grand-Duché de Luxembourg, les personnes concernées ne peuvent prester de services s’il s’agit de prestataires de services externes, ou rendre visite à un patient, un pensionnaire ou un usager des établissements visés à l’alinéa 1er, s’il s’agit d’un visiteur.

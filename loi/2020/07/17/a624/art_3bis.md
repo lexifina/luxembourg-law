@@ -1,43 +1,31 @@
 # Art. 3bis.
 
-(1) Toute exploitation commerciale , qui est accessible au public, est soumise à une limitation d’un client par dix mètres carrés de la surface de vente .
+(1) Toute vaccination fait l’objet d’un certificat établi selon un modèle déterminé par le directeur de la santé.
 
-Si la surface de vente est inférieure à vingt mètres carrés, l’exploitant est autorisé à accueillir un maximum de deux clients.
+Le certificat tel que visé à l’alinéa 1er doit comporter les mentions suivantes :
 
-(2) Tout exploitant d’un centre commercial dont la surface de vente est égale ou supérieure à quatre cent mètres carrés et qui est doté d’une galerie marchande, doit en outre disposer d’un protocole sanitaire à accepter par la Direction de la santé. Le protocole doit être notifié à la Direction de la santé par voie de lettre recommandée avec accusé de réception. La Direction de la santé dispose d’un délai de trois jours ouvrables dès réception du protocole pour accepter celui-ci. Passé ce délai, le silence de la part de la Direction de la Santé vaut acceptation du protocole.
+- 1° les noms et prénoms de la personne vaccinée dans cet ordre ;
 
-En cas de non-acceptation du protocole, la Direction de la santé émet des propositions de corrections et les notifie par voie de lettre recommandée avec accusé de réception. Un délai supplémentaire de deux jours est accordé pour s’y conformer.
+- 2° la date de naissance de la personne vaccinée ;
 
-Pour être accepté, le protocole sanitaire tel qu’énoncé à l’alinéa 1er doit obligatoirement :
+- 3° la référence à la maladie ou le virus « Covid-19 » contre lequel le vaccin est administré,
 
-- 1° renseigner un référent Covid-19 en charge de la mise en œuvre du protocole sanitaire et qui sert d’interlocuteur en cas de contrôle ;
+- 4° le vaccin ou la prophylaxie contre la Covid-19 ;
 
-- 2° renseigner le nombre de clients pouvant être accueillis en même temps à l’intérieur du centre commercial et les mesures sanitaires imposées aux clients, ainsi que l’affichage de ces informations de manière visible aux points d’entrées ;
+- 5° la dénomination du vaccin contre la Covid-19 ;
 
-- 3° mettre en place un concept de gestion et de contrôle des flux de personnes en place à l’entrée, à l’intérieur et à la sortie du centre commercial.
+- 6° le titulaire de l’autorisation de mise sur le marché ou le fabricant du vaccin contre la Covid-19 ;
 
-(3) Constitue une surface de vente, la surface bâtie, mesurée à l’intérieur des murs extérieurs. Ne sont pas compris dans la surface de vente, les surfaces réservées aux installations sanitaires, aux bureaux, aux ateliers de production et aux dépôts de réserve pour autant qu’ils sont nettement séparés moyennant un cloisonnement en dur et, en ce qui concerne les dépôts de réserve et les ateliers de production, pour autant qu’ils ne sont pas accessibles au public. Toute autre construction ou tout édifice couvert, incorporé ou non au sol, construit ou non en dur est considéré comme surface bâtie.
+- 7° le nombre dans une série de doses ainsi que le nombre total de doses dans la série ;
 
-Pour l’établissement d’un protocole sanitaire au sens du paragraphe 2, ne sont pas considérés comme surface de vente :
+- 8° la date de l’administration du vaccin y compris celle de l’administration de la dernière dose ;
 
-- 1° les galeries marchandes d’un centre commercial pour autant qu’aucun commerce de détail n’y puisse être exercé ;
+- 9° l’État dans lequel le vaccin a été administré ;
 
-- 2° les établissements d’hébergement, les établissements de restauration, les débits de boissons alcoolisées et non alcoolisées ;
+- 10° l’émetteur du certificat ;
 
-- 3° les salles d’exposition des garagistes ;
+- 11° l’identifiant unique du certificat.
 
-- 4° les agences de voyage ;
+Est considéré comme équivalent un certificat établi par un État membre de l’Union européenne ou par un État membre de l’Espace Schengen qui comporte ces mentions.
 
-- 5° les agences de banque ;
-
-- 6° les agences de publicité ;
-
-- 7° les centres de remise en forme ;
-
-- 8° les salons de beauté ;
-
-- 9° les salons de coiffure ;
-
-- 10° les opticiens ;
-
-- 11° les salons de consommation.
+(2) Le directeur de la santé émet des certificats de vaccination aux agents de l’État et aux membres de leurs familles, qui, dans l’exercice de leurs fonctions, ont été amenés à se faire vacciner dans un pays tiers avec un vaccin SARS-CoV-2
