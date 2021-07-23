@@ -1,6 +1,6 @@
 # Art. 7.
 
-(1) La Cour administrative statue encore sur les recours dirigés pour incompétence, excès et détournement de pouvoir, violation de la loi ou des formes destinées à protéger les intérêts privés, contre les actes administratifs à caractère réglementaire, quelle que soit l’autorité dont ils émanent.
+(1) Le tribunal administratif statue encore sur les recours dirigés pour incompétence, excès et détournement de pouvoir, violation de la loi ou des formes destinées à protéger les intérêts privés, contre les actes administratifs à caractère réglementaire, quelle que soit l’autorité dont ils émanent.
 
 (2) Ce recours n’est ouvert qu’aux personnes justifiant d’une lésion ou d’un intérêt personnel, direct, actuel et certain.
 
@@ -8,6 +8,6 @@ Par dérogation à l’alinéa qui précède, le recours est encore ouvert aux a
 
 Le recours visé ci-avant n’est ouvert dans le chef des associations que pour autant que l’acte administratif à caractère réglementaire attaqué tire sa base légale de la loi spéciale dans le cadre de laquelle l’association requérante a été agréée.
 
-(3) Le recours doit être introduit dans les trois mois de la publication de l’acte administratif à caractère réglementaire attaqué ou, à défaut de publication, de la notification ou du jour où le requérant en a eu connaissance.
+(3) La décision prononçant l’annulation est publiée de la même manière que l’acte administratif à caractère réglementaire attaqué, dès qu’elle est coulée en force de chose jugée. L’annulation a un caractère absolu, à partir du jour où elle est coulée en force de chose jugée.
 
-(4) L’arrêt prononçant l’annulation est publié de la même manière que l’acte administratif à caractère réglementaire attaqué. L’annulation a un caractère absolu à partir du jour de son prononcé.
+(4) Sauf disposition contraire de la loi, appel peut être interjeté devant la Cour administrative contre les décisions visées au paragraphe 1er.

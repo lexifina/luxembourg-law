@@ -6,4 +6,4 @@ Si, dans le mois de l’avertissement, le membre n’a pas demandé sa retraite,
 
 Quinze jours au moins avant celui qui a été fixé pour la réunion de la Cour administrative, le membre concerné est informé du jour et de l’heure de la séance et reçoit en même temps l’invitation de fournir ses observations par écrit.
 
-Cette information et cette invitation sont faites par le greffier de la Cour administrative qui est tenu de les constater par un procès-verbal. La notification en est faite conformément aux dispositions de l’article 44.
+Cette information et cette invitation sont faites par le greffier de la Cour administrative qui est tenu de les constater par un procèsverbal. La notification en est faite conformément aux dispositions de l’article 44.
