@@ -1,3 +1,3 @@
 # Art. 15.
 
-Le Gouvernement en conseil nomme un réviseur aux comptes sur proposition du conseil de la Banque centrale. Le réviseur aux comptes doit remplir les conditions requises pour l'exercice de la profession de réviseur d'entreprises. Il est nommé pour un exercice financier; sa nomination est renouvelable. Sa rémunération est à charge de la Banque centrale.
+Le conseil de la Banque centrale propose au conseil des gouverneurs de la BCE un réviseur aux comptes conformément à la procédure prescrite par les Statuts du SEBC et de la BCE. A l’issue de la procédure d’agrément au niveau européen, le réviseur est nommé par le Gouvernement en conseil. Le réviseur aux comptes doit être réviseur d’entreprises agréé. Il est nommé pour cinq exercices financiers. Sa rémunération est à charge de la Banque centrale.
