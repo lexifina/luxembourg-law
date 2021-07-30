@@ -1,0 +1,3 @@
+# Art. 8.
+
+Les personnes disposant, à la date d’entrée en vigueur de la présente loi, d’un agrément du ministre ayant dans ses attributions la CSSF, ou d’un agrément du ministre ayant le CAA dans ses attributions, au titre du Code de la consommation, de la loi modifiée du 5 avril 1993 relative au secteur financier, de la loi modifiée du 22 mars 2004 relative à la titrisation, de la loi modifiée du 10 novembre 2009 relative aux services de paiement, de la loi modifiée du 7 décembre 2015 sur le secteur des assurances ou de la loi modifiée du 30 mai 2018 relative aux marchés d’instruments financiers, sont réputées disposer d’un agrément de la CSSF ou du CAA, conformément aux dispositions desdites lois.
