@@ -8,7 +8,7 @@
 
 (4) Aux fins de l’application du paragraphe (3), sont considérés comme étant les portefeuilles du gestionnaire, les FIA gérés par le gestionnaire, y compris les FIA pour lesquels le gestionnaire a délégué des fonctions conformément à l’article 18, mais à l’exclusion des portefeuilles de FIA que le gestionnaire gère par délégation.
 
-(5) Indépendamment du paragraphe (3), les fonds propres du gestionnaire ne sont jamais inférieurs au montant requis en vertu de l’article 21 de la directive 2006/49/CE.
+(5) Indépendamment du paragraphe (3), les fonds propres du gestionnaire ne sont jamais inférieurs au montant requis en vertu de l’article 13 du règlement (UE) 2019/2033 du Parlement européen et du Conseil du 27 novembre 2019 concernant les exigences prudentielles applicables aux entreprises d’investissement et modifiant les règlements (UE) n° 1093/2010, (UE) n° 575/2013, (UE) n° 600/2014 et (UE) n° 806/2014 .
 
 (6) Les gestionnaires peuvent ne pas fournir jusqu’à 50% du montant supplémentaire de fonds propres visé au paragraphe (3) s’ils bénéficient d’une garantie du même montant donnée par un établissement de crédit ou une entreprise d’assurance qui a son siège statutaire dans un État membre, ou dans un pays tiers où il est soumis à des règles prudentielles que la CSSF juge équivalentes à celles fixées par le droit de l’Union.
 
