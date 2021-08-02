@@ -38,7 +38,7 @@ Aux fins de la présente loi, on entend par:
 
 - (13) «CSSF»: la Commission de Surveillance du Secteur Financier;
 
-- (14) directive 77/91/CEE»: la directive 77/91/CEE du Conseil du 13 décembre 1976 tendant à coordonner, pour les rendre équivalentes, les garanties qui sont exigées dans les États membres des sociétés au sens de l’article 58, alinéa 2, du traité, en vue de la protection des intérêts tant des associés que des tiers, en ce qui concerne la constitution de la société anonyme ainsi que le maintien et les modifications de son capital;
+- (14) «directive 77/91/CEE»: la directive 77/91/CEE du Conseil du 13 décembre 1976 tendant à coordonner, pour les rendre équivalentes, les garanties qui sont exigées dans les États membres des sociétés au sens de l’article 58, alinéa 2, du traité, en vue de la protection des intérêts tant des associés que des tiers, en ce qui concerne la constitution de la société anonyme ainsi que le maintien et les modifications de son capital;
 
 - (15) «directive 83/349/CEE»: la directive 83/349/CEE du Conseil du 13 juin 1983 fondée sur l’article 54, paragraphe 3 sous g) du traité concernant les comptes consolidés, telle que modifiée;
 
@@ -175,6 +175,8 @@ Aux fins de la présente loi, on entend par:
 - (57) «participation qualifiée»: le fait de détenir dans un gestionnaire une participation, directe ou indirecte, qui représente au moins 10% du capital ou des droits de vote, conformément aux articles 9 et 10 de la directive 2004/109/CE, compte tenu des conditions régissant l’agrégation des participations énoncées à l’article 12, paragraphes (4) et (5) de ladite directive, ou qui permet d’exercer une influence notable sur la gestion du gestionnaire dans lequel est détenue cette participation;
 
 - (58) «pays tiers»: un État autre qu’un État membre;
+
+- (58-1) « pré-commercialisation » : la fourniture d’informations ou la communication, directe ou indirecte, sur des stratégies d’investissement ou des idées d’investissement par un gestionnaire établi dans l’Union européenne, ou pour son compte, à des investisseurs professionnels potentiels domiciliés ou ayant leur siège statutaire dans l’Union européenne afin d’évaluer l’intérêt de ces derniers pour un FIA ou un compartiment qui n’est pas encore établi ou qui est établi mais qui n’est pas encore notifié en vue de sa commercialisation conformément à l’article 31 ou à l’article 32 de la directive 2011/61/UE, dans l’État membre où les investisseurs potentiels sont domiciliés ou ont leur siège statutaire, et qui, en tout état de cause, n’équivaut pas à un placement auprès de l’investisseur potentiel ou à une offre d’investissement dans des parts ou actions de ce FIA ou de ce compartiment ;
 
 - (59) «représentant légal»: une personne physique domiciliée dans l’Union européenne ou une personne morale ayant son siège statutaire dans l’Union européenne et qui, expressément désignée par un gestionnaire établi dans un pays tiers, agit, dans l’Union européenne, pour le compte de ce gestionnaire établi dans un pays tiers vis-à-vis des autorités, des clients, des organes et contreparties du gestionnaire établi dans un pays tiers en ce qui concerne les obligations incombant à ce dernier conformément à la directive 2011/61/UE;
 
