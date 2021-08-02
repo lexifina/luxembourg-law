@@ -1,0 +1,5 @@
+# Art. 10.
+
+À l’article 1er de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs, il est inséré à la suite du point 58, un nouveau point 58-1 libellé comme suit :
+
+- « (58-1) « pré-commercialisation » : la fourniture d’informations ou la communication, directe ou indirecte, sur des stratégies d’investissement ou des idées d’investissement par un gestionnaire établi dans l’Union européenne, ou pour son compte, à des investisseurs professionnels potentiels domiciliés ou ayant leur siège statutaire dans l’Union européenne afin d’évaluer l’intérêt de ces derniers pour un FIA ou un compartiment qui n’est pas encore établi ou qui est établi mais qui n’est pas encore notifié en vue de sa commercialisation conformément à l’article 31 ou à l’article 32 de la directive 2011/61/UE, dans l’État membre où les investisseurs potentiels sont domiciliés ou ont leur siège statutaire, et qui, en tout état de cause, n’équivaut pas à un placement auprès de l’investisseur potentiel ou à une offre d’investissement dans des parts ou actions de ce FIA ou de ce compartiment ; ».
