@@ -1,3 +1,0 @@
-# Art. 5.
-
-Une commission de six membres, à savoir le président et deux membres représentant l'Etat et trois membres nommés sur proposition respectivement de l'Association Luxembourgeoise des Editeurs de Journaux, de l'Association Luxembourgeoise des Journalistes et de l'Union des Journalistes Luxembourg, déterminera le nombre des pages rédactionnelles standardisées à retenir pour chaque organe. Elle calculera le montant de l'aide à attribuer à chaque organe sur la base de relevés exhaustifs et d'exemplaires justificatifs lui soumis par les bénéficiaires et elle en fera rapport au Ministre ayant dans ses attributions les médias.
