@@ -1,6 +1,6 @@
 # Art. 5.
 
-(1) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2 et l’état de santé des personnes infectées ou à haut risque d’être infectées, les personnes infectées renseignent le directeur de la santé ou son délégué, ainsi que les fonctionnaires, employés ou les salariés mis à disposition du ministère de la Santé en application de l’article L. 132-1 du Code du travail ou toute autre personne , désignés à cet effet par le directeur de la santé, sur leur état de santé et sur l’identité des personnes avec lesquelles elles ont eu des contacts susceptibles de générer un haut risque d’infection dans la période qui ne peut être supérieure à quarante-huit heures respectivement avant l’apparition des symptômes ou avant le résultat positif d’un test diagnostique de l’infection au virus SARS-CoV-2.
+(1) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2 et l’état de santé des personnes infectées ou à haut risque d’être infectées,les personnes infectées renseignent le directeur de la santé ou son délégué, ainsi que les fonctionnaires, employés ou les salariés mis à disposition du ministère de la Santé en application de l’article L. 132-1 du Code du travail ou toute autre personne , désignés à cet effet par le directeur de la santé, sur leur état de santé et sur l’identité des personnes avec lesquelles elles ont eu des contacts susceptibles de générer un haut risque d’infection dans la période qui ne peut être supérieure à quarante-huit heures respectivement avant l’apparition des symptômes ou avant le résultat positif d’un test diagnostique de l’infection au virus SARS-CoV-2.
 
 Les traitements des données visés au paragraphe 1er, alinéa 1er, comprennent les catégories de données suivantes :
 
@@ -38,7 +38,7 @@ Les traitements des données visés au paragraphe 1er, alinéa 1er, comprennent 
 
   - g) les données permettant de déterminer que la personne n’est pas infectée (caractère négatif du test).
 
-(2) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2, les personnes énumérées ci-après transmettent, sur demande, au directeur de la santé ou à son délégué les données énoncées au paragraphe 1er, alinéa 2, point 2°, lettres a) et b), des personnes qui ont subi une exposition à haut risque en raison d’une des situations visées à l’article 1er, point 5° :
+(2) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2, les personnes énumérées ci-après transmettent, sur demande, au directeur de la santé ou à son délégué les données énoncées au paragraphe 1er, alinéa 2, point 2°, lettres a) et b), des personnes qui ont subi une exposition à haut risque en raison d’une des situations visées à l’article 1er, point 5°:
 
 - 1° les responsables de voyages organisés par moyen collectif de transport de personnes ;
 

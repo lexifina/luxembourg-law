@@ -1,6 +1,6 @@
 # Art. 10.
 
-(1) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2 et les effets des vaccins contre la maladie Covid-19, sont autorisés des traitements de données à caractère personnel au travers de la mise en place d’un système d’information pour les finalités suivantes :
+(1) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2et les effets des vaccins contre la maladie Covid-19, sont autorisés des traitements de données à caractère personnel au travers de la mise en place d’un système d’information pour les finalités suivantes :
 
 - 1° détecter, évaluer, surveiller et combattre la pandémie de Covid-19 ;
 
@@ -60,7 +60,7 @@
 
     - iii) le numéro d’identification ;
 
-    - iv) le critère d’allocation du vaccin (âge, profession, secteur d’activité professionnelle ou vulnérabilité) ;
+    - iv) le critère d’allocation du vaccin(âge, profession, secteur d’activité professionnelle ou vulnérabilité) ;
 
     - v) les données permettant de déterminer la présence éventuelle de contre-indications, la présence de problèmes de santé ou d’autres facteurs de risque, et la présence d’effets indésirables ;
 
@@ -80,7 +80,7 @@
 
   - a) en cas de réfutation de l’indication de la vaccination par le vaccinateur, les données à caractère personnel visées au point 3° b), dans la mesure où elles sont collectées, sont anonymisées au plus tard à l’issue d’une durée de deux ans après leur collecte.
 
-  - b) en cas de retrait de l’accord à se faire vacciner par la personne invitée à se faire vacciner ou par son représentant légal, les données à caractère personnel visées au point 3° b), dans la mesure où elles sont collectées, sont anonymisées au plus tard à l’issue d’une durée de trois mois après leur collecte.
+  - b) en cas de retrait de l’accord à se faire vacciner parla personne invitée à se faire vacciner ou par son représentant légal, les données à caractère personnel visées au point 3° b), dans la mesure où elles sont collectées, sont anonymisées au plus tard à l’issue d’une durée de trois mois après leur collecte.
 
 - 5° Les vaccinateurs ou les personnes placées sous leur responsabilité enregistrent sans délai les données visées au point 3° a) et b).
 
@@ -90,7 +90,7 @@
 
 (4) Les personnes infectées ou à haut risque d’être infectées ne peuvent pas s’opposer au traitement de leurs données dans le système d’information visé au présent article tant qu’elles ne peuvent pas se prévaloir du résultat d’un test de dépistage négatif de l’infection au virus SARS-CoV-2. Pour le surplus, les droits des personnes concernées prévus par le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), ci-après désigné comme « règlement (UE) 2016/679 », s’exercent auprès de la Direction de la santé.
 
-(5) Sans préjudice du paragraphe 2, point 3° et des paragraphes 3bis et 5, de l’article 5, paragraphe 2bis, alinéa 3, paragraphe 3, point 2° et paragraphe 3bis, les données à caractère personnel traitées sont pseudonymisées au plus tard à l’issue d’une durée de six mois après leur collecte pour une période de trois ans à l’issue de laquelle elles sont anonymisées. Les données de journalisation qui comprennent les traces et logs fonctionnels permettant la traçabilité des accès et actions au sein du système d’information suivent le même cycle de vie que les données auxquelles elles se rapportent. Les accès et actions réalisés sont datés et comportent l’identification de la personne qui a consulté les données ainsi que le contexte de son intervention.
+(5) Sans préjudice du paragraphe 2, point 3° et des paragraphes 3biset 5, de l’article 5, paragraphe 2bis, alinéa 3, paragraphe 3, point 2° et paragraphe 3bis, les données à caractère personnel traitées sont pseudonymisées au plus tard à l’issue d’une durée de six mois après leur collecte pour une période de trois ans à l’issue de laquelle elles sont anonymisées. Les données de journalisation qui comprennent les traces et logs fonctionnels permettant la traçabilité des accès et actions au sein du système d’information suivent le même cycle de vie que les données auxquelles elles se rapportent. Les accès et actions réalisés sont datés et comportent l’identification de la personne qui a consulté les données ainsi que le contexte de son intervention.
 
 Par dérogation à l’alinéa 1er, les données des personnes sont anonymisées avant leur communication aux autorités de santé européennes ou internationales.
 

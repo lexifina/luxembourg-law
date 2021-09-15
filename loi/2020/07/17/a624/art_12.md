@@ -12,7 +12,7 @@
 
 - 5° de l’article 4, paragraphe 2, alinéas 1er et 2 ;
 
-- 6° de l’article 4, paragraphe 3, alinéa 1er ;
+- 6° de l’article 4, paragraphe 3, alinéa 1er;
 
 - 7° de l’article 4quater, paragraphes 1er et 2 ;
 

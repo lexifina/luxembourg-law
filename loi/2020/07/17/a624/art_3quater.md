@@ -8,7 +8,7 @@ Est considéré comme équivalent un certificat délivré par un État associé 
 
 (3) Le résultat négatif d’un test antigénique rapide SARS-CoV-2 peut être certifié par :
 
-- a) un médecin, un pharmacien, un aide-soignant, un assistant technique médical, un infirmier, un infirmier en anesthésie et réanimation, un infirmier en pédiatrie, un infirmier psychiatrique, un infirmier gradué, une sage-femme, un assistant d’hygiène sociale, un laborantin, un masseur-kinésithérapeute, un ostéopathe, autorisés à exercer leur profession au Grand-Duché de Luxembourg ; ou
+- a) un médecin, un pharmacien, un aide-soignant,un assistant technique médical, un infirmier, un infirmier en anesthésie et réanimation, un infirmier en pédiatrie, un infirmier psychiatrique,un infirmier gradué, une sage-femme,un assistant d’hygiène sociale, un laborantin, un masseur-kinésithérapeute, un ostéopathe, autorisés à exercer leur profession au Grand-Duché de Luxembourg ; ou
 
 - b) par un employé ou un fonctionnaire public désigné à cet effet par le directeur de la santé.
 
