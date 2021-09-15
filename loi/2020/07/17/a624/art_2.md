@@ -32,7 +32,7 @@ La consommation à l’intérieur des établissements de restauration et de déb
 
 Le client doit quitter l’établissement visé à l’alinéa 1er, s’il refuse ou s’il est dans l’impossibilité de présenter :
 
-- 1° soit un certificat tel que visé aux articles 3bis et 3ter, muni d’un code QR ou à l’article 3quater, qui est soit muni d’un code QR, soit certifié par l’une des personnes visées à l’article 3quater autorisées à exercer leur profession au Grand-Duché de Luxembourg ;
+- 1° soit un certificat tel que visé aux articles 3bis et 3 ter, muni d’un code QR ou à l’article 3quater, qui est soit muni d’un code QR, soit certifié par l’une des personnes visées à l’article 3quater ;
 
 - 2° 2°
 

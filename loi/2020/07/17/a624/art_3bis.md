@@ -2,7 +2,7 @@
 
 (1) Toute vaccination contre la Covid-19 réalisée au Grand-Duché de Luxembourg fait l’objet d’un certificat établi conformément aux dispositions du règlement (UE) 2021/953.
 
-Est considéré comme équivalent un certificat délivré par un État associé de l’Espace Schengen ou par un État tiers, si ce certificat est considéré comme équivalent par un acte d’exécution de la Commission européenne sur base de l’article 8, paragraphe 2, du règlement (UE) 2021/953 et s’il est délivré pour un vaccin contre la Covid-19 dont l’utilisation est autorisée au Grand-Duché de Luxembourg.
+Est considéré comme équivalent un certificat délivré par un État associé de l’Espace Schengen. Un certificat délivré par un État tiers est considéré comme équivalent si ce certificat prouve un schéma vaccinal complet et s’il est considéré comme équivalent par un acte d’exécution de la Commission européenne sur base de l’article 8, paragraphe 2, du règlement (UE) 2021/953.
 
 (2) Le directeur de la santé émet sur demande un certificat de vaccination contre la Covid-19 conformément au paragraphe 1er aux personnes de nationalité luxembourgeoise et aux personnes résidant légalement sur le territoire du Grand-Duché de Luxembourg, qui ont été amenées à se faire vacciner dans un autre État de l’Union européenne, un État associé de l’Espace Schengen ou un État tiers.
 
