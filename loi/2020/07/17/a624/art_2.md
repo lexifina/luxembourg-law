@@ -14,29 +14,9 @@
 
 - 6° hormis les services de vente à emporter, de vente au volant et de livraison à domicile, la consommation à table est obligatoire pour le client.
 
-La consommation à l’intérieur des établissements de restauration et de débit de boissons est possible aux conditions suivantes :
+Les conditions énumérées à alinéa 1er ne s’appliquent pas lorsque l’exploitant de l’établissement de restauration et de débit de boissons opte pour le régime Covid check. L’application du régime Covid check aux terrasses est soumise à une délimitation stricte de la surface de celle-ci. Lorsque la terrasse est soumise au régime Covid check, le client doit quitter l’établissement s’il refuse ou s’il est dans l’impossibilité de présenter un certificat tel que visé aux articles 3bis, 3ter ou 3quater.
 
-- 1° ne sont admises que des places assises ;
-
-- 2° chaque table ne peut accueillir qu’un maximum de quatre personnes sauf lorsque les personnes font partie d’un même ménage ou, cohabitent ;
-
-- 3° les tables placées côte à côte sont séparées d’une distance d’au moins 1,5 mètres ou en cas de distance inférieure, par une barrière ou une séparation physique permettant de limiter le risque d’infection ;
-
-- 4° le port d’un masque est obligatoire pour le client lorsqu’il n’est pas assis à table ;
-
-- 5° le port du masque est obligatoire pour le personnel en contact direct avec le client ;
-
-- 6° hormis les services de vente à emporter, de vente au volant et de livraison à domicile, la consommation à table est obligatoire pour le client.
-
-(2) Les conditions énumérées au paragraphe 1er ne s’appliquent pas lorsque l’exploitant de l’établissement de restauration et de débit de boissons opte pour le régime Covid check. L’application du régime Covid check aux terrasses est soumise à une délimitation stricte de la surface de celle-ci.
-
-Le client doit quitter l’établissement visé à l’alinéa 1er, s’il refuse ou s’il est dans l’impossibilité de présenter :
-
-- 1° soit un certificat tel que visé aux articles 3bis et 3 ter, muni d’un code QR ou à l’article 3quater, qui est soit muni d’un code QR, soit certifié par l’une des personnes visées à l’article 3quater ;
-
-- 2° 2°
-
-- soit, dès lors qu’il est admissible conformément à l’article 1er, point 27°, un test autodiagnostique servant au dépistage du virus SARS-CoV-2 réalisé sur place et dont le résultat est négatif.
+(2) À l’intérieur des établissements de restauration et de débit de boissons, les clients et l’ensemble du personnel de l’établissement concerné sont soumis au régime Covid check sans qu’il n’y ait lieu à notification préalable. Le client doit quitter l’établissement s’il refuse ou s’il est dans l’impossibilité de présenter un certificat tel que visé aux articles 3bis, 3ter ou 3quater.
 
 (3) Les paragraphes 1er et 2 ne s’appliquent ni aux cantines scolaires et universitaires ni aux services de vente à emporter, de vente au volant et de livraison à domicile. Les cantines d’entreprise et les restaurants sociaux sans but lucratif pour les personnes indigentes sont soumis aux conditions prévues aux paragraphes 1er et 2.
 
