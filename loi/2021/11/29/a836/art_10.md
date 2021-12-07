@@ -1,0 +1,3 @@
+# Art. 10. Données de la recherche
+
+Sans préjudice de l’article 1er, paragraphe 2, point 3°, les données de la recherche sont réutilisables à des fins commerciales ou non commerciales, conformément aux chapitres 3 et 4, dans la mesure où elles sont financées au moyen de fonds publics et où des chercheurs, des organismes exerçant une activité de recherche ou des organisations finançant une activité de recherche les ont déjà rendues publiques par l’intermédiaire d’une archive ouverte institutionnelle ou thématique. À cette fin, il est tenu compte des intérêts commerciaux légitimes, des activités de transmission des connaissances et des droits de propriété intellectuelle préexistants.
