@@ -2,41 +2,57 @@
 
 (1) Les infractions :
 
-- 1° à l’article 2, paragraphe 1er, alinéa 1er, points 1°, 3° et 5° ;
+- 1° à l’article 2, paragraphe 1er, alinéa 1er ;
 
-- 2° à l’article 2, paragraphe 3, deuxième phrase ;
+- 2° à l’article 2, paragraphe 2, dernière phrase ;
 
-- 3° à l’article 2, paragraphe 4 ;
+- 3° à l’article 2, paragraphe 3 ;
 
-- 4° à l’article 4, paragraphe 7 ;
+- 4° à l’article 3, paragraphe 3, alinéa 1er ;
 
-- 5° à l’article 4bis, paragraphes 2, 3, 6, alinéa 2, et 8 ;
+- 5° à l’article 4, paragraphe 7 ;
 
-- 6° à l’article 4quater, paragraphes 2 et 4 ;
+- 6° à l’article 4, paragraphe 3, alinéa 1er, première phrase ;
+
+- 7° à l’article 4bis, paragraphe 1er, alinéa 2 ;
+
+- 8° à l’article 4bis, paragraphes 2 et 3 ;
+
+- 9° à l’article 4bis, paragraphe 14 ;
+
+- 10° à l’article 4quater, paragraphe 1er, deuxième phrase ;
+
+- 11° à l’article 4quater, paragraphe 3 ;
 
 commises par les commerçants, artisans, gérants ou autres personnes responsables des établissements et activités y visées sont punies d’une amende administrative d’un montant maximum de 4 000 euros. Est puni de la même peine le défaut par l’exploitant d’un centre commercial de disposer d’un protocole sanitaire accepté par la Direction de la santé conformément à l’article 3sexies, paragraphe 1er. La même peine s’applique en cas de non application de ce protocole. Est puni de la même peine le défaut par l’organisateur de l’événement de disposer d’un protocole sanitaire accepté par la Direction de la santé, conformément à l’article 4, paragraphe 3. La même peine s’applique en cas de non application de ce protocole.
 
-Les infractions aux obligations de notification et de contrôle à l’entrée découlant du régime Covid check visées à l’article 1er, point 27°, et
+Est puni de la même peine l’employeur qui ne respecte pas son obligation de contrôle visée à l’article 3septies, paragraphe 1er, alinéa 1er.
 
-- 1° à l’article 2, paragraphes 1er et 2 ;
+Les infractions aux obligations de notification et de contrôle à l’entrée découlant du régime Covid check visées à l’article 1er, point 27°, et :
 
-- 2° à l’article 2, paragraphe 3, deuxième phrase ;
+- 1° à l’article 2, paragraphe 1er, alinéas 2 et 3 ;
 
-- 3° à l’article 2, paragraphe 4 ;
+- 2° à l’article 2, paragraphe 2, dernière phrase ;
 
-- 4° à l’article 3septies ;
+- 3° à l’article 2, paragraphe 3 ;
 
-- 5° à l’article 4, paragraphe 2, alinéa 4 ;
+- 4° à l’article 3, paragraphe 3, alinéa 1er ;
 
-- 6° à l’article 4bis, paragraphe 5, alinéa 2 ;
+- 5° à l’article 3septies ;
 
-- 7° à l’article 4bis, paragraphe 7 ;
+- 6° à l’article 4, paragraphe 2, alinéa 4, première phrase ;
 
-sont punies d’une amende administrative d’un montant maximum de 6 000 euros dans le chef des commerçants, artisans, gérants ou autres personnes responsables des établissements ayant opté pour le régime Covid check ou de l’organisateur de la manifestation, de l’événement ou du rassemblement se déroulant sous ledit régime.
+- 7° à l’article 4, paragraphe 3, alinéa 1er, première phrase ;
+
+- 8° à l’article 4bis, paragraphe 1er, alinéa 2 ;
+
+- 9° à l’article 4quater, paragraphe 1er, deuxième phrase ;
+
+sont punies d’une amende administrative d’un montant maximum de 6 000 euros dans le chef des commerçants, artisans, gérants ou autres personnes responsables des établissements soumis au régime Covid check ou de l’organisateur de la manifestation, de l’événement ou du rassemblement se déroulant sous ledit régime.
 
 En cas de commission d’une nouvelle infraction, après une sanction prononcée par une décision ayant acquis force de chose décidée ou jugée, le montant maximum est porté au double, et l’autorisation d’établissement délivrée à l’entreprise en application de la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales peut être suspendue pour une durée de trois mois par le ministre ayant les Classes moyennes dans ses attributions. En cas de commission d’une nouvelle infraction après une sanction prononcée par une décision ayant acquis force de chose décidée ou jugée, par l’exploitant d’un centre commercial, le montant maximum est porté au double.
 
-Les entreprises qui ont été sanctionnées sur base de l’alinéa3 par une décision ayant acquis force de chose décidée ou jugée ne sont pas éligibles à l’octroi des aides financières mises en place en faveur des entreprises dans le cadre de la pandémie Covid-19.
+Les entreprises qui ont été sanctionnées sur base de l’alinéa 3 par une décision ayant acquis force de chose décidée ou jugée ne sont pas éligibles à l’octroi des aides financières mises en place en faveur des entreprises dans le cadre de la pandémie Covid-19.
 
 Les infractions à la loi sont constatées par les agents et officiers de police administrative de la Police grand-ducale et par les agents de l’Administration des douanes et accises à partir du grade de brigadier principal. La constatation fait l’objet d’un rapport mentionnant le nom du fonctionnaire qui y a procédé, le jour et l’heure du constat, les nom, prénoms et adresse de la personne ou des personnes ayant commis l’infraction, ainsi que toutes autres déclarations que ces personnes désirent faire acter.
 

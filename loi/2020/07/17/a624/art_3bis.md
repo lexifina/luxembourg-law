@@ -31,3 +31,29 @@ Le certificat de vaccination ne peut être établi que si les personnes concern�
 - 1° peuvent se prévaloir d’un schéma vaccinal complet tel que défini à l’article 1er, point 23° ;
 
 - 2° remettent au directeur de la santé dans une des trois langues administratives du Grand-Duché de Luxembourg ou en anglais, les informations permettant de vérifier l’authenticité, la validité et l’intégrité du certificat étranger.
+
+(3) Le directeur de la santé ou son délégué émet, sur demande, un certificat de vaccination contre la Covid-19 aux ressortissants de pays tiers, titulaires d’un certificat de vaccination accepté par le Grand-Duché de Luxembourg conformément aux paragraphes 1ter et 1quater, lors d’un séjour de courte durée sur le territoire du Grand-Duché de Luxembourg.
+
+Le certificat de vaccination ne peut être établi que si les personnes concernées :
+
+- 1° peuvent se prévaloir d’un schéma vaccinal complet tel que défini à l’article 1er, point 23° ;
+
+- 2° remettent au directeur de la santé ou à son délégué, le cas échéant accompagné d’une traduction conforme, dans une des trois langues administratives du Grand-Duché de Luxembourg ou en anglais, les informations permettant de vérifier l’authenticité, la validité et l’intégrité du certificat étranger.
+
+La validité du certificat de vaccination délivré aux ressortissants de pays tiers ne peut dépasser la durée de 90 jours à compter de sa date de délivrance.
+
+Le certificat visé à l’alinéa 1er est établi sous format papier, sans code QR et uniquement valable sur le territoire du Grand-Duché de Luxembourg.
+
+(4) Pour la vaccination des enfants mineurs âgés de douze à quinze ans révolus contre la Covid-19, seule l’autorisation de l’un ou l’autre des titulaires de l’autorité parentale est requise, sans préjudice de l’appréciation d’éventuelles contre-indications médicales. Par dérogation à l’article 372 du Code civil, la vaccination contre la Covid-19 peut être pratiquée, à sa demande, sur le mineur de plus de seize ans.
+
+Pour la réalisation d’un dépistage contre la Covid-19 en milieu scolaire, seule l’autorisation de l’un ou l’autre des titulaires de l’autorité parentale est requise. Par dérogation à l’article 372 du Code civil, les mineurs de plus de seize ans peuvent donner eux-mêmes leur accord pour ledit dépistage.
+
+(5) Si pour une personne la vaccination est contre-indiquée d’un point de vue médical, elle peut obtenir de la part du directeur de la santé un certificat de contre-indication à la vaccination contre la Covid-19.
+
+L’établissement d’un tel certificat est soumis aux conditions suivantes :
+
+- 1° le médecin traitant de la personne concernée doit, sur demande de celle-ci, transmettre au directeur de la santé une attestation médicale de contre-indication à la vaccination contre la Covid-19 ;
+
+- 2° le directeur de la santé valide l’attestation médicale sur avis du Contrôle médical de la sécurité sociale, et établit ledit certificat.
+
+Le certificat visé à l’alinéa 1er permet à la personne concernée d’accéder aux établissements ou de participer à des manifestations ou événements sous le régime Covid check en présentant ledit certificat ainsi qu’un certificat de test tel que prévu à l’article 3quater ou le résultat négatif d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place.

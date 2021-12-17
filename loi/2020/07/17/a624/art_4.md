@@ -2,23 +2,23 @@
 
 (1 ) Le port du masque est obligatoire en toutes circonstances pour les activités ouvertes à un public qui circule et qui se déroulent en lieu fermé, sauf pour les activités qui se déroulent sous le régime Covid check. Le port du masque est également obligatoire dans les transports publics, sauf pour le conducteur lorsqu’une distance interpersonnelle de deux mètres est respectée ou un panneau de séparation le sépare des passagers.
 
-( 2 ) Sans préjudice desparagraphes 1er et 3, alinéa 3, et des articles 4bis et 4quater, tout rassemblement de plus de dix et jusqu’à cinquante personnes incluses est soumis à la condition que les personnes portent un masque et observent une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois ni aux personnes qui font partie du même ménage ou qui cohabitent, ni à des groupes de personnes composés de quatre personnes au maximum .
+( 2 ) Sans préjudice des paragraphes 1er et 3, alinéa 3, et des articles 4bis et 4quater, tout rassemblement de plus de dix et jusqu’à cinquante personnes incluses est soumis à la condition que les personnes portent un masque et observent une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois ni aux personnes qui font partie du même ménage ou qui cohabitent, ni à des groupes de personnes composés de quatre personnes au maximum .
 
-Sans préjudice desparagraphes 1er et 3, alinéa 3, et des articles 4bis et 4quater, tout rassemblement qui met en présence entre cinquante et un et deux mille personnes incluses est soumis à la condition que les personnes portent un masque et se voient attribuer des places assises en observant une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois ni aux personnes qui font partie du même ménage ou qui cohabitent, ni à des groupes de personnes composés de quatre personnes au maximum .
+Sans préjudice des paragraphes 1er et 3, alinéa 3, et des articles 4bis et 4quater, tout rassemblement qui met en présence entre cinquante et un et deux cents personnes incluses est soumis à la condition que les personnes portent un masque et se voient attribuer des places assises en observant une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois ni aux personnes qui font partie du même ménage ou qui cohabitent, ni à des groupes de personnes composés de quatre personnes au maximum .
 
 Ne sont pas prises en compte pour le comptage, les personnes qui se trouvent au domicile dans le cadre de l’exercice de leurs activités professionnelles ni celles qui se trouvent au domicile dans le cadre de l’exercice d’un droit de visite et d’hébergement ou dans l’exercice des résidences alternées.
 
-Les conditions énumérées aux alinéas 1er et 2 ne s’appliquent pas lorsqueles rassemblements se déroulent sous le régime Covid check.
+Les conditions énumérées aux alinéas 1er et 2 ne s’appliquent pas lorsque les rassemblements se déroulent sous le régime Covid check. Par dérogation à l’article 1er, point 27°, en cas de rassemblements ayant lieu au domicile, les personnes peuvent également se prévaloir, à côté d’un certificat de vaccination ou de rétablissement tel que visé aux articles 3bis et 3ter, d’un certificat de test tel que visé à l’article 3quater. Il en va de même des personnes qui peuvent se prévaloir d’un certificat tel que visé à l’article 3bis, paragraphe 5, en sus d’un certificat de test tel que visé à l’article 3quater ou du résultat négatif d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place.
 
-( 3 ) Tout rassemblement au-delà de deux mille personnes est interdit.
+( 3 ) Tout rassemblement entre deux cent une et deux mille personnes incluses est soumis au régime Covid check, sauf pour les rassemblements ayant lieu à des fins de manifester, les marchés à l’extérieur et les transports publics. Tout rassemblement au-delà de deux mille personnes est interdit.
 
 Ne sont pas pris en considération pour le comptage de ces deux mille personnes, les acteurs cultuels, les orateurs, les sportifs et leurs encadrants, ainsi que les acteurs de théâtre et de film, les musiciens et les danseurs qui exercent une activité artistique et qui sont sur scène. Cette interdiction ne s’applique ni à la liberté de manifester, ni aux marchés à l’extérieur, ni aux transports publics. Le port du masque est obligatoire à tout moment.
 
 Ne sont pas visés par l’interdiction prévue à l’alinéa 1er, les événements accueillant plus de deux mille personnes lorsqu’ils font l’objet d’un protocole sanitaire à accepter préalablement par la Direction de la santé.
 
-Le protocole doit être notifié à la Direction de la santé par voie de lettre recommandée avec accusé de réception par l’organisateur de l’événement visé à l’alinéa 3. La Direction de la santé dispose d’un délai de dix jours ouvrables dès réception du protocole pour accepter celui-ci. Passé ce délai, le silence de la part de la Direction de la santé vaut acceptation du protocole.
+Le protocole doit être notifié à la Direction de la santé par voie de lettre recommandée avec accusé de réception par l’organisateur de l’événement visé à l’alinéa 3. La Direction de la santé dispose d’un délai de dix jours ouvrables dès réception du protocole pour accepter celui-ci. Passé ce délai, le silence de la part de la Direction de la santé vaut refus du protocole.
 
-En cas de non-acceptation du protocole, la Direction de la santé émet des propositions de corrections et les notifie par voie de lettre recommandée avec accusé de réception. Un délai supplémentaire de cinq jours est accordé pour s’y conformer.
+En cas de refus du protocole, la Direction de la santé émet des propositions de corrections et les notifie par voie de lettre recommandée avec accusé de réception. Le protocole adapté doit faire l’objet d’une nouvelle notification.
 
 Pour être accepté, le protocole sanitaire tel qu’énoncé à l’alinéa 3 respecte les conditions suivantes :
 
@@ -32,7 +32,7 @@ Pour être accepté, le protocole sanitaire tel qu’énoncé à l’alinéa 3 r
 
 - 5° mettre en place un concept de gestion et de contrôle des flux de personnes à l’entrée, à l’intérieur et à la sortie du lieu accueillant l’événement.
 
-( 4 ) L’obligation de distanciation physique et de port du masque prévue auxparagraphes 1er et 2 ne s’applique :
+( 4 ) L’obligation de distanciation physique et de port du masque prévue aux paragraphes 1er et 2 ne s’applique :
 
 - 1° ni aux mineurs de moins de six ans ;
 
@@ -46,7 +46,7 @@ Pour être accepté, le protocole sanitaire tel qu’énoncé à l’alinéa 3 r
 
 L’obligation de distanciation physique ne s’applique pas non plus aux marchés à l’extérieur et aux usagers des transports publics.
 
-L’obligation de se voir assigner des places assises ne s’applique ni dans le cadre de l’exercice de la liberté de manifester, ni aux cérémonies funéraires ou religieuses ayant lieu à l’extérieur , ni aux marchés, ni dans le cadre de la pratique des activités visées à l’article4bis ni dans les transports publics.
+L’obligation de se voir assigner des places assises ne s’applique ni dans le cadre de l’exercice de la liberté de manifester, ni aux cérémonies funéraires ou religieuses ayant lieu à l’extérieur , ni aux marchés, ni dans le cadre de la pratique des activités visées à l’article 4bis ni dans les transports publics.
 
 ( 5 ) Dans les salles d’audience des juridictions constitutionnelle, judiciaires, y compris les juridictions de la sécurité sociale, administratives et militaires, l’obligation de respecter une distance minimale de deux mètres ne s’applique pas :
 
@@ -60,7 +60,7 @@ En faisant usage de sa prérogative de police d’audience, le magistrat qui pr�
 
 Le port obligatoire du masque, les règles de distanciation physique énoncées au paragraphe 2, ainsi que les dispositions du paragraphe 3 ne s’appliquent pas aux activités scolaires se déroulant à l’intérieur, lorsque les élèves sont assis à leur place. Lors de toute circulation dans le bâtiment scolaire, le port du masque est obligatoire.
 
-Le port du masque, les règles de distanciation physique énoncées au paragraphe 2, ainsi que les dispositions du paragraphe 3, ne s’appliquent pas aux activités péri- et parascolaires se déroulant à l’intérieur, lorsque le groupe de personnes participant simultanément à une activité ne dépasse pas le nombre de dix. Si le groupe dépasse le nombre de dix personnes, une distanciation physique d’au moins deux mètres ou l’obligation du port du masque doit être respectée entre les différentes personnes. Ces restrictions ne s’appliquent pas lorsque les activités péri- et parascolaires se déroulent sous le régime Covid check.
+Le port du masque, les règles de distanciation physique énoncées au paragraphe 2, ainsi que les dispositions du paragraphe 3, ne s’appliquent pas aux activités péri- et parascolaires se déroulant à l’intérieur, lorsque le groupe de personnes participant simultanément à une activité ne dépasse pas le nombre de dix personnes. Si le groupe dépasse le nombre de dix personnes, le régime Covid check est applicable. Par dérogation à cette règle et sans préjudice des dispositions de l’article 4bis, paragraphe 5, et de l’article 4quater, paragraphe 2, les activités péri- et parascolaires s’adressant aux jeunes âgés entre douze ans et deux mois et moins de dix-neuf ans, sont soumises à la présentation d’un certificat tel que visé par les articles 3bis, 3ter ou 3quater. Par dérogation à cette même règle et sans préjudice quant aux dispositions de l’article 4bis, paragraphe 5, et de l’article 4quater, paragraphe 2, les activités péri- et parascolaires s’adressant aux jeunes âgés de moins de douze ans sont soumises au respect d’une distanciation physique d’au moins deux mètres ou à l’obligation du port du masque. Les jeunes qui peuvent se prévaloir d’un certificat tel que visé à l’article 3bis, paragraphe 5, doivent dans les deux cas présenter leur certificat et un certificat de test tel que visé à l’article 3quater ou le résultat négatif d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place.
 
 Lors de chaque détection d’un cas positif au sein d’une classe ou d’un auditoire, le port du masque est obligatoire pour les personnes faisant partie de la classe ou de l’auditoire concerné ainsi que pour leurs enseignants pendant une durée de sept jours après le dernier jour de présence de la personne infectée en classe ou dans l’auditoire, pour les activités scolaires, y inclus péri- et parascolaires, se déroulant à l’intérieur.
 
