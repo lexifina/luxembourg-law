@@ -1,0 +1,19 @@
+# Art. 2.
+
+À l’article 2 de la même loi sont apportées les modifications suivantes :
+
+- 1° Le paragraphe 1er est modifié comme suit :
+
+- « (1) Les établissements de restauration et de débit de boissons sont soumis au régime Covid check tel que visé à l’article 1er, point 27°.
+
+- Le client doit quitter l’établissement s’il refuse ou s’il est dans l’impossibilité de présenter un des certificats visés à l’article 1er, point 27°, et de justifier son identité.
+
+- Le personnel et l’exploitant des établissements de restauration et de débit de boissons sont soumis à l’obligation de présenter un certificat tel que visé aux articles 3bis, 3ter ou 3quater afin d’accéder aux établissements concernés. Le membre du personnel qui présente un certificat tel que visé à l’article 3bis, paragraphe 5, doit, en plus de la présentation de son certificat, se prévaloir également d’un certificat de test tel que visé à l’article 3quater ou d’un résultat négatif d’un test autodiagnostique servant au dépistage du SARS-CoV-2, à réaliser sur place, pour accéder aux établissements concernés. » ;
+
+- 2° Le paragraphe 2 est modifié comme suit :
+
+- « (2) Le paragraphe 1er ne s’applique pas aux cantines scolaires, aux restaurants sociaux sans but lucratif pour les personnes indigentes, aux services de vente à emporter, de vente au volant et de livraison à domicile. Les cantines d’entreprise et les cantines universitaires sont soumises aux conditions prévues au paragraphe 1er. » ;
+
+- 3° Le paragraphe 4 actuel devient le paragraphe 3 nouveau ;
+
+- 4° À l’ancien paragraphe 4, devenu le paragraphe 3 nouveau, les termes des paragraphes 1er et 2 sont remplacés par les termes du paragraphe 1er.
