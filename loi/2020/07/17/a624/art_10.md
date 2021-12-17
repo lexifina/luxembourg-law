@@ -1,6 +1,6 @@
 # Art. 10.
 
-(1) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2et les effets des vaccins contre la maladie Covid-19, sont autorisés des traitements de données à caractère personnel au travers de la mise en place d’un système d’information pour les finalités suivantes :
+(1) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2 et les effets des vaccins contre la maladie Covid-19, sont autorisés des traitements de données à caractère personnel au travers de la mise en place d’un système d’information pour les finalités suivantes :
 
 - 1° détecter, évaluer, surveiller et combattre la pandémie de Covid-19 ;
 
