@@ -1,0 +1,5 @@
+# Art. 1er. Champ d’application
+
+La présente loi s’applique aux factures émises à l’issue de l’exécution des marchés ou des contrats auxquels la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, la loi du 3 juillet 2018 sur l’attribution de contrats de concession et portant modification du Code pénal, du Code du travail et de la loi modifiée du 10 novembre 2010 instituant les recours en matière de marchés publics ou la loi modifiée du 8 avril 2018 sur les marchés publics s’appliquent.
+
+La présente loi ne s’applique pas aux factures émises à l’issue de l’exécution de marchés relevant du champ d’application de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, lorsque la passation et l’exécution du marché sont déclarées secrètes ou doivent s’accompagner de mesures particulières de sécurité, conformément aux dispositions législatives, réglementaires ou administratives en vigueur et à condition que le pouvoir adjudicateur ait déterminé que la protection des intérêts essentiels concernés ne peut être garantie par des mesures moins intrusives.
