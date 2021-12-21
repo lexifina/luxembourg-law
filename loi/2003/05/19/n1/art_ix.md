@@ -1,0 +1,5 @@
+# Art IX.- Entrée en vigueur
+
+La présente loi entre en vigueur le premier jour du mois qui suit sa publication au Mémorial, à l’exception des dispositions relatives au commissaire du Gouvernement chargé de l’instruction disciplinaire et notamment les dispositions de l’article Ier, points 31.a) et 36 et de l’article VII ainsi que les dispositions relatives au médecin du travail et au médecin de contrôle, et notamment les dispositions de l’article Ier, points 10 et 19.c) 9. qui entrent en vigueur le premier jour du quatrième mois suivant celui de la publication.
+
+Les dispositions de l’article 8 paragraphe V de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat s’appliquent avec effet au 1er janvier 2000, celles visées à l’article IV aux points b) sous 3g), 6 a bis), 6 a ter), 6 a quater), 6 c), 6 c bis), 7 a), 7 b), 7 c), 8, 9 et 10 de la présente loi s’appliquent avec effet au 1er mars 2002 et celles visées à l’article IV aux points 3 a), 6 e), 12 d), 12 e) et 14 de la présente loi s’appliquent avec effet au 1er juillet 2002.
