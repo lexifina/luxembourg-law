@@ -2,7 +2,9 @@
 
 (1) La pratique d’activités culturelles est autorisée sans obligation de distanciation physique et de port de masque, à condition d’être exercée individuellement ou dans un groupe ne dépassant pas le nombre de dix personnes.
 
-Au-delà de dix personnes qui pratiquent simultanément une activité culturelle, le régime Covid check est applicable.
+Au-delà de dix personnes qui pratiquent simultanément une activité culturelle, le régime Covid check est applicable tel que défini à l’article 1er, point 27°, et les personnes ayant atteint l’âge de douze ans et de deux mois sont également soumis à l’obligation de présenter le résultat négatif soit d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place, soit d’un test TAAN, soit d’un test antigénique rapide SARS-CoV-2 en cours de validité.
+
+Toute personne ayant reçu une vaccination de rappel est dispensée de l’obligation de présenter le résultat négatif soit d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place, soit d’un test TAAN, soit d’un test antigénique rapide SARS-CoV-2 en cours de validité.
 
 (2 ) Les restrictions prévues au paragraphe 1er ne s’appliquent pas au groupe de personnes constitué exclusivement par des personnes qui font partie d’un même ménage ou cohabitent, ni aux activités culturelles scolaires , y inclus péri- et parascolaires.
 

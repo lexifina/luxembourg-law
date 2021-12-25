@@ -2,7 +2,7 @@
 
 (1) Les infractions :
 
-- 1° à l’article 2, paragraphe 1er, alinéa 1er ;
+- 1° à l’article 2, paragraphe 1er, alinéas 1er et 5 ;
 
 - 2° à l’article 2, paragraphe 2, dernière phrase ;
 
@@ -30,7 +30,7 @@ Est puni de la même peine l’employeur qui ne respecte pas son obligation de c
 
 Les infractions aux obligations de notification et de contrôle à l’entrée découlant du régime Covid check visées à l’article 1er, point 27°, et :
 
-- 1° à l’article 2, paragraphe 1er, alinéas 2 et 3 ;
+- 1° à l’article 2, paragraphe 1er, alinéas 3 et 4 ;
 
 - 2° à l’article 2, paragraphe 2, dernière phrase ;
 
@@ -40,7 +40,7 @@ Les infractions aux obligations de notification et de contrôle à l’entrée d
 
 - 5° à l’article 3septies ;
 
-- 6° à l’article 4, paragraphe 2, alinéa 4, première phrase ;
+- 6° à l’article 4, paragraphe 2, alinéa 3 , première phrase ;
 
 - 7° à l’article 4, paragraphe 3, alinéa 1er, première phrase ;
 
