@@ -1,3 +1,0 @@
-# Art. 12.
-
-L'entreprise notifiée offrant des services téléphoniques accessibles au public fournit à toute entreprise notifiée dont l'activité comprend l'édition d'un annuaire, la fourniture d'un service de renseignements téléphoniques ou la fourniture d'une assistance par opérateur/opératrice les données de ses abonnés ayant opté pour la publicité de leur(s) numéro(s) d'appel. La fourniture de ces données se fait sous une forme convenue et à des conditions équitables, objectives, modulées en fonction des coûts et non-discriminatoires. Elle comprend uniquement les données autorisées pour l'inscription standard à l'annuaire universel.
