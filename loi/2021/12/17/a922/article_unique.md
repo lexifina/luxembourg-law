@@ -1,0 +1,3 @@
+# Article unique.
+
+Sont approuvés la Convention, faite à Luxembourg, le 11 décembre 2007, entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement de l’État du Koweït tendant à éviter les doubles impositions et à prévenir la fraude fiscale en matière d'impôts sur le revenu et sur la fortune, ainsi que l’Avenant, fait à Luxembourg, le 25 mars 2021, modifiant la Convention entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement de l’État du Koweït tendant à éviter les doubles impositions et à prévenir la fraude fiscale en matière d’impôts sur le revenu et sur la fortune, faite à Luxembourg, le 11 décembre 2007.
