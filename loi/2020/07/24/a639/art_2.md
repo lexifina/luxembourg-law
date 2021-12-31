@@ -1,3 +1,0 @@
-# Art. 2.
-
-Par dérogation à l’article L. 524-2, paragraphe 1er, alinéa 1er, du Code du travail, un contrat de réinsertion-emploi, comprenant des périodes alternées de formation pratique et de formation théorique, peut être proposé par l’Agence pour le développement de l’emploi aux demandeurs d’emploi âgés de trente ans au moins ou en reclassement externe au sens des articles L. 551-1 et suivants du Code du travail ou ayant la qualité de salarié handicapé au sens des articles L. 561-1 et suivants du Code du travail et inscrits auprès des bureaux de placement de l’Agence pour le développement de l’emploi depuis un mois au moins.

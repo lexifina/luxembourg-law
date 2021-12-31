@@ -1,3 +1,0 @@
-# Art. 3.
-
-Par dérogation à l’article L. 524-5, alinéa 1er, du Code du travail, une quote-part correspondant à 50 pour cent du salaire social minimum pour salariés non qualifiés est versée par le promoteur au Fonds pour l’emploi en cas d’occupation de demandeurs d’emploi âgés entre trente ans au moins et moins de quarante-cinq ans accomplis. En cas d’occupation de demandeurs d’emploi âgés de quarante-cinq ans au moins, en reclassement externe au sens des articles L. 551-1 et suivants du Code du travail, ayant la qualité de salarié handicapé au sens des articles L. 561-1 et suivants du Code du travail ou du sexe sous-représenté, la participation de l’entreprise est ramenée à 35 pour cent de l’indemnité touchée par les demandeurs d’emploi.

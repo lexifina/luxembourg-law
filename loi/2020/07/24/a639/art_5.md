@@ -1,3 +1,0 @@
-# Art. 5.
-
-Par dérogation à l’article L. 541-1, paragraphe 1er, alinéa 3, du Code du travail, la condition d’inscription auprès d’un des bureaux de placement de l’Agence pour le développement de l’emploi, la condition de la déclaration de vacance de poste et la condition de la durée d’inscription précitée ne s’appliquent pas en cas d’embauche d’un salarié âgé de trente ans accomplis affecté par un plan de maintien dans l’emploi au sens de l’article L.513-3 du Code du travail, homologué par le ministre ayant l’Emploi dans ses attributions, ou dont le contrat de travail a été résilié suite à une déclaration en état de faillite ou en liquidation judiciaire.
