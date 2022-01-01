@@ -1,3 +1,13 @@
 # Art. 91.
 
-Un règlement grand-ducal détermine les modalités d’organisation des stages, des examens de fin de stage et des examens de promotion et peut fixer des conditions particulières de recrutement, de stage, de nomination et d’avancement pour le personnel du greffe.
+Le président de la Cour administrative propose :
+
+- 1° la nomination des fonctionnaires stagiaires et fonctionnaires de l’État ;
+
+- 2° l’engagement et le licenciement des employés et salariés de l’État.
+
+Les nominations du dernier grade du niveau supérieur dans chaque catégorie de traitement sont faites par le Grand-Duc. Les nominations aux autres grades sont faites par le ministre de la justice.
+
+L’engagement et le licenciement des employés de l’État sont faits par le ministre de la fonction publique, sur avis du ministre de la justice.
+
+L’engagement et le licenciement des salariés de l’État sont faits par le ministre de la justice.
