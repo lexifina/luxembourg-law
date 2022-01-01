@@ -1,0 +1,3 @@
+# Art. 3.
+
+Le Gouvernement est autorisé à garantir, pour le compte de l'Etat, le remboursement en principal, intérêts et frais accessoires, des emprunts et des ouvertures de crédit contractés jusqu'à concurrence d'un montant maximum de dix-huit millions d'euros. La durée de la garantie ne pourra excéder quarante ans à courir à partir de la date de l'entrée en vigueur de la présente loi. La garantie peut être accordée par tranches successives. Les conditions et modalités de l'octroi de la garantie de l'Etat sont fixées dans une ou plusieurs conventions à conclure entre le Gouvernement, l'organisme prêteur et la société «SUDCAL S.A.».
