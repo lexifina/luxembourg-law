@@ -1,0 +1,25 @@
+# Art. 3.
+
+(1) Le procureur général d’État émet, soit d’office, soit à la demande du président de la Cour administrative, un avis sur l’honorabilité des candidats à un poste de référendaire de justice.
+
+Il peut accéder aux données à caractère personnel visées au présent article en vue du contrôle de l’honorabilité.
+
+(2) L’avis du procureur général d’État fait état des :
+
+- 1° inscriptions au bulletin N° 2 du casier judiciaire ;
+
+- 2° informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;
+
+- 3° informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.
+
+(3) Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
+
+Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
+
+(4) Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :
+
+- 1° le nom, les prénoms, la date et le lieu de naissance du candidat ainsi que son numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
+
+- 2° la qualification juridique des faits reprochés.
+
+(5) L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.
