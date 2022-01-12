@@ -2,9 +2,7 @@
 
 (1) La pratique d’activités culturelles est autorisée sans obligation de distanciation physique et de port de masque, à condition d’être exercée individuellement ou dans un groupe ne dépassant pas le nombre de dix personnes.
 
-Au-delà de dix personnes qui pratiquent simultanément une activité culturelle, le régime Covid check est applicable tel que défini à l’article 1er, point 27°, et les personnes ayant atteint l’âge de douze ans et de deux mois sont également soumis à l’obligation de présenter le résultat négatif soit d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place, soit d’un test TAAN, soit d’un test antigénique rapide SARS-CoV-2 en cours de validité.
-
-Toute personne ayant reçu une vaccination de rappel est dispensée de l’obligation de présenter le résultat négatif soit d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place, soit d’un test TAAN, soit d’un test antigénique rapide SARS-CoV-2 en cours de validité.
+Au-delà de dix personnes qui pratiquent simultanément une activité culturelle, le régime Covid check est applicable tel que défini à l’article 1er, point 27° .
 
 (2 ) Les restrictions prévues au paragraphe 1er ne s’appliquent pas au groupe de personnes constitué exclusivement par des personnes qui font partie d’un même ménage ou cohabitent, ni aux activités culturelles scolaires , y inclus péri- et parascolaires.
 
@@ -14,6 +12,6 @@ Toute personne ayant reçu une vaccination de rappel est dispensée de l’oblig
 
 Il en est de même pour les professionnels du secteur culturel liés par un contrat de travail, tel que visé à l’article L. 121-4 du Code du travail ou d’un contrat de prestation de service.
 
-Pour les personnes âgées de dix-neuf ans et plus, pratiquant une activité culturelle au sein d’une fédération, d’une association du secteur culturel ou d’une entreprise privée ayant comme objet social l’organisation d’activités culturelles, la participation aux activités culturelles n’est ouverte que si elles présentent un certificat tel que visé par les articles 3bis ou 3ter. Les personnes titulaires d’un certificat tel que visé à l’article 3bis, paragraphe 5, doivent dans tous les cas présenter leur certificat et un certificat de test tel que visé à l’article 3quater ou le résultat négatif d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place.
+Pour les personnes âgées de dix-neuf ans et plus, pratiquant une activité culturelle au sein d’une fédération, d’une association du secteur culturel ou d’une entreprise privée ayant comme objet social l’organisation d’activités culturelles, la participation aux activités culturelles n’est ouverte que si remplissent les conditions de l’article 1er bis .
 
 (5) Toutes les activités culturelles pratiquées au sein d’une fédération, d’une association du secteur culturel ou d’une entreprise privée ayant comme objet social l’organisation d’activités culturelles par des personnes de moins de dix-neuf ans, sont interrompues en cas de mesures prises dans le cadre de la lutte contre la pandémie Covid-19 supprimant les cours en présentiel relevant de l’enseignement fondamental et secondaire au plan national. Ces activités culturelles peuvent reprendre lorsque les mesures précitées prennent fin.

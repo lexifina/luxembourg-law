@@ -44,6 +44,8 @@ La validité du certificat de vaccination délivré aux ressortissants de pays t
 
 Le certificat visé à l’alinéa 1er est établi sous format papier, sans code QR et uniquement valable sur le territoire du Grand-Duché de Luxembourg.
 
+(3bis) La validité du certificat de vaccination est de deux cent soixante-dix jours à compter de la date à partir de laquelle le schéma vaccinal est considéré comme complet. La validité du certificat relatif à la vaccination de rappel est illimitée.
+
 (4) Pour la vaccination des enfants mineurs âgés de douze à quinze ans révolus contre la Covid-19, seule l’autorisation de l’un ou l’autre des titulaires de l’autorité parentale est requise, sans préjudice de l’appréciation d’éventuelles contre-indications médicales. Par dérogation à l’article 372 du Code civil, la vaccination contre la Covid-19 peut être pratiquée, à sa demande, sur le mineur de plus de seize ans.
 
 Pour la réalisation d’un dépistage contre la Covid-19 en milieu scolaire, seule l’autorisation de l’un ou l’autre des titulaires de l’autorité parentale est requise. Par dérogation à l’article 372 du Code civil, les mineurs de plus de seize ans peuvent donner eux-mêmes leur accord pour ledit dépistage.

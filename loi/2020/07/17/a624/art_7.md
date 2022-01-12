@@ -2,9 +2,19 @@
 
 (1) Pour autant qu’il existe des raisons d’ordre médical ou factuel permettant de considérer que les personnes concernées présentent un risque élevé de propagation du virus SARS-CoV-2 à d’autres personnes, le directeur de la santé ou son délégué prend, sous forme d’ordonnance, les mesures suivantes :
 
-- 1° mise en quarantaine, à la résidence effective ouen tout autre lieu d’habitation à désigner par la personne concernée, des personnes à haut risque d’être infectées pour une durée de sept jours à partir du dernier contact avec la personne infectée à condition de se soumettre à un test diagnostique de l’infection au virus SARS-CoV-2 à partir dusixième jour.En cas de test négatif, la mesure de quarantaine est levée d’office. En cas de refus de se soumettre à un test de dépistageà partir du sixième jour après le dernier contact avec la personne infectée, la mise en quarantaine est prolongée pour une durée maximale de sept jours.Les personnes vaccinées ou rétablies sont exemptées de la mise en quarantaine ;
+- 1° mise en quarantaine, à la résidence effective ou en tout autre lieu d’habitation à désigner par la personne concernée, des personnes à haut risque d’être infectées pour une durée de sept jours à partir du dernier contact avec la personne infectée à condition de se soumettre à un test diagnostique de l’infection au virus SARS-CoV-2 à partir du sixième jour. En cas de test négatif, la mesure de quarantaine est levée d’office. En cas de refus de se soumettre à un test de dépistage à partir du sixième jour après le dernier contact avec la personne infectée, la mise en quarantaine est prolongée pour une durée maximale de sept jours. Les personnes vaccinées ou rétablies sont exemptées de la mise en quarantaine ;
 
 - 2° mise en isolement, à la résidence effective ou en tout autre lieu d’habitation à désigner par la personne concernée, des personnes infectées pour une durée de dix jours.
+
+- Pour les personnes :
+
+  - a) détentrices d’un certificat de vaccination prouvant un schéma vaccinal complet dont la date d’établissement remonte à cent quatre-vingts jours au maximum ;
+
+  - b) détentrices d’un certificat de rétablissement dont l’établissement remonte à cent quatre-vingts jours au maximum ;
+
+  - c) détentrices d’un certificat relatif à la vaccination de rappel ;
+
+- la mise en isolement peut prendre fin avant l’écoulement de la durée de dix jours si la personne concernée réalise, au plus tôt le cinquième et le sixième jour de l’isolement, des tests antigéniques rapides SARS-CoV-2 dont les résultats sont négatifs.
 
 (2) En cas d’impossibilité d’un maintien à la résidence effective ou autre lieu d’habitation à désigner par la personne concernée, la personne concernée par une mesure de mise en quarantaine ou d’isolement peut être hébergée, avec son consentement, dans un établissement hospitalier ou tout autre institution, établissement ou structure approprié et équipé.
 

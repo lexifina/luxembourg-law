@@ -6,9 +6,9 @@
 
 Ne sont pas prises en compte pour le comptage, les personnes qui se trouvent au domicile dans le cadre de l’exercice de leurs activités professionnelles ni celles qui se trouvent au domicile dans le cadre de l’exercice d’un droit de visite et d’hébergement ou dans l’exercice des résidences alternées.
 
-Les conditions énumérées à l'alinéa 1er ne s’appliquent pas lorsque les rassemblements se déroulent sous le régime Covid check. Par dérogation à l’article 1er, point 27°, en cas de rassemblements ayant lieu au domicile, les personnes peuvent également se prévaloir, à côté d’un certificat de vaccination ou de rétablissement tel que visé aux articles 3bis et 3ter, d’un certificat de test tel que visé à l’article 3quater. Il en va de même des personnes qui peuvent se prévaloir d’un certificat tel que visé à l’article 3bis, paragraphe 5, en sus d’un certificat de test tel que visé à l’article 3quater ou du résultat négatif d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place.
+Les conditions énumérées à l'alinéa 1er ne s’appliquent pas lorsque les rassemblements se déroulent sous le régime Covid check tel que défini à l’article 1er, point 27° .
 
-( 3 ) Tout rassemblement entre vingt et une et deux cents personnes incluses est soumis au régime Covid check tel que défini à l’article 1er, point 27°, et les personnes ayant atteint l’âge de douze ans et de deux mois sont soumis ou bien à l’obligation de présenter le résultat négatif soit d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place, soit d’un test TAAN, soit d’un test antigénique rapide SARS-CoV-2 en cours de validité ou bien à l’obligation de porter un masque et se voir attribuer des places assises en observant une distance minimale de deux mètres. Toute personne ayant reçu une vaccination de rappel est dispensée de l’obligation de présenter le résultat négatif soit d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place, soit d’un test TAAN, soit d’un test antigénique rapide SARS-CoV-2 en cours de validité.
+( 3 ) Tout rassemblement entre vingt et une et deux cents personnes incluses est soumis au régime Covid check tel que défini à l’article 1er, point 27°, ou bien à l’obligation de porter un masque et se voir attribuer des places assises en observant une distance minimale de deux mètres.
 
 Le dispositif inscrit à l’alinéa 1er ne s’applique pas aux rassemblements ayant lieu à des fins de manifester, aux marchés à l’extérieur et dans les transports publics. Dans ces cas s’applique l’obligation du port du masque.
 
@@ -16,7 +16,7 @@ Tout rassemblement au-delà de deux cents personnes est interdit. Cette interdic
 
 Ne sont pas pris en considération pour le comptage de ces deux cents personnes, les acteurs cultuels, les orateurs, les sportifs et leurs encadrants, ainsi que les acteurs de théâtre et de film, les musiciens et les danseurs qui exercent une activité artistique et qui sont sur scène.
 
-Ne sont pas visés par l’interdiction prévue à l’alinéa 1er, les événements accueillant plus de deux cents personnes lorsqu’ils font l’objet d’un protocole sanitaire à accepter préalablement par la Direction de la santé.
+Ne sont pas visés par l’interdiction prévue à l’alinéa 3 les événements accueillant plus de deux cents personnes lorsqu’ils font l’objet d’un protocole sanitaire à accepter préalablement par la Direction de la santé.
 
 Le protocole doit être notifié à la Direction de la santé par voie de lettre recommandée avec accusé de réception par l’organisateur de l’événement visé à l’alinéa 3. La Direction de la santé dispose d’un délai de dix jours ouvrables dès réception du protocole pour accepter celui-ci. Passé ce délai, le silence de la part de la Direction de la santé vaut refus du protocole.
 

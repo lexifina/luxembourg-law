@@ -16,6 +16,8 @@ Est considéré comme équivalent un certificat délivré par un État associé 
 
 Le certificat de test Covid-19 émis par les personnes visées à la lettre a) est muni d’un code QR.
 
+Les personnes visées aux lettres a) à c) ne peuvent certifier que les résultats négatifs des tests Covid-19 qu’ils ont réalisés eux-mêmes ou supervisés sur place.
+
 (4) La durée de validité d’un test antigénique rapide SARS-CoV-2 est de vingt-quatre heures à partir de la date et de l’heure du prélèvement requis pour la réalisation dudit test.
 
 La durée de validité d’un test TAAN est de quarante-huit heures à partir de la date et de l’heure du prélèvement requis pour la réalisation dudit test.
