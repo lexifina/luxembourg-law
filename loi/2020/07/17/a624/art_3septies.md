@@ -1,14 +1,14 @@
 # Art. 3septies.
 
-(1) Tout salarié, agent public et travailleur indépendant doit être en mesure de présenter sur son lieu de travail un certificat tel que visé aux articles 3bis, 3ter ou 3quater. Tout salarié, agent public et travailleur indépendant, titulaire d’un certificat de contre-indication à la vaccination contre la Covid-19 tel que visé à l’article 3bis, paragraphe 5, doit être en mesure de présenter sur son lieu de travail son certificat ainsi qu’un certificat de test tel que visé à l’article 3quater ou le résultat négatif d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place. Cette obligation est contrôlée par l’employeur ou le chef d’administration ou une autre personne désignée par eux. Le salarié, l’agent public ou le travailleur indépendant qui refuse ou est dans l’impossibilité de présenter l’un des certificats visés ci-dessus n’a pas le droit d’accéder à son lieu de travail.
+(1) L’employeur ou le chef d’administration peut exiger que l’ensemble de ses salariés ou agents publics présentent sur leur lieu de travail un certificat tel que visé aux articles 3bis, 3ter ou 3quater. Dans ce cas, le salarié ou l’agent public qui est titulaire d’un certificat de contre-indication à la vaccination contre la Covid-19 tel que visé à l’article 3bis, paragraphe 5, doit être en mesure de présenter sur son lieu de travail son certificat ainsi qu’un certificat de test tel que visé à l’article 3quater ou le résultat négatif d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place. Cette obligation est contrôlée par l’employeur ou le chef d’administration ou une autre personne désignée par eux. Le salarié ou l’agent public qui refuse ou est dans l’impossibilité de présenter l’un des certificats visés ci-dessus n’a pas le droit d’accéder à son lieu de travail.
 
 L’employeur ou le chef d’administration peut décider que l’accès à l’ensemble ou à une partie de son entreprise ou de son administration à des personnes externes ou à des personnes non visées à l’alinéa 1er est soumis à l’obligation de présenter un certificat tel que visé aux articles visés à l’alinéa 1er. Ce périmètre est déterminé selon les modalités prévues à l’article 1er, point 27°, et à l’intérieur de celui-ci les obligations de port du masque et de distance minimale de deux mètres entre les personnes ne s’appliquent pas.
 
 L’accès au service public et la continuité du service public doivent rester garantis.
 
-Les personnes exerçant un mandat politique ou public sont assimilées aux personnes visées à l’alinéa 1er.
+À défaut d’obligation de présenter un des certificats visés à l’alinéa 1er, les règles prévues à l’article 4 sont applicables.
 
-(2) Pour la finalité de faciliter les vérifications effectuées dans le cadre du paragraphe 1er, alinéa 1er, l’employeur ou le chef d’administration peut tenir une liste de ses salariés ou agents publics vaccinés ou rétablis.
+(2) Pour la finalité de faciliter les vérifications effectuées dans le cadre du paragraphe 1er, alinéa 1er, l’employeur ou le chef d’administration peut tenir une liste de ses salariés, agents publics ou personnes externes vaccinés ou rétablis.
 
 L’inscription des salariés ou agents publics sur la liste énoncée à l’alinéa 1er doit être volontaire. Cette liste ne peut contenir que le nom des salariés ou agents publics et la durée de validité du certificat. Le salarié ou l’agent public qui est inscrit sur la liste énoncée à l’alinéa 1er peut demander son retrait à tout moment et sans qu’aucune justification ne soit nécessaire. Le défaut d’inscription sur la liste n’a aucun impact sur la relation de travail.
 
@@ -22,7 +22,7 @@ En l’absence d’accord ou si le salarié ne souhaite pas utiliser les jours d
 
 Cette période de non-rémunération est neutralisée par rapport au mode de calcul de l’indemnité de chômage tel que défini à l’article L. 521-15 du Code du travail et de l’indemnité compensatoire tel que défini à l’article L. 551-2, paragraphe 3, du Code du travail et est assimilée à une période de travail effectif pour la détermination de la durée des congés payés ainsi que pour les droits légaux ou conventionnels acquis par le salarié au titre de son ancienneté.
 
-La non-présentation d’un certificat valable tel que visé au paragraphe 1er par le salarié et l’absence au lieu de travail en résultant ne constituent pas un motif de licenciement ou de sanctions disciplinaires.
+La non-présentation d’un certificat valable tel que visé au paragraphe 1er , alinéa 1er, par le salarié et l’absence au lieu de travail en résultant ne constituent pas un motif de licenciement ou de sanctions disciplinaires.
 
 La résiliation du contrat de travail effectuée en violation du présent paragraphe est nulle et sans effet.
 
@@ -30,7 +30,7 @@ Dans les quinze jours qui suivent le licenciement, le salarié peut demander, pa
 
 L’ordonnance du président de la juridiction du travail est exécutoire par provision : elle est susceptible d’appel qui est porté, par simple requête, dans les quinze jours à partir de la notification par la voie du greffe, devant le magistrat présidant la chambre de la Cour d’appel à laquelle sont attribués les recours en matière de droit du travail. Il est statué d’urgence, les parties entendues ou dûment convoquées.
 
-(4) Dans le cas visé au paragraphe 1er, alinéa 1er, l’agent public peut prendre, sous réserve de l’accord du chef d’administration ou de son délégué, du congé de récréation ou, à défaut, il perd de plein droit la partie de sa rémunération à raison d’un trentième par journée d’absence entière ou entamée.
+(4) En cas d’application du paragraphe 1er, alinéa 1er, l’agent public peut prendre, sous réserve de l’accord du chef d’administration ou de son délégué, du congé de récréation ou, à défaut, il perd de plein droit la partie de sa rémunération à raison d’un trentième par journée d’absence entière ou entamée.
 
 Pour l’application de l’alinéa 1er aux agents publics ne disposant pas de congé de récréation, la possibilité du recours à ce dernier est remplacée par celle à du congé épargne-temps, dans la limite de l’équivalent de trente-deux jours de congé de récréation. À cet effet, le compte épargne-temps peut présenter un solde négatif. Ce dernier est compensé au fur et à mesure que l’agent public preste des heures excédentaires ou supplémentaires. Au cas où l’agent public cesserait ses fonctions avant d’avoir compensé le solde négatif, il rembourse la rémunération correspondante.
 

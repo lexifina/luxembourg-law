@@ -2,13 +2,11 @@
 
 (1) Les infractions :
 
-- 1° à l’article 2, paragraphe 1er, alinéas 1er et 4 ;
+- 1° à l’article 2, paragraphe 1er, alinéa 1er ;
 
 - 2° à l’article 2, paragraphe 2, dernière phrase ;
 
 - 3° à l’article 2, paragraphe 3 ;
-
-- 4° à l’article 3, paragraphe 3, alinéa 1er ;
 
 - 5° à l’article 4, paragraphe 7 ;
 
@@ -18,7 +16,7 @@
 
 - 8° à l’article 4bis, paragraphes 2 et 3 ;
 
-- 9° à l’article 4bis, paragraphe 13 ;
+- 9° à l’article 4bis, paragraphe 11 ;
 
 - 10° à l’article 4quater, paragraphe 1er, deuxième phrase ;
 
@@ -35,8 +33,6 @@ Les infractions aux obligations de notification et de contrôle à l’entrée d
 - 2° à l’article 2, paragraphe 2, dernière phrase ;
 
 - 3° à l’article 2, paragraphe 3 ;
-
-- 4° à l’article 3, paragraphe 3, alinéa 1er ;
 
 - 5° à l’article 4, paragraphe 2, alinéa 3 ;
 

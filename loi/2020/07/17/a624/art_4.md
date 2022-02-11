@@ -2,25 +2,27 @@
 
 (1 ) Le port du masque est obligatoire en toutes circonstances pour les activités ouvertes à un public qui circule et qui se déroulent en lieu fermé, sauf pour les activités qui se déroulent sous le régime Covid check. Le port du masque est également obligatoire dans les transports publics, sauf pour le conducteur lorsqu’une distance interpersonnelle de deux mètres est respectée ou un panneau de séparation le sépare des passagers.
 
-( 2 ) Sans préjudice des paragraphes 1er et 3, alinéa 5 , et des articles 4bis et 4quater, tout rassemblement de plus de dix et jusqu’à vingt personnes incluses est soumis à la condition que les personnes portent un masque et observent une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent .
+( 2 ) Sans préjudice des paragraphes 1er et 3, alinéa 5 , et des articles 4bis et 4quater, tout rassemblement de plus de dix et jusqu’à cinquante personnes incluses est soumis à la condition que les personnes portent un masque et observent une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent .
 
-Ne sont pas prises en compte pour le comptage, les personnes qui se trouvent au domicile dans le cadre de l’exercice de leurs activités professionnelles ni celles qui se trouvent au domicile dans le cadre de l’exercice d’un droit de visite et d’hébergement ou dans l’exercice des résidences alternées.
+Sans préjudice des paragraphes 1er et 3, alinéa 5, et des articles 4bis et 4quater, tout rassemblement qui met en présence entre cinquante et une et deux cents personnes incluses est soumis à la condition que les personnes portent un masque et se voient attribuer des places assises en observant une distance minimale de deux mètres. L’obligation du respect d’une distance minimale de deux mètres ne s’applique toutefois pas aux personnes qui font partie du même ménage ou qui cohabitent.
 
-Les conditions énumérées à l'alinéa 1er ne s’appliquent pas lorsque les rassemblements se déroulent sous le régime Covid check tel que défini à l’article 1er, point 27° .
+Les conditions énumérées à l'alinéa 1er et à l’alinéa 2 ne s’appliquent pas lorsque les rassemblements se déroulent sous le régime Covid check .
 
-( 3 ) Tout rassemblement entre vingt et une et deux cents personnes incluses est soumis au régime Covid check tel que défini à l’article 1er, point 27°, ou bien à l’obligation de porter un masque et se voir attribuer des places assises en observant une distance minimale de deux mètres.
+( 3 ) Tout rassemblement entre deux cent et une et deux mille personnes incluses est soumis au régime Covid check ou bien à l’obligation de porter un masque et se voir attribuer des places assises en observant une distance minimale de deux mètres.
 
 Le dispositif inscrit à l’alinéa 1er ne s’applique pas aux rassemblements ayant lieu à des fins de manifester, aux marchés à l’extérieur et dans les transports publics. Dans ces cas s’applique l’obligation du port du masque.
 
-Tout rassemblement au-delà de deux cents personnes est interdit. Cette interdiction ne s’applique ni à la liberté de manifester, ni aux marchés à l’extérieur, ni aux transports publics. Le port du masque est obligatoire à tout moment.
+Tout rassemblement au-delà de deux mille personnes est interdit. Cette interdiction ne s’applique ni à la liberté de manifester, ni aux marchés à l’extérieur, ni aux transports publics. Le port du masque est obligatoire à tout moment.
 
-Ne sont pas pris en considération pour le comptage de ces deux cents personnes, les acteurs cultuels, les orateurs, les sportifs et leurs encadrants, ainsi que les acteurs de théâtre et de film, les musiciens et les danseurs qui exercent une activité artistique et qui sont sur scène.
+Les conditions énumérées aux paragraphes 1er à 3 ne s’appliquent pas lorsque les rassemblements se déroulent au domicile.
 
-Ne sont pas visés par l’interdiction prévue à l’alinéa 3 les événements accueillant plus de deux cents personnes lorsqu’ils font l’objet d’un protocole sanitaire à accepter préalablement par la Direction de la santé.
+Ne sont pas pris en considération pour le comptage de ces deux mille personnes, les acteurs cultuels, les orateurs, les sportifs et leurs encadrants, ainsi que les acteurs de théâtre et de film, les musiciens et les danseurs qui exercent une activité artistique et qui sont sur scène.
 
-Le protocole doit être notifié à la Direction de la santé par voie de lettre recommandée avec accusé de réception par l’organisateur de l’événement visé à l’alinéa 3. La Direction de la santé dispose d’un délai de dix jours ouvrables dès réception du protocole pour accepter celui-ci. Passé ce délai, le silence de la part de la Direction de la santé vaut refus du protocole.
+Ne sont pas visés par l’interdiction prévue à l’alinéa 3 les événements accueillant plus de deux mille personnes lorsqu’ils font l’objet d’un protocole sanitaire à accepter préalablement par la Direction de la santé.
 
-En cas de refus du protocole, la Direction de la santé émet des propositions de corrections et les notifie par voie de lettre recommandée avec accusé de réception. Le protocole adapté doit faire l’objet d’une nouvelle notification.
+Le protocole doit être notifié à la Direction de la santé par voie de lettre recommandée avec accusé de réception par l’organisateur de l’événement visé à l’alinéa 3. La Direction de la santé dispose d’un délai de dix jours ouvrables dès réception du protocole pour accepter celui-ci. Passé ce délai, le silence de la part de la Direction de la santé vaut acceptation du protocole.
+
+En cas de non-acceptation du protocole, la Direction de la santé émet des propositions de corrections et les notifie par voie de lettre recommandée avec accusé de réception. Le protocole adapté doit faire l’objet d’une nouvelle notification.
 
 Pour être accepté, le protocole sanitaire tel qu’énoncé à l’alinéa 3 respecte les conditions suivantes :
 
@@ -62,6 +64,6 @@ En faisant usage de sa prérogative de police d’audience, le magistrat qui pr�
 
 Sauf aux cours individuels, le port du masque est obligatoire pour les activités scolaires, y inclus péri- et parascolaires lorsque celles-ci se déroulent à l’intérieur. Cette obligation vise le personnel enseignant et non enseignant ainsi que les élèves à partir du cycle 2 de l’enseignement fondamental ou à partir du niveau d’enseignement correspondant dans les établissements d’enseignement privés visés par la loi modifiée du 13 juin 2003 concernant les relations entre l’État et l’enseignement privé.
 
-Sans préjudice des dispositions de l’article 4bis, paragraphe 5, et de l’article 4quater, paragraphe 2, les activités péri- et parascolaires s’adressant aux jeunes ayant atteint l’âge de dix-neuf ans sont soumises à la présentation d’un certificat tel que visé par les articles 3bis ou 3ter. Sans préjudice des dispositions de l’article 4bis, paragraphe 5, et de l’article 4quater, paragraphe 2, les activités péri- et parascolaires s’adressant aux jeunes âgés entre douze ans et deux mois et moins de dix-neuf ans, sont soumises à la présentation d’un certificat tel que visé par les articles 3bis, 3ter ou 3quater. Les jeunes qui peuvent se prévaloir d’un certificat tel que visé à l’article 3bis, paragraphe 5, doivent dans les deux cas présenter leur certificat et un certificat de test tel que visé à l’article 3quater ou le résultat négatif d’un test autodiagnostique servant au dépistage du SARS-CoV-2 réalisé sur place.
+Sans préjudice des dispositions de l’article 4bis, paragraphe 5, et de l’article 4quater, paragraphe 2, les activités péri- et parascolaires s’adressant aux jeunes ayant atteint l’âge de douze ans et deux mois sont soumises à la présentation d’un certificat tel que visé par les articles 3bis, 3ter ou 3quater si le groupe dépasse le nombre de dix personnes.
 
 (7 ) Toute activité occasionnelle et accessoire de restauration et de débit de boissons est interdite, sauf si ces activités ont lieu dans le cadre ou à l’occasion de manifestations ou d’événements se déroulant sous le régime Covid check.

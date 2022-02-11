@@ -32,6 +32,8 @@ Le certificat de vaccination ne peut être établi que si les personnes concern�
 
 - 2° remettent au directeur de la santé dans une des trois langues administratives du Grand-Duché de Luxembourg ou en anglais, les informations permettant de vérifier l’authenticité, la validité et l’intégrité du certificat étranger.
 
+(2bis) La validité du certificat de vaccination visée aux paragraphes 1er, 1bis, 1ter, 1quater et 2 est de deux cent soixante-dix jours à compter de la date à partir de laquelle le schéma vaccinal est considéré comme complet. La validité du certificat relatif à la vaccination de rappel est illimitée.
+
 (3) Le directeur de la santé ou son délégué émet, sur demande, un certificat de vaccination contre la Covid-19 aux ressortissants de pays tiers, titulaires d’un certificat de vaccination accepté par le Grand-Duché de Luxembourg conformément aux paragraphes 1ter et 1quater, lors d’un séjour de courte durée sur le territoire du Grand-Duché de Luxembourg.
 
 Le certificat de vaccination ne peut être établi que si les personnes concernées :
@@ -44,9 +46,7 @@ La validité du certificat de vaccination délivré aux ressortissants de pays t
 
 Le certificat visé à l’alinéa 1er est établi sous format papier, sans code QR et uniquement valable sur le territoire du Grand-Duché de Luxembourg.
 
-(3bis) La validité du certificat de vaccination est de deux cent soixante-dix jours à compter de la date à partir de laquelle le schéma vaccinal est considéré comme complet. La validité du certificat relatif à la vaccination de rappel est illimitée.
-
-(4) Pour la vaccination des enfants mineurs âgés de douze à quinze ans révolus contre la Covid-19, seule l’autorisation de l’un ou l’autre des titulaires de l’autorité parentale est requise, sans préjudice de l’appréciation d’éventuelles contre-indications médicales. Par dérogation à l’article 372 du Code civil, la vaccination contre la Covid-19 peut être pratiquée, à sa demande, sur le mineur de plus de seize ans.
+(4) Pour la vaccination contre la Covid-19 des enfants mineurs jusqu’à l’âge de quinze ans révolus , seule l’autorisation de l’un ou l’autre des titulaires de l’autorité parentale est requise, sans préjudice de l’appréciation d’éventuelles contre-indications médicales. Par dérogation à l’article 372 du Code civil, la vaccination contre la Covid-19 peut être pratiquée, à sa demande, sur le mineur de plus de seize ans.
 
 Pour la réalisation d’un dépistage contre la Covid-19 en milieu scolaire, seule l’autorisation de l’un ou l’autre des titulaires de l’autorité parentale est requise. Par dérogation à l’article 372 du Code civil, les mineurs de plus de seize ans peuvent donner eux-mêmes leur accord pour ledit dépistage.
 

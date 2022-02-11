@@ -15,7 +15,3 @@ Sans préjudice de l’article 4, paragraphes 1er et 4, les personnes visées à
 Au cas où le résultat du test autodiagnostique est positif ou si les personnes visées aux alinéas 1er et 2 refusent ou sont dans l’impossibilité de présenter un certificat tel que visé aux articles 3bis, 3ter ou 3quater, elles se voient refuser l’accès à l’établissement concerné.
 
 Ne peuvent toutefois se voir refuser l’accès à l’établissement hospitalier, les personnes qui se rendent dans un tel établissement pour une urgence ainsi que les personnes Covid positives qui doivent être soignées ou hospitalisées.
-
-(3) Les salles de restauration présentes au sein des structures visées au paragraphe 1er sont soumises au régime Covid check tel que défini à l’article 1er, point 27°, et les services de vente à emporter offerts par ces mêmes structures sont soumis aux conditions de l’article 2, paragraphe 2.
-
-L’alinéa 1er ne s’applique pas aux résidents et usagers des structures d’hébergement pour personnes âgées, des services d’hébergement pour personnes en situation de handicap, des centres psycho-gériatriques, des services d’activités de jour et des services de formation.

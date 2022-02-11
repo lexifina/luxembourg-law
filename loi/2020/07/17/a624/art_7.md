@@ -1,28 +1,16 @@
 # Art. 7.
 
-(1) Pour autant qu’il existe des raisons d’ordre médical ou factuel permettant de considérer que les personnes concernées présentent un risque élevé de propagation du virus SARS-CoV-2 à d’autres personnes, le directeur de la santé ou son délégué prend, sous forme d’ordonnance, les mesures suivantes :
+(1) Pour autant qu’il existe des raisons d’ordre médical ou factuel permettant de considérer que les personnes concernées présentent un risque élevé de propagation du virus SARS-CoV-2 à d’autres personnes, le directeur de la santé ou son délégué prend, sous forme d’ordonnance, une mesure de mise en isolement, à la résidence effective ou en tout autre lieu d’habitation à désigner par la personne concernée, des personnes infectées pour une durée de dix jours.
 
-- 1° mise en quarantaine, à la résidence effective ou en tout autre lieu d’habitation à désigner par la personne concernée, des personnes à haut risque d’être infectées pour une durée de sept jours à partir du dernier contact avec la personne infectée à condition de se soumettre à un test diagnostique de l’infection au virus SARS-CoV-2 à partir du sixième jour. En cas de test négatif, la mesure de quarantaine est levée d’office. En cas de refus de se soumettre à un test de dépistage à partir du sixième jour après le dernier contact avec la personne infectée, la mise en quarantaine est prolongée pour une durée maximale de sept jours. Les personnes vaccinées ou rétablies sont exemptées de la mise en quarantaine ;
+La mise en isolement peut prendre fin avant l’écoulement de la durée de dix jours si la personne concernée réalise à vingt-quatre heures d’écart deux tests antigéniques rapides SARS-CoV-2 dont les résultats sont négatifs.
 
-- 2° mise en isolement, à la résidence effective ou en tout autre lieu d’habitation à désigner par la personne concernée, des personnes infectées pour une durée de dix jours.
+(2) En cas d’impossibilité d’un maintien à la résidence effective ou autre lieu d’habitation à désigner par la personne concernée, la personne concernée par une mesure d’isolement peut être hébergée, avec son consentement, dans un établissement hospitalier ou tout autre institution, établissement ou structure approprié et équipé.
 
-- Pour les personnes :
+(3) En fonction du risque de propagation du virus SARS-CoV-2 que présente la personne concernée, le directeur de la santé ou son délégué peut, dans le cadre de la mesure prévue au paragraphe 1er, accorder une autorisation de sortie, sous réserve de respecter les mesures de protection et de prévention précisées dans l’ordonnance. En fonction du même risque, le directeur de la santé ou son délégué peut également imposer à une personne infectée ou à haut risque d’être infectée le port d’un équipement de protection individuelle.
 
-  - a) détentrices d’un certificat de vaccination prouvant un schéma vaccinal complet dont la date d’établissement remonte à cent quatre-vingts jours au maximum ;
+La personne concernée par une mesure d’isolement qui ne bénéficie pas d’une autorisation de sortie lui permettant de poursuivre son activité professionnelle ou scolaire peut, en cas de besoin, se voir délivrer un certificat d’incapacité de travail ou de dispense de scolarité.
 
-  - b) détentrices d’un certificat de rétablissement dont l’établissement remonte à cent quatre-vingts jours au maximum ;
-
-  - c) détentrices d’un certificat relatif à la vaccination de rappel ;
-
-- la mise en isolement peut prendre fin avant l’écoulement de la durée de dix jours si la personne concernée réalise, au plus tôt le cinquième et le sixième jour de l’isolement, des tests antigéniques rapides SARS-CoV-2 dont les résultats sont négatifs.
-
-(2) En cas d’impossibilité d’un maintien à la résidence effective ou autre lieu d’habitation à désigner par la personne concernée, la personne concernée par une mesure de mise en quarantaine ou d’isolement peut être hébergée, avec son consentement, dans un établissement hospitalier ou tout autre institution, établissement ou structure approprié et équipé.
-
-(3) En fonction du risque de propagation du virus SARS-CoV-2 que présente la personne concernée, le directeur de la santé ou son délégué peut, dans le cadre des mesures prévues au paragraphe 1er, accorder une autorisation de sortie, sous réserve de respecter les mesures de protection et de prévention précisées dans l’ordonnance. En fonction du même risque, le directeur de la santé ou son délégué peut également imposer à une personne infectée ou à haut risque d’être infectée le port d’un équipement de protection individuelle.
-
-La personne concernée par une mesure d’isolement ou de mise en quarantaine qui ne bénéficie pas d’une autorisation de sortie lui permettant de poursuivre son activité professionnelle ou scolaire peut, en cas de besoin, se voir délivrer un certificat d’incapacité de travail ou de dispense de scolarité.
-
-(4) Les mesures de mise en quarantaine ou d’isolement sont notifiées aux intéressés par voie électronique ou par remise directe à la personne contre signature apposée sur le double de l’ordonnance ou, en cas d’impossibilité, par lettre recommandée.
+(4) La mesure de mise en isolement est notifiée aux intéressés par voie électronique ou par remise directe à la personne contre signature apposée sur le double de l’ordonnance ou, en cas d’impossibilité, par lettre recommandée.
 
 Ces mesures sont immédiatement exécutées nonobstant recours.
 
