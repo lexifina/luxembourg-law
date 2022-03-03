@@ -1,5 +1,0 @@
-# Art. 29.
-
-Le déclassement total ou partiel d'un objet mobilier classé est prononcé par arrêté motivé du Gouvernement en conseil, la Commission des Sites et Monuments nationaux entendue en son avis, soit d'office, soit à la demande du propriétaire. Dans ce dernier cas, la décision gouvernementale doit intervenir dans les trois mois.
-
-Tout arrêté qui prononce un déclassement est notifié au propriétaire. Le propriétaire jouit du recours prévu à l'alinéa 7 de l'article 4.
