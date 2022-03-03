@@ -1,0 +1,3 @@
+# Art. 21.
+
+Sans préjudice des dispositions relatives au dépôt légal, tel que défini dans les articles 10 et 19 de la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l'État, un exemplaire justificatif de tous les travaux et de toutes les publications qui se fondent entièrement ou partiellement sur les archives conservées au sein d’un institut culturel ou d’un producteur ou détenteur d’archives publiques qui gère lui-même ses archives dont la durée d’utilité administrative est venue à échéance, en vertu des articles 4 et 5 est à déposer gratuitement au détenteur des archives.

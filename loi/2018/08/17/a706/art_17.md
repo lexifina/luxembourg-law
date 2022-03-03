@@ -1,0 +1,23 @@
+# Art. 17.
+
+(1) Les producteurs d’archives qui ont versé leurs archives publiques aux Archives nationales peuvent les consulter sur demande avant échéance des délais de communication dans les salles de lecture des Archives nationales. Au cas où un dossier versé aux Archives nationales est réouvert par l’entité versante, il est retourné à l’entité versante.
+
+(2) L’autorisation de consultation des documents d’archives publiques visés à l’article 16, paragraphe 3, est accordée, avant l’expiration des délais de communication prolongés, aux personnes qui en font la demande dans la mesure où elles disposent d’une autorisation écrite de la personne concernée. En cas de décès de la personne concernée, l’autorisation peut être accordée par le conjoint non séparé de corps ou par le partenaire au sens de l’article 2 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, par ses descendants en ligne directe, ou s’il s’agit d’un mineur, par son représentant légal.
+
+(3) Le directeur des Archives nationales, sur avis du Conseil des archives, peut autoriser la communication des archives publiques conservées aux Archives nationales avant l’expiration des délais de communication prévus à l’article 16, paragraphe 3, pour les documents contenant des informations ayant trait à la vie privée des personnes exposées publiquement par leur profession, leur mission ou leur statut, si la communication de ces archives publiques est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive à la vie privée de la personne concernée.
+
+(4) Le directeur des Archives nationales, après l’accord de l’entité versante, autorise la communication des archives publiques conservées aux Archives nationales avant l’expiration des délais de communication dans les cas suivants :
+
+- a) la communication des archives publiques visées à l’article 16, paragraphe 2 avant l’expiration du délai de communication est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive aux intérêts protégés par ladite disposition ;
+
+- b) la communication des archives publiques visées à l’article 16, paragraphe 3 avant l’expiration des délais de communication est nécessaire à la réalisation d’une recherche ou d’un travail scientifique effectués dans l’intérêt public et si cette communication ne porte pas une atteinte excessive à la vie privée de la personne concernée.
+
+(5) La demande d’autorisation de communication est adressée par le demandeur au directeur des Archives nationales. La demande doit revêtir une forme écrite et doit contenir l’autorisation écrite de la personne concernée ou expliquer l’intérêt public motivant la réduction des délais de communication. Elle doit être formulée de façon précise et contenir les éléments permettant d’identifier le ou les documents demandés.
+
+(6) L’entité versante transmet sa décision au directeur des Archives nationales dans un délai de trois semaines à compter de la transmission de la demande de communication. Passé ce délai et en l’absence de décision de l’entité versante, le directeur des Archives nationales prend la décision quant à la demande de communication.
+
+(7) Le demandeur qui se voit opposer un refus de communication d’archives publiques peut saisir pour avis le Conseil des archives. Le Conseil des archives émet un avis quant à la demande de communication dans un délai de trois semaines. L’avis du Conseil des archives est communiqué à l’entité versante qui est appelée à considérer à nouveau la demande de communication. L’entité versante émet sa décision finale dans un délai de trois semaines.
+
+(8) Les demandes de communication des archives publiques avant l’expiration des délais de communication et les décisions y relatives sont publiées sur le site internet des Archives nationales. Lorsque la demande vise des archives publiques qui concernent une seule personne ou un nombre limité de personnes nommément désignées, l’information des personnes concernées se fait en leur donnant personnellement connaissance de l’introduction de la demande et de la décision prise à la fin de la procédure.
+
+(9) Les producteurs ou détenteurs d’archives publiques qui conservent eux-mêmes leurs archives publiques en vertu des articles 4, paragraphes 2 et 4, et 5 peuvent autoriser la communication des archives publiques avant l’expiration des délais de communication prolongés aux conditions énoncées aux paragraphes 2 à 8. Dans ce cas, une demande d’autorisation est adressée par le demandeur au producteur ou détenteur des archives en question.
