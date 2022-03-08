@@ -1,0 +1,5 @@
+# Art. 6.
+
+À l’article L. 224-6, paragraphe 1er, du Code de la consommation, il est inséré à la suite de l’alinéa 3, un nouvel alinéa 4 libellé comme suit :
+
+« Lorsque le contrat de crédit fait référence à un indice de référence au sens de l'article 3, paragraphe 1er, point 3, du règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 (ci-après, le « règlement (UE) 2016/1011 »), le nom de l'indice de référence et celui de son administrateur, ainsi que les répercussions éventuelles sur le consommateur, sont fournis par le prêteur ou, le cas échéant, par l'intermédiaire de crédit, au consommateur dans un document séparé, qui peut être annexé au formulaire « informations européennes normalisées en matière de crédit aux consommateurs ». ».
