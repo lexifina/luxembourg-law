@@ -1,0 +1,7 @@
+# Art. 22.
+
+Après l’article 85 de la même loi, il est inséré un nouvel article 85-1, libellé comme suit :
+
+« Art. 85-1.
+
+Sont punis d’un emprisonnement de trois mois à deux ans et d’une amende de 500 à 125 000 euros, ou d’une de ces peines seulement, ceux qui ont procédé ou fait procéder à des émissions en continu des instruments financiers offerts au public sans que l’organisme de titrisation pour lequel ils ont agi ait été inscrit sur la liste prévue à l’article 21, paragraphe 1er. ».

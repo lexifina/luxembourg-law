@@ -1,0 +1,7 @@
+# Art. 14.
+
+Il est inséré à la suite de l’article 61 de la même loi, un nouvel article 61-1, libellé comme suit :
+
+« Art. 61-1.
+
+Un organisme de titrisation ne peut titriser un panier de risques constitué de titres de créance, d’instruments financiers de dette ou de créances, qui est géré activement par l’organisme de titrisation lui-même ou par un tiers, qu’à la condition que les instruments financiers émis pour financer l’acquisition de ce panier de risques ne soient pas offerts au public. ».
