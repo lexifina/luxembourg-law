@@ -1,0 +1,5 @@
+# Art. 19.
+
+Pour l'année scolaire 2016/2017, la tâche hebdomadaire normale des chargés d'enseignement est fixée à l'équivalent de vingt-trois leçons. Elle correspond à des leçons d'enseignement et des activités dans l'intérêt du fonctionnement de l'enseignement dans l'établissement pouvant aller jusqu'à l'équivalent de vingt et une leçons selon un horaire fixé par le directeur tenant compte des besoins du service, ainsi qu'à l'équivalent de soixante-douze heures de disponibilité dans l'intérêt du fonctionnement de l'enseignement dans l'établissement à assurer au cours de l'année scolaire et obligatoirement de soixante-douze heures annuelles d'activités administratives, sociales et périscolaires.
+
+Le volume de soixante-douze heures d'activités administratives, sociales et périscolaires est diminué de seize heures à partir de l'année scolaire au cours de laquelle le chargé d'enseignement atteint l'âge de 50 ans et de trente-deux heures additionnelles à partir de l'année scolaire au cours de laquelle le chargé d'enseignement atteint l'âge de 55 ans.

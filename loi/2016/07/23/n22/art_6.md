@@ -1,0 +1,3 @@
+# Art. 6.
+
+Des chargés d'enseignement à durée indéterminée peuvent être engagés sous le régime de l'employé de l'État dans un lycée, à raison d'une tâche complète ou à raison d'une tâche correspondant soit à soixante-quinze pour cent, soit à cinquante pour cent d'une tâche complète, en vue de pourvoir au manque de personnel enseignant breveté au sein des lycées et ainsi d'assumer des leçons vacantes et des activités d'encadrement administratives, sociales, périscolaires, de surveillance et d'appui qui ne peuvent être assurées ni par les fonctionnaires, candidats, stagiaires fonctionnaires, ni par les chargés de cours et chargés d'éducation.
