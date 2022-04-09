@@ -1,0 +1,9 @@
+# Art. 16. Déductions et versements dans le cadre d’accords de représentation
+
+(1) Les organismes de gestion collective ne peuvent pas effectuer de déduction, autre que celles concernant les frais de gestion, sur les revenus provenant des droits qu’ils gèrent en vertu d’un accord de représentation ou sur toute recette résultant de l’investissement des revenus provenant de ces droits, à moins que l’autre organisme de gestion collective qui est partie à l’accord de représentation n’autorise expressément de telles déductions.
+
+(2) Les organismes de gestion collective distribuent et versent régulièrement, avec diligence et exactitude, les sommes dues aux autres organismes de gestion collective.
+
+(3) Les organismes de gestion collective distribuent et versent ces sommes aux autres organismes de gestion collective dans les meilleurs délais, et au plus tard neuf mois à compter de la fin de l’exercice au cours duquel ont été perçus les revenus provenant des droits, à moins que des raisons objectives, relatives notamment aux rapports des utilisateurs, à l’identification de droits, aux titulaires de droits ou au rattachement à des titulaires de droits d’informations dont ils disposent sur des œuvres et autres objets, ne les empêchent de respecter ce délai.
+
+Les autres organismes de gestion collective ou, si certains de leurs membres sont des entités représentant des titulaires de droits, ces membres, distribuent et versent les sommes dues aux titulaires de droits dans les meilleurs délais, et au plus tard six mois à compter de la réception de ces sommes, à moins que des raisons objectives, relatives notamment aux rapports des utilisateurs, à l’identification de droits, aux titulaires de droits ou au rattachement à des titulaires de droits d’informations dont ils disposent sur des œuvres et autres objets, n’empêchent les organismes de gestion collective ou, le cas échéant, leurs membres de respecter ce délai.
