@@ -1,0 +1,13 @@
+# Art. 97bis.
+
+1. Sans préjudice de tous actes d'exploitation intervenus avant le 1er novembre 2013, le paragraphe 2, alinéa 2 de l'article 9 s'applique aux compositions musicales comportant des paroles pour lesquelles, au minimum, la composition de la musique ou les paroles sont protégées dans au moins un État membre de l'Union européenne le 1er novembre 2013, ainsi qu'à celles qui sont postérieures à cette date.
+
+La présente loi n'affecte pas les droits acquis des tiers.
+
+2. Les paragraphes 1er à 2sexies de l'article 45 s'appliquent aux fixations d'exécutions et aux phonogrammes qui sont postérieurs au 1er novembre 2013.
+
+Ils s'appliquent également aux fixations d'exécutions et aux phonogrammes à l'égard desquels il existe une protection légale au profit de l'artiste interprète ou exécutant et du producteur encore en vigueur à cette date.
+
+3. En l'absence d'indication contraire claire dans le contrat, un contrat de transfert ou de cession conclu avant le 1er novembre 2013 est réputé continuer à produire ses effets au-delà de la date à laquelle, en vertu de l'article 45, paragraphe 1er dans sa version en vigueur au 30 octobre 2011, les droits de l'artiste interprète ou exécutant ne seraient plus protégés.
+
+4. Les contrats de transfert ou de cession en vertu desquels un artiste-interprète ou exécutant a droit à des paiements récurrents et qui ont été conclus avant le 1er novembre 2013 peuvent être modifiés au-delà de la cinquantième année après que le phonogramme a fait l'objet d'une communication licite au public, ou faute de cette publication, la cinquantième année après qu'il a fait l'objet d'une communication licite au public.
