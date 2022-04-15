@@ -1,0 +1,7 @@
+# Art. 10. Droits et obligations des utilisateurs du SET
+
+(1) Les utilisateurs du SET ont la possibilité de souscrire au SET par l’intermédiaire de tout prestataire du SET indépendamment de leur nationalité, de l’État membre de l’Union européenne où ils résident ou de l’État membre de l’Union européenne où le véhicule est immatriculé. Lorsqu’ils souscrivent un contrat, les utilisateurs du SET sont dûment informés des moyens de paiement valides et, conformément au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), en conformité avec la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale et en conformité avec la loi modifiée du 30 mai 2005 concernant la protection de la vie privée dans le secteur des communications électroniques.
+
+(2) Le paiement d’un péage par un utilisateur du SET au prestataire du SET est réputé éteindre les obligations de paiement de l’utilisateur du SET envers le percepteur de péages concerné.
+
+Si deux équipements embarqués, ou plus, sont installés ou transportés à bord d’un véhicule, il incombe à l’utilisateur du SET d’utiliser ou d’activer l’équipement embarqué pertinent pour le secteur de SET concerné.

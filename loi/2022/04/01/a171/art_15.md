@@ -1,0 +1,3 @@
+# Art. 15. Transparence et évaluations
+
+Toute décision prise par le ministre ou par un percepteur de péages concernant l’évaluation de la conformité aux spécifications ou de l’aptitude à l’emploi des constituants d’interopérabilité et toute décision prise conformément à l’article 14 sont motivées de façon précise. Elles sont notifiées dans les meilleurs délais au fabricant et au prestataire du SET concernés ou à leurs mandataires, avec l’indication des voies de recours ouvertes et des délais dans lesquels ces recours doivent être introduits, prévus par la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif et par la loi modifiée du 21 juin 1999 portant règlement de procédure devant les juridictions administratives.

@@ -1,0 +1,3 @@
+# Art. 16. Bureau de contact unique
+
+Dès l’existence sur le territoire du Grand-Duché de Luxembourg d’au moins deux secteurs de SET, un bureau de contact unique pour les prestataires du SET est désigné par le ministre. Ce dernier publie les coordonnées de ce bureau au Journal officiel du Grand-Duché de Luxembourg et les communique, sur demande, aux prestataires du SET intéressés. Dans l’hypothèse qu’un prestataire du SET le demande, le bureau de contact facilite et coordonne des contacts administratifs précoces entre le prestataire du SET et les percepteurs de péages responsables des secteurs de SET. Le bureau de contact peut être une personne physique ou un organe public ou privé.

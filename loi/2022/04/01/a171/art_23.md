@@ -1,0 +1,7 @@
+# Art. 23. Lettre de notification relative au défaut de paiement d’une redevance routière
+
+(1) Lorsque les fonctionnaires de l’Administration des douanes et accises visés à l’article 21 constatent le défaut de paiement de la redevance routière due conformément à la loi modifiée précitée du 24 février 1995 ils en informent par lettre de notification le propriétaire ou le détenteur du véhicule ou toute autre personne identifiée soupçonnée de ne pas s’être acquitté de la redevance routière.
+
+Les informations communiquées comprennent, conformément au droit national, les conséquences juridiques du défaut de paiement de la redevance routière visée au paragraphe 1er sur le territoire du Grand-Duché de Luxembourg. Sont inclus dans la lettre de notification toutes les informations pertinentes, notamment la nature, le lieu, la date et l’heure de ce défaut de paiement de la redevance routière, la référence des textes de droit national qui ont été enfreints, les droits de recours et d’accès à l’information et la sanction ainsi que, s’il y a lieu, des informations sur le dispositif utilisé pour détecter le défaut de paiement d’une redevance routière. À cette fin, la lettre de notification est établie sur la base du modèle figurant à l’annexe II de la directive 2019/520 précitée.
+
+(2) La lettre de notification est rédigée dans la langue utilisée dans le document d’immatriculation du véhicule, s’il est disponible, ou dans l’une des langues officielles de l’État membre d’immatriculation, afin de garantir le respect des droits fondamentaux.
