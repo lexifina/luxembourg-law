@@ -1,0 +1,9 @@
+# Art. 26. Suspension temporaire des autorisations
+
+(1) Le ministre peut procéder à une suspension temporaire d’une autorisation délivrée en application de la présente loi lorsqu’il résulte d’éléments objectifs du dossier administratif que l’observation des dispositions relatives à la procédure administrative non contentieuse, en particulier l’information préalable de l’intéressé qu’une révocation ou un retrait est envisagé ainsi que les éléments de fait ou de droit y afférents, peut engendrer des risques pour la vie ou l’intégrité physique de l’intéressé, d’autrui ou pour la sécurité et l’ordre publics en général.
+
+(2) La décision de suspension temporaire doit être motivée sommairement en énonçant les éléments de fait et de droit. La durée de la suspension temporaire est fixée par le ministre sans qu’elle ne puisse dépasser six mois ; elle peut être prorogée une seule fois pour une durée maximale de six mois.
+
+(3) La décision de suspension temporaire est notifiée par la Police grand-ducale à l’intéressé qui est tenu de remettre ses armes et munitions ainsi que l’autorisation y afférente aux agents de la Police grand-ducale au moment de la notification. Pendant la durée de la suspension temporaire les armes et munitions de l’intéressé sont gardées, sans frais pour lui, par la Police grand-ducale.
+
+(4) Avant l’expiration de la suspension temporaire, le ministre soit procède à la révocation de l’autorisation visée, conformément aux dispositions générales de la procédure administrative non contentieuse, soit prononce la mainlevée de la suspension temporaire. En cas de silence du ministre à l’expiration de la suspension temporaire, le cas échéant prorogée, l’intéressé est autorisé, de plein droit, à rentrer en possession des armes et munitions en cause, ainsi que de l’autorisation y afférente.

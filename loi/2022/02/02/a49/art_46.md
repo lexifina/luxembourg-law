@@ -1,0 +1,5 @@
+# Art. 46. Réexportations suite à une importation temporaire
+
+(1) Aux fins des réexportations visées à l’article 9, paragraphe 2, lettre a), du règlement (UE) 258/2012, l’autorisation d’importation délivrée préalablement par le ministre vaut autorisation de réexportation, si le délai de réexportation fixé par l’autorisation d’importation est respecté. Au cas contraire, les armes à feu concernées ne peuvent être réexportées qu’après l’octroi d’une nouvelle autorisation.
+
+(2) Les réexportations visées à l’article 9, paragraphe 2, lettre b), du règlement (UE) 258/2012 peuvent être effectuées sans autorisation particulière du ministre, si les délais relatifs aux marchandises en dépôt temporaire prévus par le règlement (UE) 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union sont respectés. Au cas contraire, et sans préjudice de l’application éventuelle de dispositions à caractère douanier, les armes et munitions concernées ne peuvent être réexportées qu’après l’octroi d’une nouvelle autorisation.
