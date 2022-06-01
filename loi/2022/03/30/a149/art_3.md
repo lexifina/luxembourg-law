@@ -1,0 +1,5 @@
+# Art. 3.
+
+(1) La Commission de surveillance du secteur financier, ci-après « CSSF », veille au respect par les établissements des articles 4 à 8, 11 à 13, 18, 27, paragraphe 1er, de l’article 50, paragraphes 1er, 2 et 3, alinéa 1er, points 1° et 2°, et de l’article 51, paragraphes 1er, 2 et 3, alinéa 1er, point 1°. La CSSF veille également au respect par les établissements de leurs obligations en matière de conservation des avoirs visés à l’article 10, paragraphe 4, et à l’article 15, paragraphes 5 et 8, et de leurs obligations en matière de conservation des informations et documents en vertu de l’article 29, paragraphe 2.
+
+(2) Le Commissariat aux assurances, ci-après « CAA », veille au respect par les entreprises d’assurance des articles 19 à 24, 27, paragraphe 2, et de l’article 52, paragraphes 1er, 2 et 3, alinéa 1er, points 1° et 2°. Le CAA veille également au respect par les entreprises d’assurance de leurs obligations en matière de conservation des avoirs visés à l’article 26, paragraphe 4, et de leurs obligations en matière de conservation des informations et documents en vertu de l’article 29, paragraphe 2.
