@@ -1,6 +1,6 @@
 # Art. 12.
 
-(1) Le non-respect par la personne physique de l’obligation du port du masque dans les transports publics visé à l’article 4, paragraphe 1er, ainsi que le non-respect par la personne concernée d’une mesure d’isolement prise sous forme d’ordonnance par le directeur de la santé ou son délégué en vertu de l’article 7 sont respectivement punies d’une amende de 500 à 1 000 euros.
+(1) Le non-respect par la personne concernée d’une mesure d’isolement prise sous forme d’ordonnance par le directeur de la santé ou son délégué en vertu de l’article 7 est puni d’une amende de 500 à 1 000 euros.
 
 Cette amende présente le caractère d’une peine de police. Le tribunal de police statue sur l’infraction en dernier ressort. Les condamnations prononcées ne donnent pas lieu à une inscription au casier judiciaire et les règles de la contrainte par corps ne sont pas applicables aux amendes prononcées.
 
