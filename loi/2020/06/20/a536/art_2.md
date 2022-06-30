@@ -1,0 +1,3 @@
+# Art. 2.
+
+Par dérogation à l’article 34 de la loi précitée du 29 août 2008 sur la libre circulation des personnes et l’immigration, les ressortissants de pays tiers ne peuvent plus entrer sur le territoire du Grand-Duché de Luxembourg. Sont exempts des restrictions temporaires de voyage les citoyens de Saint-Marin, d’Andorre, de Monaco et du Vatican/Saint-Siège, ainsi que les membres de leur famille. La durée de l’interdiction, les catégories de personnes et les modalités de normalisation sont à fixer par règlement grand-ducal. Les dispositions du présent article cessent leurs effets le 31 décembre 2022 inclus .
