@@ -1,3 +1,0 @@
-# Art. 3.
-
-Par dérogation à l’article L. 121-6, paragraphe 3, alinéa 1er, du même code, l’employeur averti conformément à l’article L. 121-6, paragraphe 1er, du Code du travail, en possession du certificat médical visé à l’article L. 121-6, paragraphe 2, du Code du travail ou en possession d’une ordonnance officielle de mise en quarantaine ou de mise en isolement visée à l’article 2 n’est pas autorisé, même pour motif grave, à notifier au salarié la résiliation de son contrat de travail, ou, le cas échéant, la convocation à l’entretien préalable visé à l’article L. 124-2 du Code du travail pour une période de vingt-six semaines au plus à partir du jour de la survenance de l’incapacité de travail.
