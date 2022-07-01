@@ -32,7 +32,7 @@ La formation est sanctionnée par un contrôle des connaissances théoriques et,
 
 (4) Le pharmacien s’engage à signer un cahier des charges relatif à la vaccination dans les officines qui comporte les engagements suivants :
 
-- 1° connaître les mesures à mettre en place en cas de choc analytique consécutif à la vaccination ainsi qu’à disposer des médicaments adéquats ;
+- 1° connaître les mesures à mettre en place en cas de choc anaphylactique consécutif à la vaccination ainsi qu’à disposer des médicaments adéquats ;
 
 - 2° déclarer les cas d’effets secondaires indésirables post-vaccinaux qui lui auront été communiqués selon la procédure de pharmacovigilance ;
 
