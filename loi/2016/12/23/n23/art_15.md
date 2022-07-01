@@ -1,3 +1,0 @@
-# Art. 15. Aides au remboursement
-
-Les aides financières en capital relevant de la loi du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement, et allouées au bénéficiaire de l’aide financière liée à un prêt climatique à taux zéro par le ministre ayant l’Environnement dans ses attributions au titre des mesures d’assainissement ou des installations techniques financées par ce prêt climatique sont utilisées pour le remboursement de ce prêt s’il est encore en voie d’amortissement. Le ministre ayant l’Environnement dans ses attributions verse les aides financières pour le compte du bénéficiaire à l’établissement de crédit qui a consenti le prêt.
