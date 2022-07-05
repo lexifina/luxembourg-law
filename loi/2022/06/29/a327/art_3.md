@@ -1,0 +1,5 @@
+# Art. 3.
+
+L’article 31, paragraphe 2, de la même loi est modifié comme suit :
+
+(2) Le ministre ne peut octroyer de quotas à titre gratuit aux installations dont la Commission européenne a refusé l’inscription sur la liste visée à l’article 11, paragraphe 1er, de la directive 2003/87/CE précitée. L’administration établit une première liste nationale des installations couvertes par la présente loi et des quotas gratuits alloués à chaque installation pour la période de cinq ans débutant le 1er janvier 2021 et, tous les cinq ans par la suite, des listes nationales subséquentes des installations et des quotas gratuits en question pour chaque période ultérieure de cinq ans. Les listes, qui sont publiées par l’administration sur un site internet, sont notifiées à la Commission européenne. Chaque liste contient des informations relatives à l’activité de production, aux transferts de chaleur et de gaz, à la production d’électricité et aux émissions au niveau des sous-installations au cours des cinq années civiles précédant sa présentation. Des quotas ne sont alloués à titre gratuit qu’aux installations pour lesquelles ces informations sont fournies.
