@@ -1,0 +1,3 @@
+# Art. 41.
+
+L’ouvrier à tâche artisanale, engagé sous contrat à durée indéterminée à l’Office du Film scolaire à partir du 01.12.1962, détenteur d’un certificat d’aptitude professionnelle, est engagé dans les mêmes conditions au Centre. Il peut être nommé aux fonctions de premier artisan principal. Il bénéficie d’une reconstitution de carrière avec prise en considération des grades 3, 5 et 6 qui lui sont mis en compte respectivement au 1er décembre 1965, au 1er décembre 1968 et à la date de sa nomination aux fonctions de premier artisan principal. Il est admissible sans délai à l’examen de promotion de sa carrière.

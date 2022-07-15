@@ -1,0 +1,9 @@
+# Art. 25.
+
+(1) Outre le personnel et les collaborateurs mentionnés aux articles 15, 17 et 18, le cadre du personnel comprend un directeur, un directeur adjoint et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+
+(2) La direction du SCRIPT est assurée par un directeur choisi parmi les agents de l’État détenteurs d’un diplôme de master en relation avec la fonction et reconnu par le ministre ayant l’Enseignement supérieur dans ses attributions et appartenant ou ayant appartenu pendant cinq ans au moins, à partir de leur nomination ou de la fin de leur période d’initiation, au personnel de la catégorie de traitement ou d’indemnité A, rubrique « Enseignement » ou de la catégorie de traitement ou d’indemnité A, rubrique « Administration générale ». La fonction du directeur est classée dans le groupe de traitement A1 au grade 17 de la rubrique « Enseignement ».
+
+(3) Le directeur est assisté dans ses fonctions par un directeur adjoint choisi parmi les agents de l’État détenteurs d’un diplôme de master en relation avec la fonction et reconnu par le ministre ayant l’Enseignement supérieur dans ses attributions et appartenant ou ayant appartenu pendant cinq ans au moins, à partir de leur nomination ou de la fin de leur période d’initiation, au personnel de la catégorie de traitement ou d’indemnité A, rubrique « Enseignement » ou de la catégorie de traitement ou d’indemnité A, rubrique « Administration générale ». La fonction du directeur adjoint est classée dans le groupe de traitement A1 au grade 16 de la rubrique « Enseignement ».
+
+Le directeur et le directeur adjoint sont nommés par le Grand-Duc, sur proposition du Gouvernement en conseil.
