@@ -1,0 +1,3 @@
+# Art. 20.
+
+À l’article 1er, paragraphe 3, de la loi modifiée du 24 mai 2011 concernant l’exercice de certains droits des actionnaires aux assemblées générales des sociétés cotées, les mots et au titre V du règlement (UE) 2021/23 du Parlement européen et du Conseil du 16 décembre 2020 relatif à un cadre pour le redressement et la résolution des contreparties centrales et modifiant les règlements (UE) n° 1095/2010, (UE) n° 648/2012, (UE) n° 600/2014, (UE) n° 806/2014 et (UE) 2015/2365, ainsi que les directives 2002/47/CE, 2004/25/CE, 2007/36/CE, 2014/59/UE et (UE) 2017/1132 (ci-après le « règlement (UE) 2021/23 ») sont insérés après les mots et de certaines entreprises d’investissement.
