@@ -1,0 +1,3 @@
+# Art. 10.
+
+Sans préjudice de l’application des peines plus sévères prévues le cas échéant par d’autres dispositions légales, le non-respect des mesures restrictives adoptées par voie de règlement grand-ducal en vertu de l'article 4, paragraphe 1er, ou par acte de l'Union européenne ou de l'Organisation des Nations unies en vertu de l'article 4, paragraphe 2 est puni d’un emprisonnement de huit jours à cinq ans et d’une amende de 12.500 euros à 5.000.000 d’euros ou d’une de ces peines seulement. Lorsque l’infraction a permis de réaliser un gain financier important, l’amende peut être portée au quadruple de la somme sur laquelle a porté l’infraction.
