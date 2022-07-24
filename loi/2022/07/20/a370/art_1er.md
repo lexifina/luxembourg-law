@@ -1,0 +1,7 @@
+# Art. 1er.
+
+L’article 10 de la loi modifiée du 19 décembre 2008 ayant pour objet la coopération interadministrative et judiciaire et le renforcement des moyens de l’Administration des contributions directes, de l’Administration de l’enregistrement et des domaines et de l’Administration des douanes et accises et portant modification de - la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée ; - la loi générale des impôts (« Abgabenordnung ») ; - la loi modifiée du 17 avril 1964 portant réorganisation de l’Administration des contributions directes ; - la loi modifiée du 20 mars 1970 portant réorganisation de l’Administration de l’enregistrement et des domaines ; - la loi modifiée du 27 novembre 1933 concernant le recouvrement des contributions directes et des cotisations d’assurance sociale est remplacé par le libellé suivant :
+
+« Art. 10.
+
+En vue de l’établissement correct des impôts directs et de la taxe sur la valeur ajoutée relatifs à des revenus et chiffres d’affaires provenant de l’exercice d’une profession agricole, libérale, artisanale ou commerciale, le Centre commun de la sécurité sociale transmet par voie informatique à l’Administration des contributions directes et à l’Administration de l’enregistrement, des domaines et de la TVA, le relevé des travailleurs indépendants affiliés avec leurs nom, prénoms, adresse, matricule, genre et lieu d’exercice de l’activité. ».
