@@ -1,0 +1,3 @@
+# Art. 19.
+
+À l’article 6, alinéa 1er de la loi modifiée du 21 novembre 1984 a) portant approbation de la Convention entre le Grand-Duché de Luxembourg, d’une part, et les Länder de Rhénanie-Palatinat et de la Sarre de la République Fédérale d’Allemagne, d’autre part, portant nouvelle réglementation de la pêche dans les eaux frontalières relevant de leur souveraineté commune, signée à Trèves, le 24 novembre 1975; b) complétant l’article 1er B II de la loi du 26 février 1973 portant extension de la compétence des tribunaux de police en matière répressive, les termes les agents municipaux qui remplissent les conditions de l’article 15-1bis du Code de procédure pénale et sont insérés entre les termes ainsi que et les.
