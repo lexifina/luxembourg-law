@@ -1,0 +1,3 @@
+# Art. 21.
+
+L’ordonnance est communiquée sans délai par tout moyen utile à la personne concernée et à son médecin traitant. Ce dernier s’assure de la remise effective de l’ordonnance à la personne concernée, lui en explique la teneur et lui fait signer un récépissé qui sera renvoyé au greffe. Si au moment de la remise de l’ordonnance la personne concernée n’est pas en mesure d’en saisir la portée, les diligences dont question ci-avant sont accomplies dès que la personne concernée est en mesure d’en comprendre la signification. Si l’ordonnance a prononcé le placement, celui-ci devient néanmoins effectif à la date de l’ordonnance.
