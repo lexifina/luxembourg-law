@@ -1,0 +1,13 @@
+# Art. 19.
+
+Il est inséré au même code un article 136-11 nouveau, libellé comme suit :
+
+Art. 136-11.
+
+(1) Le procureur européen délégué fait citer devant lui toutes les personnes dont la déposition lui paraît utile.
+
+(2) Les témoins peuvent aussi comparaître volontairement.
+
+(3) L’inculpé et son conseil ainsi que la partie civile ont le droit de réclamer l’audition des témoins qu’ils désirent faire entendre. Ils doivent, sous peine d’irrecevabilité de la demande, articuler les faits destinés à faire l’objet du témoignage. Ils peuvent de même demander que l’inculpé soit interrogé en présence du témoin qu’ils indiquent à ces fins dans leur demande.
+
+(4) La décision du procureur européen délégué refusant de faire droit à cette demande énonce le motif du refus.

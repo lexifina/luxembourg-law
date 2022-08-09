@@ -1,0 +1,11 @@
+# Art. 44.
+
+Il est inséré au même code un article 136-34 nouveau, libellé comme suit :
+
+Art. 136-34.
+
+(1) L’inculpé et son conseil ainsi que la partie civile ont le droit de demander une expertise sur les faits qu’ils indiquent.
+
+(2) Ils ont également le droit de demander que l’expertise ordonnée par le procureur européen délégué porte sur ces faits.
+
+(3) La décision du procureur européen délégué refusant de faire droit à ces demandes énonce le motif du refus.

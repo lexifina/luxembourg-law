@@ -1,0 +1,27 @@
+# Art. 82.
+
+Il est inséré au même code un article 136-65 nouveau, libellé comme suit :
+
+Art. 136-65.
+
+(1) Le procureur européen délégué et l’inculpé peuvent, dans tous les cas, relever appel de l’ordonnance du juge d’instruction ou de la chambre du conseil du tribunal d’arrondissement.
+
+(2) La partie civile peut interjeter appel des ordonnances faisant grief à ses intérêts civils. Toutefois, son appel ne peut, en aucun cas, porter sur une ordonnance relative à la détention ou à l’interdiction de communiquer de l’inculpé.
+
+(3) Les autres personnes visées aux articles 66, paragraphe 1er, 136-33, paragraphe 8 et 136-62, paragraphe 1er peuvent relever appel des ordonnances de la chambre du conseil du tribunal d’arrondissement rendues en application de ces articles.
+
+(4) L’appel est porté devant la chambre du conseil de la cour d’appel.
+
+(5) Il est consigné sur un registre tenu à cet effet au greffe du Tribunal d’arrondissement de Luxembourg. Il doit être formé dans un délai de cinq jours, qui court contre le procureur européen délégué à compter du jour de l’ordonnance et contre les autres parties en cause à compter du jour de la notification qui est faite dans les vingt-quatre heures de la date de l’ordonnance.
+
+(6) Le greffier avertit les autres parties de la déclaration d’appel dans les vingt-quatre heures de la consignation sur le registre.
+
+(7) L’audience de la chambre du conseil de la cour d’appel n’est pas publique.
+
+L’inculpé, la partie civile et toute autre partie en cause ou leurs conseils que le greffier avertit au plus tard huit jours avant les jour et heure de l’audience, ont seuls le droit d’y assister et de fournir tels mémoires et de faire telles réquisitions, verbales ou écrites, qu’ils jugent convenables.
+
+Les formalités du présent paragraphe sont à observer à peine de nullité, sauf si l’inculpé ou la partie civile y ont renoncé.
+
+L’inculpé ou son conseil a toujours la parole en dernier.
+
+(8) Les notifications et avertissements visés au présent article se font par le greffier dans les formes prévues pour les notifications en matière répressive.

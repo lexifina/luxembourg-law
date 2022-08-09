@@ -1,0 +1,9 @@
+# Art. 96.
+
+L’article 182 du même code est remplacé comme suit :
+
+Art. 182.
+
+(1) La chambre correctionnelle est saisie soit par le renvoi qui lui est fait d’après les articles 131 et 132 soit par la citation donnée directement au prévenu et aux personnes civilement responsables de l’infraction par le procureur d’État ou par la partie civile, soit en vertu de la décision proposée par le procureur européen délégué ensemble, s’il y a lieu, la décision de la chambre permanente compétente du Parquet européen.
+
+(2) Si les faits qualifiés crimes sont reconnus de nature à n’être punis que de peines correctionnelles, l’inculpé peut être renvoyé, par application de circonstances atténuantes, devant la chambre correctionnelle.

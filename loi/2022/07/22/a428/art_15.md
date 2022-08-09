@@ -1,0 +1,11 @@
+# Art. 15.
+
+Il est inséré au même code un article 136-9 nouveau, libellé comme suit :
+
+Art. 136-9.
+
+(1) Lorsque le Parquet européen a décidé d’exercer sa compétence, le procureur européen délégué procède, conformément à la loi, à tous les actes d’enquête qu’il juge utiles à la manifestation de la vérité. Il recueille et vérifie, avec soin égal, les faits et les circonstances à charge ou à décharge de la personne soupçonnée d’avoir participé à l’infraction ou de l’inculpé.
+
+(2) Les actes d’enquête sont ordonnés par le procureur européen délégué lui-même, ou par le juge d’instruction, sur réquisition du procureur européen délégué, conformément au présent sous-chapitre et sans qu’une instruction préparatoire ne soit ouverte.
+
+(3) L’article 49 n’est pas applicable pour les infractions relevant de la compétence du Parquet européen et pour lesquelles le procureur européen délégué a décidé d’exercer sa compétence.

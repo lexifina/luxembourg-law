@@ -1,0 +1,7 @@
+# Art. 39.
+
+Il est inséré au même code un article 136-30 nouveau, libellé comme suit :
+
+Art. 136-30.
+
+Sous réserve des dispositions de l’article 136-29, paragraphe 3, troisième alinéa, le fait, pour une partie à qui une reproduction des pièces ou actes d’une procédure d’enquête du procureur européen délégué ou du procureur européen, lorsqu’il conduit personnellement l’enquête conformément à l’article 28 du règlement (UE) 2017/1939 précité, a été remise en application de cet article, de la diffuser auprès d’un tiers est puni d’une amende de 2 501 euros à 10 000 euros.

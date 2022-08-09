@@ -1,0 +1,13 @@
+# Art. 72.
+
+Il est inséré au même code un article 136-57 nouveau, libellé comme suit :
+
+Art. 136-57.
+
+(1) En toute matière, la chambre du conseil pourra, sur la demande de l’inculpé et sur les conclusions du procureur européen délégué, ordonner que l’inculpé sera mis provisoirement en liberté, à charge de celui-ci de prendre l’engagement de se représenter à tous les actes de la procédure et pour l’exécution du jugement aussitôt qu’il en sera requis.
+
+(2) Sauf si autrement prévu dans le présent sous-chapitre, les demandes de mise en liberté restent soumises aux conditions, modalités et recours qui leur sont propres.
+
+(3) La mise en liberté a lieu sans préjudice du droit que conserve le procureur européen délégué, dans la suite de l’enquête menée par lui, de requérir du juge d’instruction de décerner un nouveau mandat d’amener, d’arrêt ou de dépôt, ou de placer l’inculpé sous contrôle judiciaire, si des circonstances nouvelles et graves rendent cette mesure nécessaire.
+
+Toutefois, si la liberté provisoire a été accordée par la chambre du conseil du tribunal d’arrondissement ou par la chambre du conseil de la Cour d’appel, le procureur européen délégué ne peut requérir un nouveau mandat ou placer l’inculpé sous contrôle judiciaire ou lui imposer des obligations nouvelles non prévues par la décision de mise en liberté assortie du placement sous contrôle judiciaire, qu’autant que la chambre du conseil du tribunal d’arrondissement ou de la Cour d’appel, sur réquisitions du procureur européen délégué, ont retiré à l’inculpé le bénéfice de leurs décisions respectives.

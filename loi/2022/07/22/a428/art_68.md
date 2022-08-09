@@ -1,0 +1,11 @@
+# Art. 68.
+
+Il est inséré au même code un article 136-54 nouveau, libellé comme suit :
+
+Art. 136-54.
+
+(1) Le procureur européen délégué peut saisir le juge d’instruction par réquisitions écrites et motivées en vue du décernement de mandats d’amener et d’arrêt, y compris européen ou international, et de mandats de dépôt.
+
+(2) Sauf si autrement prévu dans le présent chapitre, les mandats d’amener et d’arrêt, y compris européen ou international, et les mandats de dépôt restent soumis aux conditions et modalités qui leur sont propres.
+
+(3) Le procureur européen délégué met les mandats d’amener et d’arrêt, y compris européen ou international, à exécution.

@@ -1,0 +1,29 @@
+# Art. 67.
+
+Il est inséré au même code un article 136-53 nouveau, libellé comme suit :
+
+Art. 136-53.
+
+(1) S’agissant de la sonorisation et de la fixation d’images des lieux et véhicules visés à l’article 88-1, paragraphe 2, et de la captation de données informatiques, en tout ou en partie, ces mesures peuvent être ordonnées conformément à l’article 136-48 si, outre les conditions prévues à l’article 88-2, paragraphe 2, points 2° et 3°, la poursuite pénale a pour objet un ou plusieurs faits d’une gravité particulière emportant une peine criminelle ou une peine correctionnelle dont le maximum est égal ou supérieur à quatre ans d’emprisonnement.
+
+(2) Les mesures spéciales de surveillance prévues au livre Ier, titre III, chapitre Ier, section VIII doivent être levées sur réquisition du procureur européen délégué dès qu’elles ne sont plus nécessaires. Elles cessent de plein droit un mois à compter de la date de l’ordonnance. Elles peuvent toutefois être prorogées sur réquisitions écrites et motivées du procureur européen délégué, chaque fois pour un mois, sans que la durée totale puisse dépasser un an, par ordonnance motivée du juge d’instruction, approuvée par le président de la chambre du conseil de la cour d’appel qui statue dans les deux jours de la réception de l’ordonnance.
+
+(3) Elles ne peuvent, à peine de nullité, être ordonnées à l’égard d’un inculpé après son premier interrogatoire par le procureur européen délégué et celles ordonnées antérieurement cessent leurs effets de plein droit à cette date.
+
+(4) Ces mesures ne peuvent, à peine de nullité, être ordonnées à l’égard d’une personne liée par le secret professionnel au sens de l’article 458 du Code pénal, à moins qu’elle ne soit elle-même suspectée d’avoir commis l’infraction ou d’y avoir participé.
+
+Les mesures ne peuvent, à peine de nullité, être ordonnées à l’égard d’un avocat ou d’un médecin sans que le bâtonnier ou le représentant du Collège médical, selon le cas, en soit averti. Ces mêmes personnes sont informées par le procureur européen délégué des éléments des communications recueillis qu’il estime relever du secret professionnel et qui ne sont pas consignés au procès-verbal prévu par l’article 88-4, paragraphe 4.
+
+(5) La mise en place du dispositif technique mentionné aux paragraphes 2 et 3 de l’article 88-1 ne peut, à peine de nullité, être réalisée dans les locaux utilisés à des fins professionnelles, le domicile ou ses dépendances au sens des articles 479, 480 et 481 du Code pénal ou le véhicule d’un avocat, d’un médecin, d’un journaliste professionnel ou d’un éditeur, ces deux derniers termes compris au sens défini par la loi modifiée du 8 juin 2004 sur la liberté d’expression dans les médias, ou concerner les systèmes automatisés de traitement de données se trouvant dans ces lieux.
+
+(6) Les mesures ne peuvent, à peine de nullité, pas avoir d’autre objet que l’enquête sur les infractions pour lesquelles le procureur européen délégué a décidé d’exercer sa compétence. Le fait qu’elles révèlent des infractions autres que celles visées dans ces décisions ne constitue pas une cause de nullité des procédures incidentes.
+
+(7) Lorsque le procureur européen délégué ordonne une expertise sur les télécommunications, correspondances postales, images, conversations ou données enregistrées ou interceptées sur base de l’article 88-1, paragraphe 3, il procède, s’il y a lieu, à l’inventaire des scellés avant de les faire parvenir aux experts. Il énumère les scellés dans un procès-verbal.
+
+Pour l’exécution de sa mission, l’expert est habilité à procéder à l’ouverture ou à la réouverture des scellés, et à confectionner de nouveaux scellés après avoir, le cas échéant, procédé au reconditionnement des objets qu’il était chargé d’examiner. Dans ce cas, il en fait mention dans son rapport, après avoir, s’il y a lieu, dressé inventaire des scellés.
+
+(8) La demande visée à l’article 88-4, paragraphe 5, alinéa 2 est à adresser au procureur européen délégué après le premier interrogatoire et jusqu’à la notification de la décision proposée par le procureur européen délégué, ensemble, s’il y a lieu, la décision de la chambre permanente compétente du Parquet européen. Le procureur européen délégué décide des suites à réserver à cette requête dans un délai d’un mois. Le procureur européen délégué peut rejeter la demande, outre pour les motifs visés par l’article 85, paragraphe 2, alinéa 2, pour des raisons liées à la protection d’autres droits ou intérêts des personnes.
+
+(9) La personne surveillée par un moyen technique au sens de l’article 88-1, paragraphe 1er, ainsi que le propriétaire ou le possesseur du véhicule ou l’occupant des lieux soumis à une sonorisation et fixation d’images ou au placement d’un dispositif technique aux fins de captation de données informatiques au sens de cette même disposition sont, pour autant qu’ils n’ont pas la qualité d’inculpé ou de partie civile, informés par le procureur européen délégué de la mesure ordonnée ainsi que de leur droit de former un recours en nullité sur base et dans les conditions des articles 136-62 et 136-63 au moment de la dernière inculpation intervenue dans l’enquête menée par le procureur européen délégué ou, lorsque l’enquête menée par le procureur européen s’achève sans inculpation, au moment de cette clôture.
+
+(10) Les enregistrements des télécommunications, conversation, images ou données informatiques et les correspondances postales interceptées sont détruits à la diligence du seul procureur européen délégué à l’expiration du délai de prescription de l’action publique. En cas de décision d’acquittement, ils sont détruits immédiatement après que la décision est coulée en force de chose jugée. En cas de condamnation, ils ne sont pas détruits.

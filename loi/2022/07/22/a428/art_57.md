@@ -1,0 +1,11 @@
+# Art. 57.
+
+Il est inséré au même code un article 136-44 nouveau, libellé comme suit :
+
+Art. 136-44.
+
+L’inculpé est placé sous contrôle judiciaire par une décision du procureur européen délégué qui peut, sous réserve des articles 136-46 et 136-57, être prise en tout état de l’enquête jusqu’à la notification de la décision proposée par le procureur européen délégué, ensemble, s’il y a lieu, la décision de la chambre permanente compétente du Parquet européen.
+
+Jusqu’à cette décision, le procureur européen délégué peut, sous réserve des articles 136-46 et 136-57, à tout moment, imposer à la personne placée sous contrôle judiciaire une ou plusieurs obligations nouvelles, supprimer tout ou partie des obligations comprises dans le contrôle, modifier une ou plusieurs de ces obligations ou accorder une dispense occasionnelle ou temporaire d’observer certaines d’entre elles.
+
+Jusqu’à cette décision il peut ordonner à tout moment la mainlevée du contrôle judiciaire.

@@ -1,0 +1,7 @@
+# Art. 9.
+
+Il est inséré au même code un article 136-5 nouveau, libellé comme suit :
+
+Art. 136-5.
+
+Les actes accomplis par ou sur ordre d’un procureur européen délégué avant une décision de transfert ou de renvoi sur le fondement de l’article 34 du règlement (UE) 2017/1939 précité sont intégrés au dossier national et peuvent être utilisés dans le cadre des poursuites ultérieures.

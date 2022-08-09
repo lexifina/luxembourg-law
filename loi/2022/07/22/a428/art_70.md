@@ -1,0 +1,19 @@
+# Art. 70.
+
+Il est inséré au même code un article 136-56 nouveau, libellé comme suit :
+
+Art. 136-56.
+
+(1) Si la notification de la décision proposée par le procureur européen délégué, ensemble, s’il y a lieu, la décision de la chambre permanente compétente du Parquet européen, n’est pas intervenue dans les deux mois à compter du premier interrogatoire, le procureur européen délégué et le juge d’instruction sont informés du maintien en détention de l’inculpé.
+
+(2) Il en est de même successivement de deux mois en deux mois, si la notification de la décision proposée par le procureur européen délégué, ensemble, s’il y a lieu, la décision de la chambre permanente compétente du Parquet européen, n’est pas intervenue à la fin de deux nouveaux mois.
+
+(3) Le procureur européen délégué peut requérir la mise en liberté immédiate de l’inculpé si les conditions prévues à l’article 94, aux alinéas 1er, 2 et 3, ne sont plus réunies. Cette requête est présentée devant la juridiction et il y est statué dans les conditions prévues par l’article 136-58.
+
+(4) Le juge d’instruction, peut ordonner, à tout moment, jusqu’à la saisine de la chambre permanente compétente du Parquet européen de la proposition de décision du procureur européen délégué, la mainlevée de tout mandat d’arrêt ou de dépôt.
+
+(5) Dans ce cas, le juge d’instruction transmet sans délai le dossier au procureur européen délégué qui décide, préalablement à la mainlevée du mandat d’arrêt ou de dépôt, mais en tout état de cause endéans un délai de deux jours ouvrables, s’il y a lieu d’assortir la mainlevée du contrôle judiciaire ou non, à la charge, par la personne concernée par la décision du procureur européen délégué, de se représenter à tous les actes de la procédure et pour l’exécution du jugement aussitôt qu’il en sera requis.
+
+(6) L’ordonnance de mainlevée du mandat d’arrêt est susceptible d’appel conformément à l’article 136-65. L’ordonnance de mainlevée du mandat de dépôt est susceptible d’appel conformément à l’article 136-58.
+
+(7) La décision du procureur européen délégué en matière de contrôle judiciaire conformément au paragraphe 5 a lieu sans préjudice du droit d’appel contre l’ordonnance de mainlevée du mandat d’arrêt ou de dépôt que conserve le procureur européen délégué conformément au paragraphe précédent.

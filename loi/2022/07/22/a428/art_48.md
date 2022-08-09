@@ -1,0 +1,7 @@
+# Art. 48.
+
+Il est inséré au même code un article 136-37 nouveau, libellé comme suit :
+
+Art. 136-37.
+
+Lorsqu’il est utile à la manifestation de la vérité, le procureur européen délégué peut ordonner à un établissement de crédit de lui transmettre des informations ou des documents concernant des comptes ou des opérations qui ont été réalisées pendant une période déterminée sur un ou plusieurs comptes qu’il spécifie.
