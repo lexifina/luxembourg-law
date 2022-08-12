@@ -1,0 +1,5 @@
+# Art. 33.
+
+(1) L’AED peut prendre les mesures nécessaires pour assurer l’interconnexion du Registre des fiducies et des trusts avec les registres visés à l’article 31, paragraphe 3bis, de la directive (UE) 2015/849 institués par les autres États membres par l’intermédiaire de la plate-forme centrale européenne instituée par l’article 22, paragraphe 1er, de la directive (UE) 2017/1132 du Parlement européen et du Conseil du 14 juin 2017 relative à certains aspects du droit des sociétés, dénommée ci-après « directive (UE) 2017/1132 », conformément aux spécifications techniques et aux procédures visées à l’article 31, paragraphe 9, alinéa 1er, de la directive (UE) 2015/849.
+
+(2) Les informations visées à l’article 14 inscrites dans le Registre des fiducies et des trusts sont disponibles par l’intermédiaire du système d’interconnexion des registres institué par l’article 22, paragraphe 2, de la directive (UE) 2017/1132 conformément aux modalités d’accès prévues par la présente loi et les mesures prises pour son exécution.

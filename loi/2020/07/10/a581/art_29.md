@@ -1,0 +1,5 @@
+# Art. 29.
+
+(1) Les informations visées à l’article 14, paragraphe 2, alinéa 1er, point 1, lettres a) à c), e), f), h) et l), alinéa 1er, point 2, lettres a), c) et d) et alinéa 2, relatives à une fiducie ou un trust exprès qui détient ou possède une participation de contrôle dans une société ou dans une autre entité juridique autres que celles visées à l’article 30, paragraphe 1er, de la directive (UE) 2015/849 par propriété directe ou indirecte, notamment au moyen d’actions au porteur ou par le biais d’un contrôle par d’autres moyens, sont accessibles à toute personne physique ou morale qui introduit une demande écrite portant sur une telle fiducie ou un tel trust.
+
+(2) La mise à disposition des informations visées au paragraphe 1er est conditionnée au paiement d’une redevance dont le montant est arrêté par règlement grand-ducal. Le montant de la redevance n’excède pas les coûts administratifs liés à la mise à disposition des informations, y compris les coûts de maintenance et de développement du registre des fiducies et des trusts.

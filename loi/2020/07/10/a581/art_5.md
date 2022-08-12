@@ -1,0 +1,5 @@
+# Art. 5.
+
+(1) Les trustees et les fiduciaires fournissent aux autorités nationales aux fins de leurs missions, sur demande, les informations visées aux articles 2 et 3, ainsi que, le cas échéant, le numéro d’immatriculation unique visé à l’article 13, paragraphe 3, ou une attestation apportant la preuve de l’enregistrement dans un registre équivalent mis en place par un autre État membre ou un extrait des informations sur les bénéficiaires effectifs conservées dans un tel registre.
+
+(2) Les trustees et les fiduciaires fournissent aux organismes d’autorégulation aux fins de leurs missions en vertu de la présente loi et de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme, sur demande, les informations visées aux articles 2 et 3, ainsi que, le cas échéant, le numéro d’immatriculation unique visé à l’article 13, paragraphe 3, ou une attestation apportant la preuve de l’enregistrement dans un registre équivalent mis en place par un autre État membre ou un extrait des informations sur les bénéficiaires effectifs conservées dans un tel registre.
