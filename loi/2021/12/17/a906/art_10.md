@@ -1,0 +1,3 @@
+# Art. 10. Crédits pour rémunérations et pensions
+
+Les crédits pour traitements, indemnités, salaires et pensions sont non limitatifs et sans distinction d’exercice. Dans les limites définies par l’article 11 de la présente loi et par dérogation à l’article 17, paragraphe 5 et à l’article 66 de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État, le ministre ayant la Fonction publique dans ses attributions peut dépasser les crédits en relation avec les rémunérations principales des agents de l’État à charge du budget des dépenses courantes sans autorisation préalable du ministre ayant le Budget dans ses attributions.
