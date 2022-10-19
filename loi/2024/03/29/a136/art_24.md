@@ -1,0 +1,13 @@
+# Art. 24.
+
+À la suite de l’article 181-1 de la même loi, il est inséré un article 181-2 nouveau, libellé comme suit :
+
+« Art. 181-2
+
+Le présent article s’applique aux preneurs d’assurance d’un contrat d’assurance-vie relevant des branches I, III ou VI de l’annexe II et conclu avant le 6 avril 2024.
+
+En cas de silence du preneur d’assurance pendant une durée de trois mois à une demande relative à l’article 300, paragraphe 2bis, alinéa 2, l’entreprise d’assurance confirme celle-ci par une première lettre recommandée envoyée à la dernière adresse connue du preneur d’assurance. À cet effet, l’entreprise d’assurance a recours aux données à sa disposition.
+
+Lorsque le silence du preneur d’assurance à la demande persiste après la réception de la première lettre recommandée visée à l’alinéa 2, l’entreprise d’assurance adresse par une deuxième lettre recommandée au preneur d’assurance, au plus tôt dans un délai de trois mois suivant l’envoi de la première lettre recommandée visée à l’alinéa 2, la demande ainsi que des informations sur les conséquences de son silence et sur son droit de s’opposer à la demande. À cet effet, l’entreprise d’assurance procède à des recherches complémentaires sur l’adresse du preneur d’assurance.
+
+Le silence du preneur d’assurance à la deuxième lettre recommandée visée à l’alinéa 3 est présumé valoir acceptation de la demande relative à l’article 300, paragraphe 2bis, alinéa 2, après un délai de trois mois après la date d’envoi de cette deuxième lettre recommandée. ».
