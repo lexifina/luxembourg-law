@@ -1,8 +1,8 @@
 # Art. 7.
 
-(1) Pour autant qu’il existe des raisons d’ordre médical ou factuel permettant de considérer que les personnes concernées présentent un risque élevé de propagation du virus SARS-CoV-2 à d’autres personnes, le directeur de la santé ou son délégué prend, sous forme d’ordonnance, une mesure de mise en isolement, à la résidence effective ou en tout autre lieu d’habitation à désigner par la personne concernée, des personnes infectées pour une durée de sept jours.
+(1) Pour autant qu’il existe des raisons d’ordre médical ou factuel permettant de considérer que les personnes concernées présentent un risque élevé de propagation du virus SARS-CoV-2 à d’autres personnes, le directeur de la santé ou son délégué prend, sous forme d’ordonnance, une mesure de mise en isolement, à la résidence effective ou en tout autre lieu d’habitation à désigner par la personne concernée, des personnes infectées pour une durée de quatre jours.
 
-La mise en isolement peut prendre fin avant l’écoulement de la durée de sept jours si la personne concernée réalise à vingt-quatre heures d’écart deux tests antigéniques rapides SARS-CoV-2 dont les résultats sont négatifs.
+La mise en isolement peut prendre fin avant l’écoulement de la durée de quatre jours si la personne concernée réalise à vingt-quatre heures d’écart deux tests antigéniques rapides SARS-CoV-2 dont les résultats sont négatifs.
 
 (2) En cas d’impossibilité d’un maintien à la résidence effective ou autre lieu d’habitation à désigner par la personne concernée, la personne concernée par une mesure d’isolement peut être hébergée, avec son consentement, dans un établissement hospitalier ou tout autre institution, établissement ou structure approprié et équipé.
 
