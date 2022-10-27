@@ -60,7 +60,7 @@
 
     - iii) le numéro d’identification ;
 
-    - iv) le critère d’allocation du vaccin (âge, profession, secteur d’activité professionnelle ou vulnérabilité) ;
+    - iv) le critère d’allocation du vaccin(âge, profession, secteur d’activité professionnelle ou vulnérabilité) ;
 
     - v) les données permettant de déterminer la présence éventuelle de contre-indications, la présence de problèmes de santé ou d’autres facteurs de risque, et la présence d’effets indésirables ;
 
@@ -80,7 +80,7 @@
 
   - a) en cas de réfutation de l’indication de la vaccination par le vaccinateur, les données à caractère personnel visées au point 3° b), dans la mesure où elles sont collectées, sont anonymisées au plus tard à l’issue d’une durée de deux ans après leur collecte.
 
-  - b) en cas de retrait de l’accord à se faire vacciner par la personne invitée à se faire vacciner ou par son représentant légal, les données à caractère personnel visées au point 3° b), dans la mesure où elles sont collectées, sont anonymisées au plus tard à l’issue d’une durée de trois mois après leur collecte.
+  - b) en cas de retrait de l’accord à se faire vacciner parla personne invitée à se faire vacciner ou par son représentant légal, les données à caractère personnel visées au point 3° b), dans la mesure où elles sont collectées, sont anonymisées au plus tard à l’issue d’une durée de trois mois après leur collecte.
 
 - 5° Les vaccinateurs ou les personnes placées sous leur responsabilité enregistrent sans délai les données visées au point 3° a) et b).
 
