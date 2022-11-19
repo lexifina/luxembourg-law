@@ -1,0 +1,7 @@
+# Art. 6.
+
+L’article 72 de la même loi est remplacé par la disposition suivante :
+
+Art. 72.
+
+Le modèle de tarification de l’énergie de traction électrique, du chauffage et de la climatisation consiste dans le mesurage exact de la consommation réelle du train, conformément au règlement (UE) n° 1301/2014 de la Commission du 18 novembre 2014 concernant les spécifications techniques d’interopérabilité relatives au sous-système « énergie » du système ferroviaire de l’Union. En l’absence de mesurage réel ou manifestement erroné, la consommation électrique d’un train est estimée en s’appuyant sur une formule définie dans le DRR. La consommation estimée est adaptée par une réconciliation mensuelle pour tenir compte d’éventuelles pertes du réseau électrique ou autres éléments pertinents.
