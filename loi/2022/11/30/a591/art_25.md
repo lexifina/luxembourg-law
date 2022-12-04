@@ -1,0 +1,23 @@
+# Art. 25.
+
+À la suite de l’article L. 222-10 du même code, est ajouté un article L. 222-10-1 nouveau, libellé comme suit :
+
+« Art. L. 222-10-1.
+
+(1) En ce qui concerne les données à caractère personnel du consommateur, le professionnel respecte les obligations applicables en vertu du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).
+
+(2) Le professionnel s’abstient d’utiliser tout contenu autre que les données à caractère personnel, qui a été fourni ou créé par le consommateur lors de l’utilisation du contenu numérique ou du service numérique fourni par le professionnel, sauf lorsque ce contenu :
+
+- a) n’est d’aucune utilité en dehors du contexte du contenu numérique ou du service numérique fourni par le professionnel ;
+
+- b) n’a trait qu’à l’activité du consommateur lorsqu’il utilise le contenu numérique ou le service numérique fourni par le professionnel ;
+
+- c) a été agrégé avec d’autres données par le professionnel et ne peut être désagrégé, ou ne peut l’être que moyennant des efforts disproportionnés ; ou
+
+- d) a été généré conjointement par le consommateur et d’autres personnes, et d’autres consommateurs peuvent continuer à en faire usage.
+
+(3) Sauf dans les situations visées au paragraphe (2), lettres a), b) ou c), le professionnel met à la disposition du consommateur, à la demande de ce dernier, tout contenu autre que les données à caractère personnel, qui a été fourni ou créé par le consommateur lors de l’utilisation du contenu numérique ou du service numérique fourni par le professionnel.
+
+(4) Le consommateur a le droit de récupérer ce contenu numérique sans frais, sans que le professionnel y fasse obstacle, dans un délai raisonnable et dans un format couramment utilisé et lisible par machine.
+
+(5) En cas de rétractation du contrat, le professionnel peut empêcher toute utilisation ultérieure du contenu numérique ou du service numérique par le consommateur, notamment en faisant en sorte que le contenu numérique ou le service numérique soit inaccessible au consommateur ou en désactivant le compte d’utilisateur du consommateur, sans préjudice du paragraphe (3). ».

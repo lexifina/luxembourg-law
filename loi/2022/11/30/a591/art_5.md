@@ -1,0 +1,13 @@
+# Art. 5.
+
+À la suite de l’article L. 112-2 du même code, est inséré un article L. 112-2-1 nouveau, libellé comme suit :
+
+« Art. L. 112-2-1.
+
+(1) Toute annonce d’une réduction du prix d’un bien indique le prix antérieur appliqué par le professionnel pendant une durée déterminée avant l’application de la réduction de prix.
+
+(2) Le prix antérieur désigne le prix le plus bas appliqué par le professionnel au cours d’une période qui n’est pas inférieure à trente jours avant l’application de la réduction de prix.
+
+Si le bien est commercialisé depuis moins de trente jours, le prix antérieur désigne le prix le plus bas appliqué par le professionnel depuis la commercialisation du bien concerné.
+
+(3) Par dérogation au paragraphe 2, si la réduction de prix est progressivement augmentée, le prix antérieur désigne le prix sans réduction avant la première application de la réduction de prix. ».

@@ -1,0 +1,9 @@
+# Art. 14.
+
+À la suite du nouvel article L. 122-9 du même code, est inséré un article L. 122-10 nouveau, libellé comme suit :
+
+« Art. L. 122-10.
+
+Par dérogation à l’article L. 122-8, paragraphe (1), alinéa 1er, lorsque des sanctions doivent être imposées conformément à l’article 21 du règlement (UE) 2017/2394 précité, le montant maximal de l’amende encourue par le professionnel correspond à 4 pour cent du chiffre d’affaires annuel du professionnel dans l’État membre ou les États membres concernés.
+
+Dans les cas où une amende doit être imposée conformément à l’alinéa 1er, mais où les informations relatives au chiffre d’affaires annuel du professionnel ne sont pas disponibles, le montant maximal de l’amende est de 2.000.000 euros. ».
