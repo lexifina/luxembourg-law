@@ -1,0 +1,5 @@
+# Art. 15.
+
+En cas d’ouverture d’un droit à pension de survie d’un conjoint divorcé ou d’un ancien partenaire au sens de l’article 13 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, dans le régime général et dans le régime spécial transitoire, la détermination de la pension du conjoint divorcé ou de l’ancien partenaire et la répartition éventuelle entre plusieurs conjoints divorcés ou plusieurs anciens partenaires et conjoint ou partenaire au sens de l’article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats survivant, est effectuée conformément aux règles en vigueur dans le régime spécial transitoire.
+
+Pour autant que le conjoint ou le partenaire décédé n’ait pas été soumis au régime spécial transitoire à la veille du divorce ou à la veille de la dissolution du partenariat au sens de l’article 13 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, la pension de survie du conjoint divorcé ou de l’ancien partenaire, déterminée à cette date, est calculée conformément au livre III du Code des assurances sociales; elle est à charge du régime spécial transitoire.

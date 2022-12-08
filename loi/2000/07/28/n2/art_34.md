@@ -1,0 +1,3 @@
+# Art. 34.
+
+Les personnes qui ont bénéficié d’une indemnité prévue par l’article 16 de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat, tel qu’il a été abrogé par la loi du 25 juillet 1985, ainsi que par les dispositions afférentes de la législation régissant les autres régimes transitoires spéciaux peuvent couvrir rétroactivement conformément à l’article 174 du code des assurances sociales les périodes de service afférentes ainsi que, le cas échéant, les périodes au cours desquelles elles ont abandonné ou réduit leur activité professionnelle pour raisons familiales, à condition qu’au moment de la demande elles n’aient ni dépassé l’âge de soixante-cinq ans ni droit à une pension personnelle.

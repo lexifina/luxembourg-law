@@ -1,0 +1,3 @@
+# Art. 9bis.
+
+Si une personne relevant du régime spécial transitoire , exerce une activité accessoire soumise à l’assurance au titre de l’article 171, alinéa 1, point 2 du Code des assurances sociales, les revenus se rapportant à cette activité ne sont pris en compte que jusqu’à concurrence du maximum prévu à l’article 241, alinéa 3, du même code compte tenu de la rémunération prise en compte pour la détermination de la retenue pour pension. N’est pas considéré comme activité accessoire au sens du présent article, l’exercice du mandat de membre de la Chambre des Députés, du mandat de membre du Parlement européen ou de la fonction de membre du Conseil d’Etat.

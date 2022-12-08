@@ -1,0 +1,3 @@
+# Art. 18bis.
+
+Les seuils et limites applicables, prévus par les règlements d’application visés respectivement aux articles 173, 173bis et 174 du Code de la Sécurité sociale et aux articles 5, 5bis et 6 de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, sont ceux du régime compétent au moment de l’introduction de la demande et s’appliquent indifféremment sur toute la période visée par l’assurance volontaire, sauf changement de compétence ultérieur.
