@@ -1,0 +1,3 @@
+# Art. 21. Comptabilité
+
+Les comptes de l’établissement sont tenus selon les règles de la comptabilité commerciale. L’exercice financier coïncide avec l’année civile. Avant le 31 mars de chaque année, le conseil d’administration soumet au Gouvernement les comptes annuels comprenant le bilan et le compte de profits et pertes ainsi que l’annexe arrêtés au 31 décembre de l’exercice écoulé, accompagnés d’un rapport circonstancié sur la situation et le fonctionnement de l’établissement, ainsi que du rapport du réviseur d’entreprises agréé. Le budget prévisionnel pour une année est soumis par l’établissement au ministre avant le 31 mars de l’année précédente.
