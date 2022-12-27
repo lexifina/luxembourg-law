@@ -1,0 +1,23 @@
+# Art. 23.
+
+L’article L. 281-1 du même code est modifié comme suit :
+
+- 1° Le paragraphe 1er est abrogé.
+
+- 2° Les paragraphes 2 à 4 prennent la teneur suivante :
+
+- « (2) Lorsque le prestataire de services qui a recours à un sous-traitant direct est informé par écrit, par l’Inspection du travail et des mines, du non-paiement partiel ou total du salaire légal ou conventionnel dû aux salariés, ou de toute autre infraction aux dispositions d’ordre public visées à l’article L. 010-1, il enjoint l’entreprise sous-traitante, dans un délai de huit jours à compter de cette notification, par lettre recommandée avec accusé de réception, de faire cesser sans délai cette situation.
+
+- (3) L’entreprise visée par l’injonction doit confirmer dans un délai de huit jours à compter de la notification de l’injonction du prestataire de services, par lettre recommandée avec accusé de réception, qu’elle a procédé à la régularisation de la situation. Elle adresse dans le même délai une copie de sa réponse à l’Inspection du travail et des mines.
+
+- En l’absence de réponse écrite de l’entreprise dans le délai visé à l’alinéa 1er, le prestataire de services en informe l’Inspection du travail et des mines dans un délai de huit jours qui commence à courir à l’expiration du délai visé à l’alinéa 1er.
+
+- (4) En cas de manquement à ses obligations d’injonction et d’information visées aux paragraphes 2 et 3, le prestataire de services est tenu solidairement avec l’entreprise sous-traitante, au paiement des rémunérations, indemnités et charges dues aux salariés de cette dernière, dont les cotisations sociales y afférentes. Le prestataire de services est en outre passible d’une amende administrative d’un montant compris entre 1.000 et 5.000 euros par salarié, et entre 2.000 et 10.000 euros en cas de récidive dans le délai de deux ans à compter du jour de la notification de la première amende. Le montant total de l’amende ne peut être supérieur à 50.000 euros.
+
+- L’amende administrative est prononcée par le directeur de l’Inspection du travail et des mines selon la procédure d’injonction prévue à l’article L. 614-13 ».
+
+- 3° Le paragraphe 5 est abrogé.
+
+- 4° Le paragraphe 6 prend la teneur suivante :
+
+- (6) La responsabilité visée au paragraphe 4 est limitée aux droits acquis par le salarié dans le cadre de la relation contractuelle entre le prestataire de services et son sous-traitant direct.
