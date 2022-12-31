@@ -1,5 +1,0 @@
-# Art. 16.
-
-(1) Pour les projets dépassant 50 000 euros hors taxe sur la valeur ajoutée, les demandes en obtention des aides susvisées sont à présenter avant le commencement des investissements et sont examinées par une commission dont la composition et le fonctionnement sont déterminés par règlement grand-ducal. Cette commission peut s’entourer de tous renseignements jugés utiles, prendre l’avis d’experts et entendre les requérants en leurs explications orales. Les demandes doivent être accompagnées d’un devis concret et d’un plan de financement de l’investissement.
-
-(2) Dans le cas d’un projet de construction ou de modernisation d’un établissement d’hébergement à réaliser par des communes, des syndicats de communes, des syndicats d’initiative ainsi que des associations sans but lucratif œuvrant en faveur du tourisme visé à l’article 10, la demande doit porter sur des factures d'un montant global dépassant 10 000 euros. Les factures doivent individuellement porter sur un montant hors TVA dépassant 1 250 euros.
