@@ -1,0 +1,7 @@
+# Art. 5. Effet incitatif
+
+(1) L’aide doit avoir un effet incitatif. Il y a un effet incitatif lorsque l’aide incite le bénéficiaire à modifier son comportement d’une manière telle que ce dernier crée des activités qu’il n’exercerait pas ou qu’il exercerait d’une manière limitée ou différente en l’absence d’aide. Sans l’aide, le projet individuel ne devrait pas pouvoir être réalisé ou devrait pouvoir l’être mais à une échelle réduite ou d’une manière différente qui limiterait significativement ses bénéfices escomptés. L’aide ne doit pas subventionner les coûts d’un projet individuel que le bénéficiaire aurait de toute façon supportés et ne doit pas non plus compenser le risque commercial normal inhérent à une activité économique.
+
+(2) L’effet incitatif de l’aide s’apprécie sur la base du projet individuel ainsi que d’un scénario contrefactuel probable en l’absence d’aide. Le scénario contrefactuel peut consister en l’absence d’un projet alternatif, lorsque les éléments indiquent qu’il s’agit du scénario contrefactuel le plus probable, ou en un projet alternatif qui est envisagé par le bénéficiaire dans le cadre de son processus décisionnel interne, et peut se rapporter à un projet alternatif qui est mené tout ou en partie en dehors de l’Union européenne.
+
+Dans tous les cas, il est considéré que l’aide est dépourvue d’effet incitatif lorsque le début des travaux a lieu avant la réponse à l’appel à projets visé à l’article 6.
