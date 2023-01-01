@@ -1,0 +1,3 @@
+# Art. 51. Indemnité des retraités engagés par les communes
+
+Nonobstant la limite d’âge, les communes peuvent engager temporairement, dans l’intérêt du service, par contrat écrit à durée déterminée, des retraités de l’État, de l’Administration parlementaire, d’une commune, d’un syndicat de communes, d’un établissement public, de la Société nationale des chemins de fer luxembourgeois ou d’une institution internationale, justifiant de qualifications spéciales. L’indemnité à verser de ce chef est fixée par le conseil communal, sur avis conforme du ministre, de cas en cas suivant l’importance et la nature des services à rendre.

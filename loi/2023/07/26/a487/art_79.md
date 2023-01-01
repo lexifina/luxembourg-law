@@ -1,0 +1,13 @@
+# Art. 79.
+
+(1) Sans préjudice des articles 76 et 77, et à moins que le mode de calcul par voie d’avancement en grade tel que prévu à l’article 78 ne soit plus favorable, l’employé qui est classé dans un groupe d’indemnité supérieur considéré comme groupe d’indemnité correspondant à ses études ou sa formation professionnelle, bénéficie d’une reconstitution de sa carrière conformément aux principes inscrits à l’article 31. Le début de carrière dans le nouveau groupe d’indemnité est considéré comme premier début de carrière, même si l’employé était antérieurement classé à un autre groupe d’indemnité.
+
+Au cas où l’employé se trouve en période de service provisoire au moment du changement de groupe d’indemnité, il bénéficie de l’indemnité telle que fixée dans son nouveau groupe d’indemnité pour une nouvelle période de service provisoire en application des dispositions de l’article 75.
+
+Le temps que l’employé a passé dans un groupe d’indemnité inférieur au groupe d’indemnité dont il n’a pas rempli les conditions d’admission est, dès l’admission à ce dernier groupe d’indemnité, bonifié dans sa totalité comme ancienneté de service.
+
+(2) Dans le cas d’un changement de groupe d’indemnité par voie d’avancement en grade, l’employé communal avance au grade immédiatement supérieur prévu dans le nouveau groupe d’indemnité et accessible suivant les conditions d’âge, d’examen et d’années de service à compter depuis son début de carrière initial telles que prévues pour ce groupe d’indemnité. Toutefois, les délais d’attente relatifs aux avancements en grade ultérieurs dans ce groupe d’indemnité ne peuvent être inférieurs à respectivement quatre, sept et dix ans à partir de la date du changement de groupe d’indemnité.
+
+(3) Lorsque l’indemnité de l’employé communal passé à un groupe d’indemnité supérieur est inférieure à celle dont il jouissait dans le groupe d’indemnité inférieur, il conserve l’ancienne indemnité, arrêtée au jour du changement du groupe d’indemnité, aussi longtemps qu’elle est plus élevée.
+
+(4) L’employé communal classé dans un autre sous-groupe d’indemnité du même groupe d’indemnité accède au grade et échelon correspondants de ce sous-groupe lorsque celui-ci prévoit une évolution en grades identique, ou, à défaut, au grade et échelon de ce sous-groupe correspondant à son ancienneté de service et accessibles suivant les conditions prévues.

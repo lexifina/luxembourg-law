@@ -1,0 +1,5 @@
+# Art. 89. Prime de doctorat
+
+Les employés communaux de la catégorie d’indemnité A, groupe d’indemnité A1, qui sont détenteurs d’un diplôme de doctorat ou équivalent ou qui obtiennent ce titre au cours de leur engagement en qualité d’employé, bénéficient d’une prime correspondant à 20 points indiciaires.
+
+Cette prime est allouée à partir du début de carrière et à partir du premier jour du mois qui suit celui où les conditions de son obtention sont réunies dans le chef du bénéficiaire, sous condition que la détention d’un diplôme de doctorat ou équivalent, inscrit au registre des titres déposé auprès du ministre ayant l’Enseignement supérieur dans ses attributions constitue une qualification supplémentaire en relation directe avec les missions liées au poste occupé.
