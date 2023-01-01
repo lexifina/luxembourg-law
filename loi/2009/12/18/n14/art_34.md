@@ -1,0 +1,3 @@
+# Art. 34.
+
+Les fonctionnaires, employés communaux, employés privés et ouvriers de l’office social sont pris en charge par l’office qui le remplace. Ils continuent d’être soumis aux dispositions de leurs statuts et contrats et d’être rémunérés dans les mêmes conditions que s’ils étaient dans leur office social d’origine. Ils conservent dans l’office leurs droits acquis et l’ensemble des avantages dont ils bénéficiaient et notamment les mêmes possibilités d’avancement, d’échelons et de grades, de durée et de carrière ainsi que les mêmes modalités de rémunération que dans leur office social d’origine.
