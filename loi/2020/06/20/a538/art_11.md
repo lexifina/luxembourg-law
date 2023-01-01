@@ -1,0 +1,3 @@
+# Art. 11.
+
+Pendant la durée de l’état de crise tel que déclaré par le règlement grand-ducal modifié du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et par dérogation à l’article L. 524-5 alinéa 1er du Code du travail, le promoteur n’est pas tenu de rembourser au Fonds pour l’emploi la quote-part correspondant à 50 pour cent du salaire social minimum pour salariés non qualifiés.

@@ -1,0 +1,3 @@
+# Art. 8.
+
+Par dérogation à l’article L. 511-13, paragraphe 4, du Code du travail, le délai de forclusion est porté à trois mois suivant le mois de survenance du chômage partiel, pour toutes les demandes relatives à la période correspondant à l’état de crise tel que déclaré par le règlement grand-ducal modifié du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19.

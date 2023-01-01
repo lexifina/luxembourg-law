@@ -1,0 +1,3 @@
+# Art. 7.
+
+Par dérogation à l’article L. 511-13, paragraphe 3, du Code du travail, la déclaration de créance est contresignée par la délégation du personnel, s’il en existe, pour toutes les demandes relatives à la période correspondant à l’état de crise tel que déclaré par le règlement grand-ducal modifié du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19, prolongée jusqu’à la fin du dernier mois de celui-ci.

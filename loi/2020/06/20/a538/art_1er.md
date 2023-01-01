@@ -1,0 +1,5 @@
+# Art. 1er.
+
+Pour les entreprises directement touchées par les décisions de fermeture prises par le Gouvernement et pour celles admises au chômage partiel pour cas de force majeure Covid-19 la clause d’essai prévue par un contrat d’apprentissage, un contrat de travail à durée indéterminée, un contrat de travail à durée déterminée ou un contrat de mission est suspendue par dérogation aux articles L. 111-3, L. 121-5, L. 122-11 et L. 131-7 du Code du travail à partir de la prise d’effet de la décision de fermeture ou de l’admission du salarié concerné au régime spécial de chômage partiel pour cas de force majeure Covid-19.
+
+Elle reprend son cours le lendemain de la fin de l‘état de crise tel que déclaré par le règlement grand-ducal modifié du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19.

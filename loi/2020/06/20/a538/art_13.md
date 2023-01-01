@@ -1,0 +1,3 @@
+# Art. 13.
+
+Pendant la durée de l’état de crise tel que déclaré par le règlement grand-ducal modifié du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et par dérogation à l’article L. 543-20 du Code du travail, le Fonds pour l’emploi rembourse au promoteur une quote-part de 100 pour cent de l’indemnité touchée par le jeune demandeur d’emploi, dans le contrat initial ou dans la prolongation.

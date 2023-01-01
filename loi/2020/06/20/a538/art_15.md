@@ -1,0 +1,3 @@
+# Art. 15.
+
+Pendant la durée de l’état de crise tel que déclaré par le règlement grand-ducal modifié du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et par dérogation à l’article L. 552-2, paragraphe 2, alinéas 2, 5 et 7 du Code du travail, les délais impartis au médecin du travail sont supprimés et si pendant cette même période l’intéressé ne donne pas suite à la convocation du médecin du travail compétent, le dossier est mis en suspens et l’intéressé est reconvoqué dans les meilleurs délais.

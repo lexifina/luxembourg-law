@@ -1,0 +1,3 @@
+# Art. 10.
+
+Pour les demandeurs d’emploi indemnisés pendant la durée de l’état de crise tel que déclaré par le règlement grand-ducal modifié du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et prorogé par la loi du 24 mars 2020 portant prorogation de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et par dérogation à l’article L. 521-11, paragraphes 1 à 5 du Code du travail, la durée des droits aux indemnités de chômage, qu’ils soient initiaux ou en prolongation, ainsi que la période de référence de vingt-quatre mois sont prolongées de la durée de l’état de crise.
