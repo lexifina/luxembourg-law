@@ -1,7 +1,0 @@
-# Art. 14. Demandes de renseignements
-
-(1) Pour l'accomplissement des tâches qui lui sont assignées par la présente loi, le Conseil peut demander aux entreprises et associations d'entreprises de fournir tous les renseignements nécessaires.
-
-(2) Lorsque le Conseil demande aux entreprises et associations d'entreprises de fournir des renseignements, il indique, sous peine de nullité, la base juridique et le but de la demande, précise les renseignements demandés et fixe le délai dans lequel ils doivent être fournis, délai qui ne saurait être inférieur à un mois. Il indique également les sanctions prévues à l'article 20 et à l'article 22 et les voies et délais de recours ouverts devant le Tribunal administratif.
-
-(3) Sont tenus de fournir les renseignements demandés les propriétaires des entreprises exploitées par des personnes physiques ou leurs représentants légaux détenteurs de l'autorisation d'établissement, inscrits ou non au Registre de commerce et des sociétés. Pour les entreprises exploitées sous forme de société ou d'association, il s'agit des gérants, administrateurs délégués ou, en cas de défaut, des présidents du conseil d'administration ou administrateurs, ou autres dirigeants effectifs de droit ou de fait. Les avocats dûment mandatés peuvent fournir les renseignements demandés au nom de leurs mandants. Ces derniers restent pleinement responsables du caractère exact, complet et non dénaturé des renseignements fournis.
