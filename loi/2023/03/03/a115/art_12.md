@@ -1,0 +1,15 @@
+# Art. 12.
+
+(1) Les fonctionnaires, employés communaux et salariés des communes de Grosbous et Wahl sont repris par la nouvelle commune. Ils continuent à être soumis aux dispositions de leurs statuts légaux et réglementaires ou aux stipulations de leurs contrats. Ils conservent dans la nouvelle commune leurs droits acquis et l’ensemble des avantages dont ils bénéficiaient. Ils conservent les mêmes possibilités d’avancement en traitement et en échelon, de promotion, ainsi que les mêmes modalités de rémunération que dans leur commune d’origine.
+
+(2) Les fonctionnaires et employés communaux bénéficiant au moment de l’entrée en vigueur de la présente loi d’une majoration d’échelon ou d’un grade de substitution en exécution des dispositions réglementaires prévues à l’article 22 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux continuent à en bénéficier, le cas échéant par dépassement des effectifs. Ils sont pris en compte pour la fixation du contingent des postes à responsabilités particulières prévu pour chaque groupe de traitement ou d’indemnité de la nouvelle commune. En cas de dépassement du contingent, aucun nouveau titulaire d’un poste à responsabilités particulières ne pourra être désigné pour la durée du dépassement.
+
+L’agent visé par le présent paragraphe, qui n’occupe plus un poste à responsabilités particulières, se voit retirer le bénéfice de la majoration d’échelon ou du grade de substitution avec effet au premier jour du mois qui suit la cessation de l’occupation du poste à responsabilités particulières.
+
+(3) Les tâches légales du secrétaire communal sont réparties entre les deux titulaires actuels par le collège des bourgmestre et échevins de la nouvelle commune, étant entendu que les attributions non expressément spécifiées dans cette répartition sont à accomplir par le plus ancien en rang des secrétaires.
+
+Toute modification dans la répartition des tâches entre les deux titulaires, notamment en cas d’introduction par le législateur de nouvelles missions pour les secrétaires communaux, nécessite une nouvelle délibération du collège des bourgmestre et échevins.
+
+Dès que l’un des titulaires actuels n’occupe plus le poste de secrétaire de la nouvelle commune, l’autre titulaire devient l’unique secrétaire communal de la nouvelle commune. Le poste vacant peut être converti en un emploi d’un autre groupe ou sous-groupe de traitement par une décision à prendre par le conseil communal.
+
+(4) Le receveur de la commune de Groussbus-Wal est choisi par le nouveau conseil communal parmi les receveurs en poste des communes de Grosbous et de Wahl. Le receveur communal qui ne bénéficie pas de la nomination au poste de receveur de la nouvelle commune est affecté à un nouveau poste à l’administration communale tout en étant maintenu dans les mêmes conditions statutaires et rémunératoires tel que prévu au paragraphe 1er. En vue d’une éventuelle nomination ultérieure comme receveur communal, il est considéré comme receveur communal en fonction.
