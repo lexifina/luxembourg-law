@@ -1,6 +1,6 @@
 # Art. 10.
 
-La Cour administrative est composée d’un président, d’un vice-président, d’un premier conseiller et de deux conseillers.
+La Cour administrative est composée d’un président, d’un vice-président, de deux premiers conseillers et de deux conseillers.
 
 Elle est complétée par cinq membres suppléants qui portent le titre de conseiller suppléant de la Cour administrative.
 
