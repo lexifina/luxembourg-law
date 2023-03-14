@@ -1,9 +1,7 @@
 # Art. 15.
 
-Un réviseur d'entreprise, désigné par le Gouvernement en conseil, est chargé de contrôler les comptes de chaque établissement ainsi que la régularité des opérations effectuées et des écritures comptables.
+Pour le 1er mai au plus tard, le conseil d'administration de l’établissement présente au Gouvernement les comptes de fin d'exercice auxquels est joint un rapport circonstancié sur la situation et le fonctionnement de l'établissement ainsi que le rapport du réviseur d'entreprise.
 
-Le réviseur d'entreprise doit remplir les conditions requises par la loi du 28 juin 1984 portant organisation de la profession de réviseur d'entreprise.
+Le Gouvernement en conseil décide de la décharge à accorder aux organes de l’établissement.
 
-Son mandat a une durée de trois ans et il est renouvelable. Sa rémunération est à charge de l'établissement.
-
-Il remet son rapport au conseil d'administration pour le premier avril de l'année qui suit l'exercice contrôlé. Il peut être chargé par le conseil d'administration de procéder à des vérifications spécifiques.
+Si le Gouvernement n'a pas pris de décision dans un délai de deux mois à dater de la remise des comptes et des documents annexés, la décharge est acquise de plein droit.

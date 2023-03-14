@@ -1,3 +1,3 @@
 # Art. 17.
 
-Chaque établissement est soumis à la surveillance du ministre de tutelle compétent, qui peut, en tout temps, en contrôler ou faire contrôler la gestion.
+Pendant dix ans, à partir de la date d'entrée en vigueur de la présente loi, l'Etat prend en charge le coût de la construction, de l'aménagement, des transformations et des extensions des structures définies aux articles 2, 3 et 4 de la présente loi selon les conditions et modalités d'une convention à passer entre l'établissement concerné et l'Etat représenté par le ministre de tutelle compétent et le ministre des Finances. Les montants afférents doivent être inscrits chaque année au budget de l'Etat et, pour autant qu'ils dépassent le seuil prévu aux termes de l'article 99 de la Constitution, être autorisés par une loi spéciale.

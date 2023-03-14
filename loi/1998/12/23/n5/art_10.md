@@ -1,5 +1,11 @@
 # Art. 10.
 
-Le président du conseil d'administration peut, dans les quarante-huit heures, former opposition contre une décision du conseil qui lui semble contraire à la loi ou au règlement d'ordre intérieur de l'établissement. Cette opposition est vidée dans les huit jours par le ministre de tutelle qui statue en dernier ressort.
+La direction de l'établissement est confiée à un directeur général nommé conformément aux dispositions de l'art. 8 de la présente loi. Il doit se prévaloir d'un cycle complet d'études universitaires ou supérieures.
 
-L'opposition a un caractère suspensif. Elle est levée, si la décision du ministre n'intervient pas dans le délai prescrit.
+Le directeur général assiste aux réunions du conseil d'administration avec voix consultative.
+
+Il exécute les décisions du conseil et assure la gestion journalière de l'établissement. Il est compétent pour régler toutes les affaires qui lui ont été dévolues par le conseil d'administration.
+
+Il est assisté par des directeurs nommés conformément aux dispositions de l’article 8 qui doivent se prévaloir d’un cycle complet d’études universitaires ou supérieures.
+
+Les directeurs peuvent assister avec voix consultative aux réunions du conseil d’administration sur demande de celui-ci.

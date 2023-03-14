@@ -1,5 +1,15 @@
 # Art. 12.
 
-Sous réserve des dispositions transitoires prévues aux articles 20 et 21, le personnel est lié à l'établissement par un contrat de louage de services de droit privé.
+Les ressources de l’établissement sont notamment constituées par:
 
-Des fonctionnaires, employés et ouvriers de l'Etat peuvent être détachés à chaque établissement.
+- les recettes pour prestations et services offerts;
+
+- les produits provenant des participations dans les sociétés visées à l’article 2, paragraphe 2 ;
+
+- les donations et legs;
+
+- les emprunts;
+
+- la participation du Fonds National de Solidarité;
+
+- les participations financières de l'Etat et des communes.

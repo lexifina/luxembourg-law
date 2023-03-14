@@ -1,3 +1,5 @@
 # Art. 18.
 
-Pendant dix ans, à partir de la date d'entrée en vigueur de la présente loi, l'Etat prend en charge le coût de la construction, de l'aménagement, des transformations et des extensions des structures définies aux articles 2, 3, 4 et 5 de la présente loi selon les conditions et modalités d'une convention à passer entre l'établissement concerné et l'Etat représenté par le ministre de tutelle compétent et le ministre des Finances. Les montants afférents doivent être inscrits chaque année au budget de l'Etat et, pour autant qu'ils dépassent le seuil prévu aux termes de l'article 99 de la Constitution, être autorisés par une loi spéciale.
+L'Etat met à la disposition de l’établissement un fonds de roulement de 1.239.467,62 euros remboursable au Trésor sur décision du Gouvernement en conseil. Le remboursement se fera sur la base d'un état annuel à établir par le réviseur d'entreprise prévu à l'article 14 ci-avant. Pendant 10 ans à partir de la mise en vigueur de la présente loi l'Etat est autorisé à rembourser à l’établissement les dépenses pour frais de fonctionnement dans la mesure où elles dépassent les recettes pour prestations et services offerts.
+
+A cet effet les articles afférents sont ajoutés au budget des recettes et des dépenses de l'Etat.

@@ -1,13 +1,7 @@
 # Art. 13.
 
-Les ressources de chaque établissement sont notamment constituées par:
+Les comptes de l’établissement sont tenus selon les principes et les modalités de la comptabilité commerciale.
 
-- les recettes pour prestations et services offerts;
+L'exercice coïncide avec l'année civile.
 
-- les donations et legs;
-
-- les emprunts;
-
-- la participation du Fonds National de Solidarité;
-
-- les participations financières de l'Etat et des communes.
+A la clôture de chaque exercice, le directeur de l’établissement soumet au conseil d'administration un projet de bilan et un projet de compte de profits et pertes dans lesquels les amortissements et provisions nécessaires doivent être faits.

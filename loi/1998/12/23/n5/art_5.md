@@ -1,3 +1,5 @@
 # Art. 5.
 
-Au moment de la mise en vigueur de la présente loi l'établissement reprend la gestion des maisons de soins d'Echternach, d'Esch-sur-Alzette, de Differdange et de Vianden. Il regroupe les propriétés domaniales inscrites aux cadastres des communes d'Echternach, de Differdange et de Vianden suivant relevé joint en annexe à la présente loi dont il fait partie intégrante.
+Au cours de la 1ère année après l'entrée en vigueur de la présente loi, l’établissement dresse un inventaire du patrimoine immobilier et mobilier et assume l'actif et le passif, tels qu'ils seront constatés par un bilan d'ouverture.
+
+Les biens immobiliers, terrains à construire, bâtiments construits ou en voie de construction ou de planification ainsi que leurs équipements sont affectés par l'Etat à l’établissement dans l'intérêt de la réalisation de sa mission.
