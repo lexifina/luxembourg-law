@@ -1,0 +1,3 @@
+# Art. 3.
+
+À l’article 1er, point 26, de la loi modifiée du 30 mai 2018 relative aux marchés d’instruments financiers, la phrase introductive est complétée par les mots les instruments financiers suivants, y compris lorsqu’ils sont émis au moyen de la technologie des registres distribués, telle que définie à l’article 2, point 1, du règlement (UE) 2022/858 du Parlement européen et du Conseil du 30 mai 2022 sur un régime pilote pour les infrastructures de marché reposant sur la technologie des registres distribués, et modifiant les règlements (UE) n° 600/2014 et (UE) n° 909/2014 et la directive 2014/65/UE :.
