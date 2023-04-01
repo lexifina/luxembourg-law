@@ -20,27 +20,9 @@
 
 (2) Les traitements prévus au paragraphe 1er portent sur les données à caractère personnel suivantes :
 
-- 1° les données collectées en vertu de l’article 5 ;
+- 1° les données collectées en vertu de l’article 5 dans sa teneur avant l’entrée en vigueur de la loi du 24 mars 2023 portant modification de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
 
 - 2° les données collectées en vertu des articles 3 à 5 de la loi du 1er août 2018 sur la déclaration obligatoire de certaines maladies dans le cadre de la protection de la santé publique.
-
-- 2°bis Pour le programme de dépistage à grande échelle, en vue de l’identification des catégories de personnes à inviter :
-
-  - a) les données socio-démographiques (âge, sexe, composition du ménage, localité de résidence) ;
-
-  - b) les données sur l’emploi (secteur d’activité professionnelle et employeur) ;
-
-  - c) l’historique des dépistages Covid-19.
-
-- Pour le programme de vaccination, en vue de l’identification des catégories de personnes à inviter :
-
-  - a) les données socio-démographiques (âge, sexe, composition du ménage, localité de résidence) ;
-
-  - b) les données sur l’emploi (secteur d’activité professionnelle et employeur) ;
-
-  - c) la date de rendez-vous pour la vaccination ;
-
-  - d) si le vaccin a été administré.
 
 - 3° les données collectées dans le cadre du programme de vaccination :
 
@@ -88,10 +70,10 @@
 
 (3bis) Sans préjudice du paragraphe 2, 2°bis et 3° c), l’Inspection générale de la sécurité sociale est destinataire des données traitées qu’elle pseudonymise pour les fins énoncées au paragraphe 6.
 
-(4) Les personnes infectées ou à haut risque d’être infectées ne peuvent pas s’opposer au traitement de leurs données dans le système d’information visé au présent article tant qu’elles ne peuvent pas se prévaloir du résultat d’un test de dépistage négatif de l’infection au virus SARS-CoV-2. Pour le surplus, les droits des personnes concernées prévus par le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), ci-après désigné comme « règlement (UE) 2016/679 », s’exercent auprès de la Direction de la santé.
-
-(5) Sans préjudice du paragraphe 2, point 3° et des paragraphes 3bis et 5, de l’article 5, paragraphe 3, point 2° et paragraphe 3bis, les données à caractère personnel traitées sont pseudonymisées au plus tard à l’issue d’une durée de six mois après leur collecte pour une période de trois ans à l’issue de laquelle elles sont anonymisées. Les données de journalisation qui comprennent les traces et logs fonctionnels permettant la traçabilité des accès et actions au sein du système d’information suivent le même cycle de vie que les données auxquelles elles se rapportent. Les accès et actions réalisés sont datés et comportent l’identification de la personne qui a consulté les données ainsi que le contexte de son intervention.
+(5) Sans préjudice du paragraphe 2, point 3° et des paragraphes 3bis , les données à caractère personnel traitées sont pseudonymisées au plus tard à l’issue d’une durée de six mois après leur collecte pour une période de trois ans à l’issue de laquelle elles sont anonymisées. Les données de journalisation qui comprennent les traces et logs fonctionnels permettant la traçabilité des accès et actions au sein du système d’information suivent le même cycle de vie que les données auxquelles elles se rapportent. Les accès et actions réalisés sont datés et comportent l’identification de la personne qui a consulté les données ainsi que le contexte de son intervention.
 
 Par dérogation à l’alinéa 1er, les données des personnes sont anonymisées avant leur communication aux autorités de santé européennes ou internationales.
+
+(5bis) Par dérogation au paragraphe 5, les données collectées en vertu de l’article 5, paragraphe 3bis, avant l’entrée en vigueur de la loi du 24 mars 2023 portant modification de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 sont anonymisées par le directeur de la santé ou son délégué à l’issue d’une durée d’un mois après leur réception.
 
 (6) Les données peuvent être traitées à des fins de recherche scientifique ou historique ou à des fins statistiques dans les conditions prévues par le règlement (UE) 2016/679 précité et par la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données, sous réserve d’être pseudonymisées au sens de l’article 4, paragraphe 5, du règlement (UE) 2016/679 précité.
