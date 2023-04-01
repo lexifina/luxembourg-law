@@ -1,0 +1,7 @@
+# Art. 4.
+
+L’article 4 de la même loi est remplacé comme suit :
+
+Art. 4.
+
+Le port du masque est autorisé à l’intérieur et dans l’enceinte d’un établissement hospitalier, dans les locaux à usage collectif des institutions accueillant des personnes âgées à des fins d’hébergement, y compris les ascenseurs et corridors, dans tout moyen collectif de transport de personnes, à l’intérieur des établissements scolaires de tous les types d’enseignement ainsi que dans leur enceinte, dans les locaux destinés à accueillir ou à héberger des mineurs âgés de moins de seize ans accomplis, dans les bâtiments relevant des autorités judiciaires et dans les locaux des administrations publiques accessibles au public.
