@@ -1,0 +1,15 @@
+# Art. 27. Mesures de protection contre les représailles
+
+(1) Sans préjudice de l’article 1er, paragraphes 2 et 3, lorsque des personnes signalent des informations sur des violations ou font une divulgation publique conformément à la présente loi, elles ne sont pas considérées comme ayant enfreint une restriction à la divulgation d’informations et n’encourent aucune responsabilité d’aucune sorte concernant ce signalement ou cette divulgation publique pour autant qu’elles aient eu des motifs raisonnables de croire que le signalement ou la divulgation publique de telles informations était nécessaire pour révéler une violation en vertu de la présente loi. La clôture de la procédure n’affecte pas les autres obligations ou les autres procédures applicables visant à remédier à la violation signalée, ni la protection accordée par la présente loi en ce qui concerne les signalements internes ou externes.
+
+(2) Les auteurs de signalement n’encourent aucune responsabilité en ce qui concerne l’obtention des informations qui sont signalées ou divulguées publiquement, ou l’accès à ces informations, à condition que cette obtention ou cet accès ne constitue pas une infraction pénale autonome. Au cas où cette obtention ou cet accès constitue une infraction pénale autonome, la responsabilité pénale continue d’être régie par le droit national et européen applicables.
+
+(3) Toute autre responsabilité éventuelle des auteurs de signalement découlant d’actes ou d’omissions qui ne sont pas liés au signalement ou à la divulgation publique ou qui ne sont pas nécessaires pour révéler une violation en vertu de la présente loi continue d’être régie par le droit national et européen applicables.
+
+(4) Dans les procédures judiciaires, y compris pour diffamation, violation du droit d’auteur, violation du secret, violation des règles en matière de protection des données ou divulgation de secrets d’affaires, ou pour des demandes d’indemnisation fondées sur le droit privé, le droit public ou le droit collectif du travail, les personnes visées à l’article 2 n’encourent aucune responsabilité du fait des signalements ou des divulgations publiques effectués au titre de la présente loi. Ces personnes ont le droit d’invoquer ce signalement ou cette divulgation publique pour demander l’abandon de la procédure, à condition qu’elles aient eu des motifs raisonnables de croire que le signalement ou la divulgation publique était nécessaire pour révéler une violation en vertu de la présente loi.
+
+(5) Sont punies d’une amende de 1 250 à 25 000 euros, les personnes qui exercent des mesures de représailles telles que prévues à l’article 25 ou qui intentent des procédures abusives contre les auteurs de signalement.
+
+L’auteur d’un signalement qui a sciemment signalé ou divulgué publiquement de fausses informations, pourra se voir infliger une peine d’emprisonnement de huit jours à trois mois de prison et une amende de 1.500 euros à 50.000 euros.
+
+(6) La responsabilité civile de l’auteur d’un faux signalement sera engagé. L’entité qui a subi des dommages peut demander réparation du préjudice subi devant la juridiction compétente.
