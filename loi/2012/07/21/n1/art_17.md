@@ -1,0 +1,13 @@
+# Art. 17.
+
+(1) Les différends qui concernent la créance d’un autre Etat membre, l’instrument initial permettant l’adoption de mesures exécutoires ou l’instrument uniformisé provenant de l’autorité requérante d’un autre Etat membre ainsi que les différends qui portent sur la validité d’une notification effectuée par une autorité d’un autre Etat membre compétente en matière de notification sont du ressort des juridictions de l’Etat membre requérant.
+
+(2) Si au cours de la procédure de recouvrement au Grand-Duché de Luxembourg, la créance, l’instrument initial permettant l’adoption de mesures exécutoires dans un autre Etat membre requérant ou l’instrument uniformisé permettant l’adoption de mesures exécutoires au Grand-Duché de Luxembourg sont contestés par une partie intéressée, l’autorité requise luxembourgeoise informe cette partie que l’action doit être portée devant l’instance compétente de l’Etat membre requérant.
+
+(3) Dès que l’autorité requise luxembourgeoise a reçu connaissance de l’introduction d’une action visée au paragraphe (1), soit par l’autorité requérante, soit par la partie intéressée, elle suspend la procédure d’exécution en ce qui concerne la partie contestée de la créance dans l’attente de la décision de l’instance compétente en la matière, sauf demande contraire formulée par l’autorité requérante conformément à ses lois, règlements et pratiques administratives. Toute demande en ce sens doit être motivée.
+
+Dans le cas visé à l’alinéa 1, l’autorité requise luxembourgeoise ne peut procéder au recouvrement et aux mesures conservatoires que dans les limites déterminées par l’application des dispositions législatives, réglementaires et des pratiques administratives luxembourgeoises en matière de créances analogues à celles faisant l’objet de la demande.
+
+(4) Lorsque la contestation porte sur les mesures d’exécution prises par une autorité requise luxembourgeoise ou sur la validité d’une notification effectuée par une autorité compétente luxembourgeoise, l’action est portée devant l’instance compétente luxembourgeoise.
+
+(5) Si une procédure amiable a été lancée par une autorité requérante ou par l’autorité requise luxembourgeoise, et que le résultat de la procédure peut avoir une incidence sur la créance pour laquelle l’assistance a été demandée, les mesures de recouvrement sont suspendues ou arrêtées jusqu’à ce que cette procédure ait été menée à son terme, à moins qu’il ne s’agisse d’une situation de la plus haute urgence résultant d’une fraude ou d’une insolvabilité. La suspension ou l’arrêt des mesures de recouvrement n’empêche pas l’application de mesures conservatoires.
