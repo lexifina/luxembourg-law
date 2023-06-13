@@ -1,0 +1,13 @@
+# Art. 41.
+
+(1) Les entreprises de gaz naturel établissent, font contrôler et publient leurs comptes annuels conformément aux dispositions de la loi modifiée du 10 août 1915 concernant les sociétés commerciales. Les entreprises qui ne sont pas tenues légalement de publier leurs comptes annuels tiennent un exemplaire de ceux-ci à la disposition du public à leur siège social. En tout état de cause, les gestionnaires de réseau sont tenus de faire contrôler leurs comptes par un réviseur d’entreprise.
+
+(2) Les entreprises de gaz naturel tiennent, dans leur comptabilité interne, des comptes séparés pour chacune de leurs activités de transport, de distribution, de GNL et de stockage, comme elles devraient le faire si les activités en question étaient exercées par des entreprises distinctes, en vue d’éviter les discriminations, les subventions croisées et les distorsions de concurrence. Elles tiennent également des comptes, qui peuvent être consolidés, pour les autres activités non liées au transport, à la distribution, au GNL et au stockage. Les revenus de la propriété du réseau de transport/distribution sont mentionnés dans la comptabilité. Le cas échéant, elles tiennent des comptes consolidés pour d’autres activités en dehors du secteur du gaz. Elles font figurer dans la comptabilité interne un bilan et un compte de résultats pour chaque activité.
+
+(3) Le contrôle des comptes mentionné au paragraphe (1) consiste notamment à vérifier que l’obligation d’éviter les discriminations et les subventions croisées, en vertu du paragraphe (2), est respectée.
+
+(4) Les entreprises de gaz naturel précisent dans leur comptabilité interne les règles d’imputation des postes d’actif et de passif et des charges et produits ainsi que des moins-values - sans préjudice des règles comptables applicables en vertu de la législation en vigueur - qu’elles appliquent pour établir les comptes séparés visés au paragraphe (2). Ces règles ne peuvent être modifiées qu’à titre exceptionnel. Ces modifications sont indiquées et dûment motivées.
+
+(5) Les comptes annuels indiquent, en annexe, toute opération d’une certaine importance effectuée avec les entreprises liées.
+
+(6) Au cas où une entreprise de gaz naturel ne répond pas aux obligations en vertu du présent article, l’autorité de régulation désigne, après mise en demeure de l’entreprise concernée, un réviseur d’entreprise qu’il charge de la vérification de la conformité de la comptabilité de l’entreprise de gaz naturel concernée et en l’absence d’une comptabilité en vertu du présent article, de l’établissement de celle-ci. Les frais y relatifs sont à charge de l’entreprise de gaz naturel concernée.

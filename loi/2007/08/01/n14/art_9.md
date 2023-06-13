@@ -1,0 +1,9 @@
+# Art. 9.
+
+(1) Sans préjudice des dispositions concernant les conduites directes, le gestionnaire de réseau a l’obligation d’analyser et de communiquer, dans un délai raisonnable, compte tenu des possibilités techniques et économiques, la faisabilité de raccorder à son réseau tout client final et tout producteur de biogaz, de gaz issu de la biomasse ou d’autres types de gaz, basés sur des sources d’énergie renouvelables, et destiné à être injecté dans un réseau de gaz naturel, qui en fait la demande et qui est situé dans sa zone de transport ou de distribution; tout client final ne peut se raccorder qu’au réseau d’un gestionnaire de réseau de transport ou de distribution. L’analyse de cette faisabilité inclut les conditions techniques de raccordement, les tarifs de raccordement ainsi que, le cas échéant, les délais prévus de réalisation du raccordement.
+
+(2) Dans les douze mois suivant l’entrée en vigueur de la présente loi, les gestionnaires de réseau de distribution doivent proposer conjointement des conditions techniques de raccordement aux réseaux de gaz naturel basse et moyenne pression qui sont à soumettre à la procédure d’acceptation prévue à l’article 53 de la présente loi.
+
+(3) Tout gestionnaire de réseau de transport doit proposer des conditions techniques de raccordement aux réseaux de gaz naturel moyenne et haute pression qui sont à soumettre à la procédure d’acceptation prévue à l’article 53 de la présente loi. Ces conditions prennent en compte les conditions techniques de raccordement aux réseaux de distribution en vigueur.
+
+(4) Chaque gestionnaire de réseau est tenu d’établir des conditions générales de raccordement qui doivent faire partie intégrante des contrats conclus par le gestionnaire de réseau avec les clients et qui sont à soumettre à la procédure d’acceptation prévue à l’article 53 de la présente loi.

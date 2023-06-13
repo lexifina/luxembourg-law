@@ -1,0 +1,11 @@
+# Art. 7.
+
+(1) Si une entreprise de fourniture se trouve dans l’incapacité de fournir ses clients résidentiels ou ses clients non résidentiels lorsque la consommation de gaz naturel annuelle estimée ou effective de ces derniers est inférieure à un giga wattheure (1 GWh), ou si une fourniture par défaut a pris fin en vertu de l’article 8, ces clients continuent à être alimentés sans interruption par le fournisseur du dernier recours.
+
+(2) L’autorité de régulation désigne, suivant des critères transparents et publiés, tous les trois ans pour une période de trois ans et pour une zone donnée comme fournisseur du dernier recours, une entreprise de gaz naturel disposant des autorisations nécessaires pour opérer sur le marché du gaz naturel luxembourgeois.
+
+(3) La procédure de transition entre la fourniture du fournisseur défaillant et celle du fournisseur du dernier recours, la prise en charge des coûts dus au déséquilibre momentané ainsi que la durée maximale de la fourniture du dernier recours sont fixées par décision de l’autorité de régulation, prise après une procédure de consultation organisée conformément à l’article 55 de la présente loi.
+
+(4) Les entreprises de gaz naturel désignées comme fournisseur du dernier recours publient les conditions et les prix ou les formules de prix relatifs à l’alimentation de consommateurs dont le fournisseur est dans l’incapacité de fournir. Ces conditions et prix doivent être transparents, non discriminatoires et ne doivent pas empêcher l’ouverture du marché tout en restant raisonnables. Les prix peuvent être soumis à un système d’indexation basé sur un ou plusieurs indicateurs du secteur publiquement accessibles. Ils tiennent notamment compte des coûts élevés des fournitures non programmées. Les conditions, tarifs et formules de prix visés par le présent paragraphe sont soumis à la procédure d’acceptation prévue à l’article 53 de la présente loi.
+
+(5) Le fournisseur du dernier recours est tenu d’informer sans délai les clients finals concernés qu’ils sont fournis suivant les conditions de la fourniture du dernier recours et de leur transmettre toute information utile facilitant le choix d’un fournisseur. L’autorité de régulation peut fixer le détail des informations à transmettre.
