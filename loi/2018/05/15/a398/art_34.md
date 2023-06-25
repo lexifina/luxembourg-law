@@ -1,0 +1,5 @@
+# Art. 34.
+
+L'alinéa 2 de l'article 29 de la même loi est complété comme suit :
+
+« Pour les remembrements soumis à évaluation au titre de la loi du 15 mai 2018 relative à l'évaluation des incidences sur l'environnement, l'approbation intègre la conclusion motivée y prévue et indique, après examen des préoccupations et des avis exprimés par le public, les raisons et considérations sur lesquelles la décision est fondée, y compris l’information concernant le processus de participation du public. L'approbation prend dûment en compte les résultats des consultations et les informations recueillies en vertu des articles 6 à 9 de la loi précitée. Toute décision d'approbation reprend les mesures pour éviter, prévenir ou réduire et, si possible, compenser des incidences négatives notables sur l'environnement, ainsi que, le cas échéant des mesures de suivi. Les types de paramètres devant faire l'objet d'un suivi et la durée du suivi sont proportionnés à la nature, à la localisation et à la dimension du projet et à l'importance de ses incidences sur l'environnement ».

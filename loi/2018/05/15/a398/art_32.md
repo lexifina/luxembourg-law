@@ -1,0 +1,7 @@
+# Art. 32.
+
+L'article 56 de la même loi est complété par deux alinéas formulés comme suit :
+
+Pour les établissements soumis à évaluation des incidences sur l’environnement au titre de la loi du 15 mai 2018 relative aux évaluations des incidences sur l’environnement, l'autorisation intègre la conclusion motivée y prévue et indique, après examen des préoccupations et des avis exprimés par le public, les raisons et considérations sur lesquelles la décision est fondée, y compris l’information concernant le processus de participation du public. Les autorisations prennent dûment en compte les résultats des consultations et les informations recueillies en vertu des articles 6 à 9 de la loi précitée. Toute décision d'autorisation reprend les mesures pour éviter, prévenir ou réduire et, si possible, compenser des incidences négatives notables sur l'environnement, ainsi que, le cas échéant des mesures de suivi. Les types de paramètres devant faire l'objet d'un suivi et la durée du suivi sont proportionnés à la nature, à la localisation et à la dimension du projet et à l'importance de ses incidences sur l'environnement. Le cas échéant, ces informations comprennent également les commentaires reçus des États membres affectés dont question à l’article 9 de la loi précitée.
+
+La décision est notifiée, le cas échéant, aux États membres dont question à l’article 9 de la loi du 15 mai 2018 relative aux évaluations des incidences sur l'environnement.

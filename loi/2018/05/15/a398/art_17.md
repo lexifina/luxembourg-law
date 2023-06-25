@@ -1,0 +1,9 @@
+# Art. 17. Conditions d'exploitation et d'aménagement
+
+Après réception de l'avant-projet détaillé et des données visées au paragraphe 2 de l’article 15, le ministre ayant dans ses attributions l'environnement détermine les conditions d'aménagement et d'exploitation visant l'environnement humain et naturel, telles que la protection de l'air, de l'eau, du sol, de la faune et de la flore, la lutte contre les vibrations, l'utilisation rationnelle de l'énergie, la gestion des déchets et la protection contre le bruit. Cette décision intègre la conclusion motivée et prend en compte les résultats des consultations et les informations recueillies en vertu des articles 7 à 9, 13 et 14. Elle comprend également les mesures envisagées pour éviter, prévenir ou réduire et, si possible, compenser des incidences négatives notables sur l’environnement, ainsi que, le cas échéant, des mesures de suivi. Les types de paramètres devant faire l'objet d'un suivi et la durée du suivi sont proportionnés à la nature, à la localisation et à la dimension du projet et à l'importance de ses incidences sur l'environnement.
+
+Le ministre ayant dans ses attributions l'environnement est habilité à demander au maître d'ouvrage des informations supplémentaires afin de fixer les conditions d'aménagement et d'exploitation.
+
+Les conditions d'aménagement et d'exploitation visant l'environnement humain et naturel peuvent être modifiées ou complétées en cas de nécessité dûment motivée.
+
+Le ministre ayant l’Environnement dans ses attributions prend sa décision dans les 180 jours à partir de la réception des informations visées à l’alinéa 1er. Dès la réception de ces informations, il est habilité pendant 90 jours à demander au maître d’ouvrage des informations supplémentaires afin de fixer les conditions d’aménagement et d’exploitation. Cette demande suspend le délai jusqu’à réception des informations supplémentaires.
