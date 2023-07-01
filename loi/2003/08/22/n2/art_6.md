@@ -1,0 +1,3 @@
+# Art. 6. - Accès à l'information
+
+Le Ombudsman peut demander, par écrit ou oralement, au service visé par l'enquête tous les renseignements qu'il juge nécessaires. Le service visé est obligé de remettre au Ombudsman dans les délais fixés par celui-ci tous les dossiers concernant l'affaire en question. Les Ministres et toutes autorités publiques visées au premier article doivent faciliter la tâche du Ombudsman. Ils doivent autoriser les fonctionnaires, employés et ouvriers placés sous leur autorité à répondre aux questions du Ombudsman. Le caractère secret ou confidentiel des pièces dont il demande la communication ne peut lui être opposé sauf en matière de secret concernant la défense nationale, de sûreté de l'Etat ou de politique extérieure.

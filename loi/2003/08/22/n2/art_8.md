@@ -1,0 +1,3 @@
+# Art. 8. - Publication d'un rapport d'activités
+
+Le Ombudsman présente annuellement à la Chambre des députés un rapport dans lequel il établit le bilan de son activité. Il peut en plus présenter des rapports trimestriels intermédiaires s'il l'estime nécessaire. Ces rapports contiennent les recommandations que le Ombudsman juge utiles et exposent les difficultés éventuelles que celui-ci a rencontrées dans l'exercice de sa fonction. Les rapports sont rendus publics par la Chambre des députés. Le Ombudsman peut être entendu soit à sa demande, soit à la demande de la Chambre, selon les modalités fixées par celle-ci.
