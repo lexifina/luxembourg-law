@@ -2,17 +2,17 @@
 
 (1) En vue de suivre l’évolution de la propagation du virus SARS-CoV-2 et les effets des vaccins contre la maladie Covid-19, sont autorisés des traitements de données à caractère personnel au travers de la mise en place d’un système d’information pour les finalités suivantes :
 
-- 1° détecter, évaluer, surveiller et combattre la pandémie de Covid-19 ;
+- 1° détecter, évaluer et surveiller la présence du virus SARS-CoV-2 au Luxembourg et combattre la maladie Covid-19 ;
 
-- 1°bis acquérir les connaissances fondamentales sur la propagation et l’évolution de cette pandémie, y inclus au travers de suivis statistiques, d’études et de recherche ;
+- 1°bis acquérir les connaissances fondamentales sur la propagation et l’évolution de cette maladie , y inclus au travers de suivis statistiques, d’études et de recherche ;
 
 - 2° garantir aux citoyens l’accès aux soins et aux moyens de protection contre la maladie Covid-19 ;
 
-- 2°bis suivre et évaluer de manière continue l’efficacité et la sécurité des vaccins contre la Covid-19 ainsi que l’évolution de l’état de santé des personnes vaccinées ;
+- 2°bis suivre et évaluer de manière continue l’efficacité et la sécurité des vaccins contre la maladie Covid-19 ainsi que l’évolution de l’état de santé des personnes vaccinées ;
 
 - 2°ter suivre et évaluer le programme de dépistage à grande échelle et le programme de vaccination ;
 
-- 3° créer les cadres organisationnel et professionnel requis pour surveiller et combattre la pandémie de Covid-19 ;
+- 3° créer les cadres organisationnel et professionnel requis pour surveiller et combattre la maladie Covid-19 ;
 
 - 4° répondre aux demandes d’informations et aux obligations de communication d’informations provenant d’autorités de santé européennes ou internationales.
 
@@ -66,11 +66,9 @@
 
 - 5° Les vaccinateurs ou les personnes placées sous leur responsabilité enregistrent sans délai les données visées au point 3° a) et b).
 
-(3) Seuls les médecins et professionnels de la santé ainsi que les fonctionnaires, employés ou les salariés mis à disposition du ministre ayant la Santé dans ses attributions en application de l’article L. 132-1 du Code du travail ou toute autre personne , nommément désignés à cet effet par le directeur de la santé, sont autorisés à accéder aux données relatives à la santé des personnes infectées ou à haut risque d’être infectées. Ils accèdent aux données relatives à la santé dans la stricte mesure où l’accès est nécessaire à l’exécution des missions légales ou conventionnelles qui leur sont confiées pour prévenir et combattre la pandémie de Covid-19 et sont astreints au secret professionnel dans les conditions et sous les peines prévues à l’article 458 du Code pénal.
-
 (3bis) Sans préjudice du paragraphe 2, 2°bis et 3° c), l’Inspection générale de la sécurité sociale est destinataire des données traitées qu’elle pseudonymise pour les fins énoncées au paragraphe 6.
 
-(5) Sans préjudice du paragraphe 2, point 3° et des paragraphes 3bis , les données à caractère personnel traitées sont pseudonymisées au plus tard à l’issue d’une durée de six mois après leur collecte pour une période de trois ans à l’issue de laquelle elles sont anonymisées. Les données de journalisation qui comprennent les traces et logs fonctionnels permettant la traçabilité des accès et actions au sein du système d’information suivent le même cycle de vie que les données auxquelles elles se rapportent. Les accès et actions réalisés sont datés et comportent l’identification de la personne qui a consulté les données ainsi que le contexte de son intervention.
+(5) Sans préjudice du paragraphe 2, point 3° et du paragraphe 3bis , les données à caractère personnel traitées sont pseudonymisées au plus tard à l’issue d’une durée de six mois après leur collecte pour une période de trois ans à l’issue de laquelle elles sont anonymisées. Les données de journalisation qui comprennent les traces et logs fonctionnels permettant la traçabilité des accès et actions au sein du système d’information suivent le même cycle de vie que les données auxquelles elles se rapportent. Les accès et actions réalisés sont datés et comportent l’identification de la personne qui a consulté les données ainsi que le contexte de son intervention.
 
 Par dérogation à l’alinéa 1er, les données des personnes sont anonymisées avant leur communication aux autorités de santé européennes ou internationales.
 
