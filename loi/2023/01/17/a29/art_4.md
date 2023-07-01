@@ -1,0 +1,3 @@
+# Art. 4.
+
+Les articles de la Constitution révisée, conformément à la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, à la loi du 17 janvier 2023 portant révision des chapitres Ier, II, III, V, VII, VIII, IX, X, XI et XII, à la loi du 17 janvier 2023 portant révision du chapitre II de la Constitution, et à la présente loi, sont renumérotés, et les renvois sont adaptés, tout en remplaçant les termes dans les conditions de l’article 113, alinéa 2, de la Constitution par ceux de à la majorité qualifiée. Le texte figurant en annexe à la présente loi constitue le texte de la Constitution du Grand- Duché de Luxembourg.
