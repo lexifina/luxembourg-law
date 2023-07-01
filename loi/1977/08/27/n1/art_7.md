@@ -1,0 +1,5 @@
+# Art. 7.
+
+La période de congé spécial du fonctionnaire qui réintègre le service de l’Etat sans avoir droit à une pension immédiate ou différée du chef de ses services auprès d’une institution, est mise en compte, comme temps de service pour la détermination du droit de la pension nationale et pour le calcul du montant de celle-ci conformément à la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat à condition que l’institution internationale ou le fonctionnaire verse au Trésor une somme de rachat. Cette période est complétée, le cas échéant, par des périodes mises en compte par l’institution internationale et réalisées par l’intéressé en dehors d’un congé spécial tel que prévu à l’article 3.
+
+Le montant du rachat est fixé par annuité rachetée à seize pour cent du traitement que le fonctionnaire obtient lors de sa réintégration, majoré des intérêts composés de quatre pour cent l’an. Le taux de seize pour cent, étant égal à la somme des parts de l’intéressé et de l’employeur qui aurait été versée sous le régime général de pension, suivra l’évolution des taux fixés pour ces parts.
