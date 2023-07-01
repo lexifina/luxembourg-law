@@ -1,0 +1,3 @@
+# Art. 37. Missions
+
+Outre les missions générales définies à l’article 4, le LISER a comme mission spécifique de développer et de valoriser la recherche fondamentale et appliquée en sciences sociales pour répondre aux défis sociétaux, ainsi qu’aux besoins sociaux, économiques et spatiaux. Dans le dessein de contribuer à un développement socio-économique durable fondé sur la connaissance et à l’amélioration de la qualité de vie de la population, le LISER contribue à éclairer et à informer la société, ainsi qu’à éclairer l’action des pouvoirs publics et des acteurs socio-économiques, au niveau national et international.
