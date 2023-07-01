@@ -1,3 +1,9 @@
 # Art. 64.
 
-Chaque année, avant le 15 octobre, le président du tribunal administratif adresse au ministre de la Justice un rapport relatif au fonctionnement du tribunal pendant l’année judiciaire écoulée avec un relevé des affaires en instance et des affaires jugées.
+(1) Avant le 15 février de chaque année, le président du tribunal administratif communique au Conseil national de la justice et au ministre de la justice un rapport d’activités portant sur :
+
+- 1° le fonctionnement du tribunal pendant l’année judiciaire écoulée ;
+
+- 2° les statistiques qui précisent le nombre des affaires en instance, le nombre des affaires jugées et la durée des affaires.
+
+(2) Les rapports d’activités sont rendus publics.
