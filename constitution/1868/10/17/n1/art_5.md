@@ -1,5 +1,5 @@
 # Art. 5.
 
-(1) Le Grand-Duc de Luxembourg est majeur à l'âge de dix-huit ans accomplis. Lorsqu'il accède au trône, il prête, aussitôt que possible, en présence de la Chambre des Députés ou d'une députation nommée par elle, le serment suivant :
+Le Grand-Duché de Luxembourg participe à l’intégration européenne.
 
-(2) «Je jure d'observer la Constitution et les lois du Grand-Duché de Luxembourg, de maintenir l'indépendance nationale et l'intégrité du territoire ainsi que les libertés publiques et individuelles.»
+L’exercice de pouvoirs de l’État peut être transféré à l’Union européenne et à des institutions internationales par une loi adoptée dans les conditions de l’article 131, alinéa 2, de la Constitution.

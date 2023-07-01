@@ -1,3 +1,3 @@
 # Art. 27.
 
-Chacun a le droit d’adresser aux autorités publiques, des pétitions signées par une ou plusieurs personnes. Les autorités constituées ont seules le droit d’adresser des pétitions en nom collectif.
+Les partis politiques concourent à la formation de la volonté populaire et à l’expression du suffrage universel. Ils expriment le pluralisme démocratique.

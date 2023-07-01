@@ -1,7 +1,5 @@
 # Art. 65.
 
-La Chambre vote sur l'ensemble de la loi. Ce vote intervient toujours par appel nominal.
+Le mandat de député est incompatible avec la fonction de membre du Gouvernement et celle de membre du Conseil d’État.
 
-À la demande de cinq députés au moins, le vote sur l'ensemble de la loi peut être précédé par un vote portant sur un ou plusieurs articles de la loi.
-
-Le vote par procuration est admis. Nul ne peut toutefois recevoir plus d'une procuration.
+Cette même incompatibilité s’applique aux emplois et fonctions publics à déterminer par une loi adoptée à la majorité qualifiée. Elle peut être étendue à d’autres mandats politiques à déterminer par une loi adoptée à la majorité qualifiée.

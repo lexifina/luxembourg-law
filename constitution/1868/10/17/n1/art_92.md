@@ -1,3 +1,3 @@
 # Art. 92.
 
-Les traitements des membres de l’ordre judiciaire sont fixés par la loi.
+Le Gouvernement détermine son organisation et son fonctionnement par voie de règlement interne, approuvé par arrêté grand-ducal, à l’exception des matières que la Constitution réserve à la loi.

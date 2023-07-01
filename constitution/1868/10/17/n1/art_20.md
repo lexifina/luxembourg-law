@@ -1,3 +1,3 @@
 # Art. 20.
 
-Nul ne peut être contraint de concourir d’une manière quelconque aux actes et aux cérémonies d’un culte ni d’en observer les jours de repos.
+Toute personne a droit au respect de sa vie privée.

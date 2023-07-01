@@ -1,3 +1,5 @@
 # Art. 18.
 
-La peine de mort ne peut être établie.
+Toute personne a droit à ce que sa cause soit portée devant la juridiction prévue par la loi.
+
+Nul ne peut être distrait contre son gré du juge que la loi lui assigne.

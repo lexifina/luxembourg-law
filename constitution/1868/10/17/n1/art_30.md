@@ -1,3 +1,5 @@
 # Art. 30.
 
-Nulle autorisation préalable n’est requise pour exercer des poursuites contre les fonctionnaires publics, pour faits de leur administration, sauf ce qui est statué à l’égard des membres du Gouvernement.
+Toute personne a droit à l’inviolabilité de ses communications.
+
+Aucune restriction ne peut être apportée à ce droit, sauf dans les cas prévus par la loi et sous les conditions et contrôles qu’elle détermine.

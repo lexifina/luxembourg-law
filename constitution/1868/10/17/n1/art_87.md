@@ -1,3 +1,3 @@
 # Art. 87.
 
-Il est pourvu par une loi à l’organisation d’une Cour supérieure de justice.
+Le Gouvernement dirige la politique générale de l’État.

@@ -1,3 +1,3 @@
 # Art. 25.
 
-La Constitution garantit le droit de s'assembler paisiblement et sans armes, dans le respect des lois qui règlent l'exercice de ce droit, sans pouvoir le soumettre à une autorisation préalable. - Cette disposition ne s'applique pas aux rassemblements en plein air, politiques, religieux ou autres ; ces rassemblements restent entièrement soumis aux lois et règlements de police.
+Toute personne a le droit, dans le respect de la loi, à la liberté de réunion pacifique. Ce droit ne peut être soumis à autorisation préalable que pour des rassemblements en plein air dans un lieu accessible au public.

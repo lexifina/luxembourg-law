@@ -1,5 +1,3 @@
 # Art. 74.
 
-Le Grand-Duc peut dissoudre la Chambre.
-
-Il est procédé à de nouvelles élections dans les trois mois au plus tard de la dissolution.
+Les membres du Gouvernement ont entrée dans la Chambre des Députés et doivent être entendus quand ils le demandent.

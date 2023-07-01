@@ -1,3 +1,3 @@
 # Art. 34.
 
-Le Grand-Duc promulgue les lois dans les trois mois du vote de la Chambre.
+La sécurité sociale, la protection de la santé et les droits des travailleurs sont réglés par la loi quant à leurs principes.

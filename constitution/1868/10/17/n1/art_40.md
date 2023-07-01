@@ -1,3 +1,3 @@
 # Art. 40.
 
-Le Roi Grand-Duc a le droit de conférer des titres de noblesse, sans pouvoir jamais y attacher aucun privilège.
+L’État veille à ce que toute personne puisse vivre dignement et disposer d’un logement approprié.

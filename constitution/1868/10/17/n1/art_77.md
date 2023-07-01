@@ -1,3 +1,3 @@
 # Art. 77.
 
-Le Roi Grand-Duc nomme et révoque les membres du Gouvernement.
+Chaque député a le droit de soumettre des propositions de loi à la Chambre des Députés.

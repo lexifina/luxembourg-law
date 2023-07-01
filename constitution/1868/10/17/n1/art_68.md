@@ -1,3 +1,5 @@
 # Art. 68.
 
-Aucune action, ni civile, ni pénale, ne peut être dirigée contre un député à l’occasion des opinions et votes émis par lui dans l’exercice de ses fonctions.
+La Chambre des Députés détermine par son Règlement le mode suivant lequel elle exerce ses attributions ainsi que son organisation matérielle et financière, y compris le statut de ses fonctionnaires.
+
+Le Règlement de la Chambre des Députés détermine les mesures d’exécution des lois qui concernent son organisation.

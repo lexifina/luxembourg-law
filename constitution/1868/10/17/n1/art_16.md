@@ -1,3 +1,3 @@
 # Art. 16.
 
-Nul ne peut être privé de sa propriété que pour cause d’utilité publique et moyennant juste indemnité, dans les cas et de la manière établis par la loi.
+Tout non-Luxembourgeois qui se trouve sur le territoire du Grand-Duché, jouit de la protection accordée aux personnes et aux biens, sauf les exceptions établies par la loi.

@@ -1,9 +1,5 @@
 # Art. 23.
 
-L'État veille à l'organisation de l'instruction primaire, qui sera obligatoire et gratuite et dont l'accès doit être garanti àtoute personne habitant le Grand-Duché. L'assistance médicale et sociale sera réglée par la loi.
+La liberté de manifester ses opinions et la liberté de la presse sont garanties, hormis les infractions commises à l’occasion de l’exercice de ces libertés.
 
-Il crée des établissements d'instruction moyenne gratuite et les cours d'enseignement supérieur nécessaires.
-
-La loi détermine les moyens de subvenir à l'instruction publique ainsi que les conditions de surveillance par le Gouvernement et les communes ; elle règle pour le surplus tout ce qui est relatif à l'enseignement et prévoit, selon des critères qu'elle détermine, un système d'aides financières en faveur des élèves et étudiants.
-
-Chacun est libre de faire ses études dans le Grand-Duché ou à l'étranger et de fréquenter les universités de son choix, sauf les dispositions de la loi sur les conditions d'admission aux emplois et à l'exercice de certaines professions.
+La censure ne peut pas être établie.

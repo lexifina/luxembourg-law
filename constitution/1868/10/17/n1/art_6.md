@@ -1,3 +1,3 @@
 # Art. 6.
 
-Si à la mort du Roi Grand-Duc Son successeur est mineur, la régence est exercée conformément au pacte de famille.
+Toute cession, tout échange, toute adjonction de territoire ne peut avoir lieu qu’en vertu d’une loi adoptée à la majorité qualifiée.

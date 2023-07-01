@@ -1,5 +1,5 @@
 # Art. 62.
 
-Toute résolution est prise à la majorité absolue des suffrages. En cas de partage des voix, la proposition mise en délibération est rejetée.
+La Chambre des Députés représente le pays. Elle exerce le pouvoir législatif. Elle contrôle l’action du Gouvernement.
 
-La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
+Les députés votent sans en référer à leurs commettants et ne peuvent avoir en vue que l’intérêt général.

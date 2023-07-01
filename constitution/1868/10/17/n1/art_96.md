@@ -1,3 +1,3 @@
 # Art. 96.
 
-Tout ce qui concerne la force armée est réglé par la loi.
+L’organisation du Conseil d’État et la manière d’exercer ses attributions sont réglées par la loi.

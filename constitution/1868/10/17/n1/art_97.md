@@ -1,3 +1,5 @@
 # Art. 97.
 
-L'organisation et les attributions des forces de l'ordre font l'objet d'une loi.
+Le pouvoir judiciaire est exercé par les cours et tribunaux.
+
+Les arrêts et jugements sont exécutés au nom du Grand-Duc.

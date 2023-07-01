@@ -1,9 +1,7 @@
 # Art. 57.
 
-(1) La Chambre vérifie les pouvoirs de ses membres et juge les contestations qui s'élèvent à ce sujet.
+(1) Le Grand-Duc exerce la fonction de Chef de l’État à partir du moment où il a prêté devant la Chambre des Députés le serment suivant : « Je jure d’observer la Constitution et les lois et de remplir fidèlement mes attributions constitutionnelles. ».
 
-(2) À leur entrée en fonctions, ils prêtent le serment qui suit :
+(2) Le serment est prêté au plus tard le dixième jour qui suit le décès, l’abdication ou la désignation du Grand-Duc dans les conditions de l’article 56, paragraphe 3.
 
-«Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l'État.»
-
-(3) Ce serment est prêté en séance publique, entre les mains du président de la Chambre.
+(3) Le refus de prêter le serment comporte renonciation à la fonction de Chef de l’État.

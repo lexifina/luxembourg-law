@@ -1,3 +1,5 @@
 # Art. 81.
 
-En aucun cas, l’ordre verbal ou écrit du Roi Grand-Duc ne peut soustraire un membre du Gouvernement à la responsabilité.
+La Chambre des Députés a le droit d’enquête. La loi règle l’exercice de ce droit.
+
+Une commission d’enquête doit être instituée si un tiers au moins des députés le demande.

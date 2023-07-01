@@ -1,3 +1,5 @@
 # Art. 2.
 
-Les limites et chefs-lieux des arrondissements judiciaires ou administratifs, des cantons et des communes ne peuvent être changés qu’en vertu d’une loi.
+Le Grand-Duché de Luxembourg est placé sous le régime de la démocratie parlementaire. Il a la forme d’une monarchie constitutionnelle.
+
+Il est fondé sur les principes d’un État de droit et sur le respect des droits de l’Homme.

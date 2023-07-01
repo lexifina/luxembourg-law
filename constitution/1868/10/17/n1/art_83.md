@@ -1,3 +1,5 @@
 # Art. 83.
 
-Le Roi Grand-Duc ne peut faire grâce au membre du Gouvernement condamné, que sur la demande de la Chambre.
+L’Ombudsman est nommé par le Grand-Duc sur proposition de la Chambre des Députés, votée à la majorité qualifiée prévue à l’article 71, alinéa 3.
+
+Les attributions et les règles de fonctionnement de l’Ombudsman et les relations avec la Chambre des Députés sont déterminées par la loi.

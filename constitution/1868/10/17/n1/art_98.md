@@ -1,3 +1,3 @@
 # Art. 98.
 
-Il peut être formé une garde civique, dont l’organisation est réglée par la loi.
+Les juridictions de l’ordre judiciaire ont compétence générale en toute matière, à l’exception des attributions conférées par la Constitution à d’autres juridictions à compétence particulière.
