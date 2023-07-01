@@ -1,0 +1,19 @@
+# Art. 22.
+
+À la suite de l’article 46 de la même loi, il est inséré un article 46bis nouveau, qui prend la teneur suivante :
+
+Art. 46bis.
+
+(1) Les conseils d’administration en fonction le jour de l’entrée en vigueur de la loi du 7 juin 2023 portant modification de la loi du 3 décembre 2014 ayant pour objet l’organisation des centres de recherche publics terminent leurs mandats dans le délai fixé par la décision de nomination respective du Gouvernement en conseil.
+
+(2) Le président de la délégation du personnel complète la composition de chaque conseil d’administration en fonction avec effet immédiat.
+
+(3) La première proposition par le conseil de concertation du membre choisi en son sein prévue à l’article 7, paragraphe 2, doit être faite par le conseil de concertation respectif au plus tard trois mois après l’entrée en vigueur de la loi précitée du 7 juin 2023. Faute de proposition par le conseil de concertation endéans ce délai, le ministre propose au Gouvernement en conseil un membre du conseil de concertation pour compléter le conseil d’administration. Le mandat du membre adjoint au conseil d’administration en vertu des dispositions du présent paragraphe n’est pas pris en compte pour l’application de la limitation du nombre de mandats des membres du conseil d’administration prévue à l’article 7, paragraphe 5.
+
+(4) Les centres de recherche publics engagent et assurent l’entrée en fonction effective de leur directeur général adjoint respectif au plus tard douze mois après l’entrée en vigueur de la loi précitée du 7 juin 2023.
+
+(5) Les centres de recherche publics engagent et assurent l’entrée en fonction effective de leur directeur administratif et financier respectif au plus tard douze mois après l’entrée en vigueur de la loi précitée du 7 juin 2023.
+
+(6) Nonobstant le paragraphe 5, et par dérogation à l’article 12, paragraphe 6, les conseils d’administration peuvent décider de nommer à la fonction de directeur administratif et financier un membre du personnel du centre de recherche public respectif qui, au moment de l’entrée en vigueur de la loi précitée du 7 juin 2023 et conformément à l’organigramme applicable à cette date, exerce la tâche et remplit les conditions visées à l’article 12, paragraphe 5. Cette dérogation prend fin trois mois après l’entrée en vigueur de la loi précitée du 7 juin 2023.
+
+(7) Par dérogation à l’article 12, paragraphe 10, les conseils d’administration peuvent décider de nommer à la fonction respectivement de directeur des systèmes d’information et de directeur des ressources humaines un membre du personnel du centre de recherche public respectif qui, au moment de l’entrée en vigueur de la loi précitée du 7 juin 2023 et conformément à l’organigramme applicable à cette date, exerce les tâches respectivement visées à l’article 12, paragraphe 7, et remplit les conditions respectivement visées à l’article 12, paragraphes 8 et 9. Cette dérogation prend fin trois mois après l’entrée en vigueur de la loi précitée du 7 juin 2023.
