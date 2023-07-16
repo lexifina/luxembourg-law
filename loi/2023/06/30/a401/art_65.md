@@ -1,0 +1,7 @@
+# Art. 65.
+
+Après l’article 59 de la même loi, il est inséré un article 59bis nouveau, libellé comme suit :
+
+Art. 59bis.
+
+Les fonctionnaires, employés et salariés de l’État nommés, affectés, détachés ou transférés au service de la scolarisation des élèves à besoins spécifiques auprès du Ministère de l’éducation nationale, de l’enfance et de la jeunesse, avant l’entrée en vigueur de la loi du 30 juin 2023 portant : 1° modification a) de la loi modifiée du 25 juin 2004 portant organisation des lycées ; b) de la loi modifiée du 13 juillet 2006 portant organisation du Centre psycho-social et d’accompagnement scolaires ; c) de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental ; d) de la loi du 20 juillet 2018 portant création de Centres de compétences en psycho-pédagogie spécialisée en faveur de l’inclusion scolaire ; 2° abrogation de la loi modifiée du 15 juillet 2011 visant l’accès aux qualifications scolaires et professionnelles des élèves à besoins éducatifs particuliers, sont repris dans le cadre du personnel du SNEI.
