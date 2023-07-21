@@ -1,0 +1,15 @@
+# Art. 7-1.
+
+(1) Seront punis d’un emprisonnement de huit jours à cinq ans et d’une amende de 500 euros à 250.000 euros, ou de l’une de ces peines seulement, ceux qui ne respectent pas le lieu de culture visé à l’article 7-2, paragraphe 2, et ceux qui possèdent plus de quatre plantes de cannabis par communauté domestique.
+
+(2) Seront punis d’un emprisonnement de huit jours à six mois et d’une amende de 251 euros à 2.500 euros, ou de l’une de ces peines seulement, ceux qui auront, de manière illicite, pour leur seul usage personnel, transportés, détenus ou acquis à titre onéreux ou à titre gratuit du cannabis ou des produits dérivés de la même plante d’une quantité supérieure à 3 grammes.
+
+(3) Seront punis d’une amende de 251 euros à 25.000 euros, ceux qui auront facilité à autrui l’usage, à titre onéreux ou à titre gratuit, de cannabis ou des produits dérivés de la même plante, soit en procurant à cet effet un local, soit par tout autre moyen.
+
+Cette peine ne s’applique pas aux médecins, pharmaciens et autres dépositaires légalement autorisés à détenir du cannabis ou des produits dérivés de la même plante, qui auront prescrit, détenu ou délivré ces substances à titre de cannabis médicinal conformément aux dispositions de l’article 30-2, ni aux pharmaciens qui auront exécuté une ordonnance médicale établie dans le cadre du programme de traitement de la toxicomanie par substitution visé à l’article 8.
+
+(4) Seront punis d’un emprisonnement de huit jours à six mois et d’une amende de 251 euros à 2.500 euros, ou de l’une de ces peines seulement, ceux qui auront fait usage devant un ou des mineurs ou fait usage, de manière illicite, dans les établissements scolaires et lieux de travail de cannabis ou des produits dérivés de la même plante, y compris ces mêmes substances cultivées conformément aux dispositions de l’article 7-2.
+
+(5) Seront punis d’un emprisonnement de six mois à deux ans et d’une amende de 500 euros à 25.000 euros, ou de l’une de ces peines seulement, ceux qui auront, de manière illicite, offert en vente ou de quelque autre façon offert de cannabis ou des produits dérivés de la même plante à des mineurs, y compris ces mêmes substances cultivées conformément aux dispositions de l’article 7-2, ainsi que le médecin ou médecin-dentiste, pharmacien ou autre dépositaire légalement autorisé à détenir ces substances, qui en aura, de manière illicite, fait usage pour lui-même.
+
+(6) Seront punis d’un emprisonnement de un an à cinq ans et d’une amende de 500 euros à 125.000 euros, ou de l’une de ces peines seulement, le médecin, médecin-dentiste, pharmacien ou autre dépositaire légalement autorisé à détenir du cannabis ou des produits dérivés de la même plante, qui aura, de manière illicite, fait usage de ces substances pour lui-même dans un établissement pénitentiaire, dans un établissement d’enseignement, dans un centre de services sociaux ou dans leur voisinage immédiat ou en un autre lieu où des écoliers ou des étudiants se livrent à des activités éducatives, sportives ou sociales.
