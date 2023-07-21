@@ -1,0 +1,77 @@
+# Art. 5.
+
+À la suite de l’article 7 de la même loi, sont insérés les articles 7-1, 7-2, et 7-3 nouveaux, libellés comme suit :
+
+Art. 7-1.
+
+(1) Seront punis d’un emprisonnement de huit jours à cinq ans et d’une amende de 500 euros à 250.000 euros, ou de l’une de ces peines seulement, ceux qui ne respectent pas le lieu de culture visé à l’article 7-2, paragraphe 2, et ceux qui possèdent plus de quatre plantes de cannabis par communauté domestique.
+
+(2) Seront punis d’un emprisonnement de huit jours à six mois et d’une amende de 251 euros à 2.500 euros, ou de l’une de ces peines seulement, ceux qui auront, de manière illicite, pour leur seul usage personnel, transportés, détenus ou acquis à titre onéreux ou à titre gratuit du cannabis ou des produits dérivés de la même plante d’une quantité supérieure à 3 grammes.
+
+(3) Seront punis d’une amende de 251 euros à 25.000 euros, ceux qui auront facilité à autrui l’usage, à titre onéreux ou à titre gratuit, de cannabis ou des produits dérivés de la même plante, soit en procurant à cet effet un local, soit par tout autre moyen.
+
+Cette peine ne s’applique pas aux médecins, pharmaciens et autres dépositaires légalement autorisés à détenir du cannabis ou des produits dérivés de la même plante, qui auront prescrit, détenu ou délivré ces substances à titre de cannabis médicinal conformément aux dispositions de l’article 30-2, ni aux pharmaciens qui auront exécuté une ordonnance médicale établie dans le cadre du programme de traitement de la toxicomanie par substitution visé à l’article 8.
+
+(4) Seront punis d’un emprisonnement de huit jours à six mois et d’une amende de 251 euros à 2.500 euros, ou de l’une de ces peines seulement, ceux qui auront fait usage devant un ou des mineurs ou fait usage, de manière illicite, dans les établissements scolaires et lieux de travail de cannabis ou des produits dérivés de la même plante, y compris ces mêmes substances cultivées conformément aux dispositions de l’article 7-2.
+
+(5) Seront punis d’un emprisonnement de six mois à deux ans et d’une amende de 500 euros à 25.000 euros, ou de l’une de ces peines seulement, ceux qui auront, de manière illicite, offert en vente ou de quelque autre façon offert de cannabis ou des produits dérivés de la même plante à des mineurs, y compris ces mêmes substances cultivées conformément aux dispositions de l’article 7-2, ainsi que le médecin ou médecin-dentiste, pharmacien ou autre dépositaire légalement autorisé à détenir ces substances, qui en aura, de manière illicite, fait usage pour lui-même.
+
+(6) Seront punis d’un emprisonnement de un an à cinq ans et d’une amende de 500 euros à 125.000 euros, ou de l’une de ces peines seulement, le médecin, médecin-dentiste, pharmacien ou autre dépositaire légalement autorisé à détenir du cannabis ou des produits dérivés de la même plante, qui aura, de manière illicite, fait usage de ces substances pour lui-même dans un établissement pénitentiaire, dans un établissement d’enseignement, dans un centre de services sociaux ou dans leur voisinage immédiat ou en un autre lieu où des écoliers ou des étudiants se livrent à des activités éducatives, sportives ou sociales.
+
+Art. 7-2.
+
+(1) La culture de cannabis est autorisée jusqu’à quatre plantes de cannabis par communauté domestique à partir de semences et à condition qu’elle soit exclusivement effectuée par une personne majeure. Constituent une communauté domestique, toutes les personnes qui vivent dans le cadre d’un foyer commun et qui disposent d’un budget commun.
+
+Les semences visées à l’alinéa 1er sont soumises à un étiquetage comprenant au moins les coordonnées du producteur ou éleveur, le nombre de semences ainsi qu’un avertissement sanitaire. Les informations essentielles relatives aux étiquettes des semences sont déterminées par règlement grand-ducal.
+
+(2) Le lieu de culture d’une ou plusieurs plantes de cannabis est limité au domicile ou à la résidence habituelle d’une personne majeure faisant partie de la communauté domestique. Les plantes ne doivent pas être visibles à partir de la voie publique.
+
+(3) Toute personne majeure est autorisée à consommer et à détenir du cannabis ou des produits dérives de la même plante, cultivés conformément au paragraphe 1er, alinéa 1er, à son domicile ou à sa résidence habituelle.
+
+Art. 7-3.
+
+(1) Seront punis d’une amende de 25 euros à 500 euros, ceux qui auront, de manière illicite, fait usage de cannabis ou des produits dérivés de la même plante, dans tout autre lieu que celui prévu à l’article 7-2, paragraphe 3, ou ceux qui auront, de manière illicite, pour leur seul usage personnel, transportés, détenus ou acquis à titre onéreux ou à titre gratuit, une quantité inférieure ou égale à 3 grammes de ces substances. Cette amende présente le caractère d’une peine de police.
+
+Cette peine ne s’applique pas aux personnes à qui du chanvre (cannabis) ou des produits dérivés de la même plante ont été prescrits et délivrés à titre de cannabis médicinal conformément aux dispositions de l’article 30-2.
+
+(2) Lorsque les officiers de police judiciaire ou les agents de police judiciaire de la Police grand-ducale et de l’Administration des douanes et accises constatent que des personnes physiques ne respectent pas les infractions prévues au paragraphe 1er, alinéa 1er, ils peuvent émettre un avertissement taxé d’un montant de 145 euros, conformément aux dispositions du présent article.
+
+(3) Le décernement de l’avertissement taxé est subordonné à la condition soit que le contrevenant consent à verser immédiatement et sur place entre les mains des membres de la Police grand-ducale ou de l’Administration des douanes et accises préqualifiés la taxe due, soit, lorsque la taxe ne peut pas être perçue sur le lieu même de l’infraction, qu’il s’en acquitte dans le délai lui imparti par sommation.
+
+La perception sur place du montant de la taxe se fait soit en espèces, soit par règlement au moyen des seules cartes de crédit et modes de paiement électronique acceptés à cet effet par les membres de la Police grand-ducale ou de l’Administration des douanes et accises.
+
+Le versement de la taxe dans un délai de quarante-cinq jours, à compter de la constatation de l’infraction, a pour conséquence d’arrêter toute poursuite. Lorsque la taxe a été réglée après ce délai, elle est remboursée en cas d’acquittement, et elle est imputée sur l’amende prononcée et sur les frais de justice éventuels en cas de condamnation.
+
+Lorsque le contrevenant consent à verser immédiatement l’avertissement taxé, il renonce de plein droit à son produit et la destruction du produit est ordonnée par les membres de la Police grand-ducale ou de l’Administration des douanes et accises. En cas de contestation de l’infraction sur place, procès-verbal est dressé et le produit est saisi à des fins d’examen et d’analyse conformément à l’article 3, alinéa 4. Les frais d’examen et d’analyse font partie des frais de justice et sont à charge de la personne poursuivie en cas de condamnation.
+
+(4) L’avertissement taxé est donné d’après des formules spéciales, composées, d’un reçu, d’une copie et d’une souche.
+
+À cet effet est utilisée la formule spéciale visée à l’article 3, alinéa 1er, du règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations pour contrevenants non résidents ainsi qu’aux mesures d’exécution de la législation en matière de mise en fourrière des véhicules et en matière de permis à points, et figurant à l’annexe II – 1 dudit règlement pour les avertissements taxés donnés par les membres de la Police grand-ducale et à l’annexe II – 3 du même règlement pour les avertissements taxés donnés par les membres de l’Administration des douanes et accises. L’agent verbalisant supprime les mentions qui ne conviennent pas. Ces formules, dûment numérotées, sont reliées en carnets de quinze exemplaires.
+
+Toutes les taxes perçues par les membres de la Police grand-ducale ou de l’Administration des douanes et accises sont transmises sans retard à un compte bancaire déterminé de l’Administration de l’enregistrement, des domaines et de la TVA à Luxembourg. Les frais de versement, de virement ou d’encaissement éventuels sont à charge du contrevenant, lorsque la taxe est réglée par versement ou virement bancaire. Elles sont à charge de l’État si le règlement se fait par carte de crédit ou au moyen d’un mode de paiement électronique.
+
+Le reçu est remis au contrevenant, contre le paiement de la taxe due. La copie est remise respectivement au directeur général de la Police grand-ducale et au directeur de l’Administration des douanes et accises. La souche reste dans le carnet de formules. Du moment que le carnet est épuisé, il est renvoyé, avec toutes les souches et les quittances de dépôt y relatives, par les membres de la Police grand-ducale au directeur général de la Police grand-ducale et par les membres de l’Administration des douanes et accises au directeur de l’Administration des douanes et accises. Si une ou plusieurs formules n’ont pas abouti à l’établissement d’un avertissement taxé, elles doivent être renvoyées en entier et porter une mention afférente. En cas de versement ou de virement de la taxe à un compte bancaire, le titre de virement ou de versement fait fonction de souche.
+
+(5) Lorsque le montant de l’avertissement taxé ne peut pas être perçu sur le lieu même de l’infraction, le contrevenant se verra remettre la sommation de payer la taxe dans le délai lui imparti. En cas d’établissement d’un procès-verbal, la copie est annexée audit procès-verbal et sera transmise au procureur d’État.
+
+À cet effet est utilisée la formule spéciale visée à l’article 2, paragraphe 2, du règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations pour contrevenants non résidents ainsi qu’aux mesures d’exécution de la législation en matière de mise en fourrière des véhicules et en matière de permis à points, et figurant à l’annexe II – 2 dudit règlement pour les avertissements taxés donnés par les membres de la Police grand-ducale et à l’annexe II – 4 du même règlement pour les avertissements taxés donnés par les membres de l’Administration des douanes et accises. L’agent verbalisant supprime les mentions qui ne conviennent pas. Ces formules, dûment numérotées, sont reliées en carnets de quinze exemplaires.
+
+Le contrevenant s’en acquittera dans le délai imparti au bureau de la Police grand-ducale ou de l’Administration des douanes et accises lui désigné par l’agent verbalisant, soit par virement de la taxe sur un des comptes bancaires spécialement ouverts à cet effet au nom de la Police grand-ducale ou de l’Administration des douanes et accises.
+
+(6) Chaque unité de la Police grand-ducale ou de l’Administration des douanes et accises doit tenir un registre informatique indiquant les formules mises à sa disposition, les avertissements taxés donnés et les formules annulées. Le directeur général de la Police grand-ducale et le directeur de l’Administration des douanes et accises établissent au début de chaque trimestre, en triple exemplaire, un bordereau récapitulatif portant sur les perceptions du trimestre précédent. Ce bordereau récapitulatif indique les noms et prénoms du contrevenant, son adresse exacte, la date et l’heure de l’infraction et la date du paiement. Un exemplaire de ce bordereau est transmis à l’Administration de l’enregistrement, des domaines et de la TVA, et un autre exemplaire sert de relevé d’information au procureur d’État.
+
+(7) À défaut de paiement ou de contestation de l’avertissement taxé dans le délai de quarante-cinq jours prévu au paragraphe 3, alinéa 3, le contrevenant est déclaré redevable, sur décision écrite du procureur d’État, d’une amende forfaitaire de 300 euros. À cette fin, la Police grand-ducale et l’Administration des douanes et accises informent régulièrement le procureur d’État des avertissements taxés contestés ou non payés dans le délai. La décision d’amende forfaitaire du procureur d’État vaut titre exécutoire. Elle est notifiée au contrevenant par le procureur d’État par lettre recommandée et elle comporte les informations nécessaires sur le droit de réclamer contre cette décision et les modalités d’exercice y afférentes, y compris le compte bancaire de l’Administration de l’enregistrement, des domaines et de la TVA sur lequel l’amende forfaitaire est à payer et le compte bancaire de la Caisse de consignation sur lequel le montant de l’amende forfaitaire est à consigner en cas de réclamation. Copie de la décision d’amende forfaitaire est transmise à l’Administration de l’enregistrement, des domaines et de la TVA.
+
+L’amende forfaitaire est payable dans un délai de trente jours à partir de la date où le contrevenant a accepté la lettre recommandée ou, à défaut, à partir du jour de la présentation de la lettre recommandée ou du jour du dépôt de l’avis par le facteur des postes, sur un compte bancaire déterminé de l’Administration de l’enregistrement, des domaines et de la TVA. À cette fin, cette administration informe régulièrement le procureur d’État des amendes forfaitaires non payés dans le délai.
+
+À défaut de paiement dans le délai prévu à l’alinéa 2 ou de réclamation conformément à l’alinéa 5, l’amende forfaitaire est recouvrée par l’Administration de l’enregistrement, des domaines et de la TVA. Celle-ci bénéficie pour ce recouvrement du droit de procéder à une sommation à tiers détenteur conformément à l’article 8 de la loi modifiée du 27 novembre 1933 concernant le recouvrement des contributions directes, des droits d’accise sur l’eau-de-vie et des cotisations d’assurance sociale.
+
+L’action publique est éteinte par le paiement de l’amende forfaitaire. Sauf en cas de réclamation formée conformément à l’alinéa 5, l’amende forfaitaire se prescrit par deux années révolues à compter du jour de la décision d’amende forfaitaire.
+
+La décision d’amende forfaitaire est considérée comme non avenue si, au cours du délai prévu à l’alinéa 2, le contrevenant notifie au procureur d’État une réclamation écrite, motivée, accompagnée d’une copie de la notification de la décision d’amende forfaitaire ou des renseignements permettant de l’identifier. La réclamation doit encore être accompagnée de la justification de la consignation auprès de la Caisse de consignation du montant de l’amende forfaitaire sur le compte indiqué dans la décision d’amende forfaitaire. Ces formalités sont prescrites sous peine d’irrecevabilité de la réclamation.
+
+En cas de réclamation, le procureur d’État, sauf s’il renonce à l’exercice des poursuites, cite la personne concernée devant le tribunal de police, qui statue sur l’infraction en dernier ressort. En cas de condamnation, le montant de l’amende prononcée ne peut pas être inférieur au montant de l’amende forfaitaire.
+
+En cas de classement sans suite ou d’acquittement, s’il a été procédé à la consignation, le montant de la consignation est restitué à la personne à qui avait été adressé l’avis sur la décision d’amende forfaitaire ou ayant fait l’objet des poursuites. Il est imputé sur l’amende prononcée et sur les frais de justice éventuels en cas de condamnation.
+
+(8) Les données à caractère personnel des personnes concernées par les avertissements taxés émis et payés conformément aux dispositions du présent article sont anonymisées dans un délai d’un an qui commence à courir à partir du jour de l’acquittement de l’avertissement taxé ou de l’amende forfaitaire.
