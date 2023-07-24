@@ -1,0 +1,23 @@
+# Art. 2. Modification de la loi modifiée du 17 mai 2022 portant prise en charge par l’État des frais engendrés par l’utilisation des réseaux de distribution de gaz naturel
+
+L’article 1er de la loi modifiée du 17 mai 2022 portant prise en charge par l’État des frais engendrés par l’utilisation des réseaux de distribution de gaz naturel est modifié comme suit :
+
+- 1° Le paragraphe 1er est modifié comme suit :
+
+  - a) les termes 31 décembre 2023 sont remplacés par les termes 31 décembre 2024 et les termes 115 000 000 euros sont remplacés par les termes 195 000 000 euros ;
+
+  - b) le paragraphe 1er est complété comme suit :
+
+  - « Les clients finals disposant d’un compteur d’un flux horaire maximal égal ou supérieur à 65 mètres cubes peuvent faire une demande auprès du ministre ayant l’Énergie dans ses attributions, ci-après le « ministre », afin de bénéficier de la même prise en charge que celle visée à l’alinéa 1er pour la période du 1er mai 2022 au 31 décembre 2024. La demande est introduite moyennant un formulaire spécifique mis à disposition par le ministre et qui renseigne, à côté des coordonnées du demandeur et du bâtiment concerné, sur les informations suivantes :
+
+    - 1° le nombre total d’unités privatives occupées dans l’immeuble en cause. On entend par « unité privative » au sens de la présente loi, une unité séparée qui est réservée à l’usage d’un occupant ou groupe d’occupants ;
+
+    - 2° le nombre des unités privatives occupées à des fins d’habitation.
+
+  - Le ministre accorde le bénéfice de la mesure visée à l’alinéa 1er aux demandeurs visés à l’alinéa 2 qui établissent qu’au moins 60 pour cent des unités privatives occupées de l’immeuble concerné sont utilisées à des fins d’habitation. Le ministre notifie sa décision dans les vingt jours après réception de la demande au demandeur et en transmet une copie au gestionnaire de réseau de distribution concerné.
+
+  - Le ministre peut contrôler à tout instant, mais au plus tard dans les six mois après la notification de sa décision, la véracité des informations fournies visées à l’alinéa 2. Dans le cadre de ce contrôle, le ministre se réserve le droit de demander la production de toute pièce qu’il juge nécessaire pour pouvoir constater le respect des conditions imposées par la présente loi. » ;
+
+- 2° Au paragraphe 2, la dernière phrase est remplacée comme suit :
+
+- « Il dresse un décompte final par année révolue et transmet celui-ci au ministre au plus tard le 30 juin de l’année civile suivante. ».
