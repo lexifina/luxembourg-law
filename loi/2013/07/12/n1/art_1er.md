@@ -30,7 +30,7 @@ Aux fins de la présente loi, on entend par:
 
 - (9) «commercialisation»: une offre ou un placement, direct ou indirect, à l’initiative du gestionnaire ou pour son compte, de parts ou d’actions d’un FIA qu’il gère, à destination d’investisseurs domiciliés ou ayant leur siège statutaire dans l’Union européenne;
 
-- (10) «contrôle»: le contrôle tel que défini à l’article 1er de la directive 83/349/CEE;
+- (10) «contrôle»: le contrôle tel que défini à l’article 22, paragraphes 1er et 2, de la directive 2013/34/UE ;
 
 - (11) «courtier principal»: un établissement de crédit, une entreprise d’investissement réglementée ou une autre entité soumise à une réglementation prudentielle et à une surveillance continue, offrant des services aux investisseurs professionnels essentiellement pour financer ou exécuter des transactions sur des instruments financiers à titre de contrepartie et qui peut également fournir d’autres services tels que la compensation et le règlement de transactions, des services de conservation, le prêt de titres, les services techniques et le soutien opérationnel sur mesure;
 
@@ -39,8 +39,6 @@ Aux fins de la présente loi, on entend par:
 - (13) «CSSF»: la Commission de Surveillance du Secteur Financier;
 
 - (14) «directive 77/91/CEE»: la directive 77/91/CEE du Conseil du 13 décembre 1976 tendant à coordonner, pour les rendre équivalentes, les garanties qui sont exigées dans les États membres des sociétés au sens de l’article 58, alinéa 2, du traité, en vue de la protection des intérêts tant des associés que des tiers, en ce qui concerne la constitution de la société anonyme ainsi que le maintien et les modifications de son capital;
-
-- (15) «directive 83/349/CEE»: la directive 83/349/CEE du Conseil du 13 juin 1983 fondée sur l’article 54, paragraphe 3 sous g) du traité concernant les comptes consolidés, telle que modifiée;
 
 - (16) «directive 95/46/CE»: la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données;
 
@@ -70,11 +68,13 @@ Aux fins de la présente loi, on entend par:
 
 - (29) «directive 2011/61/UE»: la directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d’investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) n° 1060/2009 et (UE) n° 1095/2010;
 
+- (29-1) «directive 2013/34/UE» : la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil ;
+
 - (30) «effet de levier»: toute méthode par laquelle le gestionnaire accroît l’exposition d’un FIA qu’il gère, que ce soit par l’emprunt de liquidités ou de valeurs mobilières, par des positions dérivées ou par tout autre moyen;
 
 - (31) «émetteur»: un émetteur au sens de l’article 2, paragraphe (1), point d), de la directive 2004/109/CE, qui a son siège statutaire dans l’Union européenne et dont les actions sont admises à la négociation sur un marché réglementé au sens de l’article 4, paragraphe (1), point 14), de la directive 2004/39/CE;
 
-- (32) «entreprise mère»: une entreprise mère au sens des articles 1er et 2 de la directive 83/349/CEE;
+- (32) «entreprise mère»: une entreprise mère au sens de l’article 22, paragraphes 1er à 5, de la directive 2013/34/UE ;
 
 - (33) «établi»:
 
@@ -140,7 +140,7 @@ Aux fins de la présente loi, on entend par:
 
 - (43) «FIA maître», un FIA dans lequel un autre FIA investit ou a une exposition conformément au point (42);
 
-- (44) «filiale»: une entreprise filiale telle que définie aux articles 1er et 2 de la directive 83/349/CEE;
+- (44) «filiale»: une entreprise filiale telle que définie à l’article 22, paragraphes 1er à 5, de la directive 2013/34/UE ;
 
 - (45) «fonds propres»: les fonds propres visés aux articles 56 à 67 de la directive 2006/48/CE. Aux fins de l’application de la présente définition, les articles 13 à 16 de la directive 2006/49/CE s’appliquent par analogie;
 
@@ -166,7 +166,7 @@ Aux fins de la présente loi, on entend par:
 
   - a) une participation, à savoir la détention, directement ou par voie de contrôle, d’au moins 20% du capital ou des droits de vote d’une entreprise;
 
-  - b) un contrôle, à savoir la relation entre une entreprise mère et une filiale telle que visée à l’article 1er de la septième directive 83/349/CEE du Conseil du 13 juin 1983 concernant les comptes consolidés ou une relation similaire entre une personne physique ou morale et une entreprise; aux fins de présent point, une filiale d’une filiale est également considérée comme étant une filiale de l’entreprise mère de ces filiales.
+  - b) un contrôle, à savoir la relation entre une entreprise mère et une filiale telle que visée à l’article 22, paragraphes 1er et 2, de la directive 2013/34/UE ou une relation similaire entre une personne physique ou morale et une entreprise; aux fins de présent point, une filiale d’une filiale est également considérée comme étant une filiale de l’entreprise mère de ces filiales.
 
 - Une situation dans laquelle au moins deux personnes physiques ou morales sont liées en permanence à une même personne par une relation de contrôle est également considérée comme constituant un «lien étroit» entre lesdites personnes;
 

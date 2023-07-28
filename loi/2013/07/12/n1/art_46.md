@@ -2,7 +2,7 @@
 
 (1) Les gestionnaires agréés établis au Luxembourg, dans un autre État membre de l’Union européenne ou dans un pays tiers sont autorisés à commercialiser sur le territoire du Luxembourg, auprès d’investisseurs de détail, des parts ou des actions de FIA qu’ils gèrent conformément à la directive 2011/61/UE, indépendamment du fait que les FIA soient commercialisés sur une base transfrontalière ou non, ou qu’il s’agisse de FIA de l’Union européenne ou de FIA de pays tiers. Dans ce cas, les conditions préalables suivantes doivent être remplies:
 
-- a) Les FIA doivent être soumis dans leur État d’origine à une surveillance permanente qui est exercée par une autorité de contrôle prévue par la loi dans le but d’assurer la protection des investisseurs. Pour les FIA établis au Luxembourg, cette condition est réputée remplie dans le chef des FIA régis par la partie II de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif.
+- a) Les FIA doivent être soumis dans leur État d’origine à une surveillance permanente qui est exercée par une autorité de contrôle prévue par la loi dans le but d’assurer la protection des investisseurs. Pour les FIA établis au Luxembourg, cette condition est réputée remplie dans le chef des FIA régis par la partie II de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, par la loi modifiée du 15 juin 2004 relative à la société d’investissement en capital à risque (SICAR) et par la loi modifiée du 13 février 2007 relative aux fonds d’investissement spécialisés .
 
 - Le présent paragraphe ne préjuge pas des conditions d’éligibilité applicables aux investisseurs dans des FIA qui sont soumis à une réglementation par une loi du secteur financier au Luxembourg.
 
@@ -11,3 +11,5 @@
 - Dans ce cas, la coopération entre la CSSF et l’autorité de surveillance du FIA doit également être assurée.
 
 (2) Les modalités d’application du présent article sont arrêtées par voie d’un règlement à prendre par la CSSF.
+
+(3) Le présent article ne préjuge pas des dispositions applicables à la commercialisation auprès d’investisseurs dans des FIA régis par le règlement (UE) 2015/760, par le règlement (UE) n° 346/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds d’entrepreneuriat social européens ou par le règlement (UE) n° 345/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds de capital-risque européens.

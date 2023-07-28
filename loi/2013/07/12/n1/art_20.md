@@ -22,4 +22,4 @@ Lorsque le FIA est tenu de publier un rapport financier annuel conformément à 
 
 Les données comptables contenues dans le rapport annuel doivent être contrôlées par une ou plusieurs personnes habilitées, en vertu de la loi, au contrôle des comptes conformément à la directive 2006/43/CE du Parlement européen et du Conseil du 17 mai 2006 concernant les contrôles légaux des comptes annuels et des comptes consolidés. Le rapport délivré par le contrôleur des comptes et, le cas échéant, ses réserves sont reproduites intégralement dans le rapport annuel.
 
-Par dérogation au deuxième alinéa, les gestionnaires qui commercialisent des FIA de pays tiers doivent soumettre les rapports annuels de ces FIA à un contrôle conforme aux normes d’audit internationales en vigueur dans le pays où le FIA a son siège statutaire.
+Par dérogation au deuxième alinéa, les gestionnaires qui commercialisent des FIA de pays tiers peuvent soumettre les rapports annuels de ces FIA à un contrôle conforme aux normes d’audit internationales en vigueur dans le pays où le FIA a son siège statutaire.
