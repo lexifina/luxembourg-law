@@ -1,0 +1,7 @@
+# Art. 42bis.
+
+(1) Les fonds d’investissement spécialisés relevant de la présente loi doivent mettre en œuvre des systèmes appropriés de gestion des risques afin de détecter, mesurer, gérer et suivre de manière appropriée le risque associé aux positions et la contribution de celles-ci au profil de risque général du portefeuille.
+
+(2) Les fonds d’investissement spécialisés relevant de la présente loi doivent en outre être structurés et organisés de façon à restreindre au minimum le risque que des conflits d’intérêts entre le fonds d’investissement spécialisé et, selon le cas, toute personne concourant aux activités du fonds d’investissement spécialisé ou toute personne liée directement ou indirectement au fonds d’investissement spécialisé ne nuisent aux intérêts des investisseurs. En cas de conflits d’intérêts potentiels, le fonds d’investissement spécialisé veille à la sauvegarde des intérêts des investisseurs.
+
+(3) Les modalités d’application des paragraphes (1) et (2) sont arrêtées par voies de règlement à prendre par la CSSF.
