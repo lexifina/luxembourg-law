@@ -1,0 +1,19 @@
+# Art. 38.
+
+(1) Le fonds d'investissement alternatif réservé et la société de gestion pour chacun des fonds communs de placement qu'elle gère doivent établir:
+
+- – un document d'émission, et
+
+- – un rapport annuel par exercice.
+
+(2) Le rapport annuel doit être mis à disposition des investisseurs dans les six mois, à compter de la fin de la période à laquelle ce rapport se réfère.
+
+(3) Au cas où un prospectus en vertu de la loi modifiée du 10 juillet 2005 relative aux prospectus pour valeurs mobilières a été publié, il n'y a plus d'obligation d'établir un document d'émission au sens de la présente loi.
+
+(4) Nonobstant les paragraphes 1er et 2 des articles 29 et 30 de la loi modifiée du 19 décembre 2002 relative au registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises, les fonds d'investissement alternatifs réservés préparent leur rapport annuel selon le schéma repris en annexe. Les exigences de ce schéma ne sont pas applicables aux fonds d'investissement alternatifs réservés visés à l'article 48, paragraphe 1er. Le rapport annuel doit contenir un bilan ou un état du patrimoine, un compte ventilé des revenus et des dépenses de l'exercice, un rapport sur les activités de l'exercice écoulé ainsi que toute information significative permettant aux investisseurs de porter en connaissance de cause un jugement sur l'évolution de l'activité et les résultats du fonds d'investissement alternatif réservé. Les articles 56 et 57 de la loi modifiée du 19 décembre 2002 relative au registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises s'appliquent toutefois aux fonds d'investissement alternatifs réservés visés au chapitre 3 et au chapitre 4 de la présente loi.
+
+Le contenu du rapport annuel des fonds d'investissement alternatifs réservés est régi par les règles figurant à l'article 20 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs.
+
+(5) Nonobstant l’article 1711-1 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales, les fonds d'investissement alternatifs réservés ainsi que leurs filiales sont exempts de l'obligation de consolider les sociétés détenues à titre d'investissement.
+
+(6) Pour les fonds d'investissement alternatifs réservés, les apports autres qu'en numéraire font l'objet au moment de l'apport d'un rapport à établir par un réviseur d'entreprises agréé. Les conditions et les modalités prévues à l’article 420-10 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales sont applicables à l'établissement de ce rapport, nonobstant la forme juridique adoptée par le fonds d'investissement alternatif réservé concerné.

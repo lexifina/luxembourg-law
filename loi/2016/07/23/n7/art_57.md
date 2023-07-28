@@ -1,0 +1,3 @@
+# Art. 57.
+
+Le paragraphe 3, alinéa 1, numéro 5, de la loi modifiée du 16 octobre 1934 concernant l'impôt sur la fortune est modifié comme suit: les sociétés d'investissement en capital à risque (SICAR) et les fonds d'investissement alternatifs réservés répondant aux critères de l'article 48, paragraphe 1er de la loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés, constitués sous la forme d'une société en commandite par actions, d'une société coopérative organisée sous forme de société anonyme, d'une société à responsabilité limitée ou d'une société anonyme, sous réserve de l'impôt sur la fortune minimum déterminé conformément aux dispositions du § 8, alinéa 2;».
