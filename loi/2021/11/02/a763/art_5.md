@@ -1,0 +1,7 @@
+# Art. 5. Justification motivée par des objectifs d’intérêt général
+
+(1) Toute disposition législative, réglementaire ou administrative, nouvelle ou modificative, limitant l’accès à des professions réglementées ou leur exercice est justifiée par des objectifs d’intérêt général.
+
+(2) Les dispositions visées au paragraphe 1er sont objectivement justifiées par des motifs liés au maintien de l’ordre public, de la sécurité publique ou de la santé publique, ou par des raisons impérieuses d’intérêt général, notamment la préservation de l’équilibre financier du système de sécurité sociale, la protection des consommateurs, des bénéficiaires de services et des travailleurs, la protection de la bonne administration de la justice, la garantie de la loyauté des transactions commerciales, la lutte contre la fraude et la prévention de la fraude et de l’évasion fiscales et la préservation de l’efficacité des contrôles fiscaux, la sécurité des transports, la protection de l’environnement et de l’environnement urbain, la santé des animaux, la propriété intellectuelle, la sauvegarde et la préservation du patrimoine historique et artistique national, des objectifs de politique sociale et des objectifs de politique culturelle.
+
+(3) Les motifs d’ordre purement économique ou les motifs purement administratifs ne peuvent constituer des raisons impérieuses d’intérêt général à même de justifier une limitation de l’accès à des professions réglementées ou de leur exercice.
