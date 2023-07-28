@@ -1,0 +1,7 @@
+# Art. 14.
+
+À la suite de l’article 51 de la même loi, il est inséré un article 51bis nouveau, libellé comme suit :
+
+« Art. 51bis.
+
+Le gestionnaire d’une SICAR tombant dans le champ d’application de la présente partie est autorisé à déléguer à des tiers l’exercice pour son propre compte, d’une ou de plusieurs de ses fonctions. Dans cette hypothèse, la délégation des fonctions par le gestionnaire se fait en conformité avec l’ensemble des conditions prévues par l’article 18 de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs, pour les SICAR gérées par un gestionnaire dont le Luxembourg est l’État membre d’origine au sens de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs, sous réserve de l’application de l’article 66, paragraphe 3, de la directive 2011/61/UE lorsque la gestion de la SICAR est assurée par un gestionnaire établi dans un pays tiers. ».
