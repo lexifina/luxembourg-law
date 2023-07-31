@@ -1,3 +1,0 @@
-# Art. 20.
-
-L’administration de l’éducation nationale, les établissements scolaires et les autorités communales échangent les données nécessaires au contrôle du respect de l’obligation scolaire, de l’assiduité des élèves fréquentant l’enseignement fondamental ou l’enseignement postprimaire et à l’accomplissement des missions de l’École en général, à l’aide de procédés automatisés ou non. Les procédés automatisés se font moyennant interconnexion de données et sous garantie d’un accès sécurisé, limité et contrôlé. Les conditions, critères et modalités de l’échange sont déterminés par règlement grand-ducal.
