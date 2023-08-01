@@ -1,0 +1,3 @@
+# Art. 16.
+
+Les succursales créées au Grand-Duché de Luxembourg par des sociétés commerciales et civiles, des groupements d’intérêt économique et des groupements européens d’intérêt économique, préalablement inscrites au registre de commerce et des sociétés en application des articles 11 et 11bis de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises, se voient attribuer un numéro d’immatriculation par le gestionnaire du registre de commerce et des sociétés. Le gestionnaire leur constitue un dossier, en reprenant les informations contenues dans la banque de données du registre de commerce et des sociétés.
