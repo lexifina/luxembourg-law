@@ -1,0 +1,9 @@
+# Art. 33bis.
+
+Toute personne exerçant la médecine, la médecine dentaire ou la médecine vétérinaire au Luxembourg est tenue, sous peine de sanctions disciplinaires de disposer d'une assurance destinée à garantir sa responsabilité civile susceptible d'être engagée en raison de dommages survenus dans le cadre de son activité professionnelle.
+
+Les prestataires de services visés aux articles 4, 11 et 25 de la présente loi sont également soumis à cette obligation.
+
+Toutefois, ils sont dispensés d'une telle assurance si l'activité de prestation de service est couverte par une garantie ou une formule similaire qui est équivalente ou essentiellement comparable quant à son objet, adaptée à la nature et à l'ampleur du risque, dont ils disposent dans l'Etat membre de leur établissement.
+
+Un règlement grand-ducal pris sur avis respectivement du Collège médical et du Collège vétérinaire peut fixer les conditions et modalités minimales que doit couvrir cette assurance.
