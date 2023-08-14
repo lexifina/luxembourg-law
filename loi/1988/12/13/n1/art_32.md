@@ -1,0 +1,3 @@
+# Art. 32.
+
+Sans préjudice des dispositions prévues à l’article 19 de la présente loi, toutes les fois que le conseil communal a une nomination ou une proposition de candidats à faire, le scrutin se fait par bulletins non signés, qui sont réunis par le bourgmestre ou celui qui le remplace, lequel donne ensuite lecture de ce qu’ils contiennent, tandis que deux autres membres présents du conseil communal, les premiers en rang après les échevins, s’occupent, l’un d’annoter successivement le contenu des bulletins, et l’autre d’en tenir le contrôle; il est en outre tenu par le secrétaire une liste des membres votants de l’assemblée pour chaque élection, ainsi que des personnes qui ont obtenu les voix; toutes ces opérations ont lieu en présence de l’assemblée.
