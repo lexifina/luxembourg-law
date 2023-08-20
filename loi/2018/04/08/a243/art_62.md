@@ -1,0 +1,3 @@
+# Art. 62. Dispositions découlant de l’Accord sur les marchés publics (AMP) et d’autres conventions internationales
+
+Dans la mesure où les annexes 1, 2, 4 et 5 et les notes générales relatives à l’Union européenne de l’appendice I de l’Accord de l’Organisation mondiale du commerce sur les marchés publics (AMP) ainsi que d’autres conventions internationales liant l’Union européenne le prévoient, les pouvoirs adjudicateurs accordent aux travaux, aux fournitures, aux services et aux opérateurs économiques des signataires de ces conventions un traitement non moins favorable que celui accordé aux travaux, aux fournitures, aux services et aux opérateurs économiques de l’Union européenne.

@@ -1,0 +1,7 @@
+# Art. 27. Participation préalable de candidats ou de soumissionnaires
+
+Lorsqu’un candidat ou soumissionnaire, ou une entreprise liée à un candidat ou à un soumissionnaire, a donné son avis au pouvoir adjudicateur, que ce soit ou non dans le cadre de l’article 26, paragraphes 1er et 2, ou a participé d’une autre façon à la préparation de la procédure de passation de marché, le pouvoir adjudicateur prend des mesures appropriées pour veiller à ce que la concurrence ne soit pas faussée par la participation de ce candidat ou soumissionnaire.
+
+Ces mesures consistent notamment à communiquer aux autres candidats et soumissionnaires des informations utiles échangées dans le contexte de la participation du candidat ou soumissionnaire susmentionné à la préparation de la procédure, ou résultant de cette participation et à fixer des délais adéquats pour la réception des offres. Le candidat ou soumissionnaire concerné n’est exclu de la procédure que s’il n’existe pas d’autre moyen d’assurer le respect du principe de l’égalité de traitement.
+
+Avant qu’une telle exclusion ne soit prononcée, les candidats ou soumissionnaires se voient accorder la possibilité de prouver que leur participation à la préparation de la procédure n’est pas susceptible de fausser la concurrence. Pour les marchés qui relèvent du champ d’application du Livre II, les mesures prises sont consignées dans le rapport individuel sur les procédures d’attribution de marchés, déterminé par voie de règlement grand-ducal.

@@ -1,0 +1,13 @@
+# Art. 82. Décisions du jury
+
+(1) Le jury dispose d’une autonomie de décision ou d’avis.
+
+(2) Le jury examine les plans et projets présentés par les candidats de manière anonyme et en se fondant exclusivement sur les critères indiqués dans l’avis de concours.
+
+(3) Le jury consigne, dans un rapport signé par ses membres, le classement des projets décidé selon les mérites de chacun de ceux-ci, ainsi que ses observations et tout point nécessitant des éclaircissements.
+
+(4) L’anonymat est respecté jusqu’à l’avis ou la décision du jury
+
+(5) Les candidats peuvent être invités, si nécessaire, à répondre aux questions que le jury a consignées dans le procès-verbal, afin de clarifier tel ou tel aspect d’un projet.
+
+(6) Un procès-verbal complet du dialogue entre les membres du jury et les candidats est établi.

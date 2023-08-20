@@ -1,0 +1,3 @@
+# Art. 48. Décomptes pour ouvrages importants
+
+Pour tous les marchés publics relevant de l’État, relatifs à un ouvrage dont le coût dépasse le montant prévu à l’article 80 de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État, le décompte établi suivant les dispositions de l’article 47, est transmis au ministre ayant dans ses attributions le Budget, ainsi qu’à la Chambre des députés dans un délai ne dépassant pas un an à compter de la réception de la totalité de l’ouvrage. Une justification est à fournir pour tous les dépassements excédant les hausses légales. Ce décompte est contrôlé par la Cour des comptes et soumis à la Chambre des députés avec les observations éventuelles de la Cour des comptes.

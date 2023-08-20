@@ -1,0 +1,7 @@
+# Art. 65. Procédure ouverte
+
+(1) Dans une procédure ouverte, tout opérateur économique intéressé peut soumettre une offre en réponse à un appel à la concurrence, publié suivant les règles déterminées par voie de règlement grand-ducal.
+
+(2) L’offre est assortie des informations aux fins de la sélection qualitative réclamées par le pouvoir adjudicateur.
+
+(3) Le délai minimal de réception des offres et les règles permettant de réduire ce délai sont déterminés par voie de règlement grand-ducal.
