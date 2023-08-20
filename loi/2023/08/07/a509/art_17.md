@@ -1,0 +1,11 @@
+# Art. 17.
+
+Un article 164 nouveau de la même loi au libellé suivant est inséré :
+
+« Art. 164.
+
+(1) Les dispositions de l’article 25, paragraphe 6, et de l’article 134, paragraphe 6, ne s’appliquent pas aux projets pour lesquels les procédures d’octroi d’autorisation ont débuté avant le 10 août 2023.
+
+(2) L’article 25, paragraphe 6, et l’article 134, paragraphe 6, s’appliquent uniquement aux marchés pour lesquels l’avis d’appel à la concurrence a été envoyé, ou, s’il n’est pas prévu d’en envoyer un, aux marchés pour lesquels le pouvoir adjudicateur ou l’entité adjudicatrice a entamé la procédure de passation de marchés après le 10 août 2023.
+
+(3) L’article 25, paragraphe 6, et l’article 134, paragraphe 6, ne s’appliquent pas à une entité conjointe créée avant le 9 août 2021, si les procédures de passation de marchés de cette entité continuent d’être régies par le droit applicable à ses marchés à cette date. ».
