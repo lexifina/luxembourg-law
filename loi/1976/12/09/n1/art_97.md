@@ -1,0 +1,3 @@
+# Art. 97.
+
+Les décisions du conseil de discipline peuvent être attaquées par la voie de l’appel, tant par le notaire condamné que par le procureur général d’Etat. L’appel est porté devant la chambre civile de la Cour Supérieure de Justice, qui statue par un arrêt définitif. L’appel est déclaré au greffe de la Cour dans le délai de dix jours, sous peine de déchéance. Le délai court pour le notaire condamné du jour où la décision lui a été notifiée, et pour le procureur général d’Etat du jour où l’expédition de la décision lui a été remise. L’affaire est traitée comme urgente, et les débats ont lieu en chambre du conseil.
