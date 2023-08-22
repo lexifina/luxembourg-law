@@ -1,0 +1,11 @@
+# Art. 3.
+
+L’article 372 du même code est remplacé comme suit :
+
+Art. 372.
+
+L’atteinte à l’intégrité sexuelle consiste à accomplir un acte à caractère sexuel sur une personne qui n’y consent pas, avec ou sans l’aide d’un tiers qui n’y consent pas, ou à faire exécuter un acte à caractère sexuel par une personne qui n’y consent pas.
+
+Toute atteinte à l’intégrité sexuelle, de quelque nature qu’elle soit et par quelque moyen que ce soit, commise sans violence ni menace sur une personne ou à l’aide d’une personne, qui n’y consent pas, notamment par ruse, artifice ou surprise, ou qui est hors d’état de donner un consentement libre ou d’opposer de la résistance, y compris lorsque la personne est amenée à commettre l’acte sur son propre corps ou le corps d’une tierce personne, sera punie d’un emprisonnement d’un mois à deux ans et d’une amende de 251 à 10.000 euros.
+
+L’atteinte à l’intégrité sexuelle, de quelque nature qu’elle soit et par quelque moyen que ce soit, commise avec violence ou menace sur une personne ou à l’aide d’une personne, y compris lorsque la personne est amenée à commettre l’acte sur son propre corps ou le corps d’une tierce personne, sera punie d’un emprisonnement d’un à cinq ans et d’une amende de 251 à 20.000 euros.
