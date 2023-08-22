@@ -1,0 +1,5 @@
+# Art. 9.
+
+L'huissier de justice doit résider dans le lieu fixé par l'arrêté de nomination. Il ne lui est pas permis d'avoir une autre résidence, ni de la changer sans autorisation préalable. Il peut toutefois être autorisé par le ministre de la justice et aux conditions à fixer par ce dernier à établir sa demeure privée dans une autre localité, le tout sur avis de la Chambre des Huissiers.
+
+L'huissier de justice qui ne s'est pas conformé à la prescription de l'alinéa premier qui précède dans les trois mois de sa nomination est déclaré déchu de ses fonctions par la chambre civile du tribunal d'arrondissement.
