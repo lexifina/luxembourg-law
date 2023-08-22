@@ -1,0 +1,3 @@
+# Art. 24.
+
+L’article 305 du code pénal est modifié ainsi qu’il suit: Art. 305. Ceux qui, sans autorisation légale, auront tenu une maison de jeux de hasard non autorisée, et y auront admis le public, soit librement, soit sur la présentation des intéressés ou affiliés, les banquiers administrateurs, préposés ou agents de cette maison, seront punis d’un emprisonnement de huit jours à six mois et d’une amende de soixante-trois à vingt-cinq-mille euros ou d’une de ces peines seulement. Les coupables pourront, de plus, être condamnés à l’interdiction, conformément à l’article 33. Dans tous les cas, seront confisqués les fonds ou effets qui seront trouvés exposés au jeu, ainsi que les meubles, instruments, ustensils, appareils employés ou destinés au service des jeux.

@@ -1,0 +1,5 @@
+# Art. 14.
+
+Seront punis d’un emprisonnement de huit jours à six mois et d’une amende de soixante-trois à vingt-cinq-mille euros , ou d’une de ces peines seulement ceux qui, soit directement, soit par intermédiaire ou en cette qualité, auront exploité, sans autorisation légale, en quelque lieu et sous quelque forme que ce soit, des jeux de hasard soit en y participant, par eux-mêmes ou par leurs préposés, et en stipulant à leur avantage des conditions dont l’effet est de rompre l’égalité des chances, soit en recevant des personnes admises à y prendre part une rémunération pécuniaire ou en opérant un prélèvement sur les enjeux, soit en se procurant directement ou indirectement quelque autre bénéfice au moyen de ces jeux.
+
+Seront punis des mêmes peines ceux qui soit directement. soit par intermédiaire ou en cette qualité, auront exploité un établissement de jeux contrairement aux conditions de l’arrêté d’autorisation ou du cahier des charges ou en contravention aux dispositions légales et réglementaires.
