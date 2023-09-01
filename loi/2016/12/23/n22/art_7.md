@@ -1,5 +1,0 @@
-# Art. 7. Visites des logements
-
-En cas de doute quant au respect des conditions d’octroi des aides relatives au logement, les agents sous l’autorité des ministres peuvent, dans l’exercice de leurs missions et munis des pièces justificatives de leurs fonctions, se rendre au logement pour lequel des aides relatives au logement sont demandées, qu’il s’agisse du domicile des demandeurs ou des bénéficiaires d’aides relatives au logement ou du domicile de personnes tierces, afin de procéder à tous les examens ou contrôles nécessaires. Les visites au logement ont lieu entre huit heures et dix-huit heures. Les habitants du logement sont informés d’une visite par écrit au moins quinze jours avant le jour de la visite.
-
-Lorsque l’entrée au logement est refusée aux agents des ministres, le traitement du dossier de demande d’aides relatives au logement ou le paiement des aides relatives au logement est suspendu jusqu’à ce que les demandeurs ou les bénéficiaires d’aides relatives au logement aient fourni aux ministres tous renseignements et documents nécessaires à l’instruction, à la gestion et au suivi de leurs dossiers d’aides relatives au logement.
