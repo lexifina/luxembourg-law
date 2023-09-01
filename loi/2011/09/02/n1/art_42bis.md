@@ -1,0 +1,3 @@
+# Art. 42bis.
+
+Les autorisations d’établissement pour l’exercice de la profession de conseil ou de conseil économique attribuées avant l’entrée en vigueur de la loi du 18 juillet 2018 portant modification : 1° de la loi modifiée du 29 juin 1989 portant réforme du régime des cabarets ; 2° de la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales ; et 3° de la loi du 23 décembre 2016 sur les ventes en soldes et sur trottoir et la publicité trompeuse et comparative, restent valables à titre d’autorisation d’établissement pour activités et services commerciaux.
