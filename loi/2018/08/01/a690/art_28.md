@@ -1,0 +1,3 @@
+# Art. 28.
+
+L’autorité de contrôle visée à l’article 39 de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale est compétente pour contrôler et vérifier le respect des dispositions de la présente loi en ce qui concerne le traitement des données à caractère personnel. Elle exerce ses missions conformément à l’article 8 de la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données et elle dispose, à cette fin, des pouvoirs prévus à l’article 14 de la même loi.
