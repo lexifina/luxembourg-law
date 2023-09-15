@@ -1,3 +1,0 @@
-# Art. 9.
-
-Le corps des enseignants est constitué des enseignants nommés au lycée et de spécialistes issus des milieux professionnels visés par le programme de formation. Le corps des enseignants est placé sous la responsabilité hiérarchique du directeur. Les modalités d'intégration des prestations des enseignants dans leur tâche hebdomadaire sont précisées par règlement grand-ducal. Les indemnités pour les prestations horaires des spécialistes issus des milieux professionnels et autres experts appelés à intervenir dans la formation ne peuvent dépasser un taux horaire de 18,511 € correspondant au nombre indice 100 du coût de la vie.
