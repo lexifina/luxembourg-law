@@ -1,0 +1,19 @@
+# Art. 10.
+
+Pour introduire son pourvoi, la partie demanderesse en cassation devra, sous peine d'irrecevabilité, dans les délais déterminés ci-avant, déposer au greffe de la Cour supérieure de justice un mémoire signé par un avocat à la Cour et signifié à la partie adverse, lequel précisera les dispositions attaquées de l'arrêt ou du jugement, les moyens de cassation et contiendra les conclusions dont l'adjudication sera demandée. La désignation des dispositions attaquées sera considérée comme faite à suffisance de droit lorsqu'elle résulte nécessairement de l'exposé de moyens ou des conclusions.
+
+Sous peine d'irrecevabilité, un moyen ou un élément de moyen ne doit mettre en œuvre qu'un seul cas d'ouverture. Chaque moyen ou chaque branche doit préciser, sous la même sanction:
+
+- le cas d'ouverture invoqué;
+
+- la partie critiquée de la décision;
+
+- ce en quoi celle-ci encourt le reproche allégué.
+
+L'énoncé du moyen peut être complété par des développements en droit qui sont pris en considération.
+
+Le mémoire indiquera, s'il y a lieu, les pièces déposées à l'appui du pourvoi. Les pièces non indiquées dans le mémoire ou produites après l'expiration des délais déterminés ci-avant seront écartées du débat.
+
+La signature de l'avocat à la Cour au bas du mémoire soit en demande, soit en défense, vaudra constitution et élection de domicile chez lui.
+
+L'expédition de la décision attaquée par le pourvoi en cassation sera ajoutée au rôle par les soins du greffe de la Cour supérieure de justice.
