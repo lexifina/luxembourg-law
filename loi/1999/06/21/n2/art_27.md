@@ -1,0 +1,3 @@
+# Art. 27.
+
+Si un ou plusieurs individus interrompent le silence, donnent des signes d’approbation ou d’improbation, soit à la défense des parties, soit aux discours des juges, soit aux interpellations, avertissements ou ordre du président, soit aux jugements ou ordonnances, causent ou excitent du tumulte de quelque manière que ce soit, et si, après l’avertissement du président, ils ne rentrent pas dans l’ordre sur-le-champ, il leur est enjoint de se retirer, et les résistants seront saisis et déposés à l’instant dans la maison d’arrêt pour vingt-quatre heures: ils y seront reçus sur l’exhibition de l’ordre du président, qui sera mentionné au procès-verbal de l’audience; le tout sans préjudice des poursuites pénales devant la juridiction compétente.
