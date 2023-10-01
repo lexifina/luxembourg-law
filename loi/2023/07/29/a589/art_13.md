@@ -1,0 +1,3 @@
+# Art. 13.
+
+Les indemnités des chargés de cours, des patrons de stage et des concepteurs de formation sont fixées par règlement grand-ducal. Les indemnités des chargés de cours sont déterminées sur une base horaire et elles ne peuvent pas dépasser 18 euros (au nombre indice 100 du coût de la vie). Les indemnités des patrons de stage sont déterminées sur une base forfaitaire en fonction du niveau de la formation qui ne peut pas dépasser 50 euros (au nombre indice 100 du coût de la vie). Les indemnités des concepteurs de formation sont déterminées sur une base horaire et elles ne peuvent pas dépasser 12 euros (au nombre indice 100 du coût de la vie).
