@@ -1,0 +1,5 @@
+# Art. 21.
+
+L’article 7bis de la même loi est remplacé par le libellé suivant :
+
+Les informations dont question aux articles 5 à 7 sont valablement faites à l’adresse figurant au registre national des personnes physiques prévu par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques, pour la personne qui est mentionnée sur le certificat d’immatriculation du véhicule en tant que titulaire, détenteur ou propriétaire de celui-ci. Dans le cas d’une personne morale titulaire du certificat d’immatriculation, détenteur ou propriétaire du véhicule, ces informations sont valablement faites à l’adresse figurant au répertoire général des personnes physiques et morales créé par la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales.
