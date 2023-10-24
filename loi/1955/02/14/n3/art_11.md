@@ -1,3 +1,19 @@
 # Art. 11.
 
-Sera puni d'un emprisonnement de huit jours à six mois et d'une amende de 501 à 10.000 francs ou d'une de ces peines seulement, celui qui se sera sciemment servi d'un véhicule automoteur ou d'un cycle, sans le consentement exprès ou tacite du propriétaire ou de la personne qui l'a sous sa garde.
+(1) Le conducteur d’un véhicule ou ensemble de véhicules couplés dont la masse en charge excède de plus de 10% la masse maximale autorisée sera puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 5.000 euros ou d’une de ces peines seulement. Le propriétaire, le détenteur d’un véhicule routier ou le titulaire du certificat d’immatriculation d’un véhicule routier est passible des mêmes peines s’il a toléré la mise en circulation du véhicule ou de l’ensemble de véhicules couplés dont la masse en charge excède de plus de 10% la masse maximale autorisée.
+
+(2) S’il existe des indices graves faisant présumer la surcharge d’un véhicule ou d’un ensemble de véhicules visés au paragraphe 1er, ou si une surcharge est détectée via un système de pesage automatisé, dont les modalités de fonctionnement sont précisées par un règlement grand-ducal, les membres de la police grand-ducale et les agents de l’Administration des douanes et accises pourront obliger le conducteur à se rendre à l’endroit le plus proche permettant une vérification de la masse en charge. En cas de surcharge constatée, les frais occasionnés par le pesage sont à charge du propriétaire, du détenteur du véhicule routier ou du titulaire du certificat d’immatriculation du véhicule routier.
+
+(3) Si une surcharge de plus de 10% de la masse maximale autorisée est constatée, les membres de la police grand-ducale et les agents de l’administration des douanes et accises sont en droit d’interdire la circulation du véhicule.
+
+(4) En cas de transport d’un conteneur ou d’une caisse mobile, le chargeur et le transporteur sont passibles des mêmes peines prévues au paragraphe premier s’ils ont toléré la mise en circulation d’un véhicule ou d’un ensemble de véhicules couplés dont la masse en charge excède de plus de 10 % la masse maximale autorisée.
+
+(5) En cas de transport d’un conteneur ou d’une caisse mobile, le chargeur doit remettre au transporteur auquel il confie le transport une déclaration indiquant la masse de ce conteneur ou de cette caisse mobile transportés. L’omission d’émettre cette déclaration ou le fait d’émettre une déclaration erronée est puni d’une amende de 25 à 250 euros.
+
+(6) L’omission du transporteur de pouvoir présenter la déclaration visée au paragraphe 5 ou le fait de présenter une déclaration erronée ou falsifiée est puni d’une amende de 25 à 250 euros.
+
+(7) Le dépassement de la masse maximale autorisée ne constitue pas une infraction si elle est constatée en vertu et dans les limites d’une autorisation de transport exceptionnel ou d’une autorisation de circuler, portant sur la mise en circulation d’un véhicule dépassant les masses applicables, dont les conditions de délivrance et modalités d’utilisations sont déterminées par un règlement grand-ducal. Toutefois, tout dépassement des limites relatives aux masses reprises dans ladite autorisation est sanctionné conformément aux paragraphes 1 à 4 sans application de la tolérance y prévue.
+
+(8) Il est institué une commission dénommée commission des autorisations spéciales, ayant pour mission d’émettre un avis motivé au ministre quant à un retrait ou à une suspension des autorisations spéciales délivrées en matière de transport exceptionnel et de mise en circulation des véhicules dépassant les dimensions et masses règlementaires. Un règlement grand-ducal précise le fonctionnement et la composition de cette commission.
+
+Une autorisation spéciale peut être retirée ou suspendue par le ministre sur avis motivé précité, lorsque le titulaire de l’autorisation spéciale n’a pas respecté les conditions qui figurent sur l’autorisation, lorsqu’il a fourni des informations incorrectes en vue de l’établissement de l’autorisation ou lorsqu’il a commis une contravention grave au sens de l’article 7, paragraphe 2, de la présente loi.

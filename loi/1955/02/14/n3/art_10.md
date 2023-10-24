@@ -1,9 +1,13 @@
 # Art. 10.
 
-Le conducteur et le propriétaire d'un véhicule automoteur qui conduiront ou laisseront conduire ce véhicule sans être couverts par un contrat d'assurance conclu dans le pays auprès d'une compagnie agréée dans le Grand-Duché et représentant des garanties suffisantes pour couvrir les risques des accidents causés aux tiers, seront punis d'un emprisonnement de huit jours à un an et d'une anrende de 501 à 10.000 francs ou d'une de ces peines seulement.
+Sera passible des peines prévues à l’article 9 celui qui aura abandonné un véhicule ou une épave de véhicule sur la voie publique.
 
-Un règlement d'administration publique pourra étendre la prescription de l'assurance obligatoire prévue à l'alinéa qui précède aux conducteurs et propriétaires d'autres véhicules et prévoir des exceptions à l'assurance obligatoire pour les véhicules automoteurs d'un poids propre inférieur à 400 kg et destinés principalement à exécuter des travaux.
+Un véhicule est considéré comme abandonné, lorsqu’il est stationné ou parqué pendant plus d’un mois d’affilée à un même endroit sur la voie publique, et que son propriétaire, son détenteur ou le titulaire de son certificat d’immatriculation n’a pas pu être contacté par les membres de la Police grand-ducale ou n’a pas obtempéré à leur ordre de le déplacer.
 
-Les conditions auxquelles les contrats d'assurance doivent satisfaire seront fixées par un règlement d'administration publique.
+Sur la grande voirie ou sur une route nationale située en dehors des agglomérations, le délai est ramené à 24 heures. Toutefois, lorsque le véhicule y immobilisé affecte sensiblement la sécurité routière ou la fluidité de la circulation routière, il est considéré comme abandonné dès le moment de son immobilisation, à condition que son propriétaire, son détenteur ou le titulaire de son certificat d’immatriculation n’a pas pu être contacté par les membres de la Police grand-ducale ou n’a pas obtempéré à leur ordre de le déplacer.
 
-Toutefois les véhicules immatriculés à l'étranger et appartenant à des personnes non domiciliées dans le Grand-Duché ainsi que les véhicules automoteurs immatriculés au Luxembourg et appartenant à des missions diplomatiques ou des membres du Corps diplomatique accrédités au Grand-Duché de Luxembourg, sont admis à circuler aux conditions à fixer par règlement d'administration publique.
+Le délai est de 8 jours, lorsque le véhicule est immobilisé dans l’enceinte d’un centre de contrôle technique.
+
+Pour les véhicules parqués dans un parc payant destiné au parcage à longue durée, le délai d’un mois ne commence que le jour de l’échéance de la durée maximale de parcage autorisée.
+
+Est également considéré comme abandonné le véhicule qui a été immobilisé dans les conditions des hypothèses sous 2) et 4) du paragraphe 1er de l’article 17, et qui n’a pas été déplacé dans les 8 jours après l’échéance du délai que les membres de la Police grand-ducale ont imparti pour ce faire à son conducteur, à son propriétaire, à son détenteur ou au titulaire de son certificat d’immatriculation.
