@@ -1,0 +1,3 @@
+# Art. 9. Reclassement des terrains domaniaux
+
+Les terrains domaniaux inscrits sous le numéro cadastral 44/8294, 78/8297, 1829/8305, 1761/8302 et 1761/8300 dans la section B de la Commune de Sanem, acquis en vue de l’implantation d’activités industrielles en vertu de la loi du 27 juillet 1993 ayant pour objet 1. le développement et la diversification économiques et 2. l’amélioration de la structure générale et de l’équilibre régional de l’économie, telle qu’elle a été modifiée par la loi du 21 février 1997, en vigueur au moment de l’acquisition, sont réaffectés à la réalisation d’un centre de formation dont question à l’article 6.
