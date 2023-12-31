@@ -1,0 +1,19 @@
+# Art. 17.
+
+L’article 57 de la même loi est modifié comme suit :
+
+- 1° Les alinéas 1er à 3 actuels formeront les paragraphes 1er à 3.
+
+- 2° À l’ancien alinéa 2, devenu le paragraphe 2, troisième phrase, les termes en vertu de l’article 26 pour la juridiction concernée sont remplacés par les termes en application des règles de détermination du taux effectif d’imposition qui sont applicables en vertu de la présente loi à l’entité pour laquelle la clé d’allocation est déterminée.
+
+- 3° Il est inséré entre les alinéas 2 et 3 anciens, renumérotés en paragraphes, un paragraphe 3 nouveau, libellé comme suit :
+
+- « (3) Lorsque le groupe d’EMN a exercé l’option visée à l’article 14 pour une juridiction déterminée, le taux effectif d’imposition à prendre en compte aux fins de la formule visée au présent article est à calculer à partir de (a) la somme des impôts pris en compte pour déterminer le taux effectif d’imposition dans cette juridiction en application des règles de l’impôt national complémentaire qualifié de cette juridiction, et des impôts constatés en application de cet impôt national complémentaire qualifié, et après considération de la limite visée au paragraphe 2, cinquième phrase, (b) divisée par le revenu retenu en application de cet impôt national complémentaire qualifié.
+
+- Lorsque le groupe d’EMN a exercé l’option visée à l’article 59, paragraphe 2, pour une juridiction déterminée, le taux effectif d’imposition à prendre en compte aux fins de la formule visée au présent article est le taux effectif d’imposition simplifié, tel que calculé en application de l’article 59, paragraphe 1er, lettre e).
+
+- Pour toute autre juridiction pour laquelle le groupe d’EMN n’est pas tenu de calculer un taux effectif d’imposition en application des règles de la présente loi, le taux effectif d’imposition à prendre en compte est celui calculé en application de l’article 59, paragraphe 2, alinéa 1er, lettre b). Pour les besoins du calcul du taux effectif d’imposition prévu à la phrase précédente, le « résultat avant impôt » est déterminé à partir du bénéfice ou de la perte avant impôt figurant dans les états financiers qualifiés.
+
+- Dans la mesure où le régime fiscal des sociétés étrangères contrôlées de type combiné applicable à une entité constitutive vise des revenus d’entités qui ne sont ni des entités constitutives, ni des entités auxquelles s’appliquent les règles de la présente loi, ci-après les « entités hors champ », les impôts concernés en application du régime fiscal des sociétés étrangères contrôlées de type combiné sont affectés aux entités hors champ, en application de la formule visée à l’alinéa 1er. La clé d’allocation de ces entités hors champ situées dans une juridiction est à déterminer en retenant à cet effet le taux effectif d’imposition de cette juridiction, déterminé en application des règles du paragraphe 2 et du présent paragraphe, alinéas 1er à 3, pour les entités qui sont situées dans la même juridiction et pour lesquelles le montant agrégé le plus élevé du revenu attribuable de l’entité au sens du paragraphe 1er a été calculé. Lorsque les entités hors champ sont situées dans une juridiction pour laquelle aucun taux effectif d’imposition n’est calculé en vertu des règles du paragraphe 2 ou du présent paragraphe, alinéas 1er à 3, le taux effectif d’imposition pour ces entités hors champ situées dans la même juridiction est déterminé sur base du montant agrégé des revenus et impôts attribuables à ces entités dans leurs états financiers dans la mesure où ces revenus et impôts sont pris en compte par le régime fiscal des sociétés étrangères contrôlées de type combiné. La clé d’allocation des entités hors champ, déterminée en vertu du présent alinéa, est incluse dans la somme des clés d’allocation aux fins de la formule visée au paragraphe 1er. ».
+
+- 4° À l’ancien alinéa 3, devenu le paragraphe 4, la deuxième phrase est supprimée.
