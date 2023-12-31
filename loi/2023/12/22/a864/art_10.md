@@ -1,0 +1,3 @@
+# Art. 10. Mécanisme de compensation de l’impôt RIR
+
+Lorsqu’une entité mère située au Grand-Duché de Luxembourg détient une participation dans une entité constitutive faiblement imposée, indirectement via une entité mère intermédiaire ou une entité mère partiellement détenue qui est soumise à une RIR qualifiée au titre de l’année fiscale, l’impôt RIR qui est déterminé selon les articles 5 à 8 est réduit d’un montant égal à la fraction de la part attribuable à l’entité mère mentionnée en premier lieu de l’impôt dû par l’entité mère intermédiaire ou l’entité mère partiellement détenue en vertu d’une RIR qualifiée pour cette entité constitutive faiblement imposée. La part attribuable à l’entité mère est déterminée selon l’article 9, paragraphe 2.
