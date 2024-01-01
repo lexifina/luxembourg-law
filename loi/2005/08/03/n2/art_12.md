@@ -1,0 +1,3 @@
+# Art. 12. L’assurance sportive
+
+Dans l’intérêt de la couverture des risques de responsabilité civile des organismes sportifs, des dirigeants sportifs, des sportifs licenciés et de collaborateurs bénévoles occasionnels, et de la couverture du risque d’accidents individuels des dirigeants sportifs, des sportifs licenciés, et de collaborateurs bénévoles occasionnels, lors des activités sportives, l’Etat souscrit un ou plusieurs contrats d’assurance auprès d’une ou de plusieurs entreprises d’assurance agréées ou autorisées au Grand-Duché de Luxembourg. Les contrats d’assurance peuvent être adaptés aux différentes disciplines sportives.
