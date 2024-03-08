@@ -1,0 +1,3 @@
+# Art. 19.
+
+Lorsque le mandat d'arrêt européen a été délivré aux fins d'exécution d'une peine ou d'une mesure de sûreté prononcée par une décision rendue par défaut, et si la personne concernée n'a pas été citée personnellement ni informée autrement de la date et du lieu de l'audience qui a mené à la décision rendue par défaut, la remise peut être subordonnée à la condition que l'autorité d'émission donne des assurances jugées suffisantes pour garantir à la personne qui fait l'objet du mandat d'arrêt européen qu'elle aura la possibilité de faire opposition dans l'Etat d'émission et d'être jugée en sa présence.
