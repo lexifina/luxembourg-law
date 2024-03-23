@@ -1,0 +1,9 @@
+# Art. 2.
+
+À la suite de l’article 3 de la même loi est inséré un nouvel article 3bis libellé comme suit :
+
+Art. 3bis.
+
+(1) Lorsqu’un opérateur économique offre aux consommateurs et aux autres utilisateurs finals la possibilité d’acheter l’équipement radioélectrique visé à l’article 3, paragraphe 4, accompagné d’un dispositif de charge, l’opérateur économique offre également aux consommateurs et aux autres utilisateurs finals la possibilité d’acheter cet équipement radioélectrique sans aucun dispositif de charge.
+
+(2) Les opérateurs économiques veillent à ce que les informations indiquant si un dispositif de charge est ou non inclus avec l’équipement radioélectrique visé à l’article 3, paragraphe 4, soient affichées sous forme graphique à l’aide d’un pictogramme convivial et facilement accessible, comme indiqué à l’annexe Ibis précitée, partie III, lorsqu’un tel équipement radioélectrique est mis à la disposition des consommateurs et des autres utilisateurs finals. Le pictogramme est imprimé sur l’emballage ou apposé sur l’emballage sous forme d’autocollant. Lorsque l’équipement radioélectrique est mis à la disposition des consommateurs et des autres utilisateurs finals, le pictogramme est affiché de manière visible et lisible et, en cas de vente à distance, à proximité de l’indication du prix.
