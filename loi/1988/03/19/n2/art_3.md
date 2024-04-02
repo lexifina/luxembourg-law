@@ -1,0 +1,3 @@
+# Art. 3.
+
+L'administration de l'enregistrement et des domaines refusera la formalité de l'enregistrement et de la transcription aux actes visés à l'article premier ne contenant pas la désignation cadastrale du lot concerné, à moins qu'il ne soit constaté dans l'acte qu'en raison de l'urgence, expressément spécifiée, la désignation cadastrale du lot n'a pu être obtenue. Dans ce cas, la demande en désignation du lot est faite au plus tard dans les trois mois de l'acte par le notaire instrumentant. La demande doit être accompagnée des plans et autres pièces à déterminer par règlement grand-ducal. Le notaire constate la nouvelle désignation cadastrale dans un acte dont il assure l'enregistrement et la transcription.

@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Lorsque la division d'un immeuble en lots au sens de la loi du 16 mai 1975 portant statut de la copropriété des immeubles bâtis a lieu après l'entrée en vigueur de la présente loi, tout acte ou décision judiciaire sujet à transcription doit contenir, outre les mentions obligatoires de la situation de l'ensemble de l'immeuble prévues aux articles 8 et 9 de la loi du 25 septembre 1905 sur la transcription des droits réels immobiliers ainsi qu'à l'article 2 (2) de la loi du 26 juin 1953 concernant la désignation des personnes et des biens dans les actes à transcrire ou à inscrire au bureau des hypothèques, la désignation cadastrale du lot concerné.

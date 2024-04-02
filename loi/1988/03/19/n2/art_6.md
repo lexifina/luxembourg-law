@@ -1,0 +1,3 @@
+# Art. 6.
+
+Il est créé, au sein de l'administration du cadastre et de la topographie, un service spécial à la section de la conservation, chargée de l'établissement, de la conservation et de la tenue à jour des documents concernant la désignation cadastrale des lots, qui disposera du personnel nécessaire à la bonne exécution de la présente loi. Il sera recruté pour ce service, par dépassement du nombre des engagements nouveaux prévus à la loi budgétaire, trois agents de la carrière moyenne du rédacteur ou du technicien diplômé et deux agents de la carrière inférieure de l'expéditionnaire administratif ou de l'expéditionnaire technique.
