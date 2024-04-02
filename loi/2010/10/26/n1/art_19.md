@@ -1,0 +1,3 @@
+# Art. 19.
+
+Les bulletins de cotisation et les bulletins rectificatifs portant redressement d'une cotisation, valant extrait du rôle des cotisations, sont notifiés par la Chambre de Commerce à ses ressortissants par simple pli fermé à la poste. La notification par simple lettre est présumée accomplie le troisième jour ouvrable qui suit la remise de l'envoi à la poste, à moins qu'il ne résulte des circonstances de l'espèce que l'envoi n'a pas atteint le destinataire dans le délai prévu. Cette présomption n'est pas renversée par le fait que le destinataire refuse sans motif légitime d'accepter l'envoi ou néglige de le réclamer en temps utile.
