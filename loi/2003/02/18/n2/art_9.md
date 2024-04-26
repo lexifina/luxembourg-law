@@ -1,0 +1,7 @@
+# Art. 9.
+
+Quarante-deux jours avant la date des élections européennes, le Centre des technologies de l’information de l’État établit une liste, triée par nationalité, de tous les ressortissants des autres États membres de l’Union européenne, électeurs aux élections européennes, sur base des données contenues dans le registre national des personnes physiques au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques. Il transmet cette liste au ministre ayant les Affaires étrangères dans ses attributions qui informe les États membres d’origine respectifs des électeurs inscrits.
+
+Lorsque le ministre ayant les Affaires étrangères dans ses attributions est informé par un autre Etat membre de l’Union européenne qu’un ressortissant de ce dernier, qui figure sur la liste électorale pour les élections au Parlement européen ou qu’un ressortissant luxembourgeois, qui figure sur la liste visée par la présente loi, est également inscrit dans cet Etat comme électeur pour les élections au Parlement européen, il transmet cette information au collège des bourgmestre et échevins de la commune concernée qui en fait mention sur les listes électorales. Ces personnes ne sont pas admises au Grand-Duché de Luxembourg au vote pour les élections au Parlement européen.
+
+Le ministre ayant les Affaires étrangères dans ses attributions est le point de contact du Gouvernement luxembourgeois chargé de recevoir et de transmettre les informations nécessaires à l’application des deux alinéas qui précèdent.

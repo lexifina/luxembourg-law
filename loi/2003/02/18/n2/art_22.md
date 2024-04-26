@@ -1,0 +1,3 @@
+# Art. 22.
+
+Toutefois le recours n’est recevable que si le requérant prouve l’existence d’un recours adressé, au plus tard le quarante-septième jour précédant le jour des élections, au collège des bourgmestre et échevins, ou si le requérant ou la personne concernée, inscrit sur la liste provisoire, a été omis ou rayé à la suite de la révision supplémentaire, ou enfin, s’il n’est pas établi au plus tard le quarante-quatrième jour précédant le jour des élections que le requérant ou la personne concernée a reçu de la part de l’administration communale avis de son omission ou de sa radiation des listes provisoires.
