@@ -1,0 +1,7 @@
+# Art. 22.
+
+À l’article 36 de la même loi, dont le texte actuel formera le paragraphe 1er, sont insérés les paragraphes 2 et 3 libellés comme suit :
+
+(2) À partir du 1er janvier 2025, chaque exploitant d’aéronef surveille et déclare au ministre les effets hors CO2 de chaque aéronef qu’il exploite, au cours de l’année civile, après la fin de l’année concernée, conformément aux actes d’exécution de la Commission européenne visés à l’article 14, paragraphe 1er, de la directive 2003/87/CE précitée.
+
+(3) Pour la publication de la Commission européenne visée à l’article 14, paragraphe 6, alinéa 1er, lettres a) et b), de la directive 2003/87/CE précitée, dans des circonstances spécifiques où un exploitant d’aéronef opère sur un nombre très limité de paires d’aérodromes ou sur un nombre très limité de paires d’États qui sont soumis à des exigences de compensation ou sur un nombre très limité de paires d’États qui ne sont pas soumis à des exigences de compensation, cet exploitant d’aéronef peut demander à l’administration que ces données ne soient pas publiées au niveau de l’exploitant d’aéronef, en expliquant pourquoi la divulgation serait considérée comme préjudiciable à ses intérêts commerciaux. Sur la base de cette demande, l’administration peut demander à la Commission européenne que ces données soient publiées à un niveau d’agrégation plus élevé. La Commission européenne statue sur la demande.
