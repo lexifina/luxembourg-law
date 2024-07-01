@@ -66,7 +66,7 @@
 
 - 5° Les vaccinateurs ou les personnes placées sous leur responsabilité enregistrent sans délai les données visées au point 3° a) et b).
 
-(3bis) Sans préjudice du paragraphe 2, 2°bis et 3° c), l’Inspection générale de la sécurité sociale est destinataire des données traitées qu’elle pseudonymise pour les fins énoncées au paragraphe 6.
+(3bis) Sans préjudice du paragraphe 2, point 3°, lettre c) , l’Inspection générale de la sécurité sociale est destinataire des données traitées qu’elle pseudonymise pour les fins énoncées au paragraphe 6.
 
 (5) Sans préjudice du paragraphe 2, point 3° et du paragraphe 3bis , les données à caractère personnel traitées sont pseudonymisées au plus tard à l’issue d’une durée de six mois après leur collecte pour une période de trois ans à l’issue de laquelle elles sont anonymisées. Les données de journalisation qui comprennent les traces et logs fonctionnels permettant la traçabilité des accès et actions au sein du système d’information suivent le même cycle de vie que les données auxquelles elles se rapportent. Les accès et actions réalisés sont datés et comportent l’identification de la personne qui a consulté les données ainsi que le contexte de son intervention.
 
