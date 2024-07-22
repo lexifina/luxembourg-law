@@ -1,0 +1,7 @@
+# Art. 6. Recours aux gestionnaires de crédits ou à d’autres entités
+
+(1) Un acheteur de crédits luxembourgeois ou un représentant luxembourgeois qui nomme une entité visée à l’article 2, paragraphe 5, lettre a), point i) ou iii), de la directive (UE) 2021/2167, ou un gestionnaire de crédits, pour exercer des activités de gestion de crédits relatives aux droits du créancier transférés au titre d’un contrat de crédit non performant, ou au contrat de crédit non performant lui-même, informe la CSSF, au plus tard à la date à laquelle les activités de gestion de crédits commencent, de l’identité et de l’adresse de l’entité susmentionnée ou du gestionnaire de crédits.
+
+(2) Lorsqu’un acheteur de crédits luxembourgeois ou un représentant luxembourgeois nomme une entité autre que celle qui a été notifiée en vertu du paragraphe 1er, il en informe la CSSF au plus tard à la date de ce changement et indique l’identité et l’adresse de la nouvelle entité qu’il a nommée pour exercer les activités de gestion de crédits relatives aux droits du créancier au titre d’un contrat de crédit non performant transférés, ou au contrat de crédit non performant cédé lui-même.
+
+(3) La CSSF transmet sans retard injustifié aux autorités compétentes de l’État membre d’accueil, aux autorités compétentes de l’État membre dans lequel le crédit a été accordé, et, le cas échéant, aux autorités compétentes de l’État membre d’origine du nouveau gestionnaire de crédits les informations reçues au titre des paragraphes 1er et 2.
