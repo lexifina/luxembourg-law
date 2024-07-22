@@ -1,0 +1,9 @@
+# Art. 1er.
+
+(1) La «titrisation», au sens de la présente loi, est l’opération par laquelle un organisme de titrisation acquiert ou assume, directement ou par l’intermédiaire d’un autre organisme, les risques liés à des créances, à d’autres biens, ou à des engagements assumés par des tiers ou inhérents à tout ou partie des activités réalisées par des tiers en émettant des instruments financiers ou en contractant, pour le tout ou pour une partie, toute forme d’emprunt, dont la valeur ou le rendement dépendent de ces risques.
+
+(2) Sont des «organismes de titrisation», au sens de la présente loi, les organismes qui accomplissent entièrement la titrisation et ceux qui participent à une telle opération par la prise en charge de tout ou partie des risques titrisés – les organismes d’acquisition – ou par l’émission d’instruments financiers ou par la conclusion, pour le tout ou pour une partie, de toute autre forme d’emprunt, destinés à en assurer le financement – les organismes d’émission, et dont les statuts, le règlement de gestion ou les documents d’émission prévoient qu’ils sont soumis aux dispositions de la présente loi.
+
+(3) Si un organisme de titrisation se finance pour le tout ou pour une partie en contractant des emprunts, toute référence à des « émissions d’instruments financiers » ou « instruments financiers émis » ou « instruments financiers à émettre » s’entend également comme faite à la « conclusion de l’emprunt » ou à l’ « emprunt contracté » ou à l’ « emprunt à contracter ».
+
+(4) Au sens de la présente loi, on entend par « instruments financiers » les instruments financiers visés à l’article 1er, point 8, de la loi modifiée du 5 août 2005 sur les contrats de garantie financière, à l’exception des créances et des droits visés à l’article 1er, point 8, lettre f), de ladite loi.

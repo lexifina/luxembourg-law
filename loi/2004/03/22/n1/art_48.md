@@ -1,0 +1,11 @@
+# Art. 48.
+
+(1) Les comptes d’un organisme de titrisation sont contrôlés par un ou plusieurs réviseurs d’entreprises agréés désignés, selon le cas, par l’organe d’administration de la société de titrisation ou par la société de gestion du fonds de titrisation.
+
+(2) Les réviseurs d’entreprises agréés d’un organisme de titrisation agréé doivent être agréés par la CSSF.
+
+(3) Les réviseurs d’entreprises agréés chargés de contrôler les comptes d’un organisme de titrisation signalent aux dirigeants de la société de titrisation ou de la société de gestion et, s’agissant des organismes de titrisation agréés, également à la CSSF et le cas échéant au représentant des investisseurs les irrégularités et inexactitudes qu’ils relèvent dans l’accomplissement de leur mission.
+
+(4) Chaque organisme de titrisation agréé soumis à la surveillance de la CSSF, et dont les comptes sont soumis au contrôle d’un réviseur d’entreprises agréé, est tenu de communiquer spontanément à la CSSF les rapports et commentaires écrits émis par le réviseur d’entreprises agréé dans le cadre de son contrôle des documents comptables annuels.
+
+La CSSF peut fixer des règles quant à la portée du mandat de contrôle des documents comptables annuels et quant au contenu des rapports et commentaires écrits du réviseur d’entreprises agréé, prévus à l’alinéa précédent, sans préjudice des dispositions légales régissant le contenu du rapport du contrôleur légal des comptes.

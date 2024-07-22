@@ -1,0 +1,9 @@
+# Art. 56.
+
+(1) La créance cédée à un organisme de titrisation entre dans son patrimoine dès que la cession devient effective, nonobstant tout engagement pris par l’organisme de titrisation de la recéder ultérieurement. La cession n’est pas susceptible d’être requalifiée en raison d’un tel engagement.
+
+(2) La cession à un organisme de titrisation ou par celui-ci entraîne, sauf convention contraire, le transfert des garanties et des sûretés garantissant cette créance et son opposabilité de plein droit aux tiers, sans autres formalités.
+
+(3) Le débiteur cédé peut se libérer valablement entre les mains du cédant tant qu’il n’a pas eu connaissance de la cession.
+
+(4) L’article 1699 du code civil n’est pas applicable aux créances cédées à un organisme de titrisation.
