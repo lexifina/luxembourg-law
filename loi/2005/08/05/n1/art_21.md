@@ -1,0 +1,9 @@
+# Art. 21.
+
+(1) Les contrats de compensation et les contrats de garantie financière conclus ainsi que la constitution d’avoirs en garantie en vertu d’un contrat de garantie financière faite le jour de l’ouverture d’une procédure de liquidation ou de la prise d’effet d’une mesure d’assainissement, ou de toute autre situation de concours, nationale ou étrangère, mais avant le prononcé de la décision d’ouverture d’une telle procédure ou de prise d’effet d’une telle mesure ou situation , sont valables et opposables aux tiers, commissaires, liquidateurs, curateurs ou autres organes similaires.
+
+(2) Lorsqu’un contrat de compensation ou un contrat de garantie financière a été conclu ou qu’une obligation financière couverte a pris effet ou lorsque des avoirs ont été constitués en garantie à la date d’ouverture d’une procédure de liquidation ou de la prise d’effet de mesures d’assainissement, ou de toute autre situation de concours, nationale ou étrangère, mais après le prononcé d’une telle décision d’ouverture ou la prise d’effet d’une telle mesure ou situation, ce contrat produit ses effets juridiques et est opposable aux tiers, commissaires, curateurs, liquidateurs et aux organes similaires si le preneur de la garantie prouve qu’il ignorait que cette procédure avait été ouverte ou que ces mesures avaient été prises ou qu’il ne pouvait raisonnablement le savoir.
+
+(3) Les dispositions des paragraphes (1) et (2) s’appliquent également aux paiements faits par une personne le jour de l’ouverture d’une procédure de liquidation ou de prise d’effet d’une mesure d’assainissement, ou de toute autre situation de concours, nationale ou étrangère, la concernant.
+
+(4) Les requêtes en vue de la prise de mesures d’assainissement et les décisions judiciaires ouvrant une procédure de liquidation devront porter le jour et l’heure de leur prise d’effet.
