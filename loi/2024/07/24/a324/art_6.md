@@ -1,0 +1,105 @@
+# Art. 6.
+
+L’article L. 121-4 du même code est modifié comme suit :
+
+- 1° Le paragraphe 1er est modifié comme suit :
+
+  - a) À l’alinéa 1er, les termes par l’employeur sont insérés entre les termes doit être constaté et les termes par écrit.
+
+  - b) L’alinéa 2 est supprimé.
+
+  - c) À la fin de l’ancien alinéa 3, devenant le nouvel alinéa 2, la phrase Il doit être transmis par l’employeur au salarié sous format papier ou, à condition que le salarié y ait accès, qu’il puisse être enregistré et imprimé, et que l’employeur conserve un justificatif de sa transmission ou de sa réception, sous format électronique. est ajoutée.
+
+- 2° Le paragraphe 2 prend la teneur suivante :
+
+- (2) Sans préjudice des dispositions de l’article L. 122-2, le contrat de travail doit comporter les mentions ci-après :
+
+  - 1° l’identité des parties à la relation de travail ;
+
+  - 2° la date du début de l’exécution du contrat de travail ;
+
+  - 3° le lieu de travail et à défaut de lieu de travail fixe ou prédominant, le principe selon lequel le salarié sera occupé à divers endroits et plus particulièrement à l’étranger ou sera libre de déterminer son lieu de travail, ainsi que le siège ou, le cas échéant, le domicile de l’employeur ;
+
+  - 4° la nature de l’emploi occupé et, le cas échéant, la description des fonctions ou tâches assignées au salarié au moment de l’engagement et sans préjudice d’une nouvelle affectation ultérieure sous réserve du respect des dispositions de l’article L. 121-7 ;
+
+  - 5° la durée de travail journalière ou hebdomadaire normale du salarié et les modalités relatives à la prestation d’heures supplémentaires et à leur rémunération ainsi que, le cas échéant, toutes les modalités relatives au changement d’équipe ;
+
+  - 6° l’horaire normal du travail ;
+
+  - 7° la rémunération, y compris le salaire de base et, le cas échéant, tous les compléments de salaire, les accessoires de salaires, les gratifications ou participations éventuellement convenues qui devront être indiqués séparément, ainsi que la périodicité et les modalités de versement du salaire auquel le salarié a droit ;
+
+  - 8° la durée du congé payé auquel le salarié a droit ou, si cette indication est impossible au moment de la conclusion du contrat, les modalités d’attribution et de détermination de ce congé ;
+
+  - 9° la procédure à observer par l’employeur et le salarié en cas de résiliation du contrat de travail, y compris les conditions de forme et les délais de préavis à respecter ou, si cette indication est impossible au moment de la conclusion du contrat, les modalités de détermination de ces délais de préavis ;
+
+  - 10° la durée et les conditions d’application de la période d’essai éventuellement prévue ;
+
+  - 11° les clauses dérogatoires ou complémentaires dont les parties ont convenu ;
+
+  - 12° le cas échéant, la mention des conventions collectives régissant les conditions de travail du salarié ou, s’il s’agit de conventions collectives conclues en dehors de l’entreprise par des organes ou institutions paritaires particuliers, le nom de ces organes ou institutions au sein desquels elles ont été conclues ;
+
+  - 13° l’identité du ou des organismes de sécurité sociale percevant les cotisations sociales et le régime de protection sociale y relatif, ainsi que le cas échéant, l’existence et la nature d’un régime complémentaire de pension, le caractère obligatoire ou facultatif de ce régime, les droits à des prestations y afférentes ainsi que l’existence éventuelle de cotisations personnelles ;
+
+  - 14° le cas échéant, le droit à la formation octroyé par l’employeur.
+
+- Les informations sur les éléments visés à l’alinéa 1er, points 5°, 7° à 10°, 13° et 14°, peuvent résulter d’une référence aux dispositions légales, réglementaires, administratives ou statutaires ou aux conventions collectives régissant les matières y visées.
+
+- Lorsqu’elles n’ont pas été communiquées préalablement, les informations visées à l’alinéa 1er, points 1° à 7° et 10°, sont fournies individuellement au salarié sous la forme d’un ou de plusieurs documents au cours d’une période débutant le premier jour de travail et se terminant le septième jour calendaire au plus tard. Il en est de même pour les informations visées à l’alinéa 1er, points 8°, 9° et 12° à 14°, lesquelles sont, dans ce cas, fournies individuellement au salarié sous la forme d’un ou de plusieurs documents au plus tard dans un délai d’un mois à compter du premier jour de travail.
+
+- Lorsqu’une ou plusieurs informations visées à l’alinéa 3 n’ont pas été fournies individuellement au salarié dans les délais maximums impartis et après que l’employeur ait été dûment mis en demeure par le salarié de s’exécuter, le salarié peut, dans un délai de quinze jours à compter de la notification de la mise en demeure restée infructueuse, demander, par simple requête, au président de la juridiction du travail, qui statue d’urgence et comme en matière sommaire, les parties entendues ou dûment convoquées, d’enjoindre l’employeur, y compris sous peine d’astreinte, à lui fournir les informations manquantes.
+
+- L’ordonnance du président de la juridiction du travail est exécutoire par provision. Elle est susceptible d’appel qui est porté par simple requête dans les quarante jours à partir de la notification par la voie du greffe devant le magistrat présidant la chambre de la Cour d’appel à laquelle sont attribués les appels en matière de droit du travail. Il est statué d’urgence, les parties entendues ou dûment convoquées.
+
+- 3° Le paragraphe 3 prend la teneur suivante :
+
+- (3) Si le salarié est amené à exercer son travail pendant plus de quatre semaines consécutives hors du territoire du Grand-Duché de Luxembourg, l’employeur est tenu de délivrer au salarié, sous réserve du respect des dispositions du paragraphe 2, avant son départ, un document écrit devant comporter au moins les informations suivantes :
+
+  - 1° le ou les pays dans lequel la prestation de travail doit être effectuée et la durée de travail exercé à l’étranger ;
+
+  - 2° la devise servant au paiement du salaire, ainsi que la rémunération à laquelle il a droit en vertu des dispositions de l’État membre d’accueil ;
+
+  - 3° le cas échéant, les avantages en espèces et en nature liés au déplacement temporaire du salarié, ainsi que les allocations propres au détachement et les modalités de remboursement des dépenses de voyage, de logement et de nourriture ;
+
+  - 4° le cas échéant, les conditions de rapatriement du salarié ;
+
+  - 5° le lien vers le site internet national officiel mis en place par l’État membre d’accueil conformément à l’article 5, paragraphe 2, de la directive 2014/67/UE du Parlement européen et du Conseil du 15 mai 2014 relative à l’exécution de la directive 96/71/CE concernant le détachement de travailleurs effectué dans le cadre d’une prestation de services et modifiant le règlement (UE) n°1024/2012 concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur (« règlement IMI »).
+
+- L’information sur les éléments visés à l’alinéa 1er, point 2°, peut, le cas échéant, résulter d’une référence aux dispositions légales, réglementaires, statutaires, administratives, ou aux conventions collectives régissant les matières visées.
+
+- La remise du document écrit est faite sous format papier ou, à condition que le salarié y ait accès, qu’il puisse être enregistré et imprimé, et que l’employeur conserve un justificatif de sa transmission ou de sa réception, sous format électronique.
+
+- 4° Le paragraphe 4 est modifié comme suit :
+
+  - a) L’alinéa 1er est modifié comme suit :
+
+    - i) Les parenthèses entourant le chiffre 2 sont supprimées.
+
+    - ii) Les termes par l’employeur sont insérés entre le terme établi et les termes en deux exemplaires,.
+
+  - b) À l’alinéa 2, les parenthèses entourant le chiffre 3 sont supprimées.
+
+  - c) À l’alinéa 3, les parenthèses entourant le chiffre 3 sont supprimées.
+
+  - d) À la suite de l’alinéa 3, il est ajouté un nouvel alinéa 4 qui prend la teneur suivante :
+
+  - À défaut d’écrit conforme aux alinéas 1er et 2, et après que l’employeur ait été dûment mis en demeure par le salarié de s’exécuter, le salarié peut, dans un délai de quinze jours à compter de la notification de la mise en demeure restée infructueuse, demander, par simple requête, au président de la juridiction du travail, qui statue d’urgence et comme en matière sommaire, les parties entendues ou dûment convoquées, d’enjoindre l’employeur, y compris sous peine d’astreinte, à lui fournir le document modificatif visé aux alinéas 1er et 2.
+
+  - e) À la suite du nouvel alinéa 4, il est ajouté un nouvel alinéa 5 qui prend la teneur suivante :
+
+  - L’ordonnance du président de la juridiction du travail est exécutoire par provision. Elle est susceptible d’appel qui est porté par simple requête dans les quarante jours à partir de la notification par la voie du greffe devant le magistrat présidant la chambre de la Cour d’appel à laquelle sont attribués les appels en matière de droit du travail. Il est statué d’urgence, les parties entendues ou dûment convoquées.
+
+- 5° Au paragraphe 5, les termes conforme aux dispositions des paragraphes 1er à 4 sont insérés entre les termes À défaut d’écrit et les termes , le salarié peut établir.
+
+- 6° Au paragraphe 6, les parenthèses entourant le chiffre 2 sont supprimées.
+
+- 7° Au paragraphe 7, les termes 1er juin 1995 sont remplacés par les termes 4 août 2024 .
+
+- 8° À la suite du paragraphe 7, il est ajouté un nouveau paragraphe 8 qui prend la teneur suivante :
+
+- (8) Est nulle et de nul effet, toute clause de nature à interdire à un salarié d’exercer, en dehors de l’horaire normal de travail convenu au contrat de travail, une autre relation de travail auprès d’un ou de plusieurs employeurs. Il en est de même de toute clause ou de tout acte qui aurait pour objet de soumettre le salarié à un traitement défavorable pour ce motif.
+
+- L’interdiction visée à l’alinéa 1er ne s’applique pas lorsque le cumul d’emploi est incompatible pour des motifs objectifs, tel que la sécurité et la santé au travail, la protection de la confidentialité des affaires, l’intégrité de la fonction publique ou la prévention de conflit d’intérêts.
+
+- 9° À la suite du nouveau paragraphe 8, il est ajouté un nouveau paragraphe 9 qui prend la teneur suivante :
+
+- (9) Lorsque l’employeur est tenu, en vertu de dispositions légales, réglementaires, administratives ou statutaires, de conventions collectives, de dispositions issues de conventions collectives ou d’accords en matière de dialogue social interprofessionnel déclarées d’obligation générale, de fournir une formation au salarié pour l’exécution du travail pour lequel il est engagé, cette formation doit être dispensée gratuitement au salarié pendant ses heures de travail, les heures consacrées à cette formation devant être considérées comme du temps de travail effectif.

@@ -1,0 +1,11 @@
+# Art. 8.
+
+Au livre 1er, titre II, du même code, le chapitre premier est complété par une nouvelle section 9 de la teneur suivante :
+
+Section 9. Sanctions
+
+Art. L. 121-11.
+
+Est puni d’une amende de 251 à 5.000 euros par salarié concerné, tout employeur qui ne se conforme pas aux obligations lui incombant en vertu des dispositions de l’article L. 121-4, paragraphe 1er, paragraphe 2, alinéas 1er et 3, paragraphe 3, alinéas 1er et 3, paragraphe 4, alinéas 1er et 2, paragraphe 7 et paragraphe 9.
+
+En cas de récidive dans le délai de deux ans, ces peines peuvent être portées au double du maximum.
