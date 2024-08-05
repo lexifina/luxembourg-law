@@ -1,0 +1,23 @@
+# Art. 11.
+
+À partir du 16 septembre 2024, l’article 15-1 de la même loi prend la teneur suivante :
+
+Art. 15-1.
+
+(1) Parmi les magistrats formant le tribunal d’arrondissement de Luxembourg, il y a quatorze juges aux affaires familiales, dont un premier vice-président et deux vice-présidents.
+
+Parmi les magistrats formant le tribunal d’arrondissement de Diekirch, il y a quatre juges aux affaires familiales, dont un premier vice-président et un vice-président.
+
+Pour pouvoir être nommé premier vice-président et vice-président en charge des affaires familiales, il faut exercer la fonction de juge aux affaires familiales.
+
+(2) Le juge directeur aux affaires familiales est chargé de la direction du service en charge des affaires familiales.
+
+Il répartit les affaires entre les juges aux affaires familiales.
+
+Il exerce la fonction de juge aux affaires familiales.
+
+La fonction de juge directeur aux affaires familiales est exercée par un premier vice-président ou, à défaut, par un vice-président.
+
+(3) Les juges aux affaires familiales se suppléent mutuellement.
+
+En cas d’empêchement d’un juge aux affaires familiales, ses fonctions sont exercées par un autre juge aux affaires familiales ou par un magistrat désigné à cet effet par le président du tribunal d’arrondissement.

@@ -1,0 +1,19 @@
+# Art. 29.
+
+L’article 126 de la même loi est modifié comme suit :
+
+Art. 126.
+
+(1) Le président de la Cour supérieure de justice préside l’assemblée générale de la Cour supérieure de justice et la Cour de cassation.
+
+(2) Les présidents des tribunaux d’arrondissement président l’assemblée générale du tribunal.
+
+Ceux-ci président les différentes chambres du tribunal quand ils le jugent convenable.
+
+(3) Le président de la Cour supérieure de justice et les présidents des tribunaux d’arrondissement sont chargés d’assurer la bonne marche de la juridiction et d’en surveiller le fonctionnement.
+
+Ils répartissent les affaires entre les différentes chambres dans le cadre de l’ordre de service visé par l’article 141.
+
+(4) Il y a chaque mois, à l’intérieur de la Cour supérieure de justice et de chaque tribunal d’arrondissement, une conférence du président et des magistrats qui exercent la fonction de président de chambre.
+
+Cette conférence est consacrée aux problèmes intéressant le fonctionnement des différentes chambres et la répartition des affaires.
