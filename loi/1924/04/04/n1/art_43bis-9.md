@@ -1,0 +1,3 @@
+# Art. 43bis.-9.
+
+Lorsque le nombre de candidats d’un groupe ne dépasse pas celui des membres effectifs et des membres suppléants à élire dans ce groupe, ces candidats sont proclamés élus par le président du bureau électoral sans autre formalité, sous condition toutefois que pour ce groupe, il n’ait été présenté qu’une seule liste de candidats et que cette liste désigne expressément, d’une part, les membres effectifs et, d’autre part, les membres suppléants dans l’ordre suivant lequel ils remplacent les membres effectifs. Il en est dressé procès-verbal qui est signé, séance tenante, par le président et le secrétaire du bureau électoral, pour être immédiatement adressé au ministre ayant la Fonction publique dans ses attributions.

@@ -1,0 +1,37 @@
+# Art. 18.
+
+Seront punis d'une amende de 251 à 5.000 euros:
+
+- a) quiconque, pour se faire inscrire sur une liste d’électeurs, aura produit des actes ou pièces qu’il savait être simulés; celui qui aura pratiqué les mêmes manoeuvres dans le but de faire inscrire un citoyen sur ces listes ou de l’en faire rayer;
+
+- b) celui qui, sous prétexte d’indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d’argent ou des valeurs ou un avantage quelconques;
+
+- ceux qui, à l’occasion d’une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses;
+
+- quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs;
+
+- quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l’argent, soit des valeurs ou avantages quelconques sous la condition d’obtenir en sa faveur ou en faveur d’un tiers, un suffrage, l’abstention de voter ou la remise d’un bulletin de vote nul;
+
+- les électeurs qui auront accepté des dons, offres ou promesses;
+
+- c) quiconque, pour déterminer un électeur à s’abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l’empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d’exposer à un dommage sa personne, sa famille ou sa fortune;
+
+- quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d’intimider les électeurs ou de troubler l’ordre;
+
+- d) toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d’entraver les opérations électorales;
+
+- si le scrutin a été violé, de même que si les coupables étaient porteurs d’armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;
+
+- e) ceux qui ont résisté à l’ordre d’expulsion rendu contre eux par le bureau de vote ou qui seront rentrés dans le local qu’ils avaient été obligés d’évacuer;
+
+- quiconque, pendant la réunion d’un collège électoral, se sera rendu coupable d’outrages ou de violences, soit envers le bureau soit envers l’un de ses membres; ;
+
+- les membres d’un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;
+
+- f) tout président, scrutateur ou secrétaire d’un bureau ou tout témoin de candidat qui aura révélé le secret d’un ou de plusieurs votes;
+
+- quiconque aura contrefait un bulletin électoral ou aura fait usage d’un bulletin contrefait;
+
+- tout membre ou secrétaire d’un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu’il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d’un autre électeur et celui qui, d’une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;
+
+- g) les citoyens qui, invités à remplir au jour de l’élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n’auront pas fait connaître, dans les quarante-huit heures leurs motifs d’empêchement à celui dont l’invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu’à la clôture définitive des procès-verbaux.
