@@ -1,0 +1,17 @@
+# Art. 75quater.
+
+(1) Pendant la période d’initiation, l’employé des catégories d’indemnité A, B et C, groupes d’indemnité A2, B1 et C1, sous-groupe de l’enseignement fondamental, assurant une tâche d’enseignement dans l’enseignement fondamental, dans les Centres de compétences, dans l’Institut étatique d’aide à l’enfance et à la jeunesse ou dans le Centre socio-éducatif de l’État, tel que visé à l’article 66, effectue sa tâche sous la responsabilité du directeur de région ou du directeur d’établissement, conformément aux dispositions de l’article 15 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental et du règlement grand-ducal pris en son exécution. L’employé procède à l’évaluation des apprentissages selon les dispositions de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental.
+
+(2) Pendant la période d’initiation, l’employé est dispensé des heures de formation continue prévues à l’article 15 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental et aux règlements grand-ducaux pris en son exécution.
+
+(3) L’employé de la catégorie d’indemnité A, groupe d’indemnité A2, sous-groupe de l’enseignement fondamental, assurant une tâche d’enseignement dans l’enseignement fondamental, dans les Centres de compétences, dans l’Institut étatique d’aide à l’enfance et à la jeunesse, ou dans le Centre socio-éducatif de l’État, tel que visé à l’article 66, bénéficie :
+
+- 1. de quatre leçons de décharge d’enseignement hebdomadaires durant la première année de la période d’initiation, dans le cadre de la formation du certificat de formation pédagogique prévue à l’article 20bis de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;
+
+- 2. d’une leçon de décharge d’enseignement hebdomadaire durant la deuxième année de la période d’initiation, dans le cadre de la formation du cycle de formation de début de carrière prévue à l’article 76.
+
+(4) L’employé des catégories d’indemnité B et C, groupes d’indemnité B1 et C1, sous-groupe de l’enseignement fondamental, assurant une tâche d’enseignement dans l’enseignement fondamental, dans les Centres de compétences, dans l’Institut étatique d’aide à l’enfance et à la jeunesse ou dans le Centre socio-éducatif de l’État, tel que visé à l’article 66, bénéficie de deux leçons de décharge d’enseignement hebdomadaires durant la première et la deuxième année de la période d’initiation, dans le cadre de la formation du cycle de formation de début de carrière prévue à l’article 76bis.
+
+(5) La décharge de première et de deuxième année de la période d’initiation peut être modulée, sur décision du ministre, en fonction du volume horaire de formation à suivre par année, soit pour l’employé dont l’entrée en vigueur du contrat à durée indéterminée ne coïncide pas avec le début d’une année scolaire, soit pour l’employé qui est absent plus d’un mois en raison d’un congé tel que prévu au chapitre 9 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.
+
+(6) Le chargé de cours membre de la réserve de suppléants, occupant un des emplois définis à l’article 16 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental, qui suit la formation en cours d’emploi du bachelor en sciences de l’éducation offert par l’Université du Luxembourg, bénéficie de deux leçons de décharge d’enseignement hebdomadaires durant la première et la deuxième année de la formation en cours d’emploi.
