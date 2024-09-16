@@ -1,0 +1,5 @@
+# Art. 39.
+
+Les fonctionnaires des carrières du rédacteur et de l’expéditionnaire administratif appelés à remplir des fonctions de gestion administrative dans un bureau régional d’inspection sont recrutés parmi les fonctionnaires ou stagiaires des mêmes carrières de l’administration gouvernementale et y détachés.
+
+Au cas où son grade est supérieur à celui de chef de bureau, le fonctionnaire est placé hors cadre par dépassement des effectifs de son grade de l’administration gouvernementale. Sous réserve de l’accomplissement des conditions de promotion aux grades supérieurs de sa carrière, il peut être promu jusqu’à la fonction d’inspecteur principal premier en rang par dépassement des effectifs de l’administration gouvernementale au moment où son collègue de rang égal ou immédiatement inférieur bénéficie d’une promotion. Le fonctionnaire placé hors cadre et détaché auprès d’un bureau régional dans les conditions ci-dessus, et dont le détachement prend fin, rentre dans le cadre normal à la première vacance d’un emploi de la fonction qu’il occupe.
