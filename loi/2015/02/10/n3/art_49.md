@@ -1,0 +1,25 @@
+# Art. 49.
+
+(1) L’agence assure en permanence la disponibilité et l’accessibilité physique des stocks de sécurité constitués et maintenus par elle sur le territoire national et des stocks spécifiques pour lesquels l’agence assure des tâches ayant trait à la gestion de stocks spécifiques sur le territoire national pour d’autres Etats membres de l’Union européenne ou d’autres entités centrales de stockage. L’agence doit assurer en permanence le recensement, la comptabilité et le contrôle desdits stocks de façon à permettre une vérification de ces stocks à tout moment. Cette exigence s’applique également à tout stock de sécurité et à tout stock spécifique qui est mélangé à d’autres stocks. L’agence prend toutes les mesures nécessaires pour prévenir les obstacles et les contraintes susceptibles de compromettre la disponibilité des stocks de sécurité.
+
+(2) Lorsque des stocks spécifiques maintenus par l’agence sur le territoire national pour le compte d’autres Etats membres de l’Union européenne ou d’entités centrales de stockage d’autres Etats membres de l’Union européenne sont mélangés à d’autres stocks pétroliers, l’agence ne pourra déplacer la part des stocks spécifiques sans autorisation écrite préalable du propriétaire des stocks spécifiques et du ministre.
+
+(3) Pour les stocks commerciaux détenus par l’agence sur le territoire national et qui ne sont pas repris sur les relevés visés aux paragraphes 1er, 2 et 3 de l’article 4, l’agence doit fournir au ministre un relevé statistique mensuel portant sur les niveaux de ses stocks commerciaux sur le territoire national. Le relevé, établi selon la méthode et les modalités exposées à l’annexe IV, doit être communiqué au ministre au plus tard 15 jours après la fin du mois concerné.
+
+(4) L’agence doit communiquer au ministre un relevé, établi conformément à l’annexe IV, des stocks de sécurité et des stocks spécifiques constitués et maintenus par elle pour le compte d’autres Etats membres de l’Union européenne sur le territoire national et qui ne sont pas encore rapportées en vertu des articles 16 et 18 pour ce qui est des stocks de sécurité et de l’article 25 pour ce qui est des stocks spécifiques. Ces communications doivent avoir eu lieu avant la date à laquelle les stocks de sécurité et les stocks spécifiques sont affectés à la couverture d’une obligation de stockage dans un autre Etat membre de l’Union européenne et indiquent les dates respectives. Tout changement des stocks prémentionnés, qui affecte les indications à fournir en vertu de l’annexe IV doit être communiqué au préalable par l’agence au ministre sous forme d’une mise à jour des relevés respectifs.
+
+(5) Lorsqu’il y a lieu de mettre en œuvre les procédures d’urgence prévues à l’article 40, l’agence ne peut faire obstacle au transfert, à l’utilisation ou à la mise en circulation de stocks de sécurité ou de stocks spécifiques détenus sur le territoire national pour le compte d’un autre Etat membre de l’Union européenne ou de son entité centrale de stockage.
+
+(6) L’agence doit tenir en permanence à la disposition du public une information complète, par catégorie de produits, sur les volumes de stocks de sécurité dont elle peut assurer le maintien pour les importateurs pétroliers ou, le cas échéant, pour les entités centrales de stockage des autres Etats membres de l’Union européenne intéressées;
+
+Elle doit publier au moins sept mois à l’avance, les conditions dans lesquelles elle est disposée à fournir des services visant à maintenir les stocks de sécurité pour des importateurs pétroliers.
+
+(7) Si l’agence accepte une délégation d’un importateur pétrolier, elle l’accepte dans des conditions objectives, transparentes et non discriminatoires. La rémunération versée par l’importateur pétrolier n’excède pas le coût total des services fournis par l’agence et ne peut être réclamée tant que les stocks concernés par la délégation ne sont pas constitués. L’agence peut subordonner le mandat reçu à une caution ou une autre forme de garantie à fournir par l’importateur pétrolier.
+
+(8) L’agence doit accepter les délégations obligatoires telles que prévues à l’article 6.
+
+(9) Lorsque la Commission européenne ou le ministre procèdent ou font procéder à des examens pour vérifier l’état de préparation à des situations d’urgence et des mesures de stockage prises pour y faire face, l’agence se soumet aux contrôles et apporte son assistance aux personnes procédant à ces examens. Elle garantit plus particulièrement que ces personnes puissent à tout moment consulter tous les documents et registres ayant trait aux stocks de sécurité et de stocks spécifiques et accéder à tous les sites sur lesquels des stocks sont maintenus, ainsi qu’à tous les documents s’y rapportant.
+
+(10) L’agence assure la conservation des données, pièces, relevés et documents relatifs aux stocks de sécurité et aux stocks spécifiques durant cinq années au moins.
+
+(11) Sur demande du ministre, l’agence analyse les développements des secteurs pétroliers international et national et émet son avis sur toute autre question lui soumise par le ministre.

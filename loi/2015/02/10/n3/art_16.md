@@ -1,0 +1,5 @@
+# Art. 16.
+
+(1) En vue de l’établissement du répertoire visé à l’article 15, tout importateur pétrolier doit communiquer au ministre un relevé, établi selon la méthode et les modalités exposées en annexe IV, des stocks de sécurité qu’il constitue et maintient en vertu des articles 5, 6, 7 et 8. Cette communication doit avoir eu lieu avant la date à laquelle l’importateur pétrolier veut affecter des stocks de sécurité à la couverture de son obligation de stockage et indique cette date. Tout changement des stocks de sécurité pré-mentionnés qui affecte les indications à fournir en vertu de l’annexe IV doit être communiqué au préalable par l’importateur pétrolier au ministre sous forme d’une mise à jour du relevé.
+
+(2) Les stocks de sécurité repris dans les relevés des importateurs pétroliers ne peuvent pas comprendre de quantités de pétrole brut ou de produits pétroliers faisant l’objet de mesures de saisie ou d’exécution. Il en est de même pour tous les stocks d’entreprises en situation de faillite ou de concordat.
