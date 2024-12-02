@@ -1,0 +1,5 @@
+# Art. 4. Installation de répartiteurs des frais de chauffage
+
+(1) Dans les cas visés à l’article 3, paragraphe 1er, points 2°, lettre a), et 4°, l’exception d’installer des compteurs divisionnaires ne s’applique pas si des répartiteurs des frais de chauffage peuvent être installés au lieu des compteurs individuels sur chaque radiateur pour en mesurer la consommation de chaleur.
+
+(2) Les dispositions du paragraphe 1er ne sont pas applicables aux immeubles pour lesquels le propriétaire ou, en cas de copropriété, le syndicat des copropriétaires, justifie que l’installation de répartiteurs des frais de chauffage sur chaque radiateur entrainerait des coûts excessifs au regard des économies d’énergie susceptibles d’être réalisées ou est techniquement impossible pour des motifs et dans des cas précisés par règlement grand-ducal. Un règlement grand-ducal précise les modalités de détermination de l’absence de rentabilité ainsi que les méthodes alternatives susceptibles d’être employées pour évaluer, à des fins de la répartition des frais de chauffage, la consommation d’énergie thermique de chaque unité privative.

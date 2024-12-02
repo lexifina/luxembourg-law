@@ -1,0 +1,19 @@
+# Art. 8. Conséquences du défaut d’installation
+
+(1) En cas de défaut d’installation des appareils visés à l’article 2, paragraphes 2 et 3, et de défaut de communication des motifs y afférents par le biais de la note visée à l’article 7, paragraphe 1er, ou du plan de comptage auquel réfère l’article 7, paragraphe 2, alinéa 1er, les frais exposés pour la consommation de chaleur, de froid et d’eau chaude sanitaire résultant d’un décompte d’un immeuble collectif et mis en compte à l’égard du locataire d’une partie privative par son bailleur conformément à l’article 5, paragraphe 3, alinéa 5, de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation ne sont pas considérés présumés justifiés et échus.
+
+Le présent paragraphe s’applique exclusivement au défaut d’installation d’appareil. Le fait qu’un appareil installé ne soit pas lisible à distance ne tombe pas dans le champ d’application du présent paragraphe.
+
+(2) Lorsque le ministre constate qu’un gestionnaire de réseau ne s’est pas conformé à son obligation d’installation de compteurs telle que prévue à l’article 2, paragraphe 1er, alinéa 1er, il prononce à l’encontre du gestionnaire de réseau concerné une amende pouvant aller de 1 000 euros à 10 000 euros.
+
+(3) Lorsque le ministre constate qu’un propriétaire ou, le cas échéant, un syndicat des copropriétaires, ne s’est pas conformé à son obligation d’installer des appareils de mesure telle que prévue à l’article 2, paragraphe 2, et, le cas échéant, à l’article 4, paragraphe 1er, et n’a pas communiqué les motifs afférents à ce défaut d’installation par le biais de la note visée à l’article 7, paragraphe 1er, ou du plan de comptage auquel réfère l’article 7, paragraphe 2, alinéa 1er, endéans les trois mois après que le ministre lui en a demandé la production en vertu de l’article 7, paragraphe 3, alinéa 2, il prononce à l’encontre du défaillant une amende pouvant aller de 1 000 à 10 000 euros.
+
+Lorsque le syndicat des copropriétaires a respecté son obligation de prendre une décision par rapport au choix des appareils ainsi que des travaux d’installation inscrits à l’ordre du jour de l’assemblée générale des copropriétaires par le syndic conformément à l’article 7, paragraphe 2, alinéa 1er, point 2°, lettre a), et que le défaut d’installation est dû aux agissements ou abstentions du syndic, celui-ci est passible de l’amende visée à l’alinéa 1er et le syndicat des copropriétaires en est exonéré.
+
+Lorsque le ministre constate qu’un propriétaire ou, le cas échéant, un syndicat des copropriétaires a fait de fausses déclarations d’installation à l’occasion du contrôle visé à l’article 7, paragraphe 3, consistant à frauduleusement déclarer l’installation d’appareils de mesure obligatoires en vertu de la présente loi qui n’ont pas été réalisées, il prononce à l’encontre de ce dernier une amende pouvant aller de 5 000 euros à 25 000 euros.
+
+Lorsque le ministre constate que des motifs fournis en justification de la non-installation des appareils de mesure obligatoires en vertu de la présente loi suite à une demande en vertu de l’article 7, paragraphe 3, alinéa 2, ne sont pas pertinents, il en informe le propriétaire ou le syndicat des copropriétaires concerné et le met en demeure de se conformer à ses obligations d’installation des appareils de mesure concernés endéans un délai qui ne peut être inférieur à six mois à partir de la notification de la mise en demeure. Si ces derniers ne se conforment pas endéans le délai imparti, le ministre prononce à leur encontre une amende pouvant aller de 1 000 euros à 10 000 euros. Les dispositions de l’alinéa 2 s’appliquent.
+
+(4) Contre les décisions visées aux alinéas 1er et 2 un recours en réformation est ouvert devant le tribunal administratif.
+
+La perception des amendes prononcées par le ministre en vertu du présent article est confiée à l’Administration de l’enregistrement et des domaines.
