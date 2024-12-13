@@ -1,0 +1,3 @@
+# Art. 78.
+
+À l’exception des fondations valablement constituées conformément à la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif et des fondations et des associations sans but lucratif qui ont obtenu la personnalité civile antérieurement à l’entrée en vigueur de la loi précitée du 21 avril 1928, les entités qui utilisent l’appellation « fondation » ou toute autre appellation similaire dans une langue étrangère dans leur dénomination donnant l’apparence qu’il s’agit d’une fondation au sens de la présente loi, doivent modifier celle-ci dans un délai de douze mois à compter de son entrée en vigueur, sous peine d’encourir une amende de 251 à 12 500 euros.
