@@ -1,0 +1,3 @@
+# Art. 1er.
+
+À l’intitulé de la loi modifiée du 16 décembre 2022 autorisant l’État à participer au financement du surcoût des produits énergétiques et d’électricité supporté par les centres intégrés pour personnes âgées, maisons de soins, logements encadrés pour personnes âgées et centres psycho-gériatriques agréés en vertu de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique, les termes ainsi que par les structures d’hébergement pour personnes âgées et les centres de jour pour personnes âgées agréés conformément à la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées sont insérés après le terme « thérapeutique ».
