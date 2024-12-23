@@ -1,0 +1,3 @@
+# Article unique.
+
+Sont approuvés la Convention, faite à Tirana, le 14 janvier 2009, entre le Gouvernement du Grand-Duché de Luxembourg et le Conseil des Ministres de la République d’Albanie tendant à éviter les doubles impositions et à prévenir la fraude fiscale en matière d’impôts sur le revenu et sur la fortune, ainsi que le Protocole, fait à Luxembourg, le 21 octobre 2020, modifiant la Convention entre le Gouvernement du Grand-Duché de Luxembourg et le Conseil des Ministres de la République d’Albanie tendant à éviter les doubles impositions et à prévenir la fraude fiscale en matière d’impôts sur le revenu et sur la fortune, faite à Tirana, le 14 janvier 2009.
