@@ -1,0 +1,3 @@
+# Art. 8. Exécution des signalements concernant des personnes et des objets aux fins de contrôles discrets
+
+Les officiers et agents de police judiciaire ainsi que les officiers de police judiciaire de l’Administration des douanes et accises peuvent procéder au recueil discret de toutes les informations visées à l’article 37, paragraphe 1er, du règlement (UE) 2018/1862, tel que modifié, en relation avec une personne qui fait l’objet d’un signalement aux fins de contrôles discrets introduit par un État membre signalant conformément à l’article 36, paragraphes 3 et 4, du règlement (UE) 2018/1862, tel que modifié. Le recueil discret et la transmission des informations sont effectués conformément aux dispositions de l’article 37 du règlement (UE) 2018/1862, tel que modifié.
