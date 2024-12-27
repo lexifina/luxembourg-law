@@ -1,0 +1,3 @@
+# Art. 4.
+
+L'Administration des douanes et accises et l'Administration de l'enregistrement et des domaines échangent les informations susceptibles de leur permettre l'établissement correct et le recouvrement des droits à l'importation et à l'exportation, des droits d'accises, de la taxe sur les véhicules routiers et de la taxe sur la valeur ajoutée, à l'aide de procédés automatisés ou non. Les procédés automatisés se font moyennant interconnexion ou consultation de données à travers un accès direct à des fichiers de données à caractère personnel et sous garantie que l'accès soit sécurisé, limité et contrôlé. Les conditions, critères et modalités de l'échange sont déterminés par règlement grand-ducal.

@@ -1,0 +1,3 @@
+# Art. 19.
+
+La loi générale des impôts du 22 mai 1931 (Abgabenordnung) est complétée par un nouveau paragraphe 100a libellé comme suit: §100a Le bureau d'imposition peut, sous réserve d'un contrôle ultérieur, fixer l'impôt en tenant compte de la seule déclaration d'impôt, et ceci sans qu'il y ait lieu d'indiquer les motifs. L'émission d'un bulletin d'impôt au sens du § 210 comporte la levée de la réserve du contrôle ultérieur. Avec l'expiration du délai de prescription de cinq ans, la réserve du contrôle ultérieur devient caduque et la fixation de l'impôt devient définitive. Les dispositions du présent paragraphe s'appliquent par analogie à d'autres bulletins émis en matière d'impôts directs, notamment ceux visés aux §§ 212a al. 1er, 214, 215, 215a, 386 et 390.

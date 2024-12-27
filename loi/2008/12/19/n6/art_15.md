@@ -1,0 +1,5 @@
+# Art. 15.
+
+(1) L'Administration des douanes et accises, l'Administration de l'enregistrement et des domaines et l'Inspection du travail et des mines peuvent procéder à des contrôles simultanés ou en commun sur place de l'activité économique exercée et de la situation fiscale d'un ou de plusieurs contribuables, opérateurs économiques ou assujettis, et ceci suivant les procédures propres à chacune des trois administrations.
+
+(2) En vue de la vérification de l’exacte perception de la TVA, l’Inspection du travail et des mines transmet par voie électronique à l’Administration de l’enregistrement, des domaines et de la TVA (i) les données relatives aux avis préalables en relation avec les chantiers situés sur le territoire du Grand-Duché de Luxembourg, (ii) les données relatives aux entreprises ayant recours au détachement de salariés au départ ou à destination du Grand-Duché de Luxembourg, et (iii) les informations et les pièces relatives aux abus constatés en matière de travail clandestin.
