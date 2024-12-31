@@ -1,0 +1,7 @@
+# Article unique.
+
+À l’article 8, paragraphe 1er, de la loi du 26 juillet 2023 relative à la mise en œuvre du règlement (UE) 2017/821 du Parlement européen et du Conseil du 17 mai 2017 fixant des obligations liées au devoir de diligence à l’égard de la chaîne d’approvisionnement pour les importateurs de l’Union qui importent de l’étain, du tantale et du tungstène, leurs minerais et de l’or provenant des zones de conflit ou à haut risque, sont apportées les modifications suivantes :
+
+- 1° Au point 1° de l’article 8, paragraphe 1er, de la loi du 26 juillet 2023 relative à la mise en œuvre du règlement (UE) 2017/821 du Parlement européen et du Conseil du 17 mai 2017 fixant des obligations liées au devoir de diligence à l’égard de la chaîne d’approvisionnement pour les importateurs de l’Union qui importent de l’étain, du tantale et du tungstène, leurs minerais et de l’or provenant de zones de conflit ou à haut risque, les termes à l’article 5 sont remplacés par ceux de à l’article 4.
+
+- 2° Au point 2° de l’article 8, paragraphe 1er, de la loi du 26 juillet 2023 relative à la mise en œuvre du règlement (UE) 2017/821 du Parlement européen et du Conseil du 17 mai 2017 fixant des obligations liées au devoir de diligence à l’égard de la chaîne d’approvisionnement pour les importateurs de l’Union qui importent de l’étain, du tantale et du tungstène, leurs minerais et de l’or provenant de zones de conflit ou à haut risque., les termes à l’article 9 sont remplacés par ceux de à l’article 7.
