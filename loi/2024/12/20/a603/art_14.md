@@ -1,0 +1,3 @@
+# Art. 14.
+
+Si à la date d’expiration du certificat international de sûreté, le navire ne se trouve pas dans un port dans lequel une vérification peut être réalisée, le commissaire ou l’organisme de sûreté reconnu peut proroger ledit certificat pour une durée maximale de trois mois afin de lui permettre de terminer son voyage, dans les limites et sous les conditions fixées à la section 19.3.5 de la partie A du Code ISPS. Les navires visés à la section 19.3.6 ne peuvent se voir accorder par le commissaire une prorogation de leur certificat international de sûreté ne dépassant pas un mois à compter de la date d’expiration dudit certificat.
