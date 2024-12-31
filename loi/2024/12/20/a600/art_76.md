@@ -1,0 +1,11 @@
+# Art. 76.
+
+L’article 106 de la même loi est modifié comme suit :
+
+- 1° l’article 106 est numéroté Art. 4.0.0-2. ;
+
+- 2° l’article 4.0.0-2 prend la teneur suivante :
+
+- « Art. 4.0.0-2. Sauf affiliation au régime de sécurité sociale luxembourgeois en vertu de l’article 4.0.0-1, les armateurs de navires battant pavillon luxembourgeois doivent contracter et contribuer au financement auprès d’un établissement d’assurance agréé d’une police d’assurance privée garantissant au minimum aux personnes occupées sur leurs navires, une protection dans les branches suivantes : prestations décès, vieillesse, accident du travail, et maladies professionnelles.
+
+- Toutefois, les armateurs sont dispensés de la souscription de l’assurance privée visée à l’alinéa 1er dès lors qu’ils démontrent que les gens de mer occupés sur un navire battant pavillon luxembourgeois sont affiliés au régime de sécurité sociale de leur pays de résidence en vertu de la législation de ce pays dès lors qu’il s’agit d’un État ayant ratifié la Convention du travail maritime, 2006. ».

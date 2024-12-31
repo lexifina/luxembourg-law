@@ -1,0 +1,27 @@
+# Art. 97.
+
+L’article 130 de la même loi est modifié comme suit :
+
+- 1° l’article 130 est numéroté Art. 8.0.0-2. ;
+
+- 2° l’article 8.0.0-2 prend la teneur suivante :
+
+- (1) Toute entreprise maritime de droit luxembourgeois doit disposer d’un agrément délivré par le ministre.
+
+- Lorsque l’entreprise est constituée par une personne physique résidant au Grand-Duché de Luxembourg, celle-ci est soumise aux conditions d’agrément des articles 8.0.0-4 et 8.0.0-5.
+
+- (2) L’autorisation perd sa validité en cas de :
+
+  - 1° défaut d’utilisation pendant plus de deux ans à partir de la date d’octroi ;
+
+  - 2° cessation volontaire de l’activité pendant plus de deux ans ;
+
+  - 3° mise en liquidation judiciaire ;
+
+  - 4° jugement déclaratif de faillite.
+
+- (3) L’entreprise doit, par convention, s’attacher les services d’un dirigeant maritime agréé au sens de l’article 8.0.0-4.
+
+- Les dispositions de l’alinéa 1er ne sont pas applicables à l’entreprise maritime lorsque celle-ci est une personne physique ayant reçu un agrément.
+
+- (4) La convention par laquelle l’entreprise maritime de droit luxembourgeois s’attache les services d’un dirigeant maritime doit énoncer de façon non équivoque les pouvoirs et fonctions du dirigeant maritime.

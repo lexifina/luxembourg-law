@@ -1,0 +1,15 @@
+# Art. 6.
+
+L’article 5 de la même loi est numéroté Art. 1.1.1-2., et prend la teneur suivante :
+
+Art. 1.1.1-2.
+
+(1) Peuvent être immatriculés au registre maritime luxembourgeois les navires :
+
+- 1° soit appartenant pour moitié au moins à des ressortissants d’un État Membre de l’Union européenne ou d’un État partie à l’Accord sur l’Espace économique européen sous réserve que tout ou du moins une partie significative de la gestion du navire soit effectuée à partir du Luxembourg ;
+
+- 2° soit appartenant pour moitié au moins à des sociétés ayant leur siège social ou leur principal établissement sur le territoire d’un État Membre de l’Union européenne ou d’un État partie à l’Accord sur l’Espace économique européen, sous réserve que tout ou du moins une partie significative de la gestion du navire soit effectuée à partir du Luxembourg ;
+
+- 3° soit appartenant pour moitié au moins à des ressortissants d’un État Membre de l’Union européenne ou d’un État partie à l’Accord sur l’Espace économique européen et à des sociétés ayant leur siège social ou leur principal établissement sur le territoire d’un État Membre de l’Union européenne ou d’un État partie à l’Accord sur l’Espace économique européen, sous réserve que tout ou du moins une partie significative de la gestion du navire soit effectuée à partir du Luxembourg.
+
+(2) Peuvent être immatriculés, au registre maritime luxembourgeois les navires, soit affrétés coque-nue soit exploités, par des personnes physiques ou morales telles que définies au paragraphe 1er et sous les mêmes réserves quant à la gestion du navire.
