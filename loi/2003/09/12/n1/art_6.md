@@ -1,0 +1,15 @@
+# Art. 6.
+
+(1) La Commission d'orientation et de reclassement professionnel appelée ci-après la «Commission d'orientation», décide de guider la personne reconnue «salarié» handicapé vers le marché du travail ordinaire ou vers les ateliers protégés reconnus comme tels conformément aux dispositions de l'article 23.
+
+(2) La Commission d'orientation peut entendre le candidat lui-même ou, à titre de renseignement, des tierces personnes.
+
+Elle peut faire intervenir des experts ou se faire communiquer par des organismes publics toute pièce nécessaire qu'elle juge utile ou indispensable à une analyse exhaustive de la situation du candidat.
+
+(3) En cas d'intervention d'un changement fondamental des faits et des circonstances liés à la capacité de travail du requérant, la décision portant orientation du salarié handicapé vers le marché du travail ordinaire ou vers les ateliers protégés peut faire l'objet d'une demande en révision.
+
+La demande en révision est introduite par le requérant ou son tuteur auprès de la Commission d'orientation et de reclassement professionnel. Elle doit être accompagnée des pièces justificatives requises déterminées par règlement grand-ducal.
+
+Aucune décision de la Commission d'orientation et de reclassement professionnel ne peut faire l'objet d'une demande en révision ni au cours de l'instance engagée sur les recours prévus à l'article 7, ni avant l'expiration d'un délai de six mois à partir de la notification d'une première décision devenue définitive.
+
+La décision relative à la demande en révision est prise conformément à la procédure prévue aux paragraphes 1 et 2 ci-avant.

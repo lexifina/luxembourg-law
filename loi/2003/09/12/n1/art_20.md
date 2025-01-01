@@ -1,0 +1,7 @@
+# Art. 20.
+
+(1) La durée hebdomadaire normale du travail dans les ateliers protégés est de quarante heures, à moins que la durée effective de travail dans les organismes et structures concernés ne soit fixée différemment par une disposition légale, réglementaire ou par convention. Au cas où le salarié handicapé ne peut respecter l'horaire de travail dans l'atelier protégé en raison des horaires des moyens de transport en commun qu'il utilise, la durée du transport journalier peut être incluse dans la durée de travail jusqu'à concurrence du nombre des heures de travail fixées dans le contrat de travail de la personne handicapée.
+
+(2) On entend par durée du travail dans les ateliers protégés, le temps durant lequel le salarié handicapé est à la disposition de l'atelier protégé.
+
+Par dérogation à la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de service des employés privés, à la loi modifiée du 9 décembre 1970 portant réduction et réglementation de la durée du travail des ouvriers occupés dans les secteurs public et privé de l'économie et à la loi du 23 mars 2001 concernant la protection des jeunes salariés, la durée du travail dans les ateliers protégés inclut la durée des activités socio-pédagogiques et thérapeutiques exercées durant les heures de travail sur le lieu de travail. Il en est de même pour le temps durant lequel le salarié handicapé participe à des stages en entreprise non rémunérés par l'entreprise d'affectation et organisés par l'atelier protégé.

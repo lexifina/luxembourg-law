@@ -1,0 +1,3 @@
+# Art. 17.
+
+Est guidé vers les ateliers protégés, tout salarié handicapé qui, en raison de ses capacités de travail réduites, ne suffit pas ou pas encore aux exigences et contraintes du marché du travail ordinaire. Les modalités et critères permettant de guider le salarié handicapé vers le marché du travail ordinaire ou vers les ateliers protégés peuvent être précisés par règlement grand-ducal.
