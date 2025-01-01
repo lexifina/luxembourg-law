@@ -1,0 +1,13 @@
+# Art. 31. Loi modifiée du 25 février 1979 concernant l’aide au logement
+
+La loi modifiée du 25 février 1979 concernant l’aide au logement est modifiée comme suit:
+
+- 1° L’article 27, alinéa 1, est modifié comme suit: L’Etat peut participer jusqu’à concurrence de soixante-dix pour cent du prix de construction, d’acquisition, de rénovation et d’assainissement de logements destinés à être loués par les promoteurs publics visés à l’article 16, alinéa 1, à des ménages à revenu modeste, à des familles nombreuses, à des personnes âgées et à des personnes handicapées.
+
+- 2° L’article 29, alinéa 2, est modifié comme suit: Pour les logements visés à l’alinéa 1, point 1., cette participation peut atteindre cent pour cent soit du coût de construction et de premier équipement, soit du coût d’acquisition, de rénovation, d’assainissement, d’aménagement et de premier équipement. Pour les logements visés à l’alinéa 1, point 2., la participation peut atteindre soixante-dix pour cent soit du coût de construction et de premier équipement, soit du coût d’acquisition, de rénovation, d’assainissement et de premier équipement.
+
+- 3° L’article 30ter est modifié comme suit: L’Etat peut participer jusqu’à concurrence de soixante-quinze pour cent du prix de construction, d’acquisition, de rénovation et d’assainissement de logements locatifs réalisés par des associations sans but lucratif, fondations, fabriques d’église, communautés religieuses ayant conclu une convention avec le gouvernement, les hospices civils ou offices sociaux.
+
+- 4° Un article 30quater, libellé comme suit, est inséré dans la loi: Art. 30quater.- Pour garantir la restitution des aides au logement accordées par l’Etat aux promoteurs visés par les articles 27 à 30ter, l’Etat est autorisé à inscrire une hypothèque légale sur les logements pour lesquels des aides ont été versées. L’hypothèque légale est limitée au montant des aides versées pour lesdits logements. Cette hypothèque prend rang après la ou les hypothèques inscrites sur réquisition de l’établissement d’épargne et de crédit dans l’intérêt de la garantie du ou des prêts accordés pour la construction ou l’acquisition du logement. Les formalités relatives à l’inscription et à la radiation de l’hypothèque ne donnent lieu à aucune perception au profit du Trésor, sauf le salaire des formalités hypothécaires qui est à charge du bénéficiaire de la participation étatique.
+
+- 5° L’article 56, alinéa 2, est modifié comme suit: La dotation du Fonds pour le développement du logement et de l’habitat peut être portée jusqu’à concurrence de deux cents millions d’euros par des crédits à inscrire au budget de l’Etat.
