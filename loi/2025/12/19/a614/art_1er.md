@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Afin de permettre à l’Administration du cadastre et de la topographie de procéder à la mise à jour des inscriptions au registre foncier qui ne concordent pas avec celles des fichiers tenus par la section des évaluations immobilières de l’Administration des contributions directes, l’Administration des contributions directes met à disposition de l’Administration du cadastre et de la topographie, par un transfert sécurisé de données, les informations énoncées à l’article 2 et détenues dans le cadre de l’application de la loi modifiée sur l’impôt foncier du 1er décembre 1936 (« Grundsteuergesetz »).
