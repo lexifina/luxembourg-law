@@ -1,0 +1,3 @@
+# Art. 8.
+
+Les bénéficiaires des dispositions du chapitre 1er de la loi précitée du 22 mai 2024 qui ont procédé à des acquisitions d’immeubles destinés à servir d’habitation à un locataire entre le 1er janvier 2025 et la publication de la présente loi au Journal officiel du Grand-Duché de Luxembourg sont obligés d’adresser une demande écrite au receveur compétent de l’Administration de l’enregistrement, des domaines et de la TVA en vue d’un remboursement éventuel des droits d’enregistrement et de transcription. Ils signent une déclaration ayant pour objet l’acceptation des conditions prévues à l’article 4 de la loi précitée du 22 mai 2024. Aucun remboursement des droits d’enregistrement et de transcription n’est effectué sans l’accomplissement de cette formalité.
