@@ -1,0 +1,3 @@
+# Art. 16.
+
+À l’article 109, paragraphe 1er, lettre a), de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, les mots sécurité dans le domaine informatique sont remplacés par les mots sauvegarde dans le domaine du traitement électronique des données, y compris en ce qui concerne les réseaux et les systèmes d’information qui sont mis en place et gérés conformément au règlement (UE) 2022/2554 du Parlement européen et du Conseil du 14 décembre 2022 sur la résilience opérationnelle numérique du secteur financier et modifiant les règlements (CE) n° 1060/2009, (UE) n° 648/2012, (UE) n° 600/2014 , (UE) n° 909/2014 et (UE) 2016/1011 .
