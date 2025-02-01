@@ -1,0 +1,19 @@
+# Art. 13.
+
+(1) Si des actifs apparaissent postérieurement à la clôture de la procédure de dissolution administrative sans liquidation, le tribunal d’arrondissement siégeant en matière commerciale peut, à la requête du procureur d’État, rapporter la décision de clôture de la procédure de dissolution administrative sans liquidation de la société et en ordonner la liquidation.
+
+(2) La requête est publiée par extrait dans deux journaux édités au Grand-Duché de Luxembourg.
+
+(3) En ordonnant la liquidation, le tribunal nomme un juge-commissaire ainsi qu’un ou plusieurs liquidateurs. Il arrête le mode de liquidation. II peut rendre applicables, dans la mesure qu’il détermine, les règles régissant la liquidation de la faillite. Le mode de liquidation peut être modifié par décision ultérieure, soit d’office soit sur requête du ou des liquidateurs.
+
+(4) La société est réputée exister pour sa liquidation.
+
+(5) Les décisions judiciaires ordonnant la liquidation d’une société sont publiées par extrait au Recueil électronique des sociétés et associations, conformément aux dispositions du titre Ier, chapitre Vbis, de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises. Le tribunal peut, en outre, et en dehors des publications à faire dans les journaux édités au Grand-Duché de Luxembourg, en ordonner la publication par extrait dans des journaux étrangers qu’il désigne.
+
+Les publications sont faites à la diligence du ou des liquidateurs.
+
+(6) Le tribunal peut décider que le jugement ordonnant la liquidation est exécutoire par provision.
+
+(7) Le délai pour interjeter appel du jugement de mise en liquidation d’une société commerciale soumise au droit luxembourgeois est de quarante jours, à compter de la publication du jugement au Recueil électronique des sociétés et associations, conformément aux dispositions du titre Ier, chapitre Vbis, de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises. L’action est introduite et jugée comme en matière de référé et il est fait application des articles 934, 935, 936, 937 et 939 du Nouveau Code de procédure civile. Par dérogation à l’article 934, alinéa 1er, du Nouveau Code de procédure civile, la demande peut être portée à une audience spécialement prévue pour ces affaires.
+
+(8) Les actions contre les liquidateurs se prescrivent par cinq ans à partir de la publication de la clôture de la liquidation.

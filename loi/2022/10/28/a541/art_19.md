@@ -1,0 +1,3 @@
+# Art. 19.
+
+Les sociétés dont la procédure de faillite a été clôturée antérieurement à l’entrée en vigueur de la présente loi, à l’exception des sociétés ayant mis à jour leurs inscriptions au Registre de commerce et des sociétés conformément à leurs obligations légales en matière d’inscriptions et de dépôt auprès du Registre de commerce et des sociétés postérieurement au jugement de clôture de la faillite, sont dissoutes de plein droit et rayées du Registre de commerce et des sociétés deux années après l’entrée en vigueur de la présente loi et quinze jours après la publication d’un avis par le gestionnaire du registre de commerce et des sociétés au Recueil électronique des sociétés et associations constatant l’absence d’inscription et de dépôt.
