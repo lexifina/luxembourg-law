@@ -1,0 +1,5 @@
+# Art. 19ter.
+
+Sur demande écrite et signée mentionnant le but poursuivi et l’utilisation projetée, le gestionnaire peut autoriser la délivrance à des tiers de données statistiques tirées du Registre des bénéficiaires effectifs, à condition que celles-ci ne permettent pas l’identification des personnes inscrites sur le registre des bénéficiaires effectifs ou des entités immatriculées et qu’elles soient destinées à des fins statistiques ou scientifiques.
+
+Le gestionnaire demande au tiers de garantir la non-divulgation de données à caractère confidentiel lors de la délivrance de ces données. Les données utilisées pour la production de statistiques sont considérées comme confidentielles lorsqu’elles permettent l’identification, directe ou indirecte, d’une personne physique ou d’une entité immatriculée ou comportent un risque de divulgation d’informations individuelles. Pour déterminer si une personne physique ou une entité immatriculée est identifiable, il est tenu compte de tous les moyens dont on pourrait raisonnablement admettre qu’ils puissent être utilisés par un tiers pour identifier ladite personne ou entité.
