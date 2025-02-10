@@ -1,0 +1,3 @@
+# Art. 7.
+
+À l’article 2, paragraphe 1er, alinéa 1er, de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, les mots et des prestataires de services sur crypto-actifs, des émetteurs de jetons se référant à un ou des actifs et des émetteurs de jetons de monnaie électronique au sens du règlement (UE) 2023/1114 du Parlement et du Conseil du 31 mai 2023 sur les marchés de crypto-actifs, et modifiant les règlements (UE) n° 1093/2010 et (UE) n° 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937 sont ajoutés après les mots et la directive (UE) 2019/1937 .
