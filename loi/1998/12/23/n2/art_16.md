@@ -1,0 +1,21 @@
+# Art. 16.
+
+Hormis les exceptions prévues par ou en vertu d’une loi, les membres des organes, le réviseur d’entreprises agréé, ainsi que toutes les personnes exerçant ou ayant exercé une fonction pour la «CSSF», sont tenus de garder le secret des informations confidentielles reçues dans ou à l’occasion de l’exercice de leurs fonctions, sous peine des sanctions prévues à l’article 458 du Code pénal.
+
+Ce secret implique que, sans préjudice des dispositions de lois et règlements régissant la surveillance, les informations confidentielles qu'ils reçoivent à titre professionnel ne peuvent être divulguées à quelque personne ou autorité que ce soit, excepté sous forme sommaire ou agrégée de façon que les entreprises individuelles surveillées ne puissent être identifiées, sans préjudice des cas relevant du droit pénal.
+
+L'alinéa précédent ne s'applique pas aux échanges d'informations entre la Commission de surveillance du secteur financier et la Banque centrale, aux échanges d’informations entre la Commission de surveillance du secteur financier et le comité du risque systémique ainsi qu'aux cas où les personnes y visées sont appelées à rendre témoignage en justice ou à l'occasion d'un recours contre une décision prise dans l'accomplissement de la mission de la «CSSF», et aux cas où la loi les autorise ou les oblige à révéler certains faits, notamment sur base des lois et règlements régissant la surveillance.
+
+Dans tous les cas où une loi spécifique régissant la surveillance n’autorise pas expressément la CSSF à révéler certains faits, la réception, l’échange et la transmission d’informations confidentielles par la CSSF sont autorisés dans l’intérêt de la protection des investisseurs et des déposants ainsi que de la stabilité financière lorsque les conditions suivantes sont remplies:
+
+- les informations communiquées à des autorités compétentes d’un État membre chargées de la surveillance sont destinées à l’accomplissement de la mission de surveillance des autorités qui les reçoivent,
+
+- les informations communiquées à des autorités compétentes d’un pays tiers, à d’autres autorités, à des organismes ou à des personnes d’un pays tiers doivent être nécessaires à l’exercice de leurs fonctions,
+
+- les informations communiquées par la CSSF doivent être couvertes par le secret professionnel des autorités compétentes, autres autorités, organismes et personnes qui les reçoivent et le secret professionnel de ces autorités compétentes, autres autorités, organismes et personnes doit offrir des garanties au moins équivalentes au secret professionnel auquel est soumise la CSSF,
+
+- les autorités compétentes, autres autorités, organismes et personnes qui reçoivent des informations de la part de la CSSF, ne peuvent les utiliser qu’aux fins pour lesquelles elles leur ont été communiquées et doivent être en mesure d’assurer qu’aucun autre usage n’en sera fait,
+
+- les autorités compétentes, autres autorités, organismes et personnes d’un pays tiers qui reçoivent des informations de la part de la CSSF accordent le même droit d’information à la CSSF,
+
+- lorsque ces informations ont été reçues de la part d’autorités compétentes, d’autres autorités, d’organismes ou de personnes, leur divulgation ne peut se faire qu’avec l’accord explicite de ces autorités compétentes, autres autorités, organismes et personnes et, le cas échéant, exclusivement aux fins pour lesquelles ces autorités compétentes, autres autorités, organismes et personnes ont marqué leur accord, sauf si les circonstances le justifient. Dans ce dernier cas, la CSSF en informe immédiatement l’autorité compétente qui lui a communiqué les informations transmises. Une décision spécialement motivée est exigée dans tous ces cas. Sans préjudice des cas relevant du droit pénal, la CSSF peut uniquement utiliser les informations confidentielles reçues en vertu d’une loi spécifique régissant la surveillance pour l’exercice des fonctions qui lui incombent en vertu de cette loi ou dans le cadre de procédures administratives ou judiciaires spécifiquement liées à l’exercice de ces fonctions. Toutefois, la CSSF peut utiliser les informations reçues à d’autres fins si l’autorité compétente, l’autorité, l’organisme ou la personne ayant communiqué les informations à la CSSF y consent.
