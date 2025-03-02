@@ -1,0 +1,9 @@
+# Art. 16.
+
+L’article 1023-1, de la même loi, est modifié comme suit :
+
+- 1° L’alinéa 1er est supprimé et remplacé par l’alinéa suivant :
+
+- « Lorsque conformément à l’article 1020-5, une fusion par absorption est réalisée soit par une société qui détient toutes les actions et tous les autres titres conférant un droit de vote aux assemblées générales de la société ou des sociétés absorbées, soit par une personne qui détient directement ou indirectement toutes les actions dans la société et dans la ou les sociétés absorbées et que la société absorbante n’attribue aucune action dans le cadre de la fusion, l’opération est soumise aux dispositions du titre X, chapitre II, section 1ère, à l’exception de l’article 1021-1, paragraphe 2, points 2°, 3° et 4°, des articles 1021-5 et 1021-6, de l’article 1021-7, paragraphe 1er, points 4° et 5°, l’article 1021-17, point 2°, ainsi que l’article 1021-18. En outre, l’article 1021-3, paragraphe 1er ne s’applique pas à la société absorbée. ».
+
+- 2° L’alinéa 3 est supprimé.

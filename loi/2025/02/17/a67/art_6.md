@@ -1,0 +1,11 @@
+# Art. 6.
+
+À la suite de l’article 1020-4, de la même loi, un nouvel article 1020-5 est ajouté qui a la teneur suivante :
+
+Art. 1020-5.
+
+Constituent également une fusion par absorption :
+
+- 1° l’opération par laquelle une société transfère, par suite et au moment de sa dissolution sans liquidation, l’ensemble de son patrimoine, actif et passif, à la société qui détient la totalité des titres ou des parts sociales représentatifs de son capital social ;
+
+- 2° l’opération par laquelle une ou plusieurs sociétés transfèrent, par suite et au moment de leur dissolution sans liquidation, l’ensemble de leur patrimoine actif et passif, à une autre société préexistante, la société absorbante, sans émission de nouvelles actions par la société absorbante, à condition qu’une personne détienne directement ou indirectement toutes les actions des sociétés qui fusionnent ou que les associés des sociétés qui fusionnent détiennent leurs titres et actions dans la même proportion dans toutes les sociétés qui fusionnent.
