@@ -1,0 +1,3 @@
+# Art. 7.
+
+Sans préjudice de la compétence du ministre ayant l’Immigration dans ses attributions en ce qui concerne la prise de décisions de retour et d’application de mesures coercitives, les membres du contingent permanent du corps européen de garde-frontières et de garde-côtes déployés sur le territoire luxembourgeois en tant que membres des équipes dans le domaine du retour en application de l’article 52 du règlement (UE) 2019/1896 exercent les missions liées au retour des ressortissants de pays tiers qui ne remplissent pas ou ne remplissent plus les conditions d’entrée ou de séjour sur le territoire luxembourgeois, conformément aux dispositions de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.
