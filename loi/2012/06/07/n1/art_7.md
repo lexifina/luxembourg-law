@@ -1,0 +1,29 @@
+# Art. 7.
+
+(1) La première partie de la formation professionnelle porte sur une durée d’au moins quatre mois.
+
+Cette partie comprend un enseignement, des épreuves et des visites d’études.
+
+(2) L’enseignement destiné aux attachés de justice porte sur:
+
+- 1) le processus de décision du juge et la rédaction des décisions de justice;
+
+- 2) la prise de décision et le libellé des actes de procédure au niveau d’un parquet; et
+
+- 3) le statut et la déontologie des magistrats.
+
+Un règlement grand-ducal détermine les modalités de cet enseignement.
+
+(3) Sont organisées:
+
+- 1) au moins une épreuve écrite qui consiste dans la rédaction d’un projet de décision de justice ou d’acte de procédure; et
+
+- 2) au moins une épreuve orale qui consiste dans la simulation d’une audience publique ou d’un entretien judiciaire.
+
+Ces épreuves font l’objet d’une notation.
+
+Un règlement grand-ducal détermine les modalités des épreuves.
+
+(4) Les attachés de justice effectuent des visites d’études auprès des services judiciaires, pénitentiaires, policiers et sociaux.
+
+Le programme des visites d’études est annuellement déterminé par la commission, après concertation avec les services accueillant des attachés de justice.
