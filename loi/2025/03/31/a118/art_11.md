@@ -1,0 +1,5 @@
+# Art. 11.
+
+(1) Les fournisseurs et les utilisateurs du réseau ont un droit d’accès aux réseaux, sur base de tarifs et de conditions publiés, pour l’utilisation des réseaux, ainsi que des services accessoires à l’utilisation du réseau fournis par le gestionnaire de réseau, y compris le comptage de l’hydrogène. Cet accès est appliqué de façon objective et sans discrimination. Lors de la mise en place d’un nouveau réseau d’hydrogène et en particulier lors des premières phases de développement du réseau où l’incertitude sur le degré d’utilisation des capacités de transport est importante, des conditions plus favorables peuvent être fixées pour les entreprises qui prennent des engagements fermes avant la mise en service du réseau ou de la partie du réseau à laquelle elles sont raccordées à condition qu’elles soient proportionnées, transparentes et limitées dans le temps.
+
+(2) Les gestionnaires de réseaux ont, le cas échéant et dans le cadre de l’accomplissement de leurs tâches, un droit d’accès au réseau d’autres gestionnaires de réseau.
