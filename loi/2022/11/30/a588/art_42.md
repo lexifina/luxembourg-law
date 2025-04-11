@@ -1,0 +1,3 @@
+# Art. 42. Conditions
+
+À partir de la saisine au fond de l’Autorité conformément à l’article 21, le Collège peut, à la demande du plaignant ou du conseiller instructeur, ordonner les mesures provisoires qui lui sont demandées ou celles qui lui apparaissent nécessaires. Ces mesures sont proportionnées à la situation constatée et ne peuvent intervenir que dans les cas d’urgence justifiés par le fait qu’un préjudice grave et irréparable risque d’être causé à la concurrence, sur la base d’une constatation prima facie d’une violation des articles 4 ou 5 de la présente loi et des articles 101 ou 102 du TFUE.

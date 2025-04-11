@@ -1,0 +1,5 @@
+# Art. 37. Communication des griefs
+
+(1) Lorsqu’il relève des faits susceptibles d’entrer dans le domaine de compétence de l’Autorité et avant de soumettre le dossier au Collège en vue de prendre des décisions prévues à l’article 16, paragraphe 2, points 9° et 11°, le conseiller instructeur communique aux entreprises ou aux associations d’entreprises concernées, par lettre recommandée avec avis de réception, les griefs formulés contre elles. Cette communication des griefs précise clairement la nature et l’appréciation juridique des faits à l’origine de l’ouverture de la procédure et le délai, qui ne saurait être inférieur à un mois, accordé au destinataire de la communication pour soumettre des observations. Toutefois, le Collège n’est pas lié par la qualification proposée dans la communication des griefs et peut se prononcer dans sa décision finale sur tous les comportements qui s’attachent par leur objet ou leurs effets aux faits dénoncés dans la communication des griefs.
+
+(2) Dans le cas d’une instruction sur plainte, la version non-confidentielle de la communication des griefs est notifiée au plaignant par lettre recommandée avec avis de réception.

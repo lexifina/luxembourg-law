@@ -1,0 +1,5 @@
+# Art. 27. Demandes de renseignements
+
+(1) Dans l’accomplissement des missions qui lui sont assignées, le conseiller instructeur peut demander aux entreprises et associations d’entreprises de fournir tous les renseignements nécessaires à l’application de ces missions. Il fixe un délai raisonnable dans lequel ces renseignements doivent lui être communiqués et indique, sous peine de nullité, la base juridique et le but de sa demande. Ces demandes de renseignements sont proportionnées et n’obligent pas le destinataire de la demande à admettre l’existence d’une violation des articles 4 et 5 de la présente loi ou des articles 101 et 102 du TFUE. L’obligation de fournir tous les renseignements nécessaires couvre les renseignements auxquels a accès ladite entreprise ou association d’entreprises.
+
+(2) Le conseiller instructeur est habilité, dans les conditions du paragraphe 1er, à demander à toute autre personne physique ou morale de fournir des renseignements susceptibles d’être pertinents en vue de l’application des articles 4 et 5 de la présente loi ou des articles 101 et 102 du TFUE dans un délai déterminé et raisonnable.
