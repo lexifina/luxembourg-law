@@ -1,0 +1,9 @@
+# Art. 6. Demandes d’informations
+
+(1) Pour l’accomplissement des tâches qui lui sont assignées en vertu du règlement (UE) 2022/2065, l’Autorité peut, par simple demande ou par voie de décision, requérir du fournisseur de services intermédiaires concerné, ainsi que de toute autre personne agissant pour les besoins de son activité commerciale, industrielle, artisanale ou libérale, y compris des organisations qui réalisent les audits visés aux articles 37 et 75, paragraphe 2, du règlement (UE) 2022/2065, qui sont raisonnablement susceptibles d’avoir connaissance d’informations nécessaires pour contrôler et évaluer le respect du règlement (UE) 2022/2065 ou d’informations relatives à l’infraction présumée, qu’ils fournissent ces informations dans les meilleurs délais.
+
+(2) Lorsqu’une simple demande d’information est envoyée au fournisseur de services intermédiaires ou à une autre personne visée au paragraphe 1er, l’Autorité indique la base juridique et le but de la demande, précise les informations demandées et fixe le délai dans lequel elles doivent être fournies. Elle mentionne également les amendes prévues à l’article 15 au cas où une information inexacte, incomplète ou trompeuse serait fournie.
+
+(3) Lorsque l’Autorité requiert, par voie de décision, des informations du fournisseur de services intermédiaires ou d’une autre personne visée au paragraphe 1er, elle indique, sous peine de nullité, la base juridique et le but de la demande, précise les informations demandées et fixe le délai dans lequel les informations doivent être fournies. Elle mentionne également les voies de recours et les amendes prévues à l’article 15. L’Autorité peut mentionner ou infliger les astreintes prévues à l’article 16.
+
+(4) Les informations fournies conformément au présent article peuvent être utilisées aux fins de l’application du règlement (UE) 2022/2065 et de la présente loi.
