@@ -1,0 +1,5 @@
+# Article 64. Le champ d'application.
+
+(1) Le présent chapitre s'applique aux opérations de paiement de caractère isolé, non couvertes par un contrat- cadre.
+
+(2) Lorsqu'un ordre de paiement relatif à une opération de paiement isolée est transmis par l'intermédiaire d'un instrument de paiement relevant d'un contrat-cadre, le prestataire de services de paiement n'est pas obligé de fournir ou de mettre à disposition des informations qui ont déjà été données à l'utilisateur de services de paiement sur la base d'un contrat cadre avec un autre prestataire de services de paiement ou qui lui seront données conformément audit contrat-cadre.

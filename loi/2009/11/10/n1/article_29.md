@@ -1,0 +1,3 @@
+# Article 29. L'obligation de coopérer avec les autorités.
+
+Les établissements de paiement et les établissements de monnaie électronique sont obligés de fournir une réponse et une coopération aussi complètes que possible à toute demande légale que les autorités chargées de l'application des lois leur adressent dans l'exercice de leurs compétences.

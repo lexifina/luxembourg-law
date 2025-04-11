@@ -1,0 +1,5 @@
+# Article 105. La protection des données.
+
+Les systèmes de paiement et les prestataires de services de paiement sont autorisés à traiter les données à caractère personnel lorsque cela est nécessaire pour garantir la prévention, la recherche et la détection des fraudes en matière de paiements. La communication aux personnes d'informations sur le traitement des données à caractère personnel et le traitement de ces données à caractère personnel ainsi que tout autre traitement de données à caractère personnel aux fins de la présente loi sont effectués conformément au règlement (CE) n° 45/2001 du Parlement européen et du Conseil du 18 décembre 2000 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les institutions et organes communautaires et à la libre circulation de ces données.
+
+Les prestataires de services de paiement n'ont accès à des données à caractère personnel nécessaires à l'exécution de leurs services de paiement, ne les traitent et les conservent qu'avec le consentement de l'utilisateur de services de paiement.

@@ -1,0 +1,7 @@
+# Article 79. Les frais applicables.
+
+(1) Le prestataire de services de paiement n'impute pas de frais à l'utilisateur de services de paiement pour l'accomplissement de ses obligations d'information ni pour l'exécution des mesures correctives et préventives en vertu du présent titre, sauf disposition contraire de l'article 92, paragraphe (1), de l'article 93, paragraphe (5), et de l'article 100, paragraphe (2). Ces frais sont convenus entre l'utilisateur de services de paiement et le prestataire de services de paiement et sont appropriés et correspondent aux coûts réels supportés par le prestataire de services de paiement.
+
+(2) Pour les opérations de paiement effectuées dans l'Union européenne, lorsque à la fois le prestataire de services de paiement du payeur et celui du bénéficiaire sont situés au Luxembourg, lorsque le prestataire de services de paiement du payeur est situé au Luxembourg et celui du bénéficiaire est situé dans un autre Etat membre, lorsque le prestataire de services de paiement du bénéficiaire est situé au Luxembourg et celui du payeur est situé dans un autre Etat membre ou lorsque l'unique prestataire de services de paiement intervenant dans l'opération de paiement est situé au Luxembourg, le bénéficiaire doit payer les frais prélevés par son prestataire de services de paiement et le payeur doit payer les frais prélevés par le sien.
+
+(3) Il est interdit au bénéficiaire de demander des frais au payeur pour l'utilisation d'un instrument de paiement donné.

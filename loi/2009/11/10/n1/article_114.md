@@ -1,0 +1,3 @@
+# Article 114. L'obligation d'information incombant aux institutions luxembourgeoises participant à des systèmes de paiement ou à des systèmes de règlement des opérations sur titres au sens de l'article 107, point 1) ou point 1bis).
+
+Sur demande, toute institution au sens de l'article 107, point 2) établie au Luxembourg indique à une personne y ayant un intérêt légitime les systèmes de paiement et les systèmes de règlement des opérations sur titres auxquels cette institution participe et lui fournit des informations sur les principales règles auxquelles est assujetti le fonctionnement de ces systèmes.
