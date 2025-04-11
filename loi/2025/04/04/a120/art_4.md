@@ -1,0 +1,3 @@
+# Art. 4.
+
+Est approuvée la version consolidée de l’article 4 du Protocole n° 5 sur les statuts de la Banque européenne d’investissement, tel que modifié par la décision du Conseil des gouverneurs de la Banque européenne d’investissement du 16 avril 2019 relative au remplacement de la part du capital du Royaume-Uni dans la Banque européenne d’investissement par le capital souscrit par les États membres restants (2019/655) et tel qu’approuvé par la décision (UE) 2019/654 du Conseil du 15 avril 2019 modifiant le protocole n° 5 sur les statuts de la Banque européenne d’investissement et par la décision (UE) 2019/1255 du Conseil du 18 juillet 2019 modifiant le protocole n° 5 sur les statuts de la Banque européenne d’investissement.
