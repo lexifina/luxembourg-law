@@ -1,0 +1,7 @@
+# Art. 12.
+
+L’article 367-1 du même code prend la teneur suivante :
+
+« (1) L’enfant à adopter doit être âgé de moins de seize ans.
+
+(2) Si l’enfant à adopter a plus de seize ans mais a été accueilli avant d’avoir atteint cet âge par des personnes qui ne remplissaient pas les conditions légales pour adopter ou s’il a fait l’objet d’une adoption simple avant d’avoir atteint cet âge, l’adoption plénière peut être demandée, si les conditions en sont remplies, pendant toute la minorité de l’enfant. ».

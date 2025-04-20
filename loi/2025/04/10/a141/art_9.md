@@ -1,0 +1,11 @@
+# Art. 9.
+
+L’article 360 du même code prend la teneur suivante :
+
+« L’adoptant est seul investi, à l’égard de l’adopté, de tous les droits de l’autorité parentale, inclus celui d’administrer les biens et de consentir au mariage de l’adopté.
+
+Lorsque l’adoption a été faite par deux conjoints, partenaires ou concubins au sens de l’article 344, paragraphe 1er, ou que l’adoptant est le conjoint, partenaire ou concubin au sens de l’article 344, paragraphe 1er, de l’un des parents de l’adopté, les droits visés à l’alinéa qui précède sont exercés par le ou les adoptants suivant les dispositions du livre Ier, titres IX et X.
+
+Lorsqu’il n’y a qu’un adoptant ou que l’un des deux adoptants décède, il y a lieu à administration sous contrôle judiciaire.
+
+Lorsque l’adoptant ou le survivant des adoptants décède, est déclaré absent ou perd l’exercice de l’autorité parentale, il y a lieu à ouverture d’une tutelle. ».

@@ -1,0 +1,15 @@
+# Art. 17.
+
+L’article 370 du même code est remplacé comme suit :
+
+« L’adoption est ouverte aux Luxembourgeois et aux étrangers.
+
+Les conditions requises pour adopter sont régies par la loi nationale du ou des adoptants.
+
+En cas d’adoption par des personnes de nationalité différente ou apatrides, la loi applicable est celle de la résidence habituelle commune au moment de la demande. Cette même loi est applicable au cas où l’un des adoptants est apatride.
+
+Les conditions requises pour être adopté sont régies par la loi nationale de l’adopté, sauf si l’adoption fait acquérir à l’adopté la nationalité de l’adoptant, auquel cas elles sont régies par la loi nationale de l’adoptant.
+
+Les effets de l’adoption sont régis par la loi nationale du ou des adoptants. Lorsque l’adoption est faite par deux personnes de nationalité différente ou apatrides, ou que l’une des personnes est apatride, la loi applicable est celle de leur résidence habituelle commune au moment où l’adoption a pris effet.
+
+En cas de conflit entre les règles de compétence respectivement édictées par la loi nationale de l’adoptant et par celle de l’adopté, l’adoption est valablement conclue suivant les formes prescrites par la loi du pays où l’adoption est intervenue et devant les autorités compétentes d’après cette même loi. ».
