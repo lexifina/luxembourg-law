@@ -1,0 +1,3 @@
+# Art. 13.
+
+Tout vendeur, tout annonceur de publicités et tout fabricant de détecteurs de métaux insère le libellé de l’article 12 dans la notice d’utilisation, la publicité ou toute autre documentation décrivant ou faisant publicité pour le produit assorti de la mention suivante : « Toute personne qui par infraction à l’article 12, alinéa 1er, de la loi du 25 février 2022 relative au patrimoine culturel procède à l’emploi de détecteurs de métaux et de tout autre équipement de détection électronique et magnétique en vue de la recherche des éléments du patrimoine archéologique sans autorisation ministérielle est punie d’une amende de 500 à 1 000 000 euros conformément à l’article 117, point 4, de la loi précitée du 25 février 2022. »
