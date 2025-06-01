@@ -1,0 +1,3 @@
+# Art. 17bis.
+
+Les agents du fonds national de solidarité peuvent, dans l'exercice de leurs missions et munis des pièces justificatives de leurs fonctions, se rendre au domicile des personnes ayant sollicité une prestation du fonds national de solidarité, afin de procéder à tous les examens, contrôles ou enquêtes jugés nécessaires pour déterminer si les conditions en vue de l'octroi de ces prestations se trouvent remplies. Les visites à domicile ne peuvent avoir lieu qu'entre six heures et demi et vingt heures.
