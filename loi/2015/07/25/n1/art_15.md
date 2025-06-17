@@ -1,0 +1,3 @@
+# Art. 15.
+
+Les copies et originaux numériques créés et conservés par un organisme dont c’est une des missions en vertu de dispositions légales existantes, sous le contrôle d’une autorité publique distincte et préalablement à l’entrée en vigueur de la présente loi, sont des copies à valeur probante et originaux numériques au sens de la présente loi, créés et conservés conformément aux dispositions du règlement grand-ducal du 25 juillet 2015 relatif à la dématérialisation et à la conservation des documents à condition de signer électroniquement au sens de l’article 1322-1 du Code civil ces copies et originaux numériques endéans les 24 mois qui suivent l’entrée en vigueur de la présente loi.

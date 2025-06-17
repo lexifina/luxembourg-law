@@ -1,0 +1,5 @@
+# Art. 8. Propriété, sûretés et garanties sur les matériels et supports de conservation électronique.
+
+Le prestataire de services de dématérialisation ou de conservation qui fournit des services de conservation électronique doit garantir qu’à tout moment au moins un exemplaire de toutes les copies à valeur probante et des originaux numériques qu’il conserve pour compte des détenteurs soit placé sur des matériels ou supports dont il a la pleine propriété. Il ne peut donner en garantie ou constituer de sûreté sur ces matériels ou supports. Les sûretés et garanties constituées en violation du présent alinéa sont nulles de plein droit. Ces matériels ou supports sont insaisissables tant que les copies probantes ou les originaux numériques n’ont pas été restitués aux détenteurs.
+
+Ne sont pas visés par les dispositions du présent article les matériels ou supports sur lesquels le prestataire de services de dématérialisation ou de conservation conserve d’éventuels autres exemplaires de copies probantes ou originaux numériques pour compte des détenteurs.
