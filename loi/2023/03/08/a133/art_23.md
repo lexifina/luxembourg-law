@@ -1,0 +1,3 @@
+# Art. 23. Procédure de sauvegarde de l’Union européenne
+
+Dans le cas où une autorité compétente d’un État membre de l’Union européenne prend une mesure nationale visée à l’article 21, paragraphe 1er, de la directive (UE) 2019/882 aux termes de la procédure visée à l’article 22, paragraphes 3 et 4, de cette directive et lorsque cette mesure nationale est considérée comme justifiée, l’OSAPS prend les mesures nécessaires pour garantir le retrait du produit non conforme du marché luxembourgeois et il en informe la Commission européenne. Lorsqu’une mesure prise par l’OSAPS, aux termes de la procédure visée à l’article 22, paragraphe 3 et 4, est considérée par la Commission européenne comme injustifiée, l’OSAPS la retire.

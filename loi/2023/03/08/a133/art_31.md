@@ -1,0 +1,3 @@
+# Art. 31. Coopération internationale
+
+Dans la mesure nécessaire à l’accomplissement de ses missions légales, l’OSAPS coopère avec les instances, institutions et agences internationales et européennes, ainsi qu’avec les autorités compétentes des autres États membres de l’Union européenne, et celles de pays tiers ayant signé avec le Grand-Duché de Luxembourg une convention de coopération dans une ou plusieurs des matières visées par la présente loi et procède à l’échange des informations et documentations utiles aux recherches requises effectuées de sa propre initiative ou initiées par une instance, institution ou agence internationale ou européenne ou une autorité étrangère compétente.
