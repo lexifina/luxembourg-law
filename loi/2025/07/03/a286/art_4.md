@@ -1,0 +1,15 @@
+# Art. 4.
+
+À la suite de l’article 37-3 de la même loi, il est introduit un article 37-3bis nouveau, libellé comme suit :
+
+« Art. 37-3bis.
+
+(1) Les établissements de crédit et les entreprises d’investissement qui fournissent des services de gestion de portefeuille ou d’autres services d’investissement ou services auxiliaires veillent à ce que les recherches qu’ils communiquent à des clients ou clients potentiels, qui sont rémunérées, entièrement ou partiellement, par un émetteur ne soient désignées comme des « recherches financées par l’émetteur » que si elles sont produites conformément au code de conduite de l’Union applicable aux recherches financées par l’émetteur visé à l’article 24, paragraphe 3quater, de la directive 2014/65/UE.
+
+(2) Les établissements de crédit et les entreprises d’investissement qui produisent ou diffusent des recherches financées par l’émetteur mettent en place des dispositions organisationnelles propres à garantir que ces recherches sont produites conformément au code de conduite de l’Union applicable aux recherches financées par l’émetteur et satisfont à l’article 37-3, paragraphe 1ter, ainsi qu’aux paragraphes 1er et 4 du présent article.
+
+(3) Tout émetteur peut soumettre les recherches qu’il a financées, telles que visées au paragraphe 1er, à l’organisme de collecte compétent défini à l’article 2, point 2, du règlement (UE) 2023/2859 du Parlement européen et du Conseil du 13 décembre 2023 établissant un point d’accès unique européen fournissant un accès centralisé aux informations publiées utiles pour les services financiers, les marchés des capitaux et la durabilité.
+
+Lorsqu’il soumet ces recherches à l’organisme de collecte, l’émetteur veille à ce qu’elles soient accompagnées de métadonnées précisant que les informations communiquées sont conformes au code de conduite de l’Union applicable aux recherches financées par l’émetteur. Ces recherches ne sont pas considérées comme des informations réglementées au sens de la directive 2004/109/CE du Parlement européen et du Conseil du 15 décembre 2004 sur l’harmonisation des obligations de transparence concernant l’information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé et modifiant la directive 2001/34/CE, ni comme des recherches en investissement au sens de la présente loi, et ne sont donc pas soumises au même niveau de contrôle réglementaire que des informations réglementées ou des recherches en investissement.
+
+(4) Les recherches désignées comme des « recherches financées par l’émetteur » indiquent en première page, de manière claire et visible, qu’elles ont été élaborées conformément au code de conduite de l’Union applicable aux recherches financées par l’émetteur. Tout autre matériel de recherche financé, entièrement ou partiellement, par l’émetteur, mais qui n’est pas élaboré conformément à ce code de conduite de l’Union applicable aux recherches financées par l’émetteur, est désigné comme information publicitaire. ».
