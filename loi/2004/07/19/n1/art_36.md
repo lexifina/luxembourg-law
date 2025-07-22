@@ -1,0 +1,17 @@
+# Art. 36. Convention relative au plan d’aménagement particulier «nouveau quartier»
+
+Sur base du projet d’exécution, une convention entre la commune, représentée par son collège des bourgmestre et échevins, et l’initiateur du projet est conclue.
+
+Cette convention, avec le projet d’exécution, est soumise à l’approbation du conseil communal. La convention règle notamment la réalisation des travaux de voirie et d’équipements publics nécessaires à la viabilité du plan d’aménagement particulier «nouveau quartier», leur financement par les intéressés ainsi que la cession des fonds réservés à la voirie et aux équipements publics et l’indemnité compensatoire conformément à l’article 34, de même que la cession gratuite des équipements publics à la commune après leur achèvement selon les règles de l’art et la réception définitive des travaux. Elle indique également le délai de réalisation du projet et, en cas de réalisation en phases successives, le déroulement de chaque phase. Les modalités de réalisation des mesures compensatoires, conformément à l’article 17 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles, peuvent être fixées dans la convention.
+
+La convention est conclue avant la délivrance des autorisations prévues à l’article 37.
+
+La convention est périmée de plein droit si dans un délai à fixer par le collège des bourgmestre et échevins, qui ne peut pas être inférieur à un an, l’initiateur du projet n’a pas entamé la réalisation du projet de manière significative. Le délai de péremption peut être prorogé par décision du collège des bourgmestre et échevins pour une période d’un an sur demande motivée du propriétaire ou de son mandataire. Ce délai est prorogé de plein droit si une autorisation de construire a été délivrée pour l’exécution des travaux de voirie et d’équipements publics nécessaires à la viabilité du plan d’aménagement particulier. Dans ce cas, le délai est prorogé jusqu’à ce que l’autorisation de construire précitée soit périmée.
+
+Cette décision est soumise à l’approbation du conseil communal.
+
+La décision du conseil communal relative à l’approbation de la convention et du projet d’exécution est transmise pour approbation au ministre par lettre recommandée ou par porteur avec avis de réception. Le ministre statue dans le délai de trente jours à compter de la réception de la délibération. Si endéans ce délai, le ministre n’a pas statué, la convention est censée être approuvée.
+
+Si la convention et son projet d’exécution contiennent des modalités de réalisation des mesures compensatoires conformément à l’alinéa 2, le ministre transmet ces dispositions pour avis au Ministre ayant la protection de la nature dans ses attributions dans un délai de sept jours à compter de la réception de la délibération. Dans ce cas, le délai prévu à l’alinéa 6 est prorogé à 45 jours. À défaut par le Ministre ayant la protection de la nature dans ses attributions de faire parvenir son avis sur les dispositions relatives à la réalisation des mesures compensatoires dans le mois de la réception du dossier, le ministre statue sur la décision du conseil communal conformément à l’alinéa 6.
+
+Les travaux de voirie et d’équipements publics nécessaires à la viabilité d’un projet sont exécutés sous le contrôle et la surveillance du collège des bourgmestre et échevins, l’initiateur du projet demeurant cependant responsable exclusif de la réalisation et de l’exécution matérielle des travaux requis.

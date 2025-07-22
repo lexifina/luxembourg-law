@@ -1,0 +1,3 @@
+# Art. 58. Justification
+
+Avec la déclaration de zone à restructurer la commune présente les documents prévus à l’article 45 de la présente loi ainsi qu’un mémoire décrivant tant l’accompagnement social à prévoir pour les habitants du quartier que les solutions à prévoir pour garantir soit leur relogement temporaire à l’intérieur ou à l’extérieur du quartier pendant la durée des travaux, soit leur relogement définitif à l’intérieur ou à l’extérieur du quartier en fonction de leurs desiderata respectivement des contraintes techniques inhérentes au projet concernant la zone à restructurer concernée.
