@@ -1,0 +1,7 @@
+# Art. 22. Mesures de publicité
+
+(1) Les actes et promesses de vente ou de location, ainsi que ceux ayant pour objet de transférer un droit réel immobilier, de même que les affiches, annonces et tout autre moyen de publicité relatif à de pareilles opérations concernant des terrains compris dans un plan directeur sectoriel ou un plan d’occupation du sol ou d’un projet de plan ayant fait l’objet d’une décision du Gouvernement en conseil en vertu des articles 12, paragraphe 2 et 18, paragraphe 2 font mention de ces plans ou projets de plan et, le cas échéant, des servitudes provisoires prises en vertu de l’article 23. Ils spécifient succinctement les prescriptions touchant ou pouvant toucher ces fonds tel que prévues par les plans ou projets de plan. La mention sera fondée sur une attestation à délivrer par le ministre.
+
+(2) L’ensemble des plans directeurs sectoriels et plans d’occupation du sol font l’objet d’une publication sur le site internet du ministère ayant l’aménagement du territoire dans ses compétences et du site de l’Administration du cadastre et de la topographie.
+
+(3) En cas d’inobservation des dispositions qui précèdent, la nullité de l’acte de vente, de location ou de transfert d’un droit réel immobilier pourra être poursuivie à la requête de l’acquéreur, du locataire ou autre contractant lésé, ou à leur défaut, de la commune aux frais et dommages du vendeur et du notaire instrumentaire tenus solidairement, du bailleur ou autre contractant fautif, sans préjudice d’éventuelles réparations civiles.

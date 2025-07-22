@@ -1,0 +1,19 @@
+# Art. 28. Sanctions pénales, sanctions et mesures administratives
+
+(1) L’inobservation des dispositions des plans rendus obligatoires en vertu de la présente loi, des décisions d’interdiction ou de prolongation d’interdiction prévues à l’article 23 ou des obligations de publicité prévues à l’article 22 est punie d’un emprisonnement de huit jours à deux mois et d’une amende de 251 à 125 000 euros ou d’une de ces peines seulement.
+
+(2) Le juge ordonne soit que les travaux entrepris soient rendus conformes, selon les cas, aux dispositions des plans rendus obligatoires en vertu de la présente loi, soit que lesdits travaux soient supprimés et les lieux remis dans leur état antérieur dans le délai qu’il fixe à cette fin.
+
+(3) Les mesures ordonnées par le juge sont exécutées aux frais des contrevenants. Ces frais sont recouvrables par voie de contrainte comme en matière de contributions directes.
+
+Les mesures ordonnées par le juge peuvent être assorties d’une astreinte dont il fixe le taux et la durée maximale. Cette astreinte court à partir du délai fixé pour le rétablissement des lieux jusqu’au jour où le jugement a été complètement exécuté.
+
+(4) La commune et l’État, chacun en ce qui le concerne, peuvent se porter partie civile.
+
+(5) La violation des procédures prévues par l’article 6, paragraphe 4, l’article 12, paragraphe 2, alinéas 3 et 5, paragraphe 3, alinéa 3, paragraphe 4, alinéa 2 et paragraphe 5 et l’article 18, paragraphe 2, alinéas 3 et 5, paragraphe 3, alinéa 3, paragraphe 4, alinéa 2 et paragraphe 5 constitue une faute grave ou négligence grave au sens des articles 41 et 63 de la loi communale modifiée du 13 décembre 1988.
+
+(6) Lorsque le bourgmestre a été saisi par l’État d’une demande d’autorisation de bâtir pour la réalisation d’un ouvrage à réaliser dans le cadre de l’article 1er, paragraphes 2 et 3 sur des fonds couverts par un plan d’occupation du sol et qu’aucune décision n’est intervenue dans un délai de trois mois à compter de la réception de la demande d’autorisation de bâtir, le ministre ayant l’Intérieur dans ses attributions peut charger un ou plusieurs commissaires spéciaux en vue de remédier à l’omission du bourgmestre de se prononcer sur la conformité de la demande d’autorisation de bâtir par rapport aux dispositions d’urbanisme existantes. Après deux avertissements consécutifs envoyés sous pli recommandé à la poste avec accusé de réception, le ministre de l’Intérieur charge un ou plusieurs commissaires spéciaux de se rendre sur les lieux aux frais personnels du bourgmestre en retard de satisfaire aux avertissements, à l’effet de se prononcer sur la conformité de la demande d’autorisation en question avec les dispositions d’urbanisme existantes et de délivrer, respectivement refuser, l’autorisation de bâtir sollicitée conformément à l’article 37 de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain. Le ou les commissaires spéciaux ainsi nommés sont également en charge de l’exécution de l’autorisation de bâtir précitée.
+
+Sauf le cas d’urgence dûment constaté dans l’arrêté de nomination du commissaire spécial, ce dernier ne peut être envoyé qu’après l’expiration d’un délai de huit jours à partir de la réception du deuxième avertissement. Contre l’arrêté de nomination du commissaire spécial, un recours est ouvert devant le Tribunal administratif, qui statue comme juge du fond. Ce recours doit être introduit dans les dix jours à partir de la prise du prédit arrêté de nomination. Dans le même délai, copie du recours est notifiée à l’autorité qui a envoyé les avertissements prévus au présent article.
+
+À défaut de recours ou si celui-ci est rejeté, le recouvrement des frais exposés pourra être poursuivi comme en matière de contributions directes, sur l’exécutoire du ministre ayant l’Intérieur dans ses attributions.
