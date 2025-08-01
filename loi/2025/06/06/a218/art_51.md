@@ -1,0 +1,7 @@
+# Art. 51.
+
+(1) Pour la période située entre le 1er juillet 2022 et le 30 juin 2023, la majoration d’échelon telle que prévue à l’article 16 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État s’applique, pour les fonctionnaires de la musique militaire, aux grades du niveau supérieur, le nombre de postes pouvant bénéficier de cette mesure étant limité à 15 pour cent de l’effectif des fonctionnaires de la musique militaire défini pour chaque groupe de traitement. Toutefois, à défaut d’un candidat remplissant la condition d’être classé à l’un des grades faisant partie du niveau supérieur de son groupe de traitement, le ministre du ressort peut désigner un fonctionnaire classé à l’un des grades du niveau général pour occuper le poste à responsabilité particulière vacant.
+
+(2) Pour la période située entre le 1er juillet 2022 et le 30 juin 2023, la majoration d’échelon telle que prévue à l’article 16, paragraphe 4, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est fixée à 10 points indiciaires pour le groupe de traitement C2.
+
+Pour la période située entre le 1er juillet 2023 et le 31 décembre 2024, la majoration d’échelon telle que prévue à l’article 16, paragraphe 4, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est fixée à 15 points indiciaires pour le groupe de traitement C2.

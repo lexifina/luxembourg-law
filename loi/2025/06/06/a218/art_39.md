@@ -1,0 +1,7 @@
+# Art. 39.
+
+Pour les fonctionnaires et employés de l’État en service, en congé de maternité, en congé parental, en congé sans traitement ou en congé sans indemnité au 1er juillet 2022 et exerçant la profession de l’aide-soignant, le grade 4 est allongé d’un quinzième, d’un seizième et d’un dix-septième échelon ayant respectivement les indices 266, 286 et 306. L’accès aux échelons précités aura lieu après deux ans à compter du 1er juillet 2022. Il est lié en outre à la condition d’avoir réussi à l’examen de promotion pour le fonctionnaire et à l’examen de carrière pour l’employé de l’État et d’avoir accompli au total au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’avoir suivi une autre formation reconnue équivalente, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant la Fonction publique dans ses attributions.
+
+Les dispositions de l’article 28, paragraphe 6, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État sont applicables aux fonctionnaires de l’État visés par le présent article.
+
+Les dispositions de l’article 35 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État sont applicables aux employés de l’État visés par le présent article.
