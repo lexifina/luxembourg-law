@@ -1,0 +1,3 @@
+# Art. 4.
+
+Les membres de la catégorie de traitement C, groupes de traitement C2 et C1 du cadre policier de la Police grand-ducale en service ou en retraite qui ont accédé aux groupes de traitement C1 et B1 en application de l’article 94 de la loi modifiée du 18 juillet 2018 sur la Police grand-ducale et qui auraient pu bénéficier d’un avancement en grade entre le 1er janvier 2024 et la date d’entrée en vigueur de la présente loi bénéficient de l’avancement en grade rétroactivement à la date d’échéance, conformément aux modalités prévues à l’article 94, paragraphe 4, de la loi précitée du 18 juillet 2018.
