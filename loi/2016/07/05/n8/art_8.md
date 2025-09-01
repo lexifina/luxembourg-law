@@ -1,0 +1,19 @@
+# Art. 8. – Moyens et mesures de recherche applicables aux menaces d'espionnage, de prolifération et de terrorisme
+
+(1) Si les moyens et les mesures de recherche dont dispose le SRE en vertu des articles 5, 6 et 7 s'avèrent inopérants en raison de la nature des faits et des circonstances spécifiques de l'espèce, le SRE peut être autorisé par le Comité et, en cas d'urgence et sous réserve de faire confirmer sa décision dans les meilleurs délais par le Comité, par le ministre à mettre en œuvre les moyens et mesures de recherche suivants pour un ou plusieurs faits qui revêtent un degré de gravité caractérisé et qui ont trait soit à des activités d'espionnage soit à des activités de prolifération d'armes de destruction massive ou de produits liés à la défense et de technologies y afférentes, soit à des activités de terrorisme:
+
+- a) demander à la CSSF, selon la procédure arrêtée par la CSSF et selon les conditions de l’article 8, paragraphe 3, de la loi du 25 mars 2020 instituant un système électronique central de recherche de données concernant des comptes IBAN et des coffres-forts, de recevoir sans délai les données visées à l’article 2, paragraphe 1er, de cette loi ;
+
+- b) solliciter auprès d'un organisme bancaire ou d'une institution financière les informations relatives aux transactions bancaires qui ont été réalisées, pendant une période déterminée, sur un ou plusieurs comptes bancaires de la personne visée par la mesure de recherche ou de son véritable bénéficiaire économique ainsi que les informations concernant les titulaires ou mandataires qui, pendant une période déterminée, ont ou avaient accès à un ou plusieurs coffres bancaires de la personne visée par la mesure de recherche. L'organisme bancaire ou l'institution financière visée par la demande doit fournir sa réponse sans délai;
+
+- c) accéder au(x) système(s) informatique(s) susceptible(s) d'être utilisé(s) par une personne ou plusieurs personnes visées par les moyens et mesures de recherche, afin de rechercher de manière ciblée des renseignements nécessaires à l'exécution d'une des deux missions définies au premier alinéa ou de surveiller et contrôler des communications dont l'interception technique n'est pas possible moyennant les réseaux normaux de télécommunication et à ce titre y installer un dispositif technique ou informatique non permanent d'une durée n'excédant pas le délai de trois mois.
+
+(2) Pour un ou plusieurs faits revêtant un degré de gravité caractérisé et qui ont trait à des activités de terrorisme, le SRE peut, si les moyens et mesures de recherche inscrits aux dispositions des articles 5, 6 et 7 s'avèrent inopérants en raison de la nature spécifique des faits et des circonstances spéciales de l'espèce, faire usage des méthodes destinées à l'observation dans un lieu privé qui n'est pas accessible au public, dans un domicile ou ses dépendances au sens des articles 479, 480 et 481 du Code pénal, le cas échéant sans le consentement du propriétaire ou de l'occupant de ces lieux.
+
+À cet effet, le SRE peut:
+
+- a) entrer dans ces lieux afin de les inspecter, d'en emporter ou de remettre en place des objets, d'installer, deréparer ou d'en retirer un moyen technique au sens de l'article 5, paragraphe 3 ou un outil technique en vue d'écouter, de prendre connaissance et d'enregistrer toutes les formes de communication au sens de l'article 7 pour un délai renouvelable d'un mois à compter du jour où la mesure a été ordonnée;
+
+- b) observer, sans interception de communications au sens de l'article 7, à l'aide ou non de moyens techniques à l'intérieur des lieux précités.
+
+(3) Les moyens et mesures de recherche visés au présent article sont ordonnés par le Comité sur demande écrite du directeur du SRE et après l'assentiment de la commission spéciale selon la procédure inscrite à l'article 7, paragraphe 4.
