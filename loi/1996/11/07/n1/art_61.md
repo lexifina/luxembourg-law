@@ -1,10 +1,10 @@
 # Art. 61.
 
-(1) Le tribunal administratif comprend six chambres.
+(1) Le tribunal administratif comprend sept chambres.
 
-Parmi les six chambres, l’assemblée générale du tribunal administratif détermine annuellement le nombre de chambres spécialisées et le domaine de spécialisation de celles-ci.
+Parmi les sept chambres, l’assemblée générale du tribunal administratif détermine annuellement le nombre de chambres spécialisées et le domaine de spécialisation de celles-ci.
 
-Le président du tribunal administratif répartit les affaires entre les six chambres.
+Le président du tribunal administratif répartit les affaires entre les sept chambres.
 
 (2) Le tribunal administratif siège, délibère et rend ses décisions au nombre de trois membres.
 

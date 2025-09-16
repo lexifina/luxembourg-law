@@ -1,6 +1,6 @@
 # Art. 57.
 
-(1) Le tribunal administratif est composé de vingt-cinq membres, c’est-à-dire un président, trois premiers vice-présidents, six vice-présidents, sept premiers juges et huit juges.
+(1) Le tribunal administratif est composé de vingt-neuf membres, c’est-à-dire un président, quatre premiers vice-présidents, huit vice-présidents, huit premiers juges et huit juges.
 
 Il est complété par neuf membres suppléants qui portent le titre de juge suppléant du tribunal administratif.
 
