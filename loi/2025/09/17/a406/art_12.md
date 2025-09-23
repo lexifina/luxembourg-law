@@ -1,0 +1,9 @@
+# Art. 12.
+
+Le libellé de l’article 15 de la même loi est remplacé comme suit :
+
+Art. 15.
+
+(1) Lorsqu’une demande d’informations extraites du casier judiciaire concernant une personne physique, ressortissante d’un État membre, une personne morale de droit luxembourgeois, ou une personne physique ressortissante d’un pays tiers à l’Union européenne à l’égard de laquelle une condamnation a été prononcée par les juridictions luxembourgeoises ou à l’égard de laquelle une condamnation a été prononcée dans un pays tiers et qui a été transmise au procureur général d’État, est adressée, aux fins d’une procédure pénale, par une autorité centrale au moyen du formulaire figurant en annexe de la présente loi, le procureur général d’État lui transmet les informations recevant inscription au bulletin N° 1.
+
+(2) Lorsqu’une demande d’informations extraites du casier judiciaire concernant une personne physique, ressortissante d’un État membre, une personne morale de droit luxembourgeois ou une personne physique ressortissante d’un pays tiers à l’Union européenne à l’égard de laquelle une condamnation a été prononcée par les juridictions luxembourgeoises ou à l’égard de laquelle une condamnation a été prononcée dans un pays tiers et qui a été transmise au procureur général d’État, est adressée à des fins autres par une autorité centrale au moyen du formulaire figurant en annexe de la présente loi, le procureur général d’État lui transmet le bulletin respectif, lorsque les conditions prévues aux articles 8, 8-1, 8-2, 8-3 et 8-5 pour la délivrance du bulletin en question sont réunies.
