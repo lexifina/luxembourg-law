@@ -1,0 +1,21 @@
+# Article 93 Champ d'application
+
+1. Les articles 93-1 à 97-1 s’appliquent à l’assurance protection juridique, par laquelle une entreprise d’assurance s’engage, moyennant le paiement d’une prime, à prendre en charge des frais de procédure judiciaire et à fournir d’autres services directement liés à la couverture d’assurance, notamment en vue:
+
+- a) d’obtenir une indemnisation pour un dommage subi par l’assuré, à l’amiable ou dans une procédure civile ou pénale;
+
+- b) de défendre ou de représenter l’assuré dans une procédure civile, pénale, administrative ou autre, ou contre une réclamation dont il est l’objet.
+
+2. Les articles 93-1 à 97-1 ne s’appliquent pas:
+
+- a) à l’assurance protection juridique lorsque celle-ci concerne des litiges ou des risques qui résultent de l’utilisation de navires de mer ou qui sont en rapport avec cette utilisation;
+
+- b) à l’activité exercée par une entreprise d’assurance couvrant la responsabilité civile en vue de défendre ou de représenter son assuré dans toute procédure judiciaire ou administrative, lorsque cette activité est exercée en même temps dans le propre intérêt de cette entreprise d’assurance au titre de cette couverture;
+
+- c) à l’activité d’assurance protection juridique déployée par un assureur en matière d’assistance qui remplit les conditions suivantes:
+
+  - l’activité est effectuée dans un Etat membre autre que celui où l’assuré a sa résidence habituelle;
+
+  - l’activité fait partie d’un contrat qui ne concerne que l’assistance fournie aux personnes en difficulté au cours de déplacements, d’absences de leur domicile ou de leur résidence habituelle.
+
+  - Aux fins du premier alinéa, point c), le contrat indique de façon claire que la couverture en question est limitée aux circonstances visées à ce point et qu’elle est accessoire à l’assistance.
