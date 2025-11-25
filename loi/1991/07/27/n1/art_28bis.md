@@ -1,0 +1,7 @@
+# Art. 28bis. Droits exclusifs pour des événements majeurs
+
+(1) Un règlement grand-ducal peut établir une liste d’événements majeurs pour la société, nationaux ou non. Ce règlement grand-ducal est notifié à la Commission européenne conformément au paragraphe 2 de l’article 14 de la directive Services de médias audiovisuels.
+
+(2) Les fournisseurs de services de télévision n’exercent pas les droits exclusifs qu’ils ont achetés après l’entrée en vigueur de ce règlement grand-ducal de façon à priver une partie importante du public luxembourgeois de la possibilité de suivre les événements repris dans cette liste, intégralement ou partiellement en direct ou, si nécessaire ou approprié pour des raisons objectives d’intérêt général, intégralement ou partiellement en différé, sur une télévision à accès libre. Ledit règlement grand-ducal peut également prévoir les mesures d’exécution des dispositions du présent paragraphe.
+
+(3) Les fournisseurs de services de télévision n’exercent pas les droits exclusifs qu’ils ont achetés après le 30 juillet 1997 de façon à priver une partie importante du public d’un autre Etat membre de l’Espace Economique Européen de la possibilité de suivre sur une télévision à accès libre, intégralement ou partiellement, en direct ou en différé, selon les dispositions prises par cet autre Etat membre, les événements que cet autre Etat membre a désignés conformément aux paragraphes 1 et 2 de l’article 14 de la directive Services de médias audiovisuels.
