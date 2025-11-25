@@ -1,0 +1,7 @@
+# Art. 26. Assistance mutuelle – obligations générales incombant à l’Etat membre d’établissement
+
+(1) En ce qui concerne les prestataires établis au Luxembourg prestant des services dans un autre Etat membre, les autorités compétentes luxembourgeoises fournissent les informations demandées par les autorités compétentes d’un autre Etat membre et, en particulier, confirment qu’un prestataire est bien établi au Luxembourg et, qu’à leur connaissance, ce prestataire n’y exerce pas ses activités de manière illégale.
+
+(2) Les autorités compétentes luxembourgeoises procèdent aux vérifications, inspections et enquêtes demandées par les autorités compétentes d’un autre Etat membre dans les limites de compétence leur conférées par les lois nationales respectives et informent ces dernières des résultats obtenus et, le cas échéant, des mesures prises. Les autorités compétentes luxembourgeoises appliquent les mesures de contrôle et d’enquête prévues par la loi lorsque ces mesures s’avèrent nécessaires pour répondre à la demande d’une autorité compétente d’un autre Etat membre.
+
+(3) Dès lors que les autorités compétentes luxembourgeoises ont connaissance, dans le chef d’un prestataire établi au Luxembourg qui fournit des services dans d’autres Etats membres, d’un comportement ou d’actes précis qui, à leur connaissance, pourraient causer un préjudice grave pour la santé ou pour la sécurité des personnes ou pour l’environnement, elles en informent les autorités compétentes des autres Etats membres et la Commission européenne dans les plus brefs délais.

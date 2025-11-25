@@ -1,0 +1,11 @@
+# Art. 24. Règlement des litiges
+
+(1) Les prestataires fournissent leurs coordonnées, notamment une adresse postale, un numéro de télécopie ou une adresse électronique ainsi qu’un numéro de téléphone, où tous les destinataires, y compris ceux résidant dans un autre Etat membre, peuvent leur adresser directement une réclamation ou leur demander des informations sur le service fourni. Les prestataires fournissent leur domiciliation légale si celle-ci ne correspond pas à leur adresse habituelle aux fins de correspondance.
+
+Les prestataires répondent aux réclamations visées au premier alinéa dans les plus brefs délais.
+
+(2) La preuve du respect de l’obligation d’information et de l’exactitude des informations visées à l’article 19 incombe au prestataire.
+
+(3) Lorsqu’une garantie financière est nécessaire pour l’exécution d’une décision judiciaire, sont reconnues comme équivalentes les garanties constituées auprès d’un établissement de crédit ou d’un assureur établi dans un autre Etat membre. Ces établissements de crédit doivent être agréés dans un Etat membre conformément aux textes nationaux transposant la directive 2006/48/CE du Parlement européen et du Conseil du 14 juin 2006 concernant l’accès à l’activité des établissements de crédit et son exercice, et ces assureurs doivent être agréés dans un Etat membre, selon le cas, conformément aux textes nationaux transposant la première directive 73/239/CEE du Conseil du 24 juillet 1973 portant coordination des dispositions législatives, réglementaires et administratives concernant l’accès à l’activité de l’assurance directe autre que l’assurance sur la vie, et son exercice ou aux textes nationaux transposant la directive 2002/83/CE du Parlement européen et du Conseil du 5 novembre 2002 concernant l’assurance directe sur la vie.
+
+(4) Les prestataires soumis à un code de conduite, ou membres d’une association ou d’un organisme professionnels, qui prévoit le recours à des moyens de règlement extrajudiciaire des litiges, en informent le destinataire et le mentionnent dans tout document. Ils présentent de manière détaillée leurs services, en indiquant les moyens d’accéder à des informations détaillées sur les caractéristiques et les conditions d’utilisation de ces moyens.
