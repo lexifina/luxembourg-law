@@ -1,0 +1,3 @@
+# Art. 13.
+
+Sous réserve des dispositions contraires d’un instrument juridique international, y compris les conditions fixées le cas échéant par les entités visées à l’article 1er en application des dispositions légales qui leur sont applicables, les données à caractère personnel et informations transmises à la Police grand-ducale ou à l’Administration des douanes et accises en vertu du présent chapitre peuvent être utilisées par les autorités répressives luxembourgeoises de la même manière que celles obtenues par voie d’entraide judiciaire internationale en matière pénale ou dans le cadre d’une procédure pénale menée au Luxembourg.

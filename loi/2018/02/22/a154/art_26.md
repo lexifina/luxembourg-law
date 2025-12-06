@@ -1,0 +1,7 @@
+# Art. 26.
+
+(1) Les données et informations transmises à l’administration de l’État concernée font partie du traitement des données à caractère personnel dont l’administration ou son représentant est le responsable du traitement au sens de l’article 4, point 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données). La Commission nationale pour la protection des données est compétente pour vérifier l’application des dispositions du règlement précité et de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
+
+(2) Les données et informations transmises ne peuvent être utilisées par l’administration que pour la finalité pour laquelle elles ont été transmises. Elles sont effacées dès que leur conservation n’est plus nécessaire au regard de la finalité pour laquelle elles ont été transmises.
+
+(3) La transmission ultérieure des données et informations par l’administration de l’État à une tierce personne requiert l’accord préalable écrit de la personne visée à l’article 18, paragraphe 1er, ayant transmis les données et informations concernées. Le cas échéant, l’article 6, paragraphe 3, est applicable.
