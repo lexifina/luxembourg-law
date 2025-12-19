@@ -1,0 +1,7 @@
+# Art. 385bis.
+
+( L. 31 mai 1999 ) Sera puni d'une amende de 251 euros à 25.000 euros quiconque vend ou distribue à des enfants de moins de seize ans des écrits, images, figures ou objets indécents de nature à troubler leur imagination.
+
+Sera puni de la même peine quiconque expose publiquement dans le voisinage d'un établissement d'instruction ou d'éducation fréquenté par des enfants de moins de seize ans des écrits, images, figures ou objets indécents de nature à troubler leur imagination.
+
+La confiscation des écrits, figures ou objets indécents exposés, mis en vente ou en distribution sera toujours prononcée en cas de condamnation, même si la propriété n'en appartient pas au condamné ou si la condamnation est prononcée par le juge de police par l'admission de circonstances atténuantes.

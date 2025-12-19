@@ -1,0 +1,7 @@
+# Art. 1er.
+
+L'infraction que les lois punissent d'une peine criminelle est un crime.
+
+L'infraction que les lois punissent d'une peine correctionnelle est un délit.
+
+L'infraction que les lois punissent d'une peine de police est une contravention.

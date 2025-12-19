@@ -1,0 +1,3 @@
+# Art. 96.
+
+La prescription de la peine sera interrompue par l'arrestation du condamné.

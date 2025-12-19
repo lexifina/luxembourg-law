@@ -1,0 +1,3 @@
+# Art. 64.
+
+Les peines de confiscation spéciale à raison de plusieurs crimes, délits ou contraventions, seront toujours cumulées.

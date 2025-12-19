@@ -1,0 +1,3 @@
+# Art. 53.
+
+La loi détermine dans quels cas et de quelles peines sont punies les tentatives de délits.

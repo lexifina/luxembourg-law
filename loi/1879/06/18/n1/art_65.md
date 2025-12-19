@@ -1,0 +1,3 @@
+# Art. 65.
+
+Lorsque le même fait constitue plusieurs infractions, la peine la plus forte sera seule prononcée.

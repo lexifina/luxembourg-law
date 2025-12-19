@@ -1,0 +1,3 @@
+# Art. 120quinquies.
+
+( Arr. g.-d. 14 juillet 1943 ) Sera puni d'un emprisonnement d'un mois à un an et d'une amende de 251 euros à 125.000 euros, quiconque, contrairement aux règlements aura déplacé ou détenu des objets, plans, écrits, ou documents visés à l'article 118, ou quiconque, par négligence ou inobservation des règlements, aura laissé détruire, soustraire ou enlever même momentanément, tout ou partie de ces objets, plans, écrits ou documents qui lui ont été confiés ou dont il a eu connaissance en raison de ses fonctions, de son état, de sa profession, d'une mission, d'un mandat ou en aura laissé prendre connaissance, copie ou reproduction par un procédé quelconque, en tout ou en partie.

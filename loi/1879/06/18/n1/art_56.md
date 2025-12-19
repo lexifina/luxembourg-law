@@ -1,0 +1,7 @@
+# Art. 56.
+
+Quiconque, après une condamnation à une peine criminelle, aura commis un délit, pourra être condamné à une peine double du maximum porté par la loi contre le délit.
+
+La même peine pourra être prononcée en cas de condamnation antérieure à un emprisonnement d'un an au moins, si le condamné a commis le nouveau délit avant l'expiration de cinq ans depuis qu'il a subi ou prescrit sa peine.
+
+Alinéa abrogé ( L. 13 juin 1994 )

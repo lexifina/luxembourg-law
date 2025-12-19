@@ -1,0 +1,3 @@
+# Art. 44.
+
+La condamnation aux peines établies par la loi sera toujours prononcée, sans préjudice des restitutions et dommages-intérêts qui peuvent être dus aux parties.

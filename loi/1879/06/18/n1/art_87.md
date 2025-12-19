@@ -1,0 +1,3 @@
+# Art. 87.
+
+Les incapacités prononcées par les juges ou attachées par la loi à certaines condamnations cessent par la remise que le Grand-Duc peut en faire, en vertu du droit de grâce.

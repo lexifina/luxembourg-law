@@ -1,0 +1,3 @@
+# Art. 199bis.
+
+( L. 11 janvier 1939 ) Sera puni d'un emprisonnement de huit jours à trois ans et d'une amende de 251 euros à 12.500 euros ou d'une de ces peines seulement, quiconque aura acheté, vendu, acquis ou cédé même gratuitement un passeport, une demande de passeport, un certificat de nationalité, une carte d'identité ou tout autre papier de légitimation, un permis de chasse ou de pêche, un permis de conduire, un port d'arme, une autorisation de commerce, d'embauche ou tout autre permis, autorisation ou agrégation relevant de la compétence d'une autorité luxembourgeoise ou étrangère, peu importe que la pièce en question soit authentique ou fausse. ( L. 27 octobre 2010 )

@@ -1,0 +1,13 @@
+# Art. 401bis.
+
+( L. 12 novembre 1971 ) Quiconque aura volontairement fait des blessures ou porté des coups à un enfant au-dessous de l'âge de quatorze ans accomplis, ou qui l'aura volontairement privé d'aliments ou de soins au point de compromettre sa santé ou qui aura commis à son encontre toute autre violence ou voie de fait, à l'exclusion de violences légères, sera puni d'un emprisonnement de un an à trois ans et d'une amende de 251 euros à 2.500 euros.
+
+S'il est résulté des différentes sortes de violences ou privations ci-dessus une maladie ou une incapacité de travail personnel, ou s'il y a eu préméditation, la peine sera de trois à cinq ans d'emprisonnement et de 251 euros à 5.000 euros d'amende.
+
+Si les coupables sont les parents légitimes, naturels ou adoptifs, ou autres ascendants légitimes, ou toutes autres personnes ayant autorité sur l'enfant ou ayant sa garde, les peines seront celles portées au paragraphe précédent, s'il n'y a eu ni maladie ou incapacité de travail personnel, ni préméditation, et celle de la réclusion de cinq à dix ans dans le cas contraire.
+
+Si les violences ou privations ont été suivies, soit d'une maladie paraissant incurable, soit d'une incapacité permanente de travail personnel, soit de la perte de l'usage absolu d'un organe, soit d'une mutilation grave ou si elles ont occasionné la mort sans intention de la donner, la peine sera celle de la réclusion de dix à quinze ans, et si les coupables sont les personnes désignées dans le paragraphe précédent, celle de la réclusion à vie.
+
+Si les violences ou privations ont été pratiquées avec l'intention de provoquer la mort, les auteurs seront punis comme coupables d'assassinat ou tentative de ce crime.
+
+Si les violences ou privations habituellement pratiquées ont entraîné la mort, même sans intention de la donner, les auteurs seront punis de la réclusion à vie.
