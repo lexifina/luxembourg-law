@@ -1,0 +1,3 @@
+# Art. 3.
+
+Lorsque les gestionnaires de réseaux de transport et de distribution, tels que visés à l’article 1er, paragraphes 24 et 25, de la loi précitée du 1er août 2007, calculent les tarifs pour l’utilisation des réseaux pour les différents niveaux de tension, conformément aux méthodes décrivant la détermination des coûts à transposer en tarifs arrêtées par l’Institut luxembourgeois de régulation en vertu de l’article 20 de la loi précitée du 1er août 2007, ils tiennent compte des montants résultant de l’allocation visée à l’article 2 de la présente loi en les déduisant des coûts à transposer en tarifs des différents niveaux de tension.
