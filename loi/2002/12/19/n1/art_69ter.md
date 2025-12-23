@@ -1,0 +1,3 @@
+# Art. 69ter.
+
+Les membres des organes d’administration, de gestion et de surveillance d’une entreprise, agissant dans le cadre des compétences qui leur sont conférées en vertu de la loi, ont l’obligation collective de veiller à ce que les comptes annuels, le rapport de gestion et, lorsqu’elle fait l’objet d’une publication séparée, la déclaration sur le gouvernement d’entreprise, ainsi que le rapport visé à l’article 68bis, paragraphe (5) soient établis et publiés conformément aux exigences de la présente loi et, le cas échéant, aux normes comptables internationales adoptées conformément au règlement (CE) n° 1606/2002.

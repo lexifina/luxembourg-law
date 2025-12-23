@@ -1,0 +1,3 @@
+# Art. 72septies.
+
+Le rapport sur les paiements effectués au profit de gouvernements, visé au présent chapitre, fait l’objet d’une publication au Recueil électronique des sociétés et associations. Cette publication est effectuée par le biais d’une mention du dépôt auprès du registre de commerce et des sociétés déposée dans les douze mois de la clôture de l’exercice auquel le rapport fait référence.

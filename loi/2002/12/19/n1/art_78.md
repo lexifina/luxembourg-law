@@ -1,0 +1,3 @@
+# Art. 78.
+
+Sans préjudice des pouvoirs d’investigation reconnus aux autorités chargées de la surveillance prudentielle du secteur financier et du secteur de l’assurance, toute entreprise ayant déposé au registre de commerce et des sociétés les documents visés à l’article 75 du présent chapitre a respecté, à partir du jour du dépôt, ses obligations de communication des documents susvisés à l’égard des administrations de l’État et des établissements publics qui, dans le cadre de l’exercice de leurs attributions légales, sont en droit de demander la présentation de ces documents, et qui ont, partant, accès de plein droit aux informations contenues dans ces documents.

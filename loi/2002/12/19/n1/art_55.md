@@ -1,0 +1,25 @@
+# Art. 55.
+
+- a) Les éléments de l’actif immobilisé doivent être évalués au prix d’acquisition ou au coût de revient sans préjudice aux points b) et c).
+
+- b) Le prix d’acquisition ou le coût de revient des éléments de l’actif immobilisé dont l’utilisation est limitée dans le temps doit être diminué des corrections de valeur calculées de manière à amortir systématiquement la valeur de ces éléments pendant leur durée d’utilisation.
+
+  - aa) Les immobilisations financières peuvent faire l’objet de corrections de valeur afin de donner à ces éléments la valeur inférieure qui est à leur attribuer à la date de clôture du bilan.
+
+  - bb) Que leur utilisation soit ou non limitée dans le temps, les éléments de l’actif immobilisé doivent faire l’objet de corrections de valeur afin de donner à ces éléments la valeur inférieure qui est à leur attribuer à la date de clôture du bilan, si l’on prévoit que la dépréciation sera durable.
+
+  - cc) Les corrections de valeur visées sous aa) et bb) doivent être portées au compte de profits et pertes et indiquées séparément dans l’annexe si elles ne sont pas indiquées séparément dans le compte de profits et pertes.
+
+  - dd) L’évaluation à la valeur inférieure visée sous aa) et bb) ne peut pas être maintenue lorsque les raisons qui ont motivé les corrections de valeur ont cessé d’exister; cette disposition ne s’applique pas aux corrections de valeur portant sur le fonds de commerce.
+
+- d) Si les éléments de l’actif immobilisé font l’objet de corrections de valeur exceptionnelles pour la seule application de la législation fiscale, il y a lieu d’indiquer dans l’annexe le montant dûment motivé de ces corrections.
+
+(2) Le prix d’acquisition s’obtient en ajoutant les frais accessoires au prix d’achat.
+
+- a) Le coût de revient s’obtient en ajoutant au prix d’acquisition des matières premières et consommables les coûts directement imputables au produit considéré.
+
+- b) Une fraction raisonnable des coûts qui ne sont qu’indirectement imputables au produit considéré peut être ajoutée au coût de revient dans la mesure où ces coûts concernent la période de fabrication.
+
+(4) L’inclusion dans le coût de revient des intérêts sur les capitaux empruntés pour financer la fabrication d’immobilisations est permise dans la mesure où les intérêts concernent la période de fabrication.
+
+Dans ce cas, leur inscription à l’actif doit être signalée dans l’annexe.

@@ -1,0 +1,3 @@
+# Art. 72nonies.
+
+Les entreprises visées à l’article 72quinquies qui établissent un rapport et le rendent public conformément aux exigences applicables aux pays tiers en la matière qui, en vertu de l’article 47 de la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises, sont jugées équivalentes à celles prévues dans le présent chapitre, sont exemptées des obligations prévues dans le présent chapitre, à l’exception de l’obligation de publier ce rapport conformément à l’article 72septies.

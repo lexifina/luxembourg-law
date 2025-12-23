@@ -1,0 +1,3 @@
+# Art. 99.
+
+À l’article 71, paragraphe (1) de la loi modifiée du 17 juin 1992 relative: - aux comptes annuels et comptes consolidés des établissements de crédit de droit luxembourgeois; - aux obligations en matière de publicité des documents comptables des succursales d’établissements de crédit et d’établissements financiers de droit étranger, les mots l’article 252 paragraphe (1) de la loi modifiée du 10 août 1915 concernant les sociétés commerciales sont remplacés par les mots l’article 79 paragraphe (1) de la loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.
