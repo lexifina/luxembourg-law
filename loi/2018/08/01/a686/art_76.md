@@ -1,0 +1,3 @@
+# Art. 76.
+
+En cas de non-renouvellement ou de révocation d’un mandat d’un membre du collège, nommé pour la première fois avant l’entrée en vigueur de la présente loi, celui-ci devient conseiller général auprès de la CNPD avec maintien de son statut et de son niveau de rémunération de base, à savoir le grade 17 pour le président et le grade 16 pour les deux autres membres, à l’exception des indemnités spéciales attachées à sa fonction antérieure. Il peut faire l’objet d’un changement d’administration dans une administration ou dans un autre établissement public, conformément à l’article 6 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.

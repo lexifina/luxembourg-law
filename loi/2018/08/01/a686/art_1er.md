@@ -1,0 +1,5 @@
+# Art. 1er.
+
+(1) Tout traitement de données à caractère personnel qui n’est pas couvert par le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, désigné ci-après par le terme « règlement (UE) 2016/679 », ni par la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale, est couvert par les dispositions du chapitre Ier, article 4, des chapitres II à VI, VIII et IX et du chapitre VII, section 1re du règlement (UE) 2016/679 et de la présente loi, sous réserve des textes légaux existants qui prévoient d’autres dispositions spécifiques en matière de protection des données à caractère personnel.
+
+(2) La présente loi ne s’applique pas aux traitements de données à caractère personnel effectués par les personnes physiques dans le cadre d’une activité strictement personnelle ou domestique.

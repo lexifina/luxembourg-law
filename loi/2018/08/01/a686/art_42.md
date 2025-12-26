@@ -1,0 +1,3 @@
+# Art. 42.
+
+Sans préjudice de l’article 23 du Code de procédure pénale, toutes les personnes exerçant ou ayant exercé une activité pour la CNPD sont tenues au secret professionnel et passibles des peines prévues à l’article 458 du Code pénal en cas de violation de ce secret. Ce secret implique que les informations confidentielles qu’ils reçoivent à titre professionnel ne peuvent être divulguées à quelque personne ou autorité que ce soit, excepté sous une forme sommaire ou agrégée de façon que les personnes soumises à surveillance ne puissent être identifiées, sans préjudice des cas relevant du droit pénal en cas de violation de ce secret.

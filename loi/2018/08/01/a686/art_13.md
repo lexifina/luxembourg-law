@@ -1,0 +1,3 @@
+# Art. 13.
+
+La CNPD a le pouvoir de porter toute violation du règlement (UE) 2016/679, de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale et de la présente loi à la connaissance des autorités judiciaires et, le cas échéant, le droit d’ester en justice dans l’intérêt du règlement (UE) 2016/679 conformément à son article 58 et dans l’intérêt de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.

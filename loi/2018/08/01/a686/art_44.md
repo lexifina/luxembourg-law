@@ -1,0 +1,3 @@
+# Art. 44.
+
+Par dérogation à l’interdiction de divulgation et de communication prévue à l’article 42 de la présente loi et à l’article 458 du Code pénal, les membres du collège, membres suppléants et agents de la CNPD sont autorisés, pendant l’exercice de leur activité, à communiquer aux autorités de contrôle des autres États membres, au comité européen de la protection des données ainsi qu’à la Commission européenne les informations et documents nécessaires à ceux-ci pour l’exercice de leur surveillance, à condition que ces autorités, organes et personnes tombent sous un secret professionnel équivalent à celui visé à l’article 42 de la présente loi et dans la mesure où ces autorités, organes et personnes accordent les mêmes informations à la CNPD.
