@@ -1,0 +1,11 @@
+# Art. 45.
+
+( L. 16 mai 1975 ) Les registres de l'état civil datant de moins de cent ans ne peuvent être directement consultés que par les agents de l'Etat et des communes habilités à cet effet et les personnes munies d'une autorisation écrite du procureur d'Etat.
+
+Toute personne peut se faire délivrer par les dépositaires des registres de l'état civil, des extraits de ces registres à moins que ceux-ci ne révèlent l'existence d'une filiation illégitime ou adoptive.
+
+( L. du 10 août 2018 ) À l’exception des autorités publiques, de la personne que l’acte concerne, de son conjoint ou de son conjoint survivant, de son représentant légal, de ses ascendants, descendants ou héritiers légaux, nul ne peut obtenir une copie conforme d’un acte de l’état civil datant de moins de cent ans, et révélant une filiation illégitime ou adoptive ou une modification de la mention du sexe et d’un ou de plusieurs prénoms corrélatifs, s’il ne justifie pas d’un intérêt familial, scientifique ou de tout autre intérêt légitime. En cas de refus opposé par le dépositaire du registre, le président du tribunal d'arrondissement peut, sur demande écrite, autoriser sans autre forme de procédure ni frais, la délivrance d'une copie conforme. La demande est adressée au président du tribunal d'arrondissement dans le ressort duquel l'acte a été reçu ou, s'il s'agit des registres détenus par les agents diplomatiques et consulaires, au président du tribunal d'arrondissement de Luxembourg.
+
+Les actes inscrits sur les registres, ainsi que les extraits certifiés conformes aux registres et dûment scellés, font foi jusqu'à inscription de faux. ( L. 20 mars 1990 ) Ces extraits sont revêtus, selon le cas, du sceau de l'administration communale, du sceau du tribunal d'arrondissement par le greffe duquel l'acte est délivré ou par le sceau des Archives nationales.
+
+( L. 16 mai 1975 ) Les extraits destinés à servir à l'étranger qui, en vertu des usages ou des conventions diplomatiques, doivent être soumis à la légalisation judiciaire, sont légalisés par le président du tribunal d'arrondissement ou par le juge qui le remplace. Peuvent néanmoins les juges de paix et leurs suppléants qui ne siègent pas au chef-lieu du ressort du tribunal d'arrondissement, légaliser, concurremment avec le président du tribunal les signatures des officiers de l'état civil des communes de leur ressort.

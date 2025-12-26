@@ -1,0 +1,3 @@
+# Art. 96.
+
+Les actes de décès seront dressés, dans chaque corps, par le quartier-maître; et pour les officiers sans troupes et les employés, par l'inspecteur aux revues de l'armée, sur l'attestation de trois témoins; et l'extrait de ces registres sera envoyé, dans les dix jours, à l'officier de l'état civil du dernier domicile du décédé.

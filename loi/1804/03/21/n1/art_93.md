@@ -1,0 +1,3 @@
+# Art. 93.
+
+L’officier chargé de la tenue du registre de l'état civil devra, dans les dix jours qui suivront l'inscription d'un acte de naissance audit registre, en adresser un extrait à l'officier de l'état civil du dernier domicile du père de l'enfant, ou de la mère si le père est inconnu.

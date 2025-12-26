@@ -1,0 +1,3 @@
+# Art. 7.
+
+L'exercice des droits civils est indépendant de la qualité de citoyen, laquelle ne s'acquiert et ne se conserve que conformément à la loi constitutionnelle.

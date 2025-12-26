@@ -1,0 +1,3 @@
+# Art. 71.
+
+( L. 4 juillet 2014 ) Celui des conjoints qui est dans l’impossibilité de se procurer une copie intégrale de l’acte de naissance, peut le suppléer, en rapportant un acte de notoriété délivré par le juge de paix du lieu de sa naissance, ou par celui de son domicile. L’acte de notoriété contient la déclaration faite par trois témoins, de l’un ou de l’autre sexe, parents ou non parents, des prénoms, nom et domicile du futur conjoint et de ceux de ses parents, s’ils sont connus; le lieu, et, autant que possible, l’époque de sa naissance, et les causes qui empêchent d’en rapporter l’acte. Les témoins signent l’acte de notoriété avec le juge de paix; et s’il en est qui ne puissent ou ne sachent signer, il en est fait mention.

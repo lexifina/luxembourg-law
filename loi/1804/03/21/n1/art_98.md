@@ -1,0 +1,3 @@
+# Art. 98.
+
+L'officier de l'état civil du domicile des parties auquel il aura été envoyé de l'armée expédition d'un acte de l'état civil, sera tenu de l'inscrire de suite sur les registres.

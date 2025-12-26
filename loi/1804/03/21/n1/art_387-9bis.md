@@ -1,0 +1,5 @@
+# Art. 387-9bis. ( L. du 27 juin 2018 )
+
+Peuvent se voir retirer totalement l’autorité parentale, en dehors de toute condamnation pénale, les parents qui, soit par de mauvais traitement, soit par une consommation habituelle et excessive de boissons alcooliques ou par un usage de stupéfiants, soit par une inconduite notoire ou des comportements délictueux, soit par un défaut de soins ou un manque de direction, mettent en danger la sécurité, la santé ou la moralité de l’enfant. Il en est de même pour le parent qui épouse une personne ou qui est lié par un partenariat au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats avec une personne contre laquelle un retrait de l’autorité parentale a été prononcé.
+
+L’action en retrait total de l’autorité parentale est portée devant le tribunal d’arrondissement, siégeant en matière civile, soit par le ministère public, soit par un membre de la famille respectivement le tiers auquel l’enfant a été confié, soit par le tuteur de l’enfant.

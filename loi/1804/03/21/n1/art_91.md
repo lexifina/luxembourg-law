@@ -1,0 +1,3 @@
+# Art. 91.
+
+Les registres seront cotés et paraphés, dans chaque corps, par l'officier qui le commande; et à l'état-major, par le chef de l'état-major général.
