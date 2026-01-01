@@ -1,0 +1,3 @@
+# Art. 1er.
+
+À l’article 154, alinéa 1er, numéro 2, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, les termes le crédit d’impôt monoparental visé à l’article 154ter d’après les dispositions prévues à l’article 154bis ainsi que le crédit d’impôt heures supplémentaires visé à l’article 154terdecies sont remplacés par les termes le crédit d’impôt monoparental visé à l’article 154ter d’après les dispositions prévues à l’article 154bis, le crédit d’impôt heures supplémentaires visé à l’article 154terdecies ainsi que le crédit d’impôt pour investissement dans une entité start-up visé à l’article 154quaterdecies .
