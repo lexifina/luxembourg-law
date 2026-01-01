@@ -1,0 +1,5 @@
+# Art. 27. Principe de l’approche combinée entre les limitations d’émissions et les objectifs environnementaux
+
+Pour autant qu’ils ont pour objet de limiter les rejets dans les eaux de surface, et chaque fois qu’il n’existe pas de valeurs limites d’émissions fixées en application des exigences du droit communautaire, les autorisations ministérielles délivrées en exécution de l’article 23 et les règlements grand-ducaux fixant en exécution de l’article 26 les prescriptions générales pour la maîtrise des pressions et sources diffuses prévoient des limitations d’émissions fondées sur les meilleures techniques disponibles ou sur les meilleures pratiques environnementales.
+
+Dans la mesure où les valeurs limites d’émission fixées en application des exigences du droit communautaire ne permettent pas d’atteindre les objectifs environnementaux déterminés conformément aux articles 5 à 11, les autorisations ministérielles et les règlements grand-ducaux prévus à l’alinéa qui précède fixent des limitations plus strictes.

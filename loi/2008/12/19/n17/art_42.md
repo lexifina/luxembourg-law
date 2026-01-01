@@ -1,0 +1,9 @@
+# Art. 42. Compétences, responsabilités et contrôle
+
+(1) Les communes sont tenues d’assurer l’approvisionnement en eau destinée à la consommation humaine dans les zones urbanisées ou destinées à être urbanisées conformément au plan d’aménagement général, ainsi que l’approvisionnement d’immeubles isolés ou de hameaux situés à l’extérieur des zones urbanisées et bénéficiant d’un approvisionnement assuré par une commune au moment de l’entrée en vigueur de la présente loi.
+
+(2) Les communes mettent en place les infrastructures collectives d’approvisionnement en eau destinée à la consommation humaine et en assurent l’exploitation ainsi que l’entretien et la surveillance de la qualité de l’eau destinée à la consommation humaine distribuée, réalisée dans le cadre des contrôles à déterminer par voie de règlement grand-ducal. Les résultats de cette surveillance sont communiqués par les fournisseurs à l’Administration de la gestion de l’eau. Les activités d’entretien et de surveillance à l’exception de l’exploitation peuvent être sous-traitées à des entreprises spécialisées. Les conditions et modalités de cette sous-traitance sont fixées par règlement grand-ducal. Les travaux, installations, ouvrages et emprises nécessaires à l’approvisionnement en eau destinée à la consommation humaine sont déclarés d’utilité publique.
+
+(4) L’exploitant d’une installation privée d’approvisionnement en eau destinée à la consommation humaine est tenu de veiller à son entretien et d’éviter la contamination du réseau public.
+
+(4bis) Une nouvelle zone destinée à être urbanisée ne peut être désignée et le statut d’une zone d’aménagement différée ne peut être levé que si les infrastructures d’approvisionnement en eau destinée à la consommation humaine sont assurées. Un règlement grand-ducal précise les caractéristiques techniques y afférentes.
