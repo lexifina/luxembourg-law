@@ -1,0 +1,3 @@
+# Art. 9.
+
+Au-delà des dispositions prévues aux articles 9bis et 10 de la présente loi, les conditions et les modalités d'application des obligations suivantes énumérées aux articles 3, paragraphe 2, article 4, paragraphe 4, article 4, paragraphe 5, articles 12, ainsi que 13, paragraphes 1er et 2, pour autant qu'elles relèvent de la coordination administrative et sans préjudice de l'article 5 de la présente loi, article 14, paragraphes 1er et 3 de la directive 2011/85/UE du Conseil du 8 novembre 2011 sur les exigences applicables aux cadres budgétaires des Etats membres peuvent être précisées par règlement grand-ducal.
