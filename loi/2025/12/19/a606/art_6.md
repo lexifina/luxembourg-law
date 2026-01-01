@@ -1,0 +1,69 @@
+# Art. 6.
+
+À la suite de l’article L. 584-7 du Code du travail, il est inséré un chapitre IV bis nouveau, comprenant les articles L. 584-8 à L. 584-10 nouveaux, libellé comme suit :
+
+Chapitre IVbis. Pension progressive
+
+Art. L. 584-8.
+
+(1) Le salarié qui remplit les conditions d’ouverture du droit à une pension de vieillesse anticipée, qui occupe un poste de travail comportant une durée de travail d’au moins soixante-quinze pour cent d’un poste à temps plein, et qui se voit accorder une réduction de son temps de travail par son employeur, a droit à une pension progressive.
+
+(2) Afin de se voir accorder une réduction de son temps de travail en vue d’une pension progressive, le salarié doit avoir occupé son poste de travail comportant une durée de travail d’au moins soixante-quinze pour cent d’un poste à temps plein au moins trois années avant la demande de réduction du temps de travail en vue d’une pension progressive.
+
+Afin de se voir accorder une réduction de son temps de travail en vue d’une pension progressive, le salarié doit notifier sa demande à son employeur, soit par lettre recommandée à la poste, soit par remise en mains propres à l’employeur ou à son représentant, soit par courrier électronique, le tout avec accusé de réception, au moins quatre mois avant le début souhaité de ce changement.
+
+Le salarié joint à sa demande un certificat établi par la Caisse nationale d’assurance pension établissant la date d’ouverture du droit à la pension de vieillesse anticipée ainsi que les conditions d’admission à la pension progressive visées au paragraphe 2, alinéa 1er.
+
+L’employeur examine la demande du salarié et y répond dans un délai d’un mois à compter de la notification de la demande, en tenant compte à la fois de ses propres besoins et de ceux du salarié.
+
+(3) Le taux de réduction du temps de travail doit être fixé d’un commun accord, par avenant au contrat de travail. Cette réduction doit être égale à vingt-cinq pour cent au moins de la durée de travail du contrat de travail initial et la durée de travail résiduelle ne peut être inférieure à seize heures de travail par semaine.
+
+Dans le même avenant, les parties modifient d’un commun accord les conditions et modalités d’exécution du contrat de travail afin de les adapter à la durée de travail résultant de la réduction.
+
+Toute réduction du temps de travail doit intervenir au premier jour du mois.
+
+(4) Pour être admis à la pension progressive, et pour toute réduction du temps de travail ultérieure, le salarié transmet l’avenant prévu au paragraphe 3 au plus tard deux mois avant l’application prévue de la réduction à la Caisse nationale d’assurance pension. Celle-ci informe l’employeur et le salarié, au plus tard un mois avant l’application prévue de la réduction, de l’admission à la pension progressive.
+
+En cas de refus d’admission par la Caisse nationale d’assurance pension ledit avenant est à considérer comme nul et non avenu.
+
+(5) Le salarié admis à la pension progressive a droit à une indemnité mensuelle, versée par son employeur avec le versement de salaire.
+
+L’indemnité correspond au produit de la multiplication des montants de la pension de vieillesse anticipée ainsi que de l’allocation de fin d’année qui seraient normalement dues à compter du début de la pension progressive et du taux de réduction fixé conformément au paragraphe 3.
+
+La Caisse nationale d’assurance pension informe au plus tard au cinquième jour ouvrable du mois l’employeur du montant de l’indemnité à verser.
+
+(6) La Caisse nationale d’assurance pension rembourse mensuellement à l’employeur l’intégralité des charges résultant pour lui du versement mensuel de l’indemnité de pension progressive calculée conformément au paragraphe 5, y compris la part patronale des charges sociales afférentes.
+
+L’employeur communique à la Caisse nationale d’assurance pension ses coordonnées bancaires au plus tard le premier jour du mois précédant l’application de la réduction visée au paragraphe 3.
+
+(7) Dans le cas d’un salarié ayant fait l’objet d’un licenciement collectif, d’un licenciement pour des motifs non inhérents à sa personne ou d’une cessation de plein droit, le versement direct de l’indemnité de pension progressive par la Caisse nationale d’assurance pension est de droit.
+
+L’employeur doit informer, dans un délai de trois jours, la Caisse nationale d’assurance pension de la cessation du contrat de travail. Le salarié communique dans le même délai à la Caisse nationale d’assurance pension ses coordonnées bancaires.
+
+(8) La Caisse nationale d’assurance pension peut, sur demande de l’employeur, consentir au versement direct de l’indemnité de pension progressive au salarié.
+
+L’employeur doit informer le salarié du consentement de la Caisse nationale d’assurance pension, dans un délai de trois jours à partir de sa réception. Le salarié communique dans le même délai à la Caisse nationale d’assurance pension ses coordonnées bancaires.
+
+(9) En matière de sécurité sociale et d’impôt, l’indemnité de pension progressive est assimilée à une pension de vieillesse anticipée.
+
+Art. L. 584-9.
+
+(1) En matière d’heures supplémentaires, les dispositions relatives au travail à temps partiel sont applicables.
+
+(2) La délégation du personnel, s’il en existe, est informée par l’employeur de toute demande d’admission à la pension progressive.
+
+(3) En cas de modification de la situation de l’employeur par succession, vente, fusion, transformation de fonds ou mise en société, les obligations résultant pour l’employeur des dispositions du présent chapitre subsistent entre le nouvel employeur et le personnel de l’entreprise transférée dans la mesure où elles se trouvent en cours au jour de la modification.
+
+Art. L. 584-10.
+
+Les droits à l’indemnité de pension progressive cessent de plein droit :
+
+- 1. à partir du jour où les conditions d’ouverture du droit à une pension de vieillesse à partir de l’âge de soixante-cinq ans sont remplies ;
+
+- 2. à partir du jour où le salarié a droit, sur sa demande, à une pension de vieillesse anticipée ou à une pension d’invalidité ;
+
+- 3. à partir du jour du décès du salarié ;
+
+- 4. à partir du jour où le salarié exerce ou reprend une activité dépassant le temps de travail fixé par le dernier avenant au contrat de travail conformément à l’article L. 584-8, paragraphe 3 ;
+
+- 5. à partir du jour où le salarié exerce ou reprend une autre activité lui rapportant un revenu qui, sur une année civile, dépasse par mois la moitié du salaire social minimum applicable au salarié concerné.
