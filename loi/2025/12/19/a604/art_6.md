@@ -1,0 +1,9 @@
+# Art. 6.
+
+À la suite de l’article L. 521-18 du même code, il est inséré un article L. 521-19 nouveau de la teneur suivante :
+
+« Art. L. 521-19.
+
+L’Agence pour le développement de l’emploi permet aux demandeurs d’emploi d’utiliser gratuitement le matériel informatique nécessaire et de bénéficier gratuitement d’une assistance individuelle pour accéder aux plateformes gouvernementales sécurisées et effectuer les demandes et déclarations visées aux articles L. 521-3, L. 521-7, L. 521-11 et L. 521-18.
+
+Les demandeurs d’emploi qui ne disposent pas de moyen d’authentification forte permettant d’accéder à la plateforme gouvernementale sécurisée signent de manière manuscrite une version papier des demandes et déclarations. ».
