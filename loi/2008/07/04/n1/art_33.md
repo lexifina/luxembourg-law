@@ -1,0 +1,11 @@
+# Art. 33.
+
+(1) Au cas où il est constaté que le prestataire du chèque-service accueil ne se conforme pas aux obligations légales qui lui sont applicables, le ministre lui notifiera un avertissement l’informant qu’il n’est pas en conformité avec les conditions pour bénéficier de la reconnaissance comme prestataire du chèque-service accueil tout en lui enjoignant de prendre dans les meilleurs délais les mesures qui s’imposent pour se conformer aux conditions exigées au maintien de la qualité de prestataire du chèque-service accueil.
+
+Si au cours d’une opération de contrôle subséquente il est constaté que le prestataire reste en défaut de prendre ces mesures, le ministre lui notifiera une mise en demeure de s’y conformer dans un délai allant selon les circonstances de huit jours à un an.
+
+(2) Au cas où, après l’écoulement du délai de mise en demeure, le prestataire du chèque-service accueil ne s’est toujours pas conformé aux conditions qui lui sont applicables, le ministre peut lui enlever la qualité de prestataire du chèque-service accueil. Au cas où, après l’écoulement du délai de mise en demeure, le prestataire du chèque-service accueil ne s’est toujours pas conformé aux conditions applicables au programme d’éducation plurilingue, alors qu’il y était tenu par le fait d’avoir accepté d’accueillir des enfants bénéficiaires du programme d’éducation plurilingue, le ministre peut lui enlever la qualité de prestataire du chèque-service accueil.
+
+(3) Les décisions de retrait de la reconnaissance comme prestataire sont prises par le ministre dans un arrêté dûment motivé. Une fois la décision de retrait prise, le ministre en avise directement par courrier recommandé tous les représentants légaux des enfants bénéficiant du chèque-service accueil chez le prestataire concerné.
+
+Les décisions concernant le refus ou le retrait de la reconnaissance comme prestataire peuvent être déférées au tribunal administratif qui statue comme juge de fond. Le recours doit être introduit, sous peine de forclusion: a. s’il émane du prestataire dans le délai d’un mois à partir de la notification de la décision; b. s’il émane d’un tiers, dans le délai d’un mois à compter de la notification de la décision de retrait.

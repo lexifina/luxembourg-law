@@ -1,0 +1,15 @@
+# Art. 17.
+
+Sans préjudice des dispositions prévues à l’article 99 de la Constitution et celles prévues à l’article 18 et 19 de la présente loi, le Gouvernement est autorisé à participer aux dépenses d’investissements des communes ou des organisations de jeunes reconnues au sens de la présente loi concernant l’acquisition, la construction, la transformation, la modernisation, l’aménagement d’immeubles et l’équipement destinés à contribuer à la réalisation des activités couvertes par le champ d’application de la présente loi.
+
+Par ailleurs pour bénéficier d’une participation financière aux dépenses d’investissements prévues à l’alinéa 1er ci-avant, l’organisation bénéficiant de la reconnaissance comme organisation de jeunes au sens de la présente loi doit être constituée sous la forme d’une association sans but lucratif ou d’une fondation au sens de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif.
+
+La participation aux dépenses d’investissements prévue à l’alinéa 1er peut atteindre cinquante pour cent.
+
+Au cas où le projet répond à un besoin urgent au plan régional ou national dûment constaté par le Gouvernement en conseil, le taux peut être porté jusqu’à quatre-vingts pour cent; ce taux peut être porté jusqu’à cent pour cent dans le cas où l’Etat doit prendre l’initiative d’un projet pour répondre à un manque d’infrastructure auquel l’activité des communes ou des organisations de jeunes s’est révélée impuissante à pourvoir.
+
+L’Etat peut en outre garantir, en principal, intérêts et accessoires, le remboursement d’emprunts contractés aux mêmes fins par les communes ou par les organisations de jeunes ; au cas où la commune ou l’organisation de jeunes est obligée de contracter un emprunt pour assurer le préfinancement de la part des frais d’investissements qui lui sera versée par l’Etat, ce dernier peut en prendre à sa charge les intérêts.
+
+Si pour une raison quelconque, la commune ou l’organisation de jeunes arrête les travaux énumérés ci-avant ou décide d’affecter l’objet subsidié à d’autres fins que celles pour lesquelles la subvention a été allouée, sans l’accord préalable du ministre et ce avant l’expiration d’un délai à fixer par le contrat, délai qui ne peut toutefois être inférieur à 10 ans, l’Etat, après la mise en demeure par le ministre, peut exiger le remboursement des montants alloués avec les intérêts au taux légal en vigueur à partir du jour du versement jusqu’au remboursement.
+
+Pour garantir la restitution de sa participation financière prévue par le présent article, les immeubles ayant fait l’objet d’une participation financière peuvent être grevés d’une hypothèque légale dont l’inscription est requise par le ministre. L’hypothèque dont le montant ne peut pas dépasser le montant des aides accordées par l’Etat est requise pour une durée de dix ans au moins, dans la forme et de la manière prescrites par les dispositions légales en vigueur. Les conditions, les modalités et le montant de la participation de l’Etat sont fixés dans un contrat à conclure entre la commune ou l’organisation bénéficiaire et l’Etat.
