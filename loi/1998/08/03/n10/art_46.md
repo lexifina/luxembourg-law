@@ -1,0 +1,7 @@
+# Art. 46.
+
+Aucune pension d'invalidité ou de vieillesse ne peut être inférieure à quatre-vingt-dix pour-cent du montant de référence prévu à l'article 45 lorsque le fonctionnaire a couvert au moins un stage de quarante années au titre des articles 3 à 6. Si le fonctionnaire n'a pas accompli le stage prévisé, mais justifie de vingt années au titre des mêmes articles, la pension minimum se réduit d'un quarantième pour chaque année manquante.
+
+En cas d'invalidité sont prises en compte pour parfaire le stage prévu à l'alinéa précédent, les années qui manquent entre le début du droit à pension et l'âge de soixante-cinq ans accomplis sans que le nombre total d'années, compte tenu des années prévues à l'alinéa précédent, ne puisse dépasser celui de quarante. Lorsque l'invalidité survient après l'âge de vingt-cinq ans, le nombre d'années visé à la phrase précédente n'est pris en compte que dans la proportion de la durée d'assurance au sens de l'alinéa précédent entre le début de l'année suivant celle où le fonctionnaire a accompli l'âge de vingt-quatre ans et l'échéance du risque par rapport à la durée totale de cette période.
+
+Pour autant que de besoin, un complément est alloué. En cas de décès d’un fonctionnaire ou d’un bénéficiaire de pension remplissant les conditions de stage prévues ci-dessus, le complément pour la pension de survie est alloué à raison d’un quart pour l’orphelin. La pension de survie du conjoint ou du partenaire est augmentée jusqu’à concurrence de la pension minimum à laquelle avait ou aurait eu droit le fonctionnaire décédé.

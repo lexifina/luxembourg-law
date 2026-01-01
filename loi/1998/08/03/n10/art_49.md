@@ -1,0 +1,3 @@
+# Art. 49.
+
+En cas de concours d’une pension de vieillesse anticipée ou d’une pension d’invalidité avec un revenu professionnel ou un revenu de remplacement au sens de l’article 171 du Code de la sécurité sociale, réalisés ou obtenus au Luxembourg ou à l’étranger, la pension est réduite dans la mesure où ces revenus dépassent avec la pension un plafond fixé à la moyenne des cinq revenus annuels cotisables les plus élevés de la carrière d’assurance, si la pension est inférieure à ce plafond ; elle est réduite du montant de ces revenus si la pension est supérieure à ce plafond. Ce plafond ne peut être inférieur au montant de référence prévu à l’article 45 augmenté de cinquante pour cent.

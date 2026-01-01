@@ -1,0 +1,3 @@
+# Art. 55.
+
+En cas de concours d'une pension visée par la présente loi et d'une pension de même nature due en vertu de la législation d'un pays avec lequel le Luxembourg est lié par un instrument international en matière de sécurité sociale, à condition que ce pays applique également des clauses de réduction, de suspension ou suppression à l’égard de la prestation considérée, tous les éléments intervenant dans l'application des clauses de réduction, de suspension ou de suppression sont pris en compte au prorata de la durée des périodes au titre des articles 3, 5 et 6 accomplies avant la réalisation du risque par rapport à la durée totale des périodes accomplies avant la réalisation du risque sous les différentes législations en cause.

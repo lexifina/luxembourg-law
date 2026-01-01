@@ -1,0 +1,5 @@
+# Art. 14.
+
+A droit à une pension d’invalidité le fonctionnaire dont l’inaptitude au service a été constatée par la Commission des pensions conformément aux dispositions de l’article 67.III. de la présente loi sous condition qu’il justifie de douze mois d’assurance au titre des dispositions des articles 3, 5 et 5bis pendant les trois années précédant la date de l’inaptitude au service constatée par ladite Commission. Cette période de référence de trois années est étendue pour autant et dans la mesure où elle se superpose à des périodes visées à l’article 4. Toutefois ce stage n’est pas exigé en cas d’incapacité de travail imputable à un accident de quelque nature que ce soit ou à une maladie professionnelle reconnue en vertu des dispositions du livre II du Code des Assurances sociales, survenus pendant l’affiliation.
+
+La pension d’invalidité est ouverte à partir du premier jour fixé dans l’arrêté de démission respectivement à partir du premier jour du mois qui suit la constatation, par ladite Commission, de l'inaptitude au service du fonctionnaire démissionné.

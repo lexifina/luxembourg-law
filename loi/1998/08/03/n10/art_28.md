@@ -1,0 +1,5 @@
+# Art. 28.
+
+Si le nouveau mariage est dissous par le divorce ou le décès du conjoint, ou si le nouveau partenariat prend fin en vertu de l'article 13 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, la pension est rétablie après respectivement cinq ou trois années à compter du nouvel engagement par mariage ou partenariat, suivant que celui-ci a eu lieu avant ou après l'âge de cinquante ans. Au cas où la dissolution du mariage ou du partenariat se situe dans la période couverte par le rachat, la pension est rétablie à partir du premier jour du mois qui suit cette dissolution, déduction faite du montant ayant servi à la détermination du rachat prévu à l'alinéa 2 de l'article 27 pour la période résiduelle.
+
+Au cas où le décès du nouveau conjoint ou du nouveau partenaire ouvre également droit à une pension, seule la pension la plus élevée au moment de l'ouverture du droit à cette dernière est payée, compte tenu de l'application de l'alinéa qui précède. A l'expiration de la période couverte par le rachat il est procédé à une nouvelle comparaison et la pension la plus élevée est définitivement allouée.

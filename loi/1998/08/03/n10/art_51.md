@@ -1,0 +1,3 @@
+# Art. 51.
+
+En cas de concours d'une pension de survie avec une rente d'accident de survie du chef d'un accident survenu ou d'une maladie professionnelle déclarée avant le 1er janvier 2011, la pension est réduite dans la mesure où elle dépasse ensemble avec la rente d'accident trois quarts des plafonds visés à l'article qui précède lorsqu'il s'agit d'une veuve, d'un veuf, d'un ancien partenaire au sens de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats ou d'un orphelin de père et de mère, ou d'un tiers de ces plafonds lorsqu'il s'agit d'un orphelin de père ou de mère. Toutefois, l'ensemble des pensions et rentes d'accident du chef du même assuré ne peut pas dépasser les plafonds visés à l'article qui précède.

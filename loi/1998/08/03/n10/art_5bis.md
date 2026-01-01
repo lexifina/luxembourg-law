@@ -1,0 +1,5 @@
+# Art. 5bis.
+
+Les personnes qui ne remplissent pas les conditions prévues par l'article précédent pour être admises à l'assurance continuée peuvent, sur avis favorable du médecin désigné par la Commission des pensions, s'assurer facultativement à partir du premier jour du mois suivant celui de la présentation de la demande pendant les périodes au cours desquelles elles ont cessé leur fonction, ou pendant lesquelles elles bénéficient d'un congé sans traitement ou d'un service à temps partiel à durée déterminée ou pendant lesquelles elles réduisent leur activité professionnelle au sens de l'article 2 pour des raisons familiales, à condition qu'elles résident au Grand-Duché de Luxembourg, qu'elles justifient de douze mois d'assurance au titre de l'article 3 et qu'au moment de la demande elles n'aient ni dépassé l'âge de soixante-cinq ans ni droit à une pension personnelle.
+
+Un règlement grand-ducal précise les conditions de l'assurance facultative, en détermine les modalités et définit les périodes pouvant être couvertes.
