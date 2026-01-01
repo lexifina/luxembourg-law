@@ -1,0 +1,5 @@
+# Art. 2.
+
+Pour les demandes de subvention d’intérêt introduites pour l’année 2026, les années pour lesquelles une subvention d’intérêt a été accordée avant l’entrée en vigueur de la présente loi sont prises en compte pour déterminer l’année à prendre en compte dans le nouveau tableau d’amortissement tel que défini à l’article 32, paragraphe 3, alinéa 3, de la loi précitée du 25 mars 2015.
+
+Les agents de l’État qui, avant l’entrée en vigueur de la présente loi, avaient déjà bénéficié d’une subvention d’intérêt pendant quinze ans, ont droit, à partir de l’entrée en vigueur de la présente loi et sous réserve de remplir les conditions requises, à une subvention d’intérêt. À cette fin, ils doivent, avant le 1er juillet de l’année de référence, adresser une nouvelle demande conformément à l’article 32, paragraphe 5, de la loi précitée du 25 mars 2015. Si la subvention d’intérêt leur est accordée, le taux multiplicateur prévu dans le plan d’amortissement à partir de la 16e année est appliqué.
