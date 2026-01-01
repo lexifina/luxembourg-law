@@ -1,0 +1,3 @@
+# Art. 16.
+
+Lorsque l’autorité compétente luxembourgeoise communique des informations en application de l’article 6 ou de l’article 10, elle peut demander à l’autorité compétente qui les a reçues de lui donner son avis en retour sur celles-ci. Si un retour d’informations est demandé de la part de l’autorité compétente d’un autre Etat membre, l’autorité compétente luxembourgeoise qui a reçu les informations le fournit, sans préjudice des règles relatives au secret fiscal et à la protection des données applicables au Grand-Duché de Luxembourg, à l’autorité compétente qui a communiqué les informations le plus rapidement possible et au plus tard trois mois après que les résultats de l’exploitation des renseignements reçus sont connus.

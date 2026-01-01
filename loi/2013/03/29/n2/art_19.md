@@ -1,0 +1,7 @@
+# Art. 19.
+
+(1) Si des informations sont demandées par un Etat membre, l’autorité requise luxembourgeoise met en œuvre son dispositif de collecte de renseignements afin d’obtenir les informations demandées, même si ces dernières ne lui sont pas nécessaires pour ses propres besoins fiscaux. Cette obligation s’applique sans préjudice de l’article 18, paragraphes (2), (3) et (4), dont les dispositions ne sauraient en aucun cas être interprétées comme autorisant l’autorité requise luxembourgeoise à refuser de fournir des informations au seul motif que ces dernières ne présentent pour lui aucun intérêt.
+
+(2) L’article 18, paragraphes (2) et (4), ne saurait en aucun cas être interprété comme autorisant l’autorité requise luxembourgeoise à refuser de fournir des informations au seul motif que ces informations sont détenues par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu’agent ou fiduciaire, ou qu’elles se rapportent à une participation au capital d’une personne.
+
+(3) Nonobstant le paragraphe (2), l’autorité requise luxembourgeoise peut refuser de transmettre des informations demandées lorsque celles-ci portent sur des périodes d’imposition antérieures au 1er janvier 2011 et que la transmission de ces informations aurait pu être refusée sur la base de la loi modifiée du 15 mars 1979 concernant l’assistance administrative internationale en matière d’impôts directs, si elle avait été demandée avant le 11 mars 2011.
