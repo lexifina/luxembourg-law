@@ -1,0 +1,3 @@
+# Art. 1er.
+
+Le Gouvernement est autorisé à participer au financement de la mission de soutien au secteur de la production audiovisuelle, confiée à l’établissement public « Fonds national de soutien à la production audiovisuelle », ci-après « Fonds », conformément à la loi modifiée du 22 septembre 2014 relative au Fonds national de soutien à la production audiovisuelle et modifiant 1) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État 2) la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d’investissement audiovisuel, ci-après « loi modifiée du 22 septembre 2014 », dans le respect des dispositions de la présente loi.
