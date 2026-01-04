@@ -1,0 +1,9 @@
+# Art. 10. Restitution des aides perçues et sanctions administratives.
+
+(1) L’investissement initial doit être maintenu dans la région concernée pour une période de cinq ans au moins après son achèvement. Dans le cas d’une petite ou moyenne entreprise cette période est ramenée à un minimum de trois ans. Cette condition n’empêche pas le remplacement d’une installation ou d’un équipement devenu obsolète ou endommagé au cours de cette période, pour autant que l’activité économique soit maintenue dans la région considérée pendant la période minimale applicable.
+
+(2) Chacun des emplois créés grâce à l’investissement doit être maintenu dans la région considérée pour une période de cinq ans à compter de la date à laquelle l’emploi a été pourvu pour la première fois. Dans le cas d’une petite ou moyenne entreprise, cette période est ramenée à un minimum de trois ans.
+
+(3) Le bénéficiaire de l’aide à l’investissement à finalité régionale perd l’avantage lui consenti s’il ne respecte pas les conditions des deux paragraphes précédents. Le bénéficiaire doit rembourser les subventions en capital afférentes aux investissements aliénés, qu’il n’utilise pas ou qu’il cesse d’utiliser aux fins et conditions prévues et celles touchées au titre des emplois non maintenus, qui ont été perçues depuis moins de cinq ans, ou depuis moins de trois ans pour les petites ou moyennes entreprises.
+
+(4) Les employeurs qui ont été condamnés à au moins deux reprises pour contravention aux dispositions interdisant le travail clandestin ou aux dispositions interdisant l’emploi de ressortissants de pays tiers en séjour irrégulier, au cours des quatre dernières années précédant le jugement de la juridiction compétente, sont exclus du bénéfice de la présente loi pendant une durée de trois années à compter de la date de ce jugement.
