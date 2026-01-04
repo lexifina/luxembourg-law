@@ -1,0 +1,31 @@
+# Art. 58.
+
+(1) Par dérogation à l’article 57, point 1°, les chapitres 2sexies, 3, 4 et 7bis de la loi modifiée du 25 février 1979 concernant l’aide au logement restent en vigueur.
+
+Par dérogation à l’article 57, point 3°, l’article 15 de la loi du 8 juin 2022 relative aux aides à des prêts climatiques reste applicable pour les demandes introduites avant l’entrée en vigueur de la présente loi et portant sur un prêt climatique à taux zéro ayant été accordé avant la date d’entrée en vigueur de la présente loi.
+
+(2) Les personnes bénéficiant au jour précédant l’entrée en vigueur de la présente loi de la majoration du revenu minimum garanti en vertu des dispositions abrogées de l’article 5, paragraphe 5, de la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti, continuent à bénéficier de cette majoration aussi longtemps qu’il n’y a pas de changement de leur situation financière ou familiale entraînant la perte de leur droit au revenu prévu à l’article 5 de la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti.
+
+Les personnes bénéficiant au jour précédant l’entrée en vigueur de la présente loi de la majoration du revenu pour personnes gravement handicapées en vertu des dispositions abrogées de l’article 25, alinéas 3 et 4, de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées, continuent à bénéficier de cette majoration aussi longtemps qu’il n’y a pas de changement de leur situation financière entraînant la perte de leur droit au revenu prévu à l’article 25 de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées.
+
+Les majorations visées aux alinéas 1er et 2 ne peuvent pas être cumulées avec la subvention de loyer prévue par la présente loi.
+
+(3) Les bénéficiaires d’une garantie de l’État accordée avant l’entrée en vigueur de la présente loi conformément aux articles 3 à 10 de la loi modifiée du 25 février 1979 concernant l’aide au logement sont soumis aux articles 12 à 15 de la présente loi.
+
+Les bénéficiaires d’une prime d’acquisition, d’une prime de construction ou d’une prime d’épargne accordée avant l’entrée en vigueur de la présente loi conformément à l’article 11 de la loi modifiée du 25 février 1979 concernant l’aide au logement sont soumis aux dispositions du chapitre 3 de la présente loi.
+
+Les bénéficiaires d’une subvention d’intérêt prévue à l’article 14 de la loi modifiée du 25 février 1979 concernant l’aide au logement sont soumis aux articles 19 à 23 de la présente loi.
+
+Par dérogation à l’article 57, point 1°, et à l’alinéa 3, les bénéficiaires d’une subvention d’intérêt accordée conformément aux dispositions de l’article 14 de la loi modifiée du 25 février 1979 concernant l’aide au logement avant l’entrée en vigueur de la présente loi continuent à toucher cette aide pendant vingt-quatre mois à compter du dernier réexamen de leur dossier, à condition qu’ils remplissent les conditions d’octroi prévues à l’article 14 de la loi précitée du 25 février 1979. Si lors du prochain réexamen, il est constaté que le bénéficiaire avait droit à un montant plus élevé de la subvention d’intérêt, calculée conformément aux articles 19 à 23, la différence du montant de l’aide mensuelle, avec effet à la date d’entrée en vigueur de la présente loi, est viré sur le compte bancaire du bénéficiaire.
+
+Les bénéficiaires touchant une subvention d’intérêt prévue à l’article 14 de la loi modifiée du 25 février 1979 concernant l’aide au logement et une bonification d’intérêt prévue à l’article 14bis de la loi précitée du 25 février 1979 sont soumis aux articles 19 à 23 de la présente loi. Par dérogation à l’article 57, point 1°, ils continuent à toucher ces deux aides accordées avant l’entrée en vigueur de la présente loi pendant vingt-quatre mois à compter du dernier réexamen de leur dossier à condition qu’ils continuent à remplir les conditions d’octroi prévues aux articles 14 et 14bis de la prédite loi de 1979. Lors du prochain réexamen du dossier, le montant total de la subvention d’intérêt et de la bonification d’intérêt touché par le bénéficiaire après l’entrée en vigueur de la présente loi est imputé sur le montant de la subvention d’intérêt, calculée conformément aux articles 19 à 23, avec effet à la date d’entrée en vigueur de la présente loi.
+
+Par dérogation à l’article 57, point 1°, les bénéficiaires touchant seulement une bonification d’intérêt prévue à l’article 14bis de la loi précitée du 25 février 1979 concernant l’aide au logement continuent à toucher le même montant de cette aide accordée avant l’entrée en vigueur de la présente loi pendant vingt-quatre mois à compter du dernier réexamen de leur dossier à condition qu’ils continuent à remplir les conditions d’octroi prévues à l’article 14bis de la loi précitée du 25 février 1979. La bonification d’intérêt n’est plus due à partir de la date où le bénéficiaire de cette aide introduit une demande en obtention d’une subvention d’intérêt conformément à la présente loi.
+
+Les bénéficiaires d’une subvention d’intérêt pour prêt climatique prévue à la loi précitée du 8 juin 2022 relative aux aides à des prêts climatiques et accordée avant l’entrée en vigueur de la présente loi sont soumis aux articles 42 à 44.
+
+(4) Les primes d’acquisition, de construction, d’épargne ou d’amélioration accordées et non-remboursées avant l’entrée en vigueur de la présente loi conformément aux dispositions de la loi modifiée du 25 février 1979 concernant l’aide au logement sont prises en considération pour le calcul de la somme totale prévue à l’article 37.
+
+Les paiements mensuels sous forme de subvention d’intérêt accordés et non-remboursés avant l’entrée en vigueur de la présente loi conformément aux dispositions de la loi modifiée du 25 février 1979 concernant l’aide au logement sont pris en considération pour le calcul du nombre total de trois cents paiements mensuels prévus par l’article 19.
+
+(5) Une prime d’amélioration peut être accordée pour les travaux relatifs à l’installation et au renouvellement du chauffage central si les demandes y afférentes ont été introduites avant l’entrée en vigueur de la loi du 19 décembre 2025 portant modification de la loi modifiée du 7 août 2023 relative aux aides individuelles au logement.

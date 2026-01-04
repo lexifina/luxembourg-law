@@ -1,0 +1,5 @@
+# Art. 54.
+
+En cas de doute quant au respect des conditions d’octroi d’une aide, les agents sous l’autorité du ministre peuvent, dans l’exercice de leurs missions et munis des pièces justificatives de leurs fonctions, se rendre au logement pour lequel une aide est demandée, qu’il s’agisse du domicile du demandeur ou du bénéficiaire de l’aide, afin de procéder à tous les examens ou contrôles nécessaires. Les visites du logement ont lieu entre huit heures et dix-huit heures. Les demandeurs ou bénéficiaires concernés sont avertis préalablement de la date du contrôle.
+
+En cas de refus d’accès au logement, le traitement du dossier d’aide d’un demandeur ou bénéficiaire ou le paiement de cette aide est suspendu jusqu’à ce que le demandeur ou bénéficiaire ait fourni au ministre tous les renseignements et documents demandés par celui-ci et nécessaires au traitement de son dossier d’aide. Si le demandeur ou bénéficiaire ne fournit pas les renseignements et documents demandés par le ministre endéans un délai de trois mois, l’aide est refusée, et au cas où une aide a déjà été accordée, la restitution de l’aide présumée indûment touchée est exigée avec effet rétroactif.
