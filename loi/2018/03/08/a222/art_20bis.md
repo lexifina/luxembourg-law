@@ -1,0 +1,3 @@
+# Art. 20bis.
+
+L’État participe à raison de 80 pour cent aux frais de location des infrastructures mobilières et immobilières qui ont trait aux équipements, appareils ou projets visés aux articles 4, paragraphe 1er, alinéa 4, et 15, à condition qu’ils sont autorisés par le ministre et qu’une subvention en vertu de l’article 17 n’est pas demandée. La participation financière de l’État est à charge du budget de l’État sur base d’un décompte annuel de la Caisse nationale de santé à établir sur les montants payés aux établissements hospitaliers sur base de l’article 78, alinéa 3 du Code de la sécurité sociale.

@@ -1,0 +1,3 @@
+# Art. 53.
+
+À l’article 15, paragraphe 1er de la loi du 24 juillet 2014 relative aux droits et obligations du patient, la dernière phrase est remplacée par Ce règlement grand-ducal peut aussi fixer le format, les standards et les normes à utiliser aux fins d’assurer l’interopérabilité du dossier individuel du patient hospitalier et l’établissement du résumé clinique de sortie et de ses éléments, de faciliter la tenue de bases de données communes standardisées, de tableaux de bord, et de permettre à l’aide de techniques d’anonymisation la conservation et l’extraction des données relatives au fonctionnement, à la performance et à la gestion du système de santé ainsi qu’à des fins statistiques, de recherche et d’amélioration continue.
