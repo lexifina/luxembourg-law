@@ -1,0 +1,7 @@
+# Art. 8. Notification des spécifications de l’interface radio et attribution des classes d’équipements radioélectriques.
+
+Conformément à la procédure visée dans le règlement grand-ducal du 17 juillet 2000, adopté selon la procédure prévue par la loi modifiée du 9 août 1971 concernant l’exécution et la sanction des décisions et des directives ainsi que la sanction des règlements des Communautés européennes en matière économique, technique, agricole, forestière, sociale et en matière de transports, prévoyant une procédure d’information dans le domaine des normes et réglementations techniques et des règles relatives aux services de la société de l’information, l’ILNAS notifie les interfaces radio réglementées tel que lui communiqué par l’Institut Luxembourgeois de Régulation, à l’exception:
+
+- a) des interfaces radio qui se conforment pleinement et sans divergence au regard des décisions de la Commission européenne concernant l’utilisation harmonisée du spectre radioélectrique adoptées en application de la décision n° 676/2002/CE du Parlement européen et du Conseil du 7 mars 2002 relative à un cadre réglementaire pour la politique en matière de spectre radioélectrique dans la Communauté européenne; et
+
+- b) des interfaces radio qui, conformément à des actes d’exécution adoptés par la Commission européenne et publiés au Journal officiel de la Commission européenne, correspondent à des équipements radioélectriques qui peuvent être mis en service et utilisés sans restrictions à l’intérieur de l’Union européenne.

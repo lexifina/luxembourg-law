@@ -1,0 +1,7 @@
+# Art. 36. Équipements radioélectriques conformes qui présentent un risque.
+
+(1) Lorsque le département de la surveillance du marché constate, après avoir réalisé l’évaluation visée à l’article 34, paragraphe 1er, que des équipements radioélectriques, bien que conformes à la présente loi, présentent un risque pour la santé ou la sécurité des personnes ou dans d’autres domaines de la protection de l’intérêt public couverts par la présente loi, il invite l’opérateur économique en cause à prendre toutes les mesures appropriées pour faire en sorte que les équipements radioélectriques concernés ne présentent plus ce risque au moment de leur mise sur le marché, ou pour les retirer du marché ou les rappeler dans le délai raisonnable, proportionné à la nature du risque.
+
+(2) L’opérateur économique veille à ce que des mesures correctives soient prises pour tous les équipements radioélectriques concernés qu’il a mis à disposition sur le marché dans toute l’Union européenne.
+
+(3) Le département de la surveillance du marché informe immédiatement la Commission européenne et les autorités compétentes des autres Etats membres de l’Union européenne de ses démarches. Les informations fournies comprennent toutes les précisions disponibles, notamment les données nécessaires pour identifier les équipements radioélectriques concernés, l’origine et la chaîne d’approvisionnement de ces équipements, la nature du risque encouru, ainsi que la nature et la durée des mesures nationales adoptées.
