@@ -1,0 +1,17 @@
+# Art. 16.
+
+L’article 17 de la même loi est remplacé comme suit :
+
+« Art. 17.
+
+(1) L’administration pénitentiaire reçoit de plein droit au moment de la mise en détention d’une personne copie de la décision judiciaire sur base de laquelle la détention d’une personne est effectuée.
+
+(2) Aux fins des évaluations criminologiques et psycho-sociales du détenu, tant en ce qui concerne la protection de la société que l’insertion du condamné au sens de l’article 1er, paragraphe 2, l’administration pénitentiaire, sur sa demande, obtient du procureur général d’État, par dérogation à l’article 6 de la loi modifiée du 29 mars 2013 relative à l’organisation du casier judiciaire, le bulletin n° 1 du casier judiciaire, ainsi que, le cas échéant, copie des rapports d’expertise psychologique et psychiatrique qui ont été établis sur le détenu au cours de la procédure pénale.
+
+(3) L’administration pénitentiaire peut consulter, sur demande à adresser au procureur général d’État, le dossier pénal des détenus et obtenir copie des documents qui sont nécessaires à l’accomplissement de sa mission.
+
+(4) Aux fins du contrôle des conditions de sécurité et de sûreté relatives à la détention dans les centres pénitentiaires, l’administration pénitentiaire reçoit, sur sa demande, du procureur général d’État copie des conclusions du rapport d’autopsie de chaque détenu décédé sous écrou, dès que ce rapport n’est plus couvert par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale.
+
+En cas d’assignation de l’État du Grand-Duché de Luxembourg en responsabilité civile et en cas de l’ouverture d’une action disciplinaire contre un membre de l’administration pénitentiaire en raison du décès d’un détenu, l’administration pénitentiaire transmet copie des conclusions du rapport d’autopsie, dès que ce rapport n’est plus couvert par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, au ministre qui le transmet aux instances et services étatique compétents, afin qu’il puisse être fait état du rapport d’autopsie en tant qu’élément de preuve.
+
+(5) Les données à caractère personnel portant sur le détenu sont archivées par l’administration pénitentiaire pendant un délai de dix ans qui commence à courir un an après le jour où le détenu a été libéré ou a définitivement purgé sa peine privative de liberté. Les données à caractère personnel archivées ne sont accessibles aux membres de l’administration pénitentiaire ou à de tierces personnes que sur autorisation écrite et motivée du directeur général de l’administration pénitentiaire, ou d’un membre de la direction de l’administration pénitentiaire délégué par lui à cette fin, sur base du principe du besoin d’en connaître. ».

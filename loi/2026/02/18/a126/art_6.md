@@ -1,0 +1,13 @@
+# Art. 6.
+
+A l’article 696, paragraphe 1er, du même code, il est ajouté un nouvel alinéa qui prend la teneur suivante :
+
+« La chambre de l’application des peines est également compétente pour connaître des recours dirigés contre des décisions prises par le procureur général d’État qui concernent :
+
+- 1° l’émission et l’exécution d’un mandat d’arrêt européen en matière d’exécution des peines, y compris leurs aménagements, en application de la loi modifiée du 17 mars 2004 relative au mandat d’arrêt européen et aux procédures de remise entre États membres de l’Union européenne ;
+
+- 2° l’émission de demandes de reconnaissance et d’exécution de jugements et la reconnaissance et l’exécution de jugements en application de la loi du 28 février 2011 relative à la reconnaissance de jugements en matière pénale ayant prononcé des peines ou des mesures privatives de liberté aux fins de leur exécution dans un autre État membre de l’Union européenne ;
+
+- 3° l’émission de demandes de reconnaissance et d’exécution de jugements et la reconnaissance et l’exécution de jugements en application de la loi du 12 avril 2015 relative à l’application du principe de reconnaissance mutuelle aux décisions de probation et aux peines de substitution et modifiant, en vue de favoriser l’application du principe de reconnaissance mutuelle aux décisions rendues en l’absence de la personne concernée, 1) l’article 634 du Code d’instruction criminelle ; 2) la loi du 23 février 2010 relative à l’application du principe de reconnaissance mutuelle aux sanctions pécuniaires ; 3) la loi modifiée du 17 mars 2004 relative au mandat d’arrêt européen,
+
+- 4° l’émission ou l’exécution des demandes de transfèrements de personnes détenues en application de la loi modifiée du 31 juillet 1987 portant approbation de la Convention du 21 mars 1983 sur le transfèrement des personnes condamnées et réglant le transfèrement des personnes condamnées et détenues à l’étranger, de la loi du 25 avril 2003 sur le transfèrement des personnes condamnées, de la loi du 25 avril 2003 portant approbation 1. du Protocole additionnel à la Convention européenne sur le transfèrement des personnes condamnées du 18 décembre 1997, 2. de l’Accord relatif à l’application, entre les États membres des Communautés européennes, de la Convention du Conseil de l’Europe sur le transfèrement des personnes condamnées du 25 mai 1987 et de la loi du 28 février 2011 relative à la reconnaissance de jugements en matière pénale ayant prononcé des peines ou des mesures privatives de liberté aux fins de leur exécution dans un autre État membre de l’Union européenne. ».
