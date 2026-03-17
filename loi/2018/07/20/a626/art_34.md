@@ -1,0 +1,3 @@
+# Art. 34.
+
+Toutes les décisions prises à l’égard des détenus par les directeurs des centres pénitentiaires en application de la présente loi peuvent faire l’objet d’un recours administratif devant le directeur général de l’administration pénitentiaire. Ce recours est à introduire, sous peine d’irrecevabilité, par écrit dans un délai de huit jours ouvrables qui court à partir de la notification de la décision du directeur du centre pénitentiaire au détenu ou, en cas d’absence d’une décision du directeur du centre pénitentiaire, dans un délai de trois mois qui court à partir de l’expiration du troisième mois après l’introduction de la demande auprès de ce dernier. Les délais de recours et l’introduction du recours administratif n’ont pas d’effet suspensif.
