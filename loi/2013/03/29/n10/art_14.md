@@ -1,0 +1,9 @@
+# Art. 14.
+
+(1) Lorsqu’une personne physique ressortissante d’un État membre ou une personne morale de droit luxembourgeois demande des informations sur son propre casier judiciaire, la demande d’informations est répercutée à l’autorité centrale de l’État membre dont elle est ou a été un résident ou un ressortissant, de sorte que les informations communiquées le cas échéant figurent sur le bulletin N° 3, 4, ou 5 qui lui sera délivré.
+
+(2) Lorsqu’une personne physique ressortissante d’un pays tiers à l’Union européenne demande des informations sur son propre casier judiciaire, la demande est répercutée par le biais du système ECRIS-TCN établi par le règlement (UE) 2019/816 aux autorités centrales des États membres qui détiennent des informations sur le casier judiciaire de cette personne, de sorte que les informations communiquées, le cas échéant, figurent sur le bulletin n° 3, 4 ou 5 qui lui sera délivré.
+
+(3) Le Ministre de la Justice transmet annuellement au procureur général d’Etat la liste des personnes qui acquièrent ou recouvrent la nationalité luxembourgeoise, en y joignant l’extrait du casier judiciaire délivré par l’autorité étrangère et fourni par l’intéressé à l’appui de sa demande en naturalisation ou en recouvrement de la nationalité luxembourgeoise.
+
+(4) Le procureur général d’Etat demande un extrait du casier judiciaire à l’Etat de la nationalité antérieure de la personne concernée si elle avait la nationalité d’un des Etats membres de l’Union européenne. Si la personne concernée était un ressortissant d’un pays tiers ou si aucune information complète n’est fournie par l’Etat de la nationalité antérieure, le procureur général d’Etat inscrit sur le casier judiciaire les condamnations reprises sur l’extrait du casier judiciaire transmis par le Ministre de la Justice.
