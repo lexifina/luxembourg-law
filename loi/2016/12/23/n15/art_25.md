@@ -1,0 +1,3 @@
+# Art. 25. Dispositions modificatives.
+
+A l’article 1er, point 10, de la loi modifiée du 11 janvier 2008 relative aux obligations de transparence des émetteurs, les mots en vertu de l’article 6 de la directive 2003/6/CE du Parlement européen et du Conseil du 28 janvier 2003 sur les opérations d’initiés et les manipulations de marché sont remplacés par les mots en vertu des articles 17 et 19 du règlement (UE) n° 596/2014 du Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant la directive 2003/6/CE du Parlement européen et du Conseil et les directives 2003/124/CE, 2003/125/CE et 2004/72/CE de la Commission.
