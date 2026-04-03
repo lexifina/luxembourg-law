@@ -1,0 +1,3 @@
+# Art. 295-6bis Traitement des réclamations
+
+Les réclamations visées à l’article 2, paragraphe 1er, point l) doivent être introduites par courrier dûment signé par le réclamant. Le CAA en accuse réception sans tarder et fournit une réponse dans les trois mois de l’accusé de réception lorsque la réclamation concerne un distributeur d’assurances ou de réassurances spécifique. Ce délai peut être prolongé par le CAA à six mois sur justification détaillée à fournir par le CAA au réclamant. Pour les réclamations ne concernant pas un distributeur d’assurances ou de réassurances spécifique, le délai de réponse est fixé à six mois.

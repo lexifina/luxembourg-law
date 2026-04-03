@@ -1,0 +1,3 @@
+# Art. 33 Dispositions générales
+
+Les dispositions du titre II sont applicables aux entreprises d’assurance ou de réassurance luxembourgeoises, aux succursales des entreprises d’assurance ou de réassurance de pays tiers et, dans la limite des compétences réservées par les directives de l’Union européenne aux autorités luxembourgeoises, aux succursales luxembourgeoises des entreprises d’assurance ou de réassurance ayant leur siège social dans un autre Etat membre ainsi qu’aux activités d’assurance ou de réassurance exercées en régime de libre prestation de services au Grand-Duché de Luxembourg.
