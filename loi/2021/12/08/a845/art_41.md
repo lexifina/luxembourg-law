@@ -1,0 +1,5 @@
+# Art. 41. Disposition transitoire
+
+Les lettres de gage émises avant le 8 juillet 2022 ne sont pas sujettes aux articles 3, 4, 6 à 15, 17 et 18, alinéa 4, de la présente loi, et peuvent, par dérogation à l’article 27 de la présente loi, faire usage de la dénomination « obligation garantie » conformément à la directive (UE) 2019/2162 jusqu’à leur échéance. Les banques d’émission de lettres de gage ayant émis de telles lettres de gage avant le 8 juillet 2022 veillent à ce que ces lettres de gage continuent de respecter les dispositions de la partie Ire, chapitre 1er, section 3, de la loi modifiée du 5 avril 1993 relative au secteur financier, telles qu’elles étaient en vigueur au 7 juillet 2022.
+
+La CSSF contrôle le respect, par les lettres de gage et les banques d’émission de lettres de gage visées à l’alinéa 1er, des exigences prévues à la partie Ire, chapitre 1er, section 3, de la loi modifiée du 5 avril 1993 relative au secteur financier, telles qu’elles étaient en vigueur au 7 juillet 2022, ainsi que des exigences de la présente loi, sans préjudice de l’alinéa 1er.

@@ -1,0 +1,5 @@
+# Art. 37.
+
+À l’article 1er, alinéa 1er, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement, le point 91 prend la teneur suivante :
+
+- « 91. « obligation garantie » : une obligation garantie au sens de l’article 3, point 1, de la directive (UE) 2019/2162 du Parlement européen et du Conseil du 27 novembre 2019 concernant l’émission d’obligations garanties et la surveillance publique des obligations garanties et modifiant les directives 2009/65/CE et 2014/59/UE, dénommée ci-après « directive (UE) 2019/2162 », ou, en ce qui concerne un instrument qui a été émis avant le 8 juillet 2022, une obligation visée à l’article 52, paragraphe 4, de la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM), dénommée ci-après « directive 2009/65/CE » , tel qu’applicable à la date de son émission ; ».

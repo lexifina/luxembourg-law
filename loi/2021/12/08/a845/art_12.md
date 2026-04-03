@@ -1,0 +1,7 @@
+# Art. 12. Exigences particulières applicables à certaines garanties
+
+(1) Les droits réels immobiliers, les droits réels mobiliers, les sûretés réelles immobilières et les sûretés réelles mobilières visées à l’article 1er, points 10°, 11°, 27° et 28°, doivent revêtir les caractéristiques qui permettent à leur titulaire de les réaliser en vue d’obtenir paiement de toutes les créances que ces droits et sûretés garantissent, sans qu’il puisse être fait obstacle à cette réalisation par des droits quelconques de tiers, que ces droits soient des droits de nature publique ou privée.
+
+(2) Les droits réels immobiliers, les droits réels mobiliers, les sûretés réelles immobilières et les sûretés réelles mobilières visées à l’article 1er, points 10°, 11°, 27° et 28°, sont soit détenus directement par l’établissement de crédit émetteur, soit détenus pour le compte de l’établissement de crédit émetteur par une banque tierce établie dans un État membre de l’Union européenne, de l’Espace économique européen, de l’OCDE ou d’un autre État visé à l’article 1er, point 7°, lettre b).
+
+(3) Les dispositions des articles 470-3 à 470-19 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales s’appliquent en matière de lettres de gage, à moins qu’il n’y soit dérogé contractuellement, auquel cas les conditions contractuelles de ces lettres de gage précisent le régime applicable aux réunions de porteurs de lettres de gage.

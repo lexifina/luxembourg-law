@@ -1,0 +1,7 @@
+# Art. 21. Obligations de coopération
+
+(1) La CSSF, en sa qualité d’autorité chargée de la surveillance des obligations garanties, coopère étroitement avec les autorités compétentes des autres États membres, désignées conformément à l’article 18, paragraphe 2, de la directive (UE) 2019/2162, aux fins de leurs missions au titre de ladite directive. Elles se communiquent mutuellement toute information utile à l’exercice de leurs missions de surveillance au titre de ladite directive. Elles se transmettent, sur demande, toute information utile et se communiquent, de leur propre initiative, toute information essentielle. Une information est considérée comme essentielle dès lors qu’elle est susceptible d’avoir une incidence importante sur l’évaluation de l’émission d’obligations garanties dans un autre État membre.
+
+(2) La CSSF coopère également avec les autorités compétentes chargées de la surveillance prudentielle des établissements de crédit et, en cas de résolution d’un établissement de crédit émetteur, avec les autorités de résolution, lorsque cela est nécessaire pour l’accomplissement de leurs missions respectives afin de garantir le respect des droits et intérêts des investisseurs en lettres de gage, notamment en vérifiant au moins la gestion continue et rigoureuse du programme d’émission au cours de la procédure de résolution.
+
+(3) La CSSF coopère avec l’ABE ou, le cas échéant, avec l’AEMF, aux fins de l’exercice de leurs attributions au titre de la directive (UE) 2019/2162.
