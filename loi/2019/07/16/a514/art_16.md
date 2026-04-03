@@ -1,0 +1,7 @@
+# Art. 16. Autorité compétente au Luxembourg
+
+(1) La CSSF est l’autorité compétente au Luxembourg pour veiller au respect des obligations prévues aux articles 6 à 9 du règlement (UE) 2017/2402 du Parlement européen et du Conseil du 12 décembre 2017 créant un cadre général pour la titrisation ainsi qu’un cadre spécifique pour les titrisations simples, transparentes et standardisées, et modifiant les directives 2009/65/CE, 2009/138/CE et 2011/61/UE et les règlements (CE) n° 1060/2009 et (UE) n° 648/2012, dénommé ci-après le « règlement (UE) 2017/2402 », par les initiateurs, les prêteurs initiaux et les entités de titrisation, ci-après « SSPE », établis au Luxembourg, sans préjudice de l’article 29, paragraphe 3, du règlement (UE) 2017/2402.
+
+Par dérogation à l’alinéa 1er, le Commissariat aux assurances, dénommé ci-après le « CAA », est l’autorité compétente au Luxembourg pour veiller au respect des obligations prévues aux articles 6 à 9 du règlement (UE) 2017/2402 par les initiateurs, les prêteurs initiaux et les SSPE établis au Luxembourg et soumis à sa surveillance.
+
+(2) La CSSF est également l’autorité compétente au Luxembourg pour veiller, conformément à l’article 29, paragraphe 5 du règlement (UE) 2017/2402, au respect des articles 18 à 27 dudit règlement par les initiateurs, les sponsors et les SSPE, et au respect de l’article 28 du règlement (UE) 2017/2402 par les tiers visés à l’article 27, paragraphe 2, dudit règlement.
