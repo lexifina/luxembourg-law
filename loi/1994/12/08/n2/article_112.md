@@ -1,0 +1,5 @@
+# ARTICLE 112
+
+Si la composition de l'ensemble des entreprises comprises dans la consolidation a subi au cours de l'exercice une modification notable, les comptes consolidés comportent des renseignements qui rendent significative la comparaison des comptes consolidés successifs.
+
+Lorsque la modification est importante, il peut être satisfait à cette obligation par l'établissement d'un bilan d'ouverture adapté et d'un compte de profits et pertes adapté.

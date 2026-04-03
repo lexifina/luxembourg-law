@@ -1,0 +1,3 @@
+# ARTICLE 126-1
+
+Les membres des organes d’administration, de gestion et de surveillance de l’entreprise d’assurances qui établit les comptes consolidés et le rapport consolidé de gestion ont l’obligation collective de veiller à ce que l’établissement et la publication des comptes consolidés, du rapport consolidé de gestion et, si elle est établie séparément, de la déclaration sur le gouvernement d’entreprise à fournir conformément à l’article 85-1, soient conformes aux exigences de la présente loi et, le cas échéant, aux normes comptables internationales telles qu’adoptées conformément au règlement (CE) N° 1606/2002.

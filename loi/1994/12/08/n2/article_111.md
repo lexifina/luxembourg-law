@@ -1,0 +1,7 @@
+# ARTICLE 111
+
+1. Les comptes consolidés sont établis à la même date que les comptes annuels de l'entreprise mère.
+
+2. Toutefois, les comptes consolidés peuvent être établis à une autre date, pour tenir compte de la date de clôture du bilan des entreprises les plus nombreuses ou les plus importantes comprises dans la consolidation. Lorsqu'il est fait usage de cette dérogation, celle-ci est signalée dans l'annexe des comptes consolidés et dûment motivée. En outre, il y a lieu de tenir compte ou de faire mention des événements importants concernant le patrimoine, la situation financière ou les résultats d'une entreprise comprise dans la consolidation survenus entre la date de clôture du bilan de cette entreprise et la date de clôture des comptes consolidés.
+
+3. Si la date de clôture du bilan d'une entreprise comprise dans la consolidation est antérieure de plus de six mois à la date de clôture des comptes consolidés, cette entreprise est consolidée sur la base de comptes intérimaires établis à la date de clôture des comptes consolidés.
