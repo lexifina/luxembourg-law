@@ -1,0 +1,7 @@
+# Art. 19.
+
+(1) Le dépositaire doit être établi au Luxembourg ou dans un autre État membre et avoir été dûment agréé, conformément à la directive 2013/36/UE ou à la directive 2014/65/UE, ou agréé en tant que dépositaire aux fins de la directive 2009/65/CE ou de la directive 2011/61/UE.
+
+La CSSF doit donner son accord à la nomination ou à la révocation d'un dépositaire. Elle apprécie l'aptitude du dépositaire à assumer sa tâche en fonction de sa taille, de sa capacité financière, de son organisation et, plus généralement, de la compatibilité de son activité avec l'objet social de la sepcav.
+
+(2) La sepcav désigne un dépositaire au moyen d'un contrat écrit. Ce contrat prévoit la transmission des informations nécessaires pour que le dépositaire puisse exercer ses missions.

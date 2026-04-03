@@ -1,0 +1,5 @@
+# Art. 4.
+
+(1) A l'exception des articles 18 à 23, 42 à 47, 57-1 paragraphes (1) et (2), et 78, alinéa 1, un règlement grand-ducal peut exclure du champ d'application de la loi ou de certaines parties de celle-ci les fonds de pension qui gèrent des régimes de retraite comptant au total moins de 100 affiliés. Ces fonds de pension peuvent toutefois se soumettre à l'ensemble des dispositions de la loi s'ils le souhaitent. L'article 97 ne s'applique que si toutes les autres dispositions de la présente loi sont appliquées. Les articles 57-1, paragraphes (1) et (2), et 78, alinéa 1 s'appliquent pour les fonds de pension qui gèrent des régimes de retraite comptant au total plus de 15 affiliés.
+
+(2) Un règlement grand-ducal peut arrêter des modalités permettant de ne pas appliquer, en tout ou en partie, les articles 1 à 4, 18 à 23, 42 à 47, 78 à 82 et 84 aux fonds de pension pour lesquels la fourniture de retraites professionnelles a un caractère statutaire, conformément à la législation, et est garantie par une autorité publique.

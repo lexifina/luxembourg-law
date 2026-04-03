@@ -1,0 +1,9 @@
+# Art. 28.
+
+(1) Les provisions techniques de l'assep ne peuvent être inférieures à cinq millions d'euros. Ce minimum doit être atteint dans un délai de dix ans à partir de l'agrément de l'assep. Un règlement grand- ducal peut fixer ce minimum à un chiffre plus élevé. La ou les entreprises d'affiliation peuvent faire à l'assep un apport équivalant au maximum à cinq millions d'euros.
+
+(2) Si les provisions techniques de l'assep sont inférieures aux deux tiers du minimum requis, les administrateurs doivent soumettre la question de la dissolution de l'assep à l'assemblée générale qui ne délibère valablement que si les deux tiers de ses associés sont présents ou représentés. Si cette condition n'est pas remplie, une nouvelle assemblée peut être convoquée. La seconde assemblée délibère valablement, quel que soit le nombre des associés présents ou représentés. La dissolution n'est admise que si elle est votée à la majorité des trois quarts des associés présents ou représentés.
+
+Si les provisions techniques de l'assep sont inférieures au quart du minimum requis, les administrateurs doivent soumettre la question de la dissolution de l'assep à l'assemblée générale qui ne délibère valablement que si les deux tiers de ses associés sont présents ou représentés. Si cette condition n'est pas remplie, une nouvelle assemblée peut être convoquée. La seconde assemblée délibère valablement, quel que soit le nombre des associés présents ou représentés. La dissolution n'est admise que si elle est votée à la majorité simple des associés présents ou représentés.
+
+(3) La convocation doit se faire de façon que l'assemblée soit tenue dans le délai de quarante jours à partir de la constatation que les provisions techniques sont devenues inférieures aux deux tiers, ou au quart du minimum requis respectivement.

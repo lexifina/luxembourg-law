@@ -1,0 +1,13 @@
+# Art. 89.
+
+(1) Sans préjudice de dispositions plus contraignantes figurant au règlement de pension du régime de retraite ou au relevé des droits à retraite, chaque affilié reçoit également sur demande des informations détaillées et substantielles sur :
+
+- a) le niveau que les prestations de retraite doivent atteindre, le cas échéant ;
+
+- b) le niveau des prestations en cas de cessation d'emploi ;
+
+- c) lorsque l'affilié supporte le risque de placement, l'éventail des options éventuelles de placement et le portefeuille de placements existant, avec une description des risques et des coûts relatifs à ces placements ;
+
+- d) les modalités du transfert des droits à la retraite à une autre IRP en cas de résiliation du contrat de travail.
+
+(2) Les affiliés reçoivent chaque année des informations succinctes sur la situation du fonds de pension.

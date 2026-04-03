@@ -1,0 +1,5 @@
+# Art. 71.
+
+Les modifications des statuts, du règlement de pension et de la note technique susceptibles d'augmenter les obligations ou de diminuer les droits de ceux qui ont accepté ces documents sont soumises à leur accord unanime.
+
+Les modifications au règlement de pension sont opposables aux affiliés et aux bénéficiaires, dès communication à ceux-ci, et considérées comme acceptées par eux. En cas de non-acceptation de ces modifications par un affilié ou un bénéficiaire dans les deux mois à compter de la date de l'information sur les modifications proposées, ce dernier perd sa qualité et ses droits sont transférés dans un autre régime ou vers un autre support éligible conformément aux dispositions afférentes du règlement de pension, à moins qu'il soit soumis à des dispositions plus contraignantes rendant obligatoire son affiliation au fonds de pension ; en fonction des dispositions afférentes du règlement de pension, cette affiliation peut se résumer à un maintien de droits existants ou prendre la forme d'une accumulation continuée de droits dans le futur.
