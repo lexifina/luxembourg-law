@@ -1,0 +1,3 @@
+# Art. 16. Responsabilité des informations fournies.
+
+Les informations fournies à la CSSF conformément aux articles 13, 14 et 15 sont transmises par voie électronique et signées par le réviseur d’entreprises agréé ou le contrôleur de pays tiers, selon le cas. Dans le cas d’un cabinet de révision agréé, d’un cabinet d’audit ou d’une entité d’audit de pays tiers, les informations fournies sont signées par un réviseur d’entreprises agréé, un contrôleur légal des comptes ou un contrôleur de pays tiers, selon le cas, qui est membre dudit cabinet de révision agréé, dudit cabinet d’audit ou de ladite entité d’audit de pays tiers.

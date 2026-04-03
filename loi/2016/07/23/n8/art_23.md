@@ -1,0 +1,3 @@
+# Art. 23. Indépendance et objectivité des réviseurs d’entreprises agréés qui effectuent un contrôle légal des comptes pour le compte d’un cabinet de révision agréé ou d’un cabinet d’audit.
+
+Les actionnaires ou propriétaires ou membres des organes d’administration, de direction et de surveillance d’un cabinet de révision agréé, d’un cabinet d’audit, ou d’une entreprise apparentée n’interviennent pas dans l’exécution d’un contrôle légal des comptes d’une façon pouvant compromettre l’indépendance et l’objectivité du réviseur d’entreprises agréé qui effectue ce contrôle légal des comptes pour le compte dudit cabinet de révision agréé ou cabinet d’audit.
