@@ -1,0 +1,5 @@
+# Art. 14. Information et consultation des représentants du personnel
+
+La présente loi ne porte pas préjudice aux règles relatives à l’information et à la consultation des représentants du personnel de l’offrant et de la société visée ainsi que, le cas échéant, à la cogestion avec ce personnel, régies par les dispositions nationales pertinentes, et notamment celles arrêtées en application des directives 94/45/CE, 98/59/CE, 2001/86/CE et 2002/14/CE.
+
+Par représentants du personnel au sens du présent article, il y a également lieu d’entendre les instances de représentation des travailleurs définies à l’article 2 (1) h).
