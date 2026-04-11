@@ -1,0 +1,3 @@
+# Art. 17.
+
+À l’article 65, paragraphe 1er, alinéa 1er, de la même loi, les mots qui résultent des articles 13, 14, 15, 16, 17 et 20 du règlement (CE) n° 714/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les conditions d’accès au réseau pour les échanges transfrontaliers d’électricité ou d’une violation aux articles 3, 4, 5, 8, 9 et 15 sont remplacés par les mots prévues par le règlement (UE) 2019/943 du Parlement européen et du Conseil du 5 juin 2019 sur le marché intérieur de l’électricité, tel que modifié, ou des règlements de la Commission pris en vertu des articles 59, 60 et 61 de celui-ci ou d’une violation aux articles 3, 4, 5, 7quater, 8, 9 et 15.
