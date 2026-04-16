@@ -6,9 +6,9 @@
 
 - a) des modalités de coopération appropriées existent entre la CSSF et l’autorité de surveillance du pays tiers où le FIA est établi, afin d’assurer à tout le moins un échange d’informations efficace, qui permette à la CSSF d’exécuter les missions qui lui incombent en vertu de la présente loi;
 
-- b) le pays tiers dans lequel est établi le gestionnaire ne figure pas sur la liste des pays et territoires non coopératifs du GAFI;
+- b) le pays tiers dans lequel est établi le FIA n’a pas été recensé en tant que pays tiers à haut risque en vertu de l’article 9, paragraphe 2, de la directive (UE) 2015/849 ;
 
-- c) le pays tiers dans lequel est établi le FIA a signé, avec le Luxembourg et avec tout autre État membre dans lequel il est prévu que les parts ou actions du FIA de pays tiers soient commercialisées, un accord qui respecte pleinement les normes énoncées à l’article 26 du modèle OCDE de convention fiscale concernant le revenu et la fortune et garantissant un échange efficace d’informations en matière fiscale, y compris, tout accord multilatéral en matière fiscale.
+- c) le pays tiers dans lequel est établi le FIA a signé, avec le Luxembourg et avec tout autre État membre dans lequel il est prévu que les parts ou actions du FIA de pays tiers soient commercialisées, un accord qui respecte pleinement les normes énoncées à l’article 26 du modèle OCDE de convention fiscale concernant le revenu et la fortune et garantissant un échange efficace d’informations en matière fiscale, y compris, tout accord multilatéral en matière fiscale, et le pays tiers n’est pas mentionné à l’annexe I des conclusions du Conseil relatives à la liste révisée de l’UE des pays et territoires non coopératifs à des fins fiscales .
 
 (3) Si le gestionnaire se propose de commercialiser des parts ou des actions de FIA de pays tiers au Luxembourg, défini comme l’État membre de référence du gestionnaire, le gestionnaire doit transmettre à la CSSF une notification pour chaque FIA de pays tiers qu’il a l’intention de commercialiser.
 

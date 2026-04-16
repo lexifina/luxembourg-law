@@ -22,7 +22,7 @@
 
 - i) d’arrêter, en conformité avec le droit national, tout type de mesure propre à assurer que les gestionnaires ou les dépositaires continuent de se conformer aux exigences de la présente loi qui leur sont applicables;
 
-- j) d’exiger, dans l’intérêt des porteurs de parts ou dans l’intérêt du public, la suspension de l’émission, du rachat ou du remboursement des parts des FIA;
+- j) dans l’intérêt des investisseurs, dans des circonstances exceptionnelles et après consultation du gestionnaire, d’exiger des gestionnaires qu’ils activent ou désactivent l’outil de gestion de la liquidité visé à l’annexe V, point 1, lorsqu’il existe des risques pour la protection des investisseurs ou la stabilité financière qui, d’un point de vue raisonnable et équilibré, rendent une telle activation ou désactivation nécessaire ;
 
 - k) de retirer l’agrément octroyé à un gestionnaire ou à un dépositaire;
 

@@ -12,4 +12,8 @@
 
 (2) Les modalités d’application du présent article sont arrêtées par voie d’un règlement à prendre par la CSSF.
 
-(3) Le présent article ne préjuge pas des dispositions applicables à la commercialisation auprès d’investisseurs dans des FIA régis par le règlement (UE) 2015/760, par le règlement (UE) n° 346/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds d’entrepreneuriat social européens ou par le règlement (UE) n° 345/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds de capital-risque européens.
+(3) Le présent article ne préjuge pas des dispositions applicables à la commercialisation auprès d’investisseurs dans des FIA régis par le règlement (UE) 2015/760, par le règlement (UE) n° 346/2013 ou par le règlement (UE) n° 345/2013 .
+
+(4) Les gestionnaires agréés établis au Luxembourg ou dans un autre État membre de l’Union européenne peuvent commercialiser des parts ou des actions d’un FIA de l’Union européenne qui investit principalement dans les actions d’une société donnée, auprès des travailleurs de cette société ou de ses entités affiliées dans le cadre de plans d’épargne des travailleurs ou de systèmes de participation des travailleurs, sur le territoire du Luxembourg.
+
+Lorsqu’un tel FIA est commercialisé auprès de tels travailleurs, le Luxembourg n’impose aucune exigence supplémentaire par rapport à celles applicables dans l’État membre d’origine du FIA.

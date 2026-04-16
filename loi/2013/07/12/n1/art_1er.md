@@ -6,6 +6,8 @@ Aux fins de la présente loi, on entend par:
 
 - (2) «AEMF»: l’Autorité européenne des marchés financiers, instituée par le règlement (UE) n° 1095/2010 du Parlement européen et du Conseil;
 
+- (2-1) « AEAPP » : l’Autorité européenne de surveillance des assurances et des pensions professionnelles, instituée par le règlement (UE) n° 1094/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des assurances et des pensions professionnelles), modifiant la décision n° 716/2009/CE et abrogeant la décision 2009/79/CE de la Commission ;
+
 - (3) «autorités compétentes»: les autorités nationales des États membres habilitées, en vertu d’une loi ou d’une réglementation, à surveiller les gestionnaires. Au Luxembourg, la CSSF est l’autorité compétente pour la surveillance des gestionnaires relevant de la présente loi;
 
 - (4) «autorités de surveillance» en référence à des gestionnaires établis dans un pays tiers: les autorités nationales d’un pays tiers habilitées, en vertu d’une loi ou d’une réglementation, à surveiller les gestionnaires;
@@ -26,6 +28,8 @@ Aux fins de la présente loi, on entend par:
 
   - e) si le dépositaire est désigné comme dépositaire d’un FIA de pays tiers conformément à l’article 21, paragraphe (5), point b), de la directive 2011/61/UE, et ne relève pas du champ d’application des points a) à d) du présent point, les autorités nationales concernées du pays tiers où le dépositaire a son siège statutaire;
 
+- (7-1) « capital du FIA » : la somme des apports en capital et du capital non appelé engagé envers un FIA, calculée sur la base des montants qui peuvent être investis, après déduction de tous les frais, charges et commissions supportés directement ou indirectement par les investisseurs ;
+
 - (8) «capital initial»: les fonds visés à l’article 57, premier alinéa, points a) et b) de la directive 2006/48/CE;
 
 - (9) «commercialisation»: une offre ou un placement, direct ou indirect, à l’initiative du gestionnaire ou pour son compte, de parts ou d’actions d’un FIA qu’il gère, à destination d’investisseurs domiciliés ou ayant leur siège statutaire dans l’Union européenne;
@@ -37,6 +41,8 @@ Aux fins de la présente loi, on entend par:
 - (12) «CERS»: le Comité européen du risque systémique, institué par le règlement (UE) n° 1092/2010 du Parlement européen et du Conseil;
 
 - (13) «CSSF»: la Commission de Surveillance du Secteur Financier;
+
+- (13-1) « dépositaire central de titres » ou « DCT » : un dépositaire central de titres au sens de l’article 2, paragraphe 1er, point 1), du règlement (UE) n° 909/2014 du Parlement européen et du Conseil du 23 juillet 2014 concernant l’amélioration du règlement de titres dans l’Union européenne et les dépositaires centraux de titres, et modifiant les directives 98/26/CE et 2014/65/UE ainsi que le règlement (UE) n° 236/2012, ci-après « règlement (UE) n° 909/2014 » ;
 
 - (14) «directive 77/91/CEE»: la directive 77/91/CEE du Conseil du 13 décembre 1976 tendant à coordonner, pour les rendre équivalentes, les garanties qui sont exigées dans les États membres des sociétés au sens de l’article 58, alinéa 2, du traité, en vue de la protection des intérêts tant des associés que des tiers, en ce qui concerne la constitution de la société anonyme ainsi que le maintien et les modifications de son capital;
 
@@ -69,6 +75,10 @@ Aux fins de la présente loi, on entend par:
 - (29) «directive 2011/61/UE»: la directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d’investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) n° 1060/2009 et (UE) n° 1095/2010;
 
 - (29-1) «directive 2013/34/UE» : la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil ;
+
+- (29-2) « directive 2014/65/UE » : la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE ;
+
+- (29-3) « directive (UE) 2015/849 » : la directive (UE) 2015/849 du Parlement européen et du Conseil du 20 mai 2015 relative à la prévention de l’utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme, modifiant le règlement (UE) n° 648/2012 du Parlement européen et du Conseil et abrogeant la directive 2005/60/CE du Parlement européen et du Conseil et la directive 2006/70/CE de la Commission ;
 
 - (30) «effet de levier»: toute méthode par laquelle le gestionnaire accroît l’exposition d’un FIA qu’il gère, que ce soit par l’emprunt de liquidités ou de valeurs mobilières, par des positions dérivées ou par tout autre moyen;
 
@@ -140,6 +150,14 @@ Aux fins de la présente loi, on entend par:
 
 - (43) «FIA maître», un FIA dans lequel un autre FIA investit ou a une exposition conformément au point (42);
 
+- (43-1) « FIA octroyant des prêts » : un FIA :
+
+  - a) dont la stratégie d’investissement consiste principalement à octroyer des prêts ; ou
+
+  - b) dont les prêts octroyés ont une valeur notionnelle représentant au moins 50 pour cent de sa valeur nette d’inventaire ;
+
+- (43-2) « FIA recourant à l’effet de levier » : un FIA dont les expositions sont accrues par le gestionnaire qui le gère, que ce soit par l’emprunt de liquidités ou de valeurs mobilières, par des positions dérivées ou par tout autre moyen ;
+
 - (44) «filiale»: une entreprise filiale telle que définie à l’article 22, paragraphes 1er à 5, de la directive 2013/34/UE ;
 
 - (45) «fonds propres»: les fonds propres visés aux articles 56 à 67 de la directive 2006/48/CE. Aux fins de l’application de la présente définition, les articles 13 à 16 de la directive 2006/49/CE s’appliquent par analogie;
@@ -158,7 +176,7 @@ Aux fins de la présente loi, on entend par:
 
 - (52) «intéressement aux plus-values»: une part des bénéfices du FIA qui revient au gestionnaire à titre de compensation pour la gestion du FIA, et excluant toute part des bénéfices du FIA revenant au gestionnaire au titre du rendement d’investissements réalisés par le gestionnaire dans le FIA;
 
-- (53) «investisseur professionnel»: un investisseur considéré comme un client professionnel ou susceptible d’être traité, sur demande, comme un client professionnel, au sens de l’annexe II de la directive 2004/39/CE;
+- (53) «investisseur professionnel»: un investisseur considéré comme un client professionnel ou susceptible d’être traité, sur demande, comme un client professionnel, au sens de l’annexe II de la directive 2014/65/UE ;
 
 - (54) «investisseur de détail»: un investisseur qui n’est pas un investisseur professionnel;
 
@@ -172,11 +190,19 @@ Aux fins de la présente loi, on entend par:
 
 - (56) «OPCVM»: un organisme de placement collectif en valeurs mobilières agréé conformément à l’article 5 de la directive 2009/65/CE;
 
+- (56-1) « octroi de prêts » ou « octroyant un prêt » : le fait d’accorder un prêt :
+
+  - a) directement, par un FIA en tant que prêteur initial ; ou
+
+  - b) indirectement, par l’intermédiaire d’un tiers ou d’une entité à vocation particulière qui octroie le prêt pour un FIA ou pour le compte de celui-ci, ou pour un gestionnaire ou pour le compte de celui-ci pour ce qui concerne le FIA, lorsque le gestionnaire ou le FIA participe à la structuration du prêt, ou à la définition ou à l’accord préalable de ses caractéristiques, avant d’être exposé au prêt ;
+
 - (57) «participation qualifiée»: le fait de détenir dans un gestionnaire une participation, directe ou indirecte, qui représente au moins 10% du capital ou des droits de vote, conformément aux articles 9 et 10 de la directive 2004/109/CE, compte tenu des conditions régissant l’agrégation des participations énoncées à l’article 12, paragraphes (4) et (5) de ladite directive, ou qui permet d’exercer une influence notable sur la gestion du gestionnaire dans lequel est détenue cette participation;
 
 - (58) «pays tiers»: un État autre qu’un État membre;
 
 - (58-1) « pré-commercialisation » : la fourniture d’informations ou la communication, directe ou indirecte, sur des stratégies d’investissement ou des idées d’investissement par un gestionnaire établi dans l’Union européenne, ou pour son compte, à des investisseurs professionnels potentiels domiciliés ou ayant leur siège statutaire dans l’Union européenne afin d’évaluer l’intérêt de ces derniers pour un FIA ou un compartiment qui n’est pas encore établi ou qui est établi mais qui n’est pas encore notifié en vue de sa commercialisation conformément à l’article 31 ou à l’article 32 de la directive 2011/61/UE, dans l’État membre où les investisseurs potentiels sont domiciliés ou ont leur siège statutaire, et qui, en tout état de cause, n’équivaut pas à un placement auprès de l’investisseur potentiel ou à une offre d’investissement dans des parts ou actions de ce FIA ou de ce compartiment ;
+
+- (58-2) « prêt d’actionnaire » : un prêt accordé par un FIA à une entreprise dont il détient, directement ou indirectement, un minimum de 5 pour cent du capital ou des droits de vote et ne pouvant être cédé à des tiers indépendamment des instruments de fonds propres que le FIA détient dans ladite entreprise ;
 
 - (59) «représentant légal»: une personne physique domiciliée dans l’Union européenne ou une personne morale ayant son siège statutaire dans l’Union européenne et qui, expressément désignée par un gestionnaire établi dans un pays tiers, agit, dans l’Union européenne, pour le compte de ce gestionnaire établi dans un pays tiers vis-à-vis des autorités, des clients, des organes et contreparties du gestionnaire établi dans un pays tiers en ce qui concerne les obligations incombant à ce dernier conformément à la directive 2011/61/UE;
 

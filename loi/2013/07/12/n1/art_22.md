@@ -27,3 +27,5 @@ Ils doivent fournir des informations sur les principaux instruments qu’ils né
 Parmi ces informations figurent, pour chaque FIA géré par le gestionnaire, l’identité des cinq principales sources de liquidités ou de valeurs mobilières empruntées et le montant du levier reçus de chacune de ces sources pour chacun de ces FIA.
 
 (5) Si la CSSF estime qu’une telle communication est nécessaire afin d’assurer le suivi efficace du risque systémique, elle peut exiger la communication par le gestionnaire d’informations supplémentaires à celles décrites au présent article, de manière régulière ou sur demande.
+
+La CSSF peut imposer au gestionnaire des exigences supplémentaires en matière de comptes rendus lorsque, dans des circonstances exceptionnelles, et lorsque cela est nécessaire pour assurer la stabilité et l’intégrité du système financier, ou pour promouvoir une croissance durable à long terme, l’AEMF, après avoir consulté le CERS, en a formulé la demande.

@@ -6,7 +6,7 @@
 
 - b) le gestionnaire dispose d’un capital initial et de fonds propres suffisants conformément à l’article 8;
 
-- c) les personnes qui dirigent de fait l’activité du gestionnaire ont une honorabilité et une expérience suffisantes, également en ce qui concerne les stratégies d’investissement menées par les FIA gérés par le gestionnaire, l’identité de ces personnes, ainsi que de toute personne leur succédant dans leurs fonctions, devant être immédiatement notifiée à la CSSF; la conduite de l’activité du gestionnaire doit être déterminée par au moins deux personnes remplissant ces conditions;
+- c) les personnes qui dirigent de fait l’activité du gestionnaire ont une honorabilité et une expérience suffisantes, également en ce qui concerne les stratégies d’investissement menées par les FIA gérés par le gestionnaire, l’identité de ces personnes, ainsi que de toute personne leur succédant dans leurs fonctions, étant immédiatement notifiée à la CSSF et la conduite de l’activité du gestionnaire étant déterminée par au moins deux personnes physiques remplissant ces conditions, qui sont soit employées à plein temps par ce gestionnaire, soit des membres exécutifs ou des membres de l’organe directeur du gestionnaire qui se consacrent à plein temps à la conduite de l’activité de ce gestionnaire, et qui sont domiciliées dans l’Union européenne ;
 
 - d) les actionnaires ou les associés du gestionnaire qui détiennent des participations qualifiées conviennent pour cette mission, compte tenu de la nécessité de garantir la gestion saine et prudente du gestionnaire; et
 

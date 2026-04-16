@@ -2,7 +2,7 @@
 
 (1) Pour chaque FIA de l’Union européenne qu’ils gèrent et pour chaque FIA qu’ils commercialisent dans l’Union européenne, les gestionnaires doivent mettre à la disposition des investisseurs du FIA, avant qu’ils n’investissent dans ce FIA, conformément au règlement de gestion ou aux documents constitutifs du FIA, les informations ci-après ainsi que tout changement substantiel concernant ces informations:
 
-- a) une description de la stratégie et des objectifs d’investissement du FIA, des informations sur le lieu d’établissement de tout FIA maître et sur le lieu d’établissement des fonds sous-jacents si le FIA est un fonds de fonds, une description des types d’actifs dans lesquels le FIA peut investir, des techniques qu’il peut employer et de tous les risques associés, des éventuelles restrictions à l’investissement applicables, des circonstances dans lesquelles le FIA peut faire appel à l’effet de levier, des types d’effets de levier et des sources des effets de levier autorisés et des risques associés, des éventuelles restrictions à l’utilisation de l’effet de levier, ainsi que des éventuelles modalités de remploi d’un collatéral ou d’actifs et sur le niveau de levier maximal que le gestionnaire est habilité à employer pour le compte du FIA;
+- a) le nom du FIA, une description de la stratégie et des objectifs d’investissement du FIA, des informations sur le lieu d’établissement de tout FIA maître et sur le lieu d’établissement des fonds sous-jacents si le FIA est un fonds de fonds, une description des types d’actifs dans lesquels le FIA peut investir, des techniques qu’il peut employer et de tous les risques associés, des éventuelles restrictions à l’investissement applicables, des circonstances dans lesquelles le FIA peut faire appel à l’effet de levier, des types d’effets de levier et des sources des effets de levier autorisés et des risques associés, des éventuelles restrictions à l’utilisation de l’effet de levier, ainsi que des éventuelles modalités de remploi d’un collatéral ou d’actifs et sur le niveau de levier maximal que le gestionnaire est habilité à employer pour le compte du FIA;
 
 - b) une description des procédures pouvant être mises en œuvre par le FIA pour changer sa stratégie d’investissement ou sa politique d’investissement, ou les deux;
 
@@ -16,9 +16,11 @@
 
 - g) une description de la procédure d’évaluation du FIA et de la méthodologie de détermination du prix employée pour évaluer la valeur des actifs, y compris les méthodes employées pour les actifs difficiles à évaluer, conformément à l’article 17;
 
-- h) une description de la gestion du risque de liquidité du FIA, en ce compris les droits au remboursement dans des circonstances à la fois normales et exceptionnelles, et les modalités existantes avec les investisseurs en matière de remboursement;
+- h) une description de la gestion du risque de liquidité du FIA, en ce compris les droits au remboursement dans des circonstances à la fois normales et exceptionnelles, des modalités en vigueur avec les investisseurs en matière de remboursement, et de l’utilisation possible et des conditions d’utilisation des outils de gestion de la liquidité sélectionnés conformément à l’article 15-1, paragraphe 1er ;
 
 - i) une description de tous les frais, charges et commissions éventuels, et de leurs montants maximaux, supportés directement ou indirectement par les investisseurs;
+
+- ibis) une liste des frais, charges et commissions qui sont supportés par le gestionnaire dans le cadre de l’opération du FIA et qui doivent être directement ou indirectement affectés au FIA ;
 
 - j) une description de la manière dont le gestionnaire garantit un traitement équitable des investisseurs et, dès lors qu’un investisseur bénéficie d’un traitement préférentiel ou du droit de bénéficier d’un traitement préférentiel, une description de ce traitement préférentiel, le type d’investisseurs qui bénéficient de ce traitement préférentiel, et, le cas échéant, l’indication de leurs liens juridiques ou économiques avec le FIA ou le gestionnaire;
 
@@ -44,7 +46,13 @@
 
 - b) toute nouvelle disposition prise pour gérer la liquidité du FIA;
 
-- c) le profil de risque actuel du FIA et les systèmes de gestion du risque utilisés par le gestionnaire pour gérer ces risques.
+- c) le profil de risque actuel du FIA et les systèmes de gestion du risque utilisés par le gestionnaire pour gérer ces risques;
+
+- d) la composition du portefeuille des prêts octroyés ;
+
+- e) sur une base annuelle, l’ensemble des frais, charges et commissions qui ont été directement ou indirectement supportés par les investisseurs ;
+
+- f) sur une base annuelle, toute entreprise mère, filiale ou entité à vocation particulière utilisée en relation avec les investissements du FIA par le gestionnaire ou au nom de celui-ci.
 
 (5) Les gestionnaires qui gèrent des FIA de l’Union européenne recourant à l’effet de levier ou qui commercialisent dans l’Union européenne des FIA recourant à l’effet de levier doivent communiquer sur une base régulière les informations suivantes pour chacun de ces FIA:
 

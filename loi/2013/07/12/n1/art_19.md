@@ -44,7 +44,7 @@
 
 (5) Le dépositaire doit être établi:
 
-- a) pour les FIA de l’Union européenne, dans l’État membre d’origine du FIA;
+- a) pour les FIA de l’Union européenne, dans l’État membre d’origine du FIA, sauf si le FIA est autorisé, conformément à l’article 21, paragraphe 5bis, de la directive 2011/61/UE, par les autorités compétentes de son État membre d’origine à désigner un établissement établi dans un autre État membre ;
 
 - b) pour les FIA de pays tiers, dans le pays tiers dans lequel le FIA est établi, ou dans l’État membre d’origine du gestionnaire qui gère le FIA ou, dans l’État membre de référence du gestionnaire qui gère le FIA.
 
@@ -54,11 +54,13 @@
 
 - b) le dépositaire est soumis à une réglementation prudentielle efficace, y compris des exigences minimales de fonds propres, et à une surveillance qui produisent les mêmes effets que le droit de l’Union européenne et sont effectivement appliquées;
 
-- c) le pays tiers dans lequel est établi le dépositaire ne figure pas sur la liste des pays et territoires non coopératifs du Groupe d’Action financière (GAFI);
+- c) le pays tiers dans lequel est établi le dépositaire n’est pas recensé en tant que pays tiers à haut risque en vertu de l’article 9, paragraphe 2, de la directive (UE) 2015/849 ;
 
-- d) les États membres dans lesquels il est prévu que les parts ou actions du FIA de pays tiers soient commercialisées et le Luxembourg, en tant qu’ État membre d’origine du gestionnaire, ont signé avec le pays tiers dans lequel le dépositaire est établi un accord pleinement conforme aux normes énoncées dans l’article 26 du modèle OCDE de convention fiscale concernant le revenu et la fortune et garantissant un échange efficace d’informations en matière fiscale, y compris tout accord multilatéral en matière fiscale;
+- d) les États membres dans lesquels il est prévu que les parts ou actions du FIA de pays tiers soient commercialisées et le Luxembourg, en tant qu’ État membre d’origine du gestionnaire, ont signé avec le pays tiers dans lequel le dépositaire est établi un accord pleinement conforme aux normes énoncées dans l’article 26 du modèle OCDE de convention fiscale concernant le revenu et la fortune et garantissant un échange efficace d’informations en matière fiscale, y compris tout accord multilatéral en matière fiscale, et le pays tiers n’est pas mentionné à l’annexe I des conclusions du Conseil relatives à la liste révisée de l’UE des pays et territoires non coopératifs à des fins fiscales ;
 
 - e) le dépositaire est contractuellement responsable à l’égard du FIA, ou des investisseurs du FIA, conformément aux paragraphes (12) et (13) et accepte expressément de respecter les dispositions du paragraphe (11).
+
+Par dérogation à la partie introductive de l’alinéa 1er, les conditions énoncées aux lettres c) et d) dudit alinéa s’appliquent au moment de la désignation du dépositaire. Si un pays tiers dans lequel est établi un dépositaire est recensé en tant que pays tiers à haut risque en vertu de l’article 9, paragraphe 2, de la directive (UE) 2015/849, tel que visé à l’alinéa 1er, lettre c), du présent paragraphe, ou est ajouté à l’annexe I des conclusions du Conseil relatives à la liste révisée de l’UE des pays et territoires non coopératifs à des fins fiscales, visée à l’alinéa 1er, lettre d), du présent paragraphe, après la désignation du dépositaire, un nouveau dépositaire est désigné dans un délai approprié, en tenant dûment compte des intérêts des investisseurs. Ce délai ne dépasse pas deux ans.
 
 (7) Le dépositaire doit veiller de façon générale au suivi adéquat des flux de liquidités du FIA et, plus particulièrement à ce que tous les paiements effectués par des investisseurs ou en leur nom lors de la souscription de parts ou d’actions de FIA aient été reçus et que toutes les liquidités du FIA aient été comptabilisées sur des comptes d’espèces ouverts au nom du FIA ou au nom du gestionnaire agissant pour le compte du FIA ou au nom du dépositaire agissant pour le compte du FIA auprès d’une entité visée à l’article 18, paragraphe (1), points a), b) et c), de la directive 2006/73/CE, ou d’une autre entité de la même nature, sur le marché pertinent sur lequel des comptes de liquidités sont exigés, pour autant que cette entité soit soumise à une réglementation et une surveillance prudentielles efficaces qui produisent les mêmes effets que le droit de l’Union européenne et sont effectivement appliquées, et conformément aux principes énoncés à l’article 16 de la directive 2006/73/CE.
 
@@ -106,7 +108,7 @@ Le dépositaire peut déléguer à des tiers les fonctions visées au paragraphe
 
 - b) le dépositaire peut démontrer que la délégation est justifiée par une raison objective;
 
-- c) le dépositaire a agi avec toute la compétence, le soin et la diligence requis lors de la sélection et de la désignation du tiers auquel il souhaite déléguer certaines parties de ses tâches et continue à faire preuve de toute la compétence, du soin et de la diligence requis dans l’évaluation périodique et le suivi permanent du tiers auquel il a délégué certaines parties de ses fonctions et des dispositions prises par le tiers concernant les tâches qui lui ont été déléguées; et
+- c) le dépositaire a agi avec toute la compétence, tout le soin et toute la diligence requis lors de la sélection et de la désignation du tiers auquel il a l’intention de déléguer certaines parties de ses tâches, sauf lorsque ce tiers est un dépositaire central de titres agissant en qualité de DCT investisseur au sens de l’acte délégué adopté en vertu de l’article 29, paragraphe 3, et de l’article 48, paragraphe 10, du règlement (UE) n° 909/2014, et il continue à faire preuve de toute la compétence, du soin et de la diligence requis dans l’évaluation périodique et le suivi permanent du tiers auquel il a délégué certaines parties de ses fonctions et des dispositions prises par le tiers concernant les tâches qui lui ont été déléguées ; et
 
 - d) le dépositaire veille à ce que le tiers remplisse les conditions suivantes en permanence dans l’exécution des tâches qui lui ont été déléguées:
 
@@ -128,7 +130,7 @@ Nonobstant le second alinéa, point d) ii), lorsque la législation d’un pays 
 
 Le tiers peut à son tour sous-déléguer ces fonctions, sous réserve des mêmes exigences. En pareil cas, le paragraphe (13) s’applique mutatis mutandis aux parties concernées.
 
-Aux fins du présent paragraphe, la fourniture de services, telle que définie par la directive 98/26/CE par des systèmes de règlement des opérations sur titres tels que définis aux fins de ladite directive, ou la fourniture de services similaires par des systèmes de règlement des opérations sur titres de pays tiers, n’est pas considérée comme une délégation des fonctions de conservation.
+Aux fins du présent article, la fourniture de services par un dépositaire central de titres agissant en qualité de DCT émetteur au sens de l’acte délégué adopté en vertu de l’article 29, paragraphe 3, et de l’article 48, paragraphe 10, du règlement (UE) n° 909/2014, n’est pas considérée comme une délégation des fonctions de conservation du dépositaire. Aux fins du présent article, la fourniture de services par un dépositaire central de titres agissant en qualité de DCT investisseur au sens dudit acte délégué est considérée comme une délégation des fonctions de conservation du dépositaire.
 
 (12) Le dépositaire est responsable à l’égard du FIA ou à l’égard des investisseurs du FIA, de la perte par le dépositaire, ou par un tiers auquel la conservation avait été déléguée, d’instruments financiers conservés conformément au paragraphe (8), point a).
 
@@ -160,4 +162,6 @@ Nonobstant le premier alinéa du présent paragraphe, en cas de perte d’instru
 
 (15) La responsabilité à l’égard des investisseurs d’un FIA dépourvu de la personnalité juridique peut être mise en cause par l’intermédiaire du gestionnaire. Si le gestionnaire n’agit pas, nonobstant mise en demeure par un investisseur, dans un délai de trois mois à partir de cette mise en demeure, cet investisseur peut mettre en cause directement la responsabilité du dépositaire.
 
-(16) Lorsque le dépositaire est établi au Luxembourg, celui-ci fournit, sur demande, à la CSSF toutes les informations qu’il a recueillies dans l’exercice de ses tâches et qui peuvent être nécessaires aux fins de la surveillance du FIA ou du gestionnaire. Si la CSSF n’est pas l’autorité compétente pour la surveillance du FIA ou du gestionnaire concerné, elle communique les informations reçues aux autorités compétentes respectives.
+(16) Lorsque le dépositaire est établi au Luxembourg, celui-ci fournit, sur demande, à la CSSF, aux autorités compétentes du FIA et aux autorités compétentes du gestionnaire, toutes les informations qu’il a recueillies dans l’exercice de ses tâches . Si la CSSF n’est pas l’autorité compétente pour la surveillance du FIA ou du gestionnaire concerné, elle communique sans retard aux autorités compétentes du FIA et du gestionnaire toute information pertinente pour l’exercice des pouvoirs de surveillance de ces autorités .
+
+Lorsque le dépositaire est établi dans un autre État membre, la CSSF en tant qu’autorité compétente du gestionnaire communique sans retard aux autorités compétentes du dépositaire toute information pertinente pour l’exercice des pouvoirs de surveillance de ces autorités.

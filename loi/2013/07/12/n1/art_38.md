@@ -72,11 +72,13 @@ Si la CSSF propose d’octroyer l’agrément contre la recommandation de l’AE
 
 - d) des modalités de coopération appropriées existent entre la CSSF, les autorités compétentes de l’État membre d’origine des FIA de l’Union européenne concernées et les autorités de surveillance du pays tiers où le gestionnaire est établi afin d’assurer à tout le moins un échange d’informations efficace, qui permette aux autorités compétentes respectives d’exécuter les missions qui leur incombent en vertu de la directive 2011/61/UE;
 
-- e) le pays tiers dans lequel est établi le gestionnaire ne figure pas sur la liste des pays et territoires non coopératifs du GAFI;
+- e) le pays tiers dans lequel est établi le gestionnaire n’a pas été recensé en tant que pays tiers à haut risque en vertu de l’article 9, paragraphe 2, de la directive (UE) 2015/849 ;
 
-- f) le pays tiers dans lequel le gestionnaire est établi a signé avec le Luxembourg un accord qui respecte pleinement les normes énoncées à l’article 26 du modèle OCDE de convention fiscale concernant le revenu et la fortune et garantissant un échange efficace d’informations en matière fiscale, y compris tout accord multilatéral en matière fiscale;
+- f) le pays tiers dans lequel le gestionnaire est établi a signé avec le Luxembourg un accord qui respecte pleinement les normes énoncées à l’article 26 du modèle OCDE de convention fiscale concernant le revenu et la fortune et garantissant un échange efficace d’informations en matière fiscale, y compris tout accord multilatéral en matière fiscale, et le pays tiers n’est pas mentionné à l’annexe I des conclusions du Conseil relatives à la liste révisée de l’UE des pays et territoires non coopératifs à des fins fiscales ;
 
 - g) le bon exercice, par les autorités compétentes respectives, de leurs fonctions de surveillance en vertu de la directive 2011/61/UE n’est pas entravé par les dispositions législatives, réglementaires ou administratives d’un pays tiers dont relève le gestionnaire ni par les limites posées aux pouvoirs de surveillance et d’enquête des autorités de surveillance de ce pays tiers.
+
+Si le pays tiers dans lequel est établi le gestionnaire est recensé en tant que pays tiers à haut risque en vertu de l’article 9, paragraphe 2, de la directive (UE) 2015/849, tel que visé à l’alinéa 1er, lettre e), du présent paragraphe, ou est ajouté à l’annexe I des conclusions du Conseil relatives à la liste révisée de l’UE des pays et territoires non coopératifs à des fins fiscales, visée à l’alinéa 1er, lettre f), du présent paragraphe, après l’agrément du gestionnaire établi dans un pays tiers, le gestionnaire établi dans un pays tiers prend, dans un délai approprié, les mesures qui s’imposent pour remédier à la situation en ce qui concerne les FIA qu’il gère, en tenant dûment compte des intérêts des investisseurs. Ce délai ne dépasse pas deux ans.
 
 (7) L’agrément tel que visé au paragraphe (1) est octroyé par la CSSF conformément aux dispositions du chapitre 2 de la présente loi qui s’appliquent par analogie, sous réserve des dispositions suivantes:
 

@@ -5,3 +5,9 @@
 Ils doivent effectuer régulièrement des simulations de crise, dans des conditions normales et exceptionnelles de liquidité, qui leur permettent d’évaluer le risque de liquidité des FIA, et d’effectuer en conséquence un suivi du risque de liquidité des FIA.
 
 (2) Les gestionnaires doivent veiller pour chaque FIA qu’ils gèrent à ce que la stratégie d’investissement, le profil de liquidité et la politique de remboursement soient cohérents.
+
+(3) Un gestionnaire veille à ce que le FIA octroyant des prêts qu’il gère soit de type fermé.
+
+Par dérogation à l’alinéa 1er, un FIA octroyant des prêts peut être de type ouvert à condition que le gestionnaire qui le gère soit en mesure de démontrer à la CSSF que le système de gestion du risque de liquidité du FIA est compatible avec sa stratégie d’investissement et sa politique de remboursement.
+
+L’exigence énoncée à l’alinéa 1er est sans préjudice des seuils, restrictions et conditions fixés dans le règlement (UE) n° 345/2013, le règlement (UE) n° 346/2013 et le règlement (UE) 2015/760.
