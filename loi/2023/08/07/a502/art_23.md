@@ -1,0 +1,3 @@
+# Art. 23.
+
+Les dispositions de la présente loi ne sont pas applicables au Grand-Duc Héritier, ainsi qu’aux descendants au premier degré du Grand-Duc et du Grand-Duc Héritier. Toutefois, ceux-ci ne peuvent être nommés au grade militaire de lieutenant qu’à l’âge de dix-huit ans révolus. Les avancements ultérieurs se font après chaque fois un délai minimal d’une année dans l’ordre hiérarchique croissant des grades militaires prévus à l’article 21, paragraphe 1er, jusqu’au grade militaire de colonel inclus. Le Grand-Duc Héritier ainsi que les descendants au premier degré du Grand-Duc et du Grand-Duc Héritier sont nommés aux différents grades militaires par le Grand-Duc.
