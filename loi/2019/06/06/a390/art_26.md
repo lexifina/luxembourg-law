@@ -1,0 +1,3 @@
+# Art. 26.
+
+En vue de faciliter la fourniture de services ferroviaires efficaces et efficients au sein de l'Union, le gestionnaire de l'infrastructure et l’Administration participent et coopèrent au réseau européen des gestionnaires de l’infrastructure prévu à l’article 7septies de la directive 2012/34/UE établissant un espace ferroviaire unique européen modifiée par la directive 2016/2370 du Parlement européen et du Conseil du 14 décembre 2016 en ce qui concerne l'ouverture du marché des services nationaux de transport de voyageurs par chemin de fer et la gouvernance de l'infrastructure ferroviaire.

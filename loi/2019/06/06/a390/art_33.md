@@ -1,0 +1,5 @@
+# Art. 33.
+
+(1) Les demandes visant à obtenir des capacités de l'infrastructure peuvent être introduites par les candidats. Afin d'utiliser ces capacités de l'infrastructure, les candidats désignent une entreprise ferroviaire pour conclure un accord avec l’Administration conformément à l’article 58. Les conditions régissant ces accords doivent être non discriminatoires et transparentes. Ceci s'entend sans préjudice du droit des candidats à conclure des accords avec l’Administration en vue de l’obtention de capacités de l’infrastructure.
+
+(2) L’Administration peut imposer aux candidats des règles afin d'assurer la sauvegarde de ses aspirations légitimes en ce qui concerne les recettes et l'utilisation futures de l'infrastructure. Ces règles sont appropriées, transparentes et non discriminatoires. Elles figurent dans le DRR. Elles ne peuvent porter que sur la fourniture d'une garantie financière ne dépassant pas un niveau approprié, proportionnel au niveau d'activité envisagé du candidat, et sur la capacité à présenter des offres conformes en vue de l'obtention de capacités de l'infrastructure.
