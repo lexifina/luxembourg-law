@@ -1,0 +1,3 @@
+# Art. 9.
+
+L’article 35 de la même loi est abrogé.
