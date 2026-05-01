@@ -1,0 +1,3 @@
+# Art. 13bis.
+
+Sera puni d’une amende de 25 à 250 euros celui qui empêche, lors d’inspections ou de contrôles inhérents à la sûreté ou à la sécurité aériennes, les agents visés à l’article 19bis de la loi modifiée du 19 mai 1999 ayant pour objet a) de réglementer l’accès au marché de l’assistance en escale à l’aéroport de Luxembourg, b) de créer un cadre réglementaire dans le domaine de la sûreté de l’aviation civile, et c) d’instituer une Direction de l’aviation civile, d’accéder dans les aérodromes ou leurs dépendances ainsi qu’à tout aéronef, ou qui refuse de présenter les documents ou les pièces exigés par les mêmes agents dans le cadre de leur mission d’inspection ou de contrôle.
