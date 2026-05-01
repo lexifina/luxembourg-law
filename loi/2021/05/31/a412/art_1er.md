@@ -1,0 +1,3 @@
+# Art. 1er. Autorité nationale compétente
+
+La Direction de l’aviation civile, ci-après « DAC », est l’autorité compétente au Grand-Duché de Luxembourg pour la certification et la supervision des personnes et organismes visés par le règlement (UE) n° 2015/340 de la Commission du 20 février 2015 déterminant les exigences techniques et les procédures administratives applicables aux licences et certificats de contrôleur de la circulation aérienne conformément au règlement (CE) n° 216/2008 du Parlement européen et du Conseil, modifiant le règlement d’exécution (UE) n° 923/2012 de la Commission et abrogeant le règlement (UE) n° 805/2011 de la Commission, ci-après « règlement (UE) n° 2015/340 ».
