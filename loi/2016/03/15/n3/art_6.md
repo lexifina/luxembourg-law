@@ -1,0 +1,7 @@
+# Art. 6.
+
+La loi modifiée du 13 juillet 2005 relative aux institutions de retraite professionnelle sous forme de société d’épargne-pension à capital variable (sepcav) et d’association d’épargne-pension (assep) est modifiée comme suit:
+
+- A l’article 77, le paragraphe 2 est remplacé par le paragraphe suivant: «(2) Le montant des actifs de couverture supplémentaires détenus doit être au moins égal au montant résultant de l’application des règles fixées en vertu de l’article 303 de la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice (solvabilité II).»;
+
+- A l’article 78, il est inséré à la fin de l’article un nouvel alinéa libellé comme suit: «La CSSF, en tenant compte de la nature, de l’ampleur et de la complexité des activités des fonds de pension, surveille l’adéquation des processus d’évaluation du crédit des fonds de pension, évalue l’utilisation de références à des notations de crédit émises par des agences de notation de crédit au sens de l’article 3, paragraphe 1er, point b), du règlement (CE) n° 1060/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur les agences de notation de crédit dans leurs politiques d’investissement et, le cas échéant, encourage l’atténuation des effets de telles références, en vue de réduire le recours exclusif et mécanique à de telles notations de crédit.».
