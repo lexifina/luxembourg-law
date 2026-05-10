@@ -1,0 +1,19 @@
+# Art. 64. Application de mesures de gestion de crise ou de mesures de prévention de crise prises par d’autres Etats membres
+
+(1) Lorsqu’un transfert d’actions, d’autres titres de propriété, ou d’actifs, de droits ou d’engagements opéré en vertu de la directive 2014/59/UE par l’autorité de résolution d’un autre Etat membre comprend des actifs situés au Luxembourg ou des droits ou engagements relevant du droit luxembourgeois, ce transfert produit ses effets au Luxembourg.
+
+(2) Le conseil de résolution prête à l’autorité de résolution d’un autre Etat membre visée au paragraphe 1er qui a procédé, ou entend procéder, au transfert, toute l’assistance raisonnablement nécessaire pour garantir que le transfert des actions ou autres titres de propriété ou des actifs, droits ou engagements à l’entité réceptrice respecte toutes les exigences applicables.
+
+(3) Les actionnaires, les créanciers et les tiers affectés par le transfert d’actions, d’autres titres de propriété, d’actifs, de droits ou d’engagements visé au paragraphe 1er ne peuvent pas empêcher, contester ou annuler le transfert en vertu de la loi luxembourgeoise ou de la loi applicable à ces actions, autres titres de propriété, droits ou engagements, sans préjudice du titre IV, chapitre IX de la directive 2014/59/UE.
+
+(4) Lorsque l’autorité de résolution d’un autre Etat membre exerce les pouvoirs de dépréciation ou de conversion, notamment à l’égard des instruments de fonds propres additionnels conformément à l’article 59 de la directive 2014/59/UE, et que les engagements utilisables pour un renflouement interne ou les instruments de fonds propres pertinents de l’établissement soumis à une procédure de résolution comprennent des instruments ou des engagements régis par le droit luxembourgeois ou des engagements envers des créanciers établis au Luxembourg, le montant du principal de ces engagements ou instruments est réduit, ou ces engagements ou instruments sont convertis, comme à la suite de l’exercice des pouvoirs de dépréciation ou de conversion par l’autorité de résolution de l’autre Etat membre.
+
+(5) Les créanciers affectés par l’exercice des pouvoirs de dépréciation ou de conversion visés au paragraphe 4 n’ont pas le droit, en vertu de la loi luxembourgeoise, de contester la réduction du montant du principal de l’instrument ou de l’engagement ou, selon le cas, la conversion de l’instrument ou de l’engagement, sans préjudice du titre IV, chapitre IX de la directive 2014/59/UE.
+
+(6) En cas de transfert d’actions, d’autres titres de propriété, ou d’actifs, de droits ou d’engagements comprenant des actifs situés dans un autre Etat membre ou des droits ou engagements relevant du droit d’un autre Etat membre, ou en cas d’exercice des pouvoirs de dépréciation ou de conversion, notamment à l’égard d’instruments de fonds propres additionnels conformément à l’article 57, et que les engagements éligibles ou les instruments de fonds propres pertinents de l’établissement soumis à une procédure de résolution comprennent des instruments ou des engagements régis par la législation d’un autre Etat membre ou des engagements envers des créanciers établis dans un autre Etat membre, les éléments suivants sont déterminés conformément à la loi luxembourgeoise :
+
+- 1. le droit des actionnaires, des créanciers et des tiers de contester le transfert, visé ci-dessus d’actions, d’autres titres de propriété, d’actifs, de droits ou d’engagements, en introduisant un recours en vertu de l’article 118 ;
+
+- 2. le droit des créanciers de contester la réduction du montant principal, ou la conversion, d’un instrument ou d’un engagement visé au paragraphe 4, en introduisant un recours en vertu de l’article 118 ;
+
+- 3. les mesures de sauvegarde visées au chapitre IX pour les transferts partiels d’actifs, de droits ou d’engagements susmentionnés.

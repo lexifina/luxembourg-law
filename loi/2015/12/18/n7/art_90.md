@@ -1,0 +1,19 @@
+# Art. 90. Collèges d’autorités de résolution européennes
+
+(1) Lorsqu’un établissement d’un pays tiers ou une entreprise mère d’un pays tiers compte des filiales établies dans l’Union européenne ou des entreprises mères dans l’Union européenne, établies dans deux Etats membres ou plus, ou deux succursales de l’Union européenne ou plus considérées comme d’importance significative par deux Etats membres ou plus, et si au moins une de ces entreprises mères, filiales ou succursales est établie ou située au Luxembourg, le conseil de résolution et les autorités de résolution des Etats membres où sont établies ces entités de l’Union européenne, ou où sont situées ces succursales d’importance significative, instaurent un collège d’autorités de résolution européennes.
+
+(2) Le collège d’autorités de résolution européennes visé au paragraphe 1er assume les fonctions et effectue les tâches visées à l’article 88 de la directive 2014/59/UE à l’égard des entités visées au paragraphe 1er et, dans la mesure où ces tâches sont pertinentes, à l’égard de leurs succursales.
+
+Les tâches visées à l’alinéa 1er comprennent la définition de l’exigence visée aux articles 46 à 46-10.
+
+Lorsque l’exigence visée aux articles 46 à 46-10 est définie, le conseil de résolution veille à ce que les membres du collège d’autorités de résolution européennes tiennent compte de la stratégie de résolution globale éventuellement adoptée par les autorités des pays tiers.
+
+Lorsque, conformément à la stratégie de résolution globale, les filiales établies dans l’Union européenne ou une entreprise mère dans l’Union européenne et ses établissements filiales ne sont pas des entités de résolution et que les membres du collège d’autorités de résolution européennes acceptent cette stratégie, les filiales établies au Luxembourg ou, sur une base consolidée, l’entreprise mère dans l’Union européenne établie au Luxembourg se conforment à l’exigence visée à l’article 46-6, paragraphe 1er, en émettant des instruments visés à l’article 46-6, paragraphe 2, points 1. et 2., en faveur de leur entreprise mère ultime établie dans un pays tiers, ou les filiales de l’entreprise mère ultime établies dans le même pays tiers ou d’autres entités conformément aux conditions énoncées à l’article 46-6, paragraphe 2, point 1., lettre a), et point 2., lettre b).
+
+(3) Lorsqu’une seule entreprise mère dans l’Union européenne établie au Luxembourg détient toutes les filiales de l’Union européenne d’un établissement de pays tiers ou d’une entreprise mère d’un pays tiers, le collège d’autorités de résolution européennes est présidé par le conseil de résolution.
+
+Lorsque l’article 89, paragraphe 3, alinéa 1er, de la directive 2014/59/UE ne s’applique pas, le conseil de résolution préside le collège d’autorités de résolution européennes lorsqu’il est l’autorité de résolution de l’entreprise mère dans l’Union européenne ou de la filiale de l’Union européenne dont le total des actifs inscrits au bilan a la valeur la plus élevée.
+
+(4) Le conseil de résolution peut marquer son accord à une exemption de l’exigence d’instaurer un collège d’autorités de résolution européennes si d’autres groupes ou collèges, assument les mêmes fonctions et effectuent les mêmes tâches que celles visées au présent article et respectent toutes les conditions et procédures, y compris celles couvrant la qualité de membre et la participation à des collèges d’autorités de résolution européennes, établies au présent article et à l’article 91. Dans ce cas, toutes les références aux collèges d’autorités de résolution européennes figurant dans la présente partie s’entendent également comme des références à ces autres groupes ou collèges.
+
+(5) Sous réserve des paragraphes 3 et 4, les collèges d’autorités de résolution européennes fonctionnent par ailleurs conformément aux articles 88 et 89.
