@@ -1,0 +1,5 @@
+# Art. 83. Accès au génie civil
+
+(1) L’ILR peut, conformément à l’article 79, imposer des obligations aux entreprises pour satisfaire les demandes raisonnables visant à obtenir l’accès au génie civil et à pouvoir utiliser celui-ci, y compris, mais pas uniquement, les bâtiments ou les accès aux bâtiments, le câblage des bâtiments, les antennes, les tours et autres constructions de soutènement, les poteaux, les pylônes, les gaines, les conduites, les chambres de visite, les regards de visite et les armoires, lorsque, ayant étudié l’analyse de marché, l’ILR considère qu’un refus d’octroi de l’accès ou des conditions d’accès déraisonnables ayant un effet similaire empêcheraient l’émergence d’un marché concurrentiel durable et ne serviraient pas les intérêts de l’utilisateur final.
+
+(2) L’ILR peut imposer à une entreprise des obligations en matière de fourniture d’accès conformément au présent article, que les actifs touchés par les obligations fassent ou non partie du marché pertinent selon l’analyse de marché, à condition que lesdites obligations soient proportionnées et nécessaires pour atteindre les objectifs énoncés à l’article 3.

@@ -1,0 +1,9 @@
+# Art. 16. Conditions de l’autorisation générale et des droits d’utilisation du spectre radioélectrique et des ressources de numérotation, et obligations spécifiques
+
+(1) L’autorisation générale s’appliquant à la fourniture de réseaux ou de services de communications électroniques et les droits d’utilisation du spectre radioélectrique et des ressources de numérotation sont soumis uniquement aux obligations énumérées à l’article 19. Ces conditions sont non discriminatoires, proportionnées et transparentes. Dans le cas des droits d’utilisation du spectre radioélectrique, ces conditions garantissent l’utilisation efficace et efficiente du spectre radioélectrique et sont conformes aux articles 56 et 62 et, dans le cas des droits d’utilisation des ressources de numérotation, ces conditions sont conformes à l’article 106.
+
+(2) Les obligations spécifiques qui peuvent être imposées aux entreprises fournissant des réseaux et des services de communications électroniques au titre de l’article 72, paragraphes 1er et 5, et des articles 73, 79 et 94, ou aux fournisseurs désignés pour fournir un service universel au titre de la présente loi, sont distinctes sur le plan juridique des obligations et des droits dans le cadre de l’autorisation générale. Afin de garantir la transparence, les critères et les procédures applicables pour imposer ces obligations spécifiques à des entreprises individuelles figurent dans l’autorisation générale.
+
+(3) L’autorisation générale comprend uniquement les obligations qui sont spécifiques au secteur concerné et qui sont mentionnées à l’article 19, paragraphes 1er à 3, et ne duplique pas les conditions qui sont applicables aux entreprises en vertu d’un autre droit national.
+
+(4) Les obligations de l’autorisation générale ne sont pas dupliquées lors de l’octroi des droits d’utilisation du spectre radioélectrique ou des ressources de numérotation.

@@ -1,0 +1,9 @@
+# Art. 23. Restriction ou retrait de droits
+
+(1) Sans préjudice de l’article 34, paragraphes 5 et 6, les droits afférents à la mise en place de ressources ou des droits d’utilisation du spectre radioélectrique ou des ressources de numérotation ne sont ni restreints ni retirés avant l’expiration de la période pour laquelle ils ont été octroyés, sauf dans des cas justifiés en application du paragraphe 2 du présent article et, s’il y a lieu, conformément à l’article 19, et en application des dispositions applicables en matière d’indemnisation pour le retrait de droits.
+
+(2) Compte tenu de la nécessité d’assurer l’utilisation efficace et efficiente du spectre radioélectrique ou la mise en œuvre des mesures techniques d’application adoptées au titre de l’article 4 de la décision n° 676/2002/CE , le ministre peut procéder à la restriction ou au retrait de droits d’utilisation du spectre radioélectrique, y compris des droits visés à l’article 60 de la présente loi, en vertu de l’article 9 de la loi modifiée du 30 mai 2005 portant organisation de la gestion des ondes radioélectriques dans le respect des principes de proportionnalité et de non-discrimination. Dans de tels cas, les titulaires des droits peuvent, le cas échéant, être indemnisés de manière appropriée.
+
+(3) Une modification dans l’utilisation du spectre radioélectrique résultant de l’application de l’article 56, paragraphe 4 ou 5, ne constitue pas en soi un motif qui justifie le retrait d’un droit d’utilisation du spectre radioélectrique.
+
+(4) Tout projet tendant à restreindre ou à retirer des droits prévus dans le cadre de l’autorisation générale ou des droits d’utilisation individuels du spectre radioélectrique ou des ressources de numérotation sans le consentement du titulaire des droits fait l’objet d’une consultation des parties intéressées conformément à l’article 27.

@@ -1,0 +1,9 @@
+# Art. 27. Mécanisme de consultation et de transparence
+
+(1) Sauf dans les cas relevant des articles 30 ou 31 ou 35, paragraphe 10, l’ILR ou les autres autorités compétentes, lorsqu’elles ont l’intention de prendre des mesures conformément à la présente loi ou entendent prévoir des restrictions conformément à l’article 56, paragraphes 4 et 5, ayant des incidences importantes sur le marché pertinent, donnent aux parties intéressées la possibilité de présenter leurs observations sur le projet de mesures dans un délai raisonnable, compte tenu de la complexité du dossier, et en tout état de cause dans un délai d’au moins trente jours, sauf dans des circonstances exceptionnelles.
+
+À cette fin, l’ILR met en place une procédure de consultation qu’il publie au Journal officiel du Grand-Duché de Luxembourg et sur son site Internet qui fournit aussi, sauf s’il s’agit d’informations confidentielles, les informations concernant les consultations en cours et les résultats des consultations passées.
+
+(2) Aux fins de l’article 37, l’ILR informe le RSPG, au moment de la publication, de tout projet de mesure qui relève de la procédure de sélection comparative ou concurrentielle en vertu de l’article 66, paragraphe 2, et qui a trait à l’utilisation du spectre radioélectrique pour lequel des conditions harmonisées ont été établies par des mesures techniques d’application conformément à la décision n° 676/2002/CE afin de permettre son utilisation pour des réseaux et des services de communications électroniques à haut débit sans fil (ci-après dénommés « réseaux et services à haut débit sans fil »).
+
+(3) Les résultats de la procédure de consultation sont rendus publics, sauf s’il s’agit d’informations confidentielles conformément aux règles de l’Union européenne ou aux règles nationales sur la confidentialité des informations commerciales.

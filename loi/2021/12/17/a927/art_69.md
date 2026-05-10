@@ -1,0 +1,3 @@
+# Art. 69. Règles techniques concernant les champs électromagnétiques
+
+Les procédures prévues dans la directive (UE) 2015/1535 du Parlement européen et du Conseil du 9 septembre 2015 prévoyant une procédure d’information dans le domaine des réglementations techniques et des règles relatives aux services de la société de l’information s’appliquent à tout projet de mesure qui imposerait au déploiement de points d’accès sans fil à portée limitée des exigences concernant les champs électromagnétiques autres que celles prévues dans la recommandation 1999/519/CE du Conseil du 12 juillet 1999 relative à la limitation de l’exposition du public aux champs électromagnétiques (de 0 Hz à 300 GHz).

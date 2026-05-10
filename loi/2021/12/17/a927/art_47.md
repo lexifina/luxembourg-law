@@ -1,0 +1,11 @@
+# Art. 47. Domaines publics, ferroviaires et routiers
+
+(1) Les autorités gestionnaires des domaines publics autres que les domaines routiers de l’État et des communes et le domaine ferroviaire, lorsqu’elles donnent accès à des entreprises, le font sous la forme de convention, dans des conditions transparentes et non discriminatoires et dans toute la mesure où cette occupation n’est pas incompatible avec l’affectation ou avec les capacités disponibles des domaines visés. La convention ne peut contenir de dispositions relatives aux conditions commerciales de l’exploitation. Copie de la convention est transmise par l’entreprise à l’ILR endéans le mois qui suit sa mise en vigueur.
+
+(2) Le passage par les domaines routiers de l’État et des communes et le domaine ferroviaire fait l’objet d’une permission de voirie délivrée par l’autorité compétente suivant la nature de la voie empruntée et dans les conditions fixées par règlement grand-ducal.
+
+(3) Pour le passage par les domaines, l’autorité concernée ne peut imposer à l’opérateur aucun impôt, taxe, péage, rétribution ou indemnité, de quelque nature que ce soit. L’opérateur détient en outre un droit de passage gratuit pour les infrastructures et ressources associées dans les ouvrages publics situés dans les domaines publics de l’État et des communes.
+
+(4) Les autorités publiques responsables pour l’établissement des conventions ou des permissions de voirie prennent leurs décisions dans un délai de six mois suivant la demande. Le silence des autorités dans le délai imparti vaut accord et une déclaration de l’entreprise à l’ILR se substitue à la convention visée au paragraphe 1er.
+
+(5) Les autorités publiques ou locales qui exploitent, sont propriétaires ou contrôlent des entreprises exploitant des réseaux publics de communications électroniques ou des services de communications électroniques accessibles au public notifient cette activité à l’ILR et instaurent une séparation structurelle effective entre la fonction responsable de l’octroi des droits de passage et les activités associées à la propriété et au contrôle. La séparation structurelle effective fait l’objet d’un contrôle par l’ILR qui en publie les résultats sur son site Internet.
