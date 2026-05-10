@@ -1,0 +1,3 @@
+# Art. 10.
+
+L’article 1326 du Code civil est modifié comme suit: L’acte juridique par lequel une seule partie s’engage envers une autre à lui payer une somme d’argent ou à lui livrer un bien fongible doit être constaté dans un titre qui comporte la signature de celui qui souscrit cet engagement ainsi que la mention de la somme ou de la quantité en toutes lettres. Cette mention doit être écrite de sa main ou être revêtue spécifiquement d’une signature électronique; si elle est indiquée également en chiffres, en cas de différence, l’acte sous seing privé vaut pour la somme écrite en toutes lettres, à moins qu’il ne soit prouvé de quel côté est l’erreur.

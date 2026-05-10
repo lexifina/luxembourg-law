@@ -1,0 +1,5 @@
+# Art. 13.
+
+L’article 1334 du Code civil est inséré au paragraphe III et est remplacé par la disposition suivante:
+
+«Lorsque le titre original ou l’acte faisant foi d’original au sens de l’article 1322-2 n’existe plus, les copies effectuées à partir de celui-ci, sous la responsabilité de la personne qui en a la garde, ont la même valeur probante que les écrits sous seing privé dont elles sont présumées, sauf preuve contraire, être une copie fidèle lorsqu’elles ont été réalisées dans le cadre d’une méthode de gestion régulièrement suivie et qu’elles répondent aux conditions fixées par règlement grand-ducal.»
