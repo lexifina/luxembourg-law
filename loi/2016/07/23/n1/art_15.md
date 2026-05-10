@@ -1,0 +1,5 @@
+# Art. 15.
+
+(1) Les fonctionnaires et employés visés à l'article 11 et relevant de la rubrique «Administration générale» telle qu'énoncée à l'article 12 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État, en service auprès du Haut-Commissariat à la Protection nationale au moment de l'entrée en vigueur de la présente loi, sont intégrés dans le cadre du personnel du Haut-Commissariat à la Protection nationale aux grade et échelon atteints au moment de l'entrée en vigueur de la présente loi.
+
+(2) Les fonctionnaires détachés au Haut-Commissariat à la Protection nationale au moment de la mise en vigueur de la présente loi, intégrés dans le cadre du personnel du Haut-Commissariat à la Protection nationale, et qui d'après la législation en vigueur dans leur service d'origine au moment de leur détachement avaient une perspective de carrière plus favorable pour l'accès aux différentes fonctions de leur carrière, conservent leurs anciennes possibilités d'avancement.

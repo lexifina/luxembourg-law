@@ -1,0 +1,3 @@
+# Art. 21.
+
+Au livre Ier, titre III, chapitre III, article 8 (1) de la loi modifiée du 25 juin 2009 sur les marchés publics, il est ajouté in fine un point I): pour les marchés de la protection nationale: pour les fournitures ou services qui sont déclarés secrets; pour les fournitures ou services nécessaires à la protection des intérêts vitaux ou des besoins essentiels de tout ou partie du pays ou de la population, et en particulier les fournitures ou services relatifs à la prévention et la gestion de crises; pour les fournitures d'effets d'équipement et de matériel d'intervention ainsi que d'effets personnels de protection et de sécurité des membres des unités d'intervention.
