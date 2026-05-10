@@ -1,0 +1,3 @@
+# Art. 6.
+
+Le Haut-Commissariat à la Protection nationale est l’autorité compétente chargée de la gestion des incidents de cybersécurité majeurs et des crises, ci-après « autorité de gestion des crises cyber » et représente le Grand-Duché de Luxembourg au sein du réseau européen pour la préparation et la gestion des crises cyber, dénommé « EU-CyCLONe », institué par l’article 16 de la directive (UE) 2022/2555 du Parlement européen et du Conseil du 14 décembre 2022 concernant des mesures destinées à assurer un niveau élevé commun de cybersécurité dans l’ensemble de l’Union, modifiant le règlement (UE) n° 910/2014 et la directive (UE) 2018/1972, et abrogeant la directive (UE) 2016/1148 (directive SRI 2).
