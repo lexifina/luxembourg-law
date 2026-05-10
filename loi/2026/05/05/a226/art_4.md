@@ -1,0 +1,3 @@
+# Art. 4.
+
+Le Haut-Commissariat à la Protection nationale constitue le point de contact national unique chargé d’exercer une fonction de liaison afin d’assurer la coopération transfrontière avec les points de contact uniques des autres États membres de l’Union européenne et avec le groupe sur la résilience des entités critiques visé à l’article 19 de la directive (UE) 2022/2557 du Parlement européen et du Conseil du 14 décembre 2022 sur la résilience des entités critiques, et abrogeant la directive 2008/114/CE du Conseil. En outre, le point de contact national unique exerce une fonction de liaison avec la Commission européenne et assure la coopération avec les pays tiers.
