@@ -1,0 +1,5 @@
+# Art. 4ter.
+
+Lorsque les performances du fonctionnaire sont insuffisantes , le chef d’administration déclenche la procédure d’amélioration des performances professionnelles. Au début de cette procédure, un programme d’appui d’une durée maximale d’une année est établi afin d’aider le fonctionnaire à retrouver le niveau de performance requis.
+
+A la fin du programme d’appui, un rapport d’amélioration des performances professionnelles est établi par le chef d’administration. L’appréciation des performances du fonctionnaire est faite sur base des critères d’appréciation suivants : 1° la pratique professionnelle comprenant les compétences techniques et les compétences comportementales qui sont définies dans la description de fonction, 2° la réalisation du plan de travail individuel. Si les performances du fonctionnaire sont suffisantes , la procédure est arrêtée. Si les performances du fonctionnaire sont insuffisantes , la procédure d’insuffisance professionnelle prévue à l’article 42 est déclenchée.

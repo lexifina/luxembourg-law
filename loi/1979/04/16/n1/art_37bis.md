@@ -1,0 +1,9 @@
+# Art. 37bis.
+
+Lorsqu’au cours d’une période de douze mois un fonctionnaire a été absent pour cause de maladie pendant six mois consécutifs ou non, le ministre du ressort saisit le médecin de contrôle pour examiner le fonctionnaire et vérifier si le fonctionnaire est susceptible de présenter une incapacité pour exercer ses fonctions. Sont mises en compte pour une journée entière toutes les journées d’absences pour cause de maladie, même si ces absences ne couvrent pas des journées entières.
+
+Si le médecin de contrôle estime que les conditions d’invalidité pour l’ouverture d’un droit à une pension d’invalidité paraissent remplies, le ministre du ressort traduit le fonctionnaire devant la commission des pensions prévue par la législation relative aux pensions des fonctionnaires de l’Etat. Dans la même hypothèse et en présence d’une demande expresse y relative du ministre du ressort au moment de la saisine du médecin de contrôle, celui-ci transmet le dossier directement à la commission des pensions. Il en est de même lorsque le fonctionnaire refuse de se laisser examiner par le médecin de contrôle.
+
+Au cas où le médecin de contrôle estime justifiées les absences de service à temps plein ou partiel pour cause de maladie ayant déclenché la présente procédure, la prolongation ultérieure de ces congés se fait sous le contrôle et l’autorité de ce médecin. Le fonctionnaire doit se soumettre aux examens périodiques prescrits. Les congés de maladie ainsi accordés ne peuvent pas dépasser la période de six mois à compter de la première intervention du médecin de contrôle.
+
+Si à la fin du dernier de ces congés ainsi accordés, et au plus tard à l’expiration de la période visée à l’alinéa 3, le médecin de contrôle estime que le fonctionnaire n’est toujours pas rétabli, il transmet le dossier à la commission des pensions.
