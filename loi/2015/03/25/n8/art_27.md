@@ -1,0 +1,3 @@
+# Art. 27.
+
+L’employé de l’Etat qui est engagé au service de l’Etat sur la base d’un nouveau contrat de travail conserve son indemnité de base et son ancienneté de service acquise avant son nouvel engagement sous condition que les deux contrats se succèdent sans interruption et pour autant que cet engagement se fait dans le même groupe d’indemnité, le même sous-groupe d’indemnité et le même grade. Cette disposition s’applique également en cas d’interruption qui ne dépasse pas une période égale au tiers de la durée de l’engagement précédent, renouvellements compris, pour autant que cette interruption ne dépasse cependant pas la durée de huit mois. Il en est de même pour l’employé d’une commune qui est engagé au service de l’Etat.

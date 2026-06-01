@@ -1,0 +1,5 @@
+# Art. 53.
+
+Un règlement grand-ducal peut accorder, sans créer un droit en faveur des intéressés et dans les limites déterminées par les crédits budgétaires et les dispositions du régime de pension des fonctionnaires de l’Etat, des suppléments de pension en faveur des employés mis à la retraite sans avoir pu bénéficier des dispositions de l’article 8 et de leurs survivants, des survivants des employés décédés dans les mêmes conditions, des employés mis à la retraite avant l’entrée en vigueur de la loi du 27 janvier 1972 fixant le régime des employés de l’Etat et de leurs survivants et des survivants des employés décédés avant l’entrée en vigueur de la loi précitée.
+
+Toutefois, le total du supplément et des prestations d’autres régimes de pension luxembourgeois et étrangers ne peut dépasser la pension qui serait due si l’ensemble des périodes d’assurance accomplies par l’employé sous les régimes luxembourgeois et étrangers était pris en considération pour la fixation d’une pension de l’Etat.

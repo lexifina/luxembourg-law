@@ -1,0 +1,7 @@
+# Art. 52.
+
+(1) Les secrétaires personnels des membres du Gouvernement relevant du sous-groupe visé au paragraphe 3 de l’article 45 bénéficient d’un supplément de rémunération de trente-deux points indiciaires. Les secrétaires personnels des membres du Gouvernement relevant du sous-groupe visé au paragraphe 4 de l’article 46 bénéficient d’un supplément de rémunération de vingt-sept points indiciaires.
+
+(2) Le secrétaire repris par un service administratif dès la cessation de son emploi est classé, à partir de la date du déplacement, dans le groupe d’indemnité de la catégorie qui correspond à son degré d’études, les années de service antérieures à cette date et prestées sans interruption en qualité d’employé de l’Etat étant mises en compte pour l’application des délais d’avancement en grade et en échelon prévus dans son nouveau groupe d’indemnité. Il bénéficie, en vue de ces avancements, d’une dispense de l’application de l’article 20 et de l’examen de carrière . Lorsque, à la date du déplacement, la nouvelle indemnité de l’employé est inférieure à celle dont il jouissait dans son ancien groupe d’indemnité, il conservera l’ancienne indemnité aussi longtemps qu’elle est plus élevée.
+
+(3) Dans le cas et pendant la période où dans un département ministériel le poste de secrétaire personnel d’un membre du Gouvernement reste inoccupé, il peut être pourvu à un poste supplémentaire de secrétaire de direction sur la base de l’article 50 et l’employé désigné à ce poste peut bénéficier du supplément de rémunération respectif pendant la période en question.
