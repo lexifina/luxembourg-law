@@ -1,0 +1,7 @@
+# Art. 28. ( L. 16 juin 1989 )
+
+(1) Le juge d'instruction ne peut informer qu'après avoir été saisi par un réquisitoire du procureur d'Etat ou par une plainte avec constitution de partie civile, dans les conditions prévues aux articles 50 et 57.
+
+(2) En cas de crimes ou délits flagrants, il exerce les pouvoirs qui lui sont attribués par l'article 42.
+
+(3) Le juge d'instruction a, dans l'exercice de ses fonctions, le droit de requérir directement la force publique.
