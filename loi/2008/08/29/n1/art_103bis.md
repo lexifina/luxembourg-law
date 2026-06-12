@@ -1,0 +1,3 @@
+# Art. 103bis.
+
+Lorsque, après avoir pris connaissance de déclarations générales ou de tout autre élément pertinent, le ministre a des doutes quant à l’âge du ressortissant de pays tiers se déclarant mineur et dépourvu de documents d’identité ou de voyage valables, il peut recueillir toutes les informations disponibles et tenir compte de tout document officiel disponible, dont les actes de naissance, les dossiers scolaires, les dossiers médicaux ou l’estimation par un médecin sous forme d’un examen médical afin de déterminer l’âge du ressortissant de pays tiers. Si, par la suite, des doutes sur l’âge du ressortissant de pays tiers persistent, il est présumé que le ressortissant de pays tiers est un mineur.

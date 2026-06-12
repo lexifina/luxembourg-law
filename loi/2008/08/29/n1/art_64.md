@@ -1,0 +1,11 @@
+# Art. 64.
+
+(1) Le ministre vérifie si le ressortissant de pays tiers satisfait aux conditions énoncées à l’article 63, paragraphe (1). Il peut en outre vérifier les modalités sur la base desquelles la convention d’accueil a été conclue.
+
+Le plus rapidement possible et au plus tard dans les soixante jours suivant la date de l’introduction de la demande complète en obtention de l’autorisation de séjour, le ministre notifie sa décision par écrit au demandeur.
+
+Si les informations ou les documents fournis à l’appui de la demande sont incomplets, le ministre précise au demandeur, dans un délai raisonnable, quelles informations complémentaires sont requises et fixe un délai raisonnable au demandeur pour la communication de celles-ci. Le délai visé à l’alinéa premier est suspendu jusqu’à la réception des renseignements ou documents requis dans le délai imparti pour les fournir. Si les renseignements ou les documents complémentaires n’ont pas été fournis dans les délais, la demande est rejetée.
+
+(2) Le ressortissant de pays tiers autorisé au séjour en vertu de l’article 63, se voit délivrer conformément à l’article 40, un titre de séjour pour «chercheur» valable pour la durée d’un an, sinon pour la durée de l’activité de recherche , et renouvelable tant que les conditions d’obtention restent remplies.
+
+La durée du titre de séjour délivré aux chercheurs relevant d’un programme de l’Union ou d’un programme multilatéral comportant des mesures de mobilité est d’au moins deux ans ou égale à la durée de la convention d’accueil ou du contrat de travail si celle-ci est plus courte, tant que les conditions prévues à l’article 63 sont remplies pour toute la durée.

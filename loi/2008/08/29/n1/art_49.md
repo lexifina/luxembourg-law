@@ -1,0 +1,7 @@
+# Art. 49.
+
+(1) Par dérogation à l’article 48, et sous réserve des dispositions applicables en matière de détachement de travailleurs conformément aux dispositions du Code du travail, l’entreprise établie dans un autre Etat membre de l’Union, un autre Etat partie à l’Accord sur l’Espace économique européen ou la Confédération suisse peut, dans le cadre d’une prestation de services, détacher librement ses travailleurs salariés, quelle que soit leur nationalité, sur le territoire luxembourgeois, du moment que les travailleurs détachés ont pendant la durée du détachement, le droit de travailler et de séjourner dans le pays dans lequel l’entreprise d’envoi est établie.
+
+(2) Pour autant que la libre circulation des travailleurs salariés se trouve restreinte par le biais de dispositions transitoires adoptées dans le cadre des Traités d’adhésion actuels ou futurs, il ne peut être recouru à la libre prestation de services consistant dans la mise à disposition de main-d’oeuvre par le biais d’entreprises de travail intérimaire dans le but de déjouer la restriction à la libre circulation des travailleurs salariés au sein de l’Union européenne.
+
+(3) Pour une prestation supérieure à trois mois, le travailleur salarié bénéficie de plein droit d’un titre de séjour portant la mention «travailleur salarié d’un prestataire de services communautaire», complétée des nom et raison sociale du prestataire et du destinataire de service au Grand-Duché de Luxembourg.

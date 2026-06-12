@@ -1,0 +1,3 @@
+# Art. 91.
+
+Par application de l’article 38, le ministre, sur avis motivé du médecin délégué visé à l’article 28, peut accorder une autorisation de séjour pour raisons médicales au ressortissant de pays tiers qui remplit les conditions définies à l’article 90. Le ressortissant de pays tiers qui satisfait à ces conditions se voit délivrer un titre de séjour avec la mention «vie privée», valable pour la durée du traitement médical, sinon pour une durée maximale d’un an, renouvelable le cas échéant, sur demande, après réexamen de sa situation et tant qu’il continue à remplir les conditions définies à l’article 90.

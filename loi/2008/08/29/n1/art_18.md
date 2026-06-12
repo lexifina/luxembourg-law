@@ -1,0 +1,3 @@
+# Art. 18.
+
+Les membres de famille qui remplissent les conditions visées à l’article 17, paragraphe (1) et paragraphe (3) acquièrent un droit de séjour permanent après avoir séjourné légalement, de façon continue pendant cinq ans sur le territoire. Avant l’acquisition du droit de séjour permanent, le droit de séjour des intéressés reste soumis à l’obligation de pouvoir démontrer qu’ils sont travailleurs salariés ou indépendants ou qu’ils disposent de ressources suffisantes pour ne pas devenir une charge pour le système d’assistance sociale pendant la durée de leur séjour, et qu’ils sont entièrement couverts par une assurance maladie au Grand-Duché de Luxembourg, ou qu’ils sont membres de la famille déjà constituée au pays, d’une personne répondant à ces exigences.
