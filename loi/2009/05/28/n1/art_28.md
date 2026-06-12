@@ -1,0 +1,3 @@
+# Art. 28.
+
+Pour assurer le service médical et les soins spéciaux à dispenser au sein du Centre, le ministre ayant l’Immigration dans ses attributions peut prendre recours à des médecins et des experts autorisés à exercer les professions de santé requises, qu’ils soient établis en profession libérale ou attachés à des organismes publics ou privés. Les prestations de ces spécialistes sont rémunérées, s’il s’agit de professionnels établis à leur propre compte, suivant vacation horaire à déterminer par le ministre ayant la Santé dans ses attributions, et, s’il s’agit de professionnels engagés par des établissements publics ou privés, par forfait à négocier avec ces établissements.

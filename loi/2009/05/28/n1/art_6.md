@@ -1,0 +1,9 @@
+# Art. 6.
+
+(1) Le Centre est divisé en plusieurs unités dont une bénéficiant de mesures de sécurité et de surveillance accrues spécifiquement réservée aux retenus ayant un comportement à risque. En règle générale, les demandeurs d’une protection internationale placés en rétention sont séparés des autres ressortissants de pays tiers qui n’ont pas introduit de demande de protection internationale.
+
+(2) Les retenus de sexe opposé sont séparés, à moins qu’il ne s’agisse de membres de famille et que toutes les personnes concernées y consentent.
+
+(3) Les personnes ou familles accompagnées de mineurs d’âge placées au Centre en vue de leur éloignement séjournent dans une unité distincte qui leur est réservée. La durée de leur placement ne peut excéder sept jours.
+
+(4) Les mineurs non accompagnés, âgés d’au moins seize ans et présentant un danger pour l’ordre public ou la sécurité nationale, placés au Centre en vertu des dispositions de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou de la loi du 11 juin 2026 portant mise en œuvre du pacte européen sur la migration et l’asile sont hébergés séparément des adultes dans une unité adaptée à leur prise en charge et encadrés par du personnel qualifié disposant d’une formation appropriée aux droits et aux besoins des mineurs conformément aux dispositions de l’article 30 de la loi du 11 juin 2026 portant mise en œuvre du pacte européen sur la migration et l’asile. Par dérogation au paragraphe 3, la durée de leur placement est déterminée par l’article 120, paragraphe 3, alinéa 3, de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, et l’article 34, paragraphe 4, alinéa 3, de la loi du 11 juin 2026 portant mise en œuvre du pacte européen sur la migration et l’asile.
