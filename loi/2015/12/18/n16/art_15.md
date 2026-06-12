@@ -1,3 +1,0 @@
-# Art. 15.
-
-Le directeur tient compte des besoins particuliers en matière d’accueil des personnes vulnérables telles que les mineurs, les mineurs non accompagnés, les handicapés, les personnes âgées, les femmes enceintes, les parents isolés accompagnés d’enfants mineurs, les victimes de la traite des êtres humains, les personnes ayant des maladies graves, les personnes souffrant de troubles mentaux et les personnes qui ont subi des tortures, des viols ou d’autres formes graves de violence psychologique, physique ou sexuelle, et plus particulièrement les victimes de mutilation génitale féminine.

@@ -1,3 +1,0 @@
-# Art. 28.
-
-La première phrase de l’alinéa 4 de l’article 37-1 de la loi modifiée du 10 août 1991 sur la profession d’avocat est modifiée comme suit: Le bénéfice de l’assistance judiciaire peut également être accordé à tout autre ressortissant étranger dont les ressources sont insuffisantes: pour les procédures d’accès au territoire, de séjour, d’établissement et d’éloignement des étrangers; pour les procédures relatives aux demandes de protection internationale dans les limites de l’article 17 de la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire; pour la procédure relative à la limitation ou le retrait des conditions matérielles d’accueil de la présente loi.
