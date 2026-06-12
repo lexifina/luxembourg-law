@@ -1,0 +1,5 @@
+# Art. 44.
+
+(1) En cas de refus ou de retrait total ou partiel du bénéfice de l’assistance judiciaire, en cas d’admission à l’assistance judiciaire partielle, en cas de modification du régime de l’assistance judiciaire applicable suite au changement de la situation financière de son bénéficiaire ainsi qu’en cas de décision de refus prise suite à une demande de changement d’avocat les motifs de la décision sont indiqués.
+
+(2) Contre les décisions de refus, de retrait du bénéfice de l’assistance judiciaire, d’admission à l’assistance judiciaire partielle, de modification du régime de l’assistance judiciaire applicable ou de refus de changement d’avocat prises par le bâtonnier, le requérant peut introduire une action devant le juge de paix qui statue en dernier ressort. Cette action doit être formée, à peine de déchéance, dans un délai d’un mois à partir de la notification de la décision du bâtonnier. Elle est introduite, instruite et jugée conformément à la procédure prévue à l’article 45.

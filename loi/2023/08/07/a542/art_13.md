@@ -1,0 +1,11 @@
+# Art. 13.
+
+(1) Le ministre de la Justice est l’autorité compétente pour l’expédition, vers l’autorité réceptrice compétente d’un autre État membre de l’Union européenne, des demandes d’aide judiciaire, en matière civile ou commerciale, formulées par des personnes physiques qui ont leur domicile ou résidence habituelle au Grand-Duché de Luxembourg. Si ces personnes demandent à bénéficier d’une assistance judiciaire au Grand-Duché de Luxembourg pour bénéficier de conseils précontentieux en préparation du dossier de la demande d’aide judiciaire destinées à l’étranger, le bâtonnier de l’Ordre des avocats compétent est saisi de cette demande et procède conformément aux dispositions de la présente loi.
+
+Les frais de la traduction des demandes d’aide judiciaire destinées à être présentées dans un autre État membre de l’Union européenne ainsi que des documents connexes nécessaires à la présentation de cette demande sont pris en charge par l’État.
+
+Le ministre de la Justice peut refuser de traduire et de transmettre à l’autorité réceptrice compétente le dossier d’une demande d’aide judiciaire qui est manifestement non fondée ou ne vise pas une procédure en matière civile ou commerciale dans un autre État membre de l’Union européenne.
+
+(2) Le ministre de la Justice est l’autorité compétente pour la réception des demandes d’aide judiciaire visant une procédure en matière civile ou commerciale au Grand-Duché de Luxembourg, formulées par des personnes physiques qui sont en situation régulière de séjour dans un autre État membre de l’Union européenne. Le ministre de la Justice assure la transmission de ces demandes au bâtonnier de l’Ordre des avocats compétent qui procède conformément aux dispositions de la présente loi.
+
+Aucune légalisation ou formalité analogue ne sera demandée par l’autorité réceptrice pour les documents connexes à une demande d’aide judiciaire qui sont transmis par l’autorité expéditrice compétente conformément à la directive 2003/8/CE du Conseil du 27 janvier 2003 visant à améliorer l’accès à la justice dans les affaires transfrontalières par l’établissement de règles minimales communes relatives à l’aide judiciaire accordée dans le cadre de telles affaires.
