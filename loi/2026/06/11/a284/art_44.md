@@ -1,0 +1,5 @@
+# Art. 44.
+
+L’article 1er, alinéa 2, l’article 2, lettres a), b), c), d), e), h), i), j), l), n), o), q), les articles 3 à 5, l’article 6, paragraphes 1er et 2, l’article 8, l’article 9, paragraphe 1er, paragraphe 2, lettres a) et c) et paragraphe 3, les articles 10 et 11, l’article 12, paragraphes 1er à 3 et paragraphe 5, les articles 13 à 21, l’article 23, paragraphes 1er à 3, les articles 24 et 25, l’article 26, paragraphe 1er, alinéas 1er et 3, et paragraphes 2 à 4, l’article 27, l’article 28, paragraphe 2, les articles 29 à 31, l’article 32, paragraphes 1er à 4, et les articles 33 à 36 de la loi modifiée du 18 décembre 2015 relative à la protection internationale et à la protection temporaire restent applicables aux demandes de protection internationales introduites avant le 12 juin 2026 et dont l’instruction est pendante, ainsi qu’aux procédures de retrait d’une demande de protection internationale engagées avant le 12 juin 2026.
+
+Les titres de séjour et les titres de voyage pour réfugiés établis avant l’entrée en vigueur de la présente loi demeurent valides jusqu’à leur date d’expiration.
