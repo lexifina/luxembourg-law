@@ -1,0 +1,3 @@
+# Art. 33.
+
+Le bureau électoral indique dans un avis à publier au plus tard soixante jours avant le scrutin dans deux quotidiens luxembourgeois les jours, heures et lieux fixés pour la présentation des candidatures. Chaque candidature doit indiquer les noms, prénoms, domicile électoral et date de naissance du candidat, ainsi que le groupe électoral dans lequel elle s'opère. Si le candidat est la personne sur laquelle repose l'autorisation ministérielle d'un électeur ayant la qualité d'une personne morale ou d'une succursale, la candidature doit mentionner la dénomination ou raison sociale de cette société commerciale ou succursale.

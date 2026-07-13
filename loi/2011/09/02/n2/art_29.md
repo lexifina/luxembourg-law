@@ -1,0 +1,9 @@
+# Art. 29.
+
+La qualité d'électeur est constatée par l'inscription sur les listes électorales. Les listes électorales sont établies par le bureau électoral, tel que défini à l'article 28 de la présente loi, pour chaque groupe électoral. Les listes sont établies tous les cinq ans, au plus tard cent trente jours avant le scrutin , sur base d'une proposition de la Chambre des Métiers, élaborée à partir de son rôle artisanal et des autorisations y afférentes.
+
+Les listes indiquent pour chaque ressortissant les noms, prénoms, groupe électoral, domicile électoral ainsi que le numéro d'affiliation à la Chambre des Métiers, et si l'électeur est une personne morale ou une succursale, la dénomination ou raison sociale, le domicile électoral, le numéro d'affiliation à la Chambre des Métiers ainsi que les noms, prénoms, de la personne sur laquelle repose l'autorisation ministérielle.
+
+Tous les cinq ans, au plus tard cent soixante jours avant le scrutin , la Chambre des Métiers fait publier dans au moins deux quotidiens luxembourgeois un avis invitant les ressortissants à se faire inscrire au plus tard cent trente jours avant le scrutin comme membre du groupe électoral dans lequel ils veulent voter.
+
+A défaut d'exercer son choix, le ressortissant est inscrit d'office sur la liste électorale dans le groupe électoral correspondant en principe à l'activité artisanale qu'il a exercé le plus longtemps sur base d'une autorisation ministérielle, avec indication de la personne sur laquelle repose cette autorisation ministérielle. Au cas où pour une activité artisanale, respectivement métier artisanal, l'autorisation ministérielle du ressortissant repose sur plusieurs personnes, l'inscription du ressortissant se fait d'office en fonction de la personne la plus ancienne en terme d'autorisation sinon suivant l'âge de ces personnes.
