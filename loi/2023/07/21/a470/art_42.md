@@ -1,0 +1,3 @@
+# Art. 42. Lycée bénéficiant d’une réaccréditation conditionnelle d’un programme d’études menant au brevet de technicien supérieur
+
+Un lycée bénéficiant d’une réaccréditation conditionnelle d’au moins un de ses programmes d’études menant au brevet de technicien supérieur ne peut pas pendant cette période de réaccréditation conditionnelle soumettre de nouveaux programmes d’études dans la procédure d’accréditation. Cette interdiction est levée conjointement avec la décision constatant la satisfaction aux conditions fixées dans la réaccréditation conditionnelle telle que visée à l’article 40, paragraphe 2.

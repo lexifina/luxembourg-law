@@ -1,0 +1,3 @@
+# Art. 61. Établissement d’enseignement supérieur spécialisé bénéficiant d’une réaccréditation conditionnelle d’un programme d’études
+
+Un établissement d’enseignement supérieur spécialisé bénéficiant d’une réaccréditation conditionnelle d’au moins un de ses programmes d’études ne peut pas, pendant cette période de réaccréditation conditionnelle, soumettre de nouveaux programmes d’études dans la procédure d’accréditation. Cette interdiction est levée conjointement avec la décision constatant la satisfaction aux conditions fixées dans la réaccréditation conditionnelle telle que visée à l’article 59, paragraphe 2.
