@@ -1,0 +1,3 @@
+# Art. 39. Droits acquis spécifiques aux médecins-vétérinaires
+
+Sans préjudice de l’article 23, paragraphe 4, pour les ressortissants des Etats membres dont les titres de formation de médecin-vétérinaire ont été délivrés par l’Estonie ou dont la formation a commencé dans cet Etat avant le 1er mai 2004, le Grand-Duché de Luxembourg reconnaît ces titres de formation s’ils sont accompagnés d’une attestation déclarant que ces personnes ont effectivement et licitement exercé en Estonie les activités en cause pendant au moins cinq années consécutives au cours des sept années précédant la date de délivrance de l’attestation.

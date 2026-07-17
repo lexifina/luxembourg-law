@@ -1,0 +1,5 @@
+# Art. 30. Droits acquis spécifiques aux médecins-généralistes
+
+(1) Le médecin autorisé à exercer la médecine au Grand-Duché de Luxembourg en qualité de médecin-généraliste avant le 31 décembre 1994, sans disposer du titre de formation visé à l’annexe V de la directive 2005/36/CE, point 5.1.4, peut se faire délivrer, sur demande, par l’autorité compétente, un certificat attestant les droits acquis et son droit d’exercer les activités de médecin-généraliste dans le cadre du régime national de sécurité sociale.
+
+(2) Le Grand-Duché de Luxembourg reconnaît, en vue de l’accès aux activités de médecin-généraliste, les certificats délivrés aux ressortissants des Etats membres par les autres Etats membres attestant que le médecin ne pouvant se prévaloir du titre de formation figurant à l’annexe V de la directive 2005/36/CE, point 5.1.4, disposait, à la date de référence visée au prédit point, du droit d’exercer les activités de médecin-généraliste dans le cadre du régime national de sécurité sociale de cet Etat membre.

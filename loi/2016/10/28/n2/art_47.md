@@ -1,0 +1,3 @@
+# Art. 47. Dérogations aux conditions de la formation d’architecte
+
+Par dérogation à l’article 46, est également reconnue comme conforme à l’article 21, dans le cadre de la promotion sociale ou d’études universitaires à temps partiel, la formation répondant aux exigences énoncées à l’article 46, paragraphe 2, sanctionnée par un examen en architecture réussi par un professionnel travaillant depuis sept ans ou plus dans le domaine de l’architecture sous le contrôle d’un architecte ou d’un bureau d’architectes. Cet examen doit être de niveau universitaire et équivalent à l’examen de fin d’études visé à l’article 46, paragraphe 1er, point b).
