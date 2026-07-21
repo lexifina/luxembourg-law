@@ -1,0 +1,3 @@
+# Art. 3.
+
+Sur base des volumes du gasoil utilisé comme combustible ainsi que du gasoil utilisé exclusivement pour des travaux agricoles et horticoles, dans la pisciculture et la sylviculture visés à l’article 1er qui ont été effectivement mis à la consommation par les opérateurs concernés pendant la période d’application de la réduction du prix de vente y visée, le ministre ayant les Finances dans ses attributions dresse un décompte final mensuel par opérateur concerné et verse la compensation financière visée à l’article 2 aux opérateurs respectifs. Le montant de la compensation financière est payé au plus tard vingt jours après la fin du mois concerné.
