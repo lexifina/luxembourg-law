@@ -1,0 +1,3 @@
+# Art. 84.
+
+L’alinéa 1 de l’article 2 de la loi modifiée du 10 mars 1969 portant institution d’une inspection générale des finances est remplacé par les dispositions ci-après: L’inspection générale des finances prépare l’avant-projet de loi concernant le budget des recettes et des dépenses de l’Etat selon les directives du ministre ayant le budget dans ses attributions et sur base des propositions budgétaires formulées par les départements ministériels. A la demande du ministre ayant le budget dans ses attributions l’inspection émet un avis sur les projets et propositions dont la réalisation est susceptible d’entraîner une répercussion sur les finances de l’Etat.
