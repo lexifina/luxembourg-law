@@ -1,7 +1,0 @@
-# Art. 1er.
-
-(1) L’État prend en charge les frais d’utilisation du réseau, y compris pour le comptage, dont les clients finals disposant de compteurs d’un flux horaire maximal inférieur à 65 mètres cubes sont redevables du 1er mai 2022 au 31 décembre 2022 jusqu’à concurrence d’un montant maximal de 35 000 000 euros.
-
-(2) Chaque gestionnaire de réseau de distribution de gaz naturel dresse mensuellement un état des frais d’utilisation exigibles du mois écoulé dans le chef de ses clients finals visés au paragraphe 1er et raccordés à son réseau de distribution de gaz naturel. Il transmet au plus tard le dernier jour du mois suivant une demande d’avance reprenant cet état des frais d’utilisation exigibles au ministre ayant l’Énergie dans ses attributions qui règle les frais exigibles dont il est fait état endéans le mois après réception de la demande de paiement de l’avance. Il dresse son décompte final et le transmet au ministre ayant l'Énergie dans ses attributions au plus tard le 30 juin 2023.
-
-(3) Pour la période visée au paragraphe 1er, les gestionnaires de réseau de distribution de gaz naturel ne facturent pas les frais d’utilisation du réseau de gaz naturel, y compris pour le comptage, aux clients finals visés au paragraphe 1er et, en cas de fourniture intégrée, les fournisseurs ne procèdent pas à la collecte de ces frais d’utilisation du réseau auprès des clients finals au nom et pour le compte du gestionnaire de réseau concerné.
