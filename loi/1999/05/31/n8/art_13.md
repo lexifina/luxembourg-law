@@ -1,3 +1,0 @@
-# Art. 13.
-
-Le conseil d'administration établit annuellement un rapport d'activités sur l'exercice précédent, une description des activités de l'exercice en cours et un programme des activités concernant le ou les exercices suivants qu'il soumet avant le 1er avril au ministre ayant dans ses attributions la recherche scientifique et la recherche appliquée. Ces éléments peuvent être incorporés au rapport global sur les activités de R&D financées par l'Etat, que le Gouvernement soumet annuellement à la Chambre des députés en application des dispositions de l'article 24 de la loi du 9 mars 1987 précitée.
