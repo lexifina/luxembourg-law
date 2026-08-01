@@ -1,0 +1,7 @@
+# Art. 4. Programmes d’études éligibles
+
+(1) Sont éligibles dans le cadre de la présente loi, les programmes d’études dont la réussite confère un diplôme, titre ou grade de l’enseignement supérieur académique correspondant aux lois et règlements régissant l’enseignement supérieur de l’État où le diplôme, titre ou grade est conféré et sanctionnant un cycle court, premier cycle, deuxième cycle ou cycle unique reconnu comme relevant du système d’enseignement supérieur académique de l’État où le diplôme, titre ou grade est conféré.
+
+(2) L’étudiant doit être inscrit à temps plein pour un volume équivalent à au moins 30 crédits ECTS ou l’équivalent en autres crédits académiques ou à temps partiel pour un volume équivalent à au moins 15 crédits ECTS ou l’équivalent en autres crédits académiques dans un programme d’études visé au paragraphe 1er pour le semestre de l’année académique pour lequel la demande d’aide financière est introduite.
+
+Dans le cas d’un programme d’études défini en termes de durée d’études et non en crédits ECTS ou l’équivalent en autres crédits académiques, l’étudiant doit être inscrit à temps plein dans l’ensemble des activités d’enseignement prévues ou à temps partiel dans des activités d’enseignement correspondant, en termes de durée, à au moins la moitié des activités d’enseignement prévues pour le semestre de l’année académique pour lequel la demande d’aide financière est introduite.
