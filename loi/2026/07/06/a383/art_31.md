@@ -1,0 +1,3 @@
+# Art. 31. Voies de recours
+
+Avant de pouvoir introduire un recours en annulation contre les décisions prises sur base des dispositions prévues aux articles 19 et 20 et 22 à 27, celles-ci doivent être attaquées dans un délai d’un mois après leur notification par voie de réclamation devant la commission des litiges. Lorsque la réclamation a été introduite et qu’aucune décision définitive n’est intervenue dans le délai d’un mois à partir du dépôt de la demande, le réclamant peut considérer sa réclamation comme rejetée. Il peut introduire un recours en annulation devant le tribunal administratif contre une décision de refus endéans un délai d’un mois.
