@@ -4,14 +4,10 @@
 
 Les calculs se basent sur les comptes annuels de l’année précédant la demande d’aide.
 
-(2) Le montant annuel maximal versé à un éditeur par type de publication de presse est limité à :
+En cas de non atteinte de ce seuil, l’aide est diminuée au prorata de la différence.
 
-- 1° 1 600 000 euros pour une publication quotidienne ;
-
-- 2° 800 000 euros pour une publication hebdomadaire ;
-
-- 3° 650 000 euros pour une publication mensuelle ;
-
-- 4° 550 000 euros pour une publication en ligne.
+(2) Le montant annuel maximal versé à un éditeur par publication de presse est limité à 1 600 000 euros.
 
 (3) Le montant annuel maximal versé à un groupe de presse est limité à 2 500 000 euros.
+
+(4) Les montants visés aux paragraphes 2 et 3 sont établis sur base de la valeur 834,76 de la cote d’application de l’échelle mobile des salaires et varient en fonction de l’évolution de celle-ci. L’échéance d’une tranche indiciaire pendant l’exercice budgétaire en cours entraîne un ajustement correspondant des limites pour l’exercice budgétaire suivant.

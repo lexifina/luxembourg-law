@@ -20,7 +20,7 @@ Les membres liés à l’éditeur demandeur ne peuvent participer aux délibéra
 
 (4) La composition de la commission est arrêtée comme suit :
 
-- 1° deux membres représentant le Service des médias et des communications ;
+- 1° deux membres représentant le Service des médias, de la connectivité et de la politique numérique ;
 
 - 2° un membre représentant du ministre ayant les Finances dans ses attributions ;
 
@@ -32,11 +32,11 @@ Les membres liés à l’éditeur demandeur ne peuvent participer aux délibéra
 
 - 6° un membre représentant le monde académique, qualifié au titre de sa connaissance dans le domaine des médias.
 
-(5) Le ministre désigne le président parmi les représentants du Service des médias et des communications.
+(5) Le ministre désigne le président parmi les représentants du Service des médias, de la connectivité et de la politique numérique .
 
 (6) Le président convoque la commission, fixe l’horaire et l’ordre du jour des réunions et dirige les débats.
 
-(7) La commission est assistée dans ses missions par des agents du Service des médias et des communications.
+(7) La commission est assistée dans ses missions par des agents du Service des médias, de la connectivité et de la politique numérique .
 
 (8) La commission ne peut adopter un avis que si la majorité de ses membres est présente. Les avis sont adoptés à la majorité des voix des membres présents. En cas d’égalité des voix, celle du président est prépondérante.
 
