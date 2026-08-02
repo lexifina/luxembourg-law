@@ -1,6 +1,6 @@
 # Art. 23.
 
-(1) Il est institué un Conseil de Presse doté de la personnalité civile. Le Conseil de Presse est compétent en matière d’octroi et de retrait de la carte de journaliste visée à l’article 31.
+(1) Il est institué un Conseil de Presse doté de la personnalité civile. Le Conseil de Presse est compétent en matière d’octroi et de retrait de la carte de journaliste professionnel visée à l’article 31.
 
 (2) Le Conseil de Presse est en outre chargé:
 

@@ -4,7 +4,7 @@
 
 (2) Le cinquième membre représentant le public préside la Commission des Plaintes. Il doit assumer cette présidence en toute neutralité et impartialité et ne peut de ce fait exercer aucune activité dans le domaine des publications.
 
-Il doit être juriste et est nommé par voie d’arrêté grand-ducal, sur proposition du Conseil de Presse.
+Il doit être juriste et est nommé par le ministre ayant les Médias dans ses attributions , sur proposition du Conseil de Presse.
 
 (3) Le Président du Conseil de Presse ne peut pas siéger à la Commission des Plaintes.
 
