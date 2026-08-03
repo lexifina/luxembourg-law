@@ -1,0 +1,7 @@
+# Art. 10.
+
+Lorsque des manquements graves et caractérisés du débiteur ou de l’un de ses organes menacent la continuité de l’entreprise et que la mesure sollicitée est de nature à préserver cette continuité, le magistrat présidant la chambre du tribunal d’arrondissement siégeant en matière commerciale et comme en matière de référé, saisi par le procureur d’État ou tout intéressé, peut désigner un ou plusieurs mandataires de justice choisis parmi les experts assermentés désignés en tant que mandataires de justice en application de la loi modifiée du 7 juillet 1971 portant, en matière répressive et administrative, institution d’experts, de traducteurs et d’interprètes, de conciliateurs d’entreprise et mandataires de justice assermentés et complétant les dispositions légales relatives à l’assermentation des experts, traducteurs et interprètes.
+
+L’ordonnance qui désigne le mandataire de justice détermine de manière précise l’étendue et la durée de la mission de celui-ci. Au cas où un conciliateur a été nommé en application de l’article 9, le tribunal peut décider que la mission du conciliateur prend fin en tout ou en partie.
+
+L’ouverture d’une procédure de réorganisation judiciaire ne met pas en tant que telle fin à la mission du mandataire de justice. Le jugement d’ouverture de la réorganisation judiciaire ou un jugement ultérieur décident en quelle mesure la mission doit être maintenue, modifiée ou supprimée.

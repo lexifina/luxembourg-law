@@ -1,0 +1,3 @@
+# Art. 31.
+
+Une créance issue de contrats en cours à prestations successives n’est pas soumise au sursis, en ce compris les intérêts contractuellement exigibles, dans la mesure où elle se rapporte à des prestations effectuées après le jugement d’ouverture de la procédure de réorganisation judiciaire.

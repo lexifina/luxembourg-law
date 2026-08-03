@@ -1,0 +1,3 @@
+# Art. 42.
+
+Le plan de réorganisation décrit avec précision les droits de toutes les personnes qui sont titulaires de créances sursitaires et la modification de leurs droits du fait du vote et de l’homologation du plan de réorganisation.
