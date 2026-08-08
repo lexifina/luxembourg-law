@@ -1,0 +1,3 @@
+# Art. 9-1sexies. Statistiques
+
+Le secrétariat exécutif collecte et consolide des statistiques sur les aspects pertinents du point de vue de l’efficacité du cadre national de lutte contre le blanchiment et le financement du terrorisme. Il les transmet à la Commission européenne sur une base annuelle, ainsi que, pour ce qui concerne les données requises, à l’Autorité de lutte contre le blanchiment de capitaux et le financement du terrorisme établie par le règlement (UE) 2024/1620 du Parlement européen et du Conseil du 31 mai 2024 instituant l’Autorité de lutte contre le blanchiment de capitaux et le financement du terrorisme et modifiant les règlements (UE) n° 1093/2010, (UE) n° 1094/2010 et (UE) n° 1095/2010, tel que modifié.
