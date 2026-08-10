@@ -1,0 +1,7 @@
+# Art. 8bis.
+
+La personne autorisée à exercer une des professions visées par la présente loi est tenue, sous peine de sanctions disciplinaires, de disposer d’une assurance destinée à garantir sa responsabilité civile susceptible d’être engagée en raison de dommages survenus dans le cadre de son activité professionnelle.
+
+Le prestataire de services visé à l’article 4 de la présente loi est également soumis à cette obligation. Toutefois, il est dispensé d’une telle assurance si l’activité de prestation de service est couverte par une garantie ou une formule similaire qui est équivalente ou essentiellement comparable quant à son objet, adaptée à la nature et à l’ampleur du risque, dont il dispose dans l’Etat membre de son établissement.
+
+Un règlement grand-ducal pris sur avis du Conseil supérieur de certaines professions de santé peut fixer les conditions et modalités minimales que doit couvrir cette assurance.
