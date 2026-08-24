@@ -1,0 +1,3 @@
+# Art. 4.
+
+Le ministre est le responsable du traitement de données à caractère personnel au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), pour autant que celles-ci soient traitées pour remplir la mission de l’Observatoire. Le centre de recherche public au sens de l’article 2 de la présente loi agit en tant que sous-traitant. Les conditions de la sous-traitance sont définies dans la convention de partenariat de recherche.
