@@ -10,6 +10,8 @@ La loi peut prévoir une différence de traitement qui procède d’une disparit
 
 L’État veille à promouvoir activement l’élimination des entraves pouvant exister en matière d’égalité entre femmes et hommes.
 
+La liberté d’avoir recours à l’interruption volontaire de grossesse est garantie. La loi détermine les conditions dans lesquelles s’exerce cette liberté.
+
 (4) Toute personne a le droit de fonder une famille.
 
 Toute personne a droit au respect de sa vie familiale.
