@@ -1,0 +1,5 @@
+# Art. 19.
+
+L'établissement, la modification et l'exploitation de la grande voirie de communication sont réalisés sous l'autorité immédiate du Ministre des travaux publics, avec le concours des services administratifs et techniques de l'Etat. En cas de besoin et par dérogation aux dispositions de la loi du 15 mai 1974 portant réorganisation de l'administration des ponts et chaussées, le Ministre des travaux publics bénéficie dans les conditions et suivant les modalités qu'il détermine du concours de ceux des membres et services de cette administration dont la collaboration directe lui semble nécessaire.
+
+Le Ministre des travaux publics peut s'assurer, avec l'accord du Conseil de Gouvernement, tous autres concours nécessaires à la réalisation du programme général de création d'une grande voirie de communication. Il peut notamment engager, par contrat conclu pour une durée déterminée, du personnel expert en la matière, dont un expert-administrateur chargé d'une mission de coordination. Les frais y relatifs sont supportés par le Fonds des routes.
