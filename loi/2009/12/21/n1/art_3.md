@@ -1,0 +1,5 @@
+# Art. 3.
+
+Quiconque voudra construire, reconstruire, réparer, transformer ou améliorer des édifices, murs ou ponts, poser ou renouveler des câbles, conduites, tuyaux ou autres aménagements souterrains, réaliser des conduites aériennes, mettre en place des panneaux ou enseignes publicitaires ou entreprendre des aménagements constructifs ou de signalisation dans l'intérêt de la sécurité et de la commodité des usagers de la route et des riverains, faire des plantations ou d'autres travaux quelconques dans, au-dessus ou le long des tronçons de voie publique faisant partie de la voirie normale de l’État ou des itinéraires cyclables nationaux en service , soit dans les traversées des agglomérations, soit ailleurs, dans la distance ci-après, ne pourra le faire que sous le couvert d'une permission de voirie.
+
+Le permissionnaire doit se conformer aux conditions concernant la disposition et la géométrie des accès carrossables ainsi qu'aux autres conditions que prévoit la permission de voirie, et respecter, le cas échéant, les alignements et les reculs.
