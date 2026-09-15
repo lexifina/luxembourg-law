@@ -1,0 +1,3 @@
+# Art. 33.
+
+Nonobstant la limite d’âge, le Gouvernement est autorisé à engager temporairement, dans l’intérêt du service, par contrat écrit à durée déterminée, des retraités de l’Etat, de l’Administration parlementaire, d’une commune, d’un syndicat de communes, d’un établissement public, de la Société nationale des chemins de fer luxembourgeois ou d’une institution internationale, justifiant de qualifications spéciales. L’indemnité à verser de ce chef est fixée par le ministre ayant la Fonction publique dans ses attributions, de cas en cas suivant l’importance et la nature des services à rendre.

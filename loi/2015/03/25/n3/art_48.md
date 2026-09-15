@@ -1,0 +1,5 @@
+# Art. 48.
+
+(1) Les anciennes carrières des rubriques «Administration générale» et «Enseignement» intégrées en vertu de l’article 43 dans la catégorie de traitement A, groupe de traitement A1 ou groupe de traitement A2, sous-groupe à attributions particulières et dont le nouveau classement barémique de la fonction tel que défini aux articles 12 et 13 ou respectivement à l’article 50 et à l’annexe A II. sous b) Régime transitoire de la rubrique «Enseignement» a changé, sont reclassées.
+
+(2) Les fonctionnaires relevant des carrières reclassées au sens du paragraphe 1er sont classés dans le nouveau grade en application des articles 12 et 13, ou respectivement de l’article 50 et à l’annexe A II. sous b) Régime transitoire de la rubrique «Enseignement» à la valeur de l’échelon barémique atteint la veille de l’entrée en vigueur de la présente loi ou à défaut à la valeur de l’échelon barémique immédiatement supérieur, sans préjudice du report de l’ancienneté d’échelon acquise sous l’ancienne législation.

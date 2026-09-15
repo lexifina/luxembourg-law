@@ -1,0 +1,9 @@
+# Art. 47.
+
+(1) Les anciennes carrières de la rubrique «Administration générale» intégrées en vertu de l’article 43 dans la catégorie de traitement A, groupe de traitement A2, ou dans la catégorie de traitement B, groupe de traitement B1 et dont par rapport au classement barémique du nouveau groupe de traitement, tel que défini à l’article 12, à la fois le grade de début de carrière et le grade de fin de carrière ont changé, sont reclassées.
+
+(2) Les fonctionnaires relevant des carrières reclassées au sens du paragraphe précédent, sont classés respectivement dans la catégorie de traitement A, groupe de traitement A2, ou dans la catégorie de traitement B, groupe de traitement B1, dans les nouveaux sous-groupes, en application de l’article 12, au grade qui correspond à leur ancienneté de service acquise depuis leur première nomination et sur base des conditions et délais d’avancement fixés à l’article 12. Le classement dans le grade ainsi déterminé correspond à la valeur de l’échelon barémique atteint la veille de l’entrée en vigueur de la présente loi ou à défaut à la valeur de l’échelon barémique immédiatement supérieur, sans préjudice du report de l’ancienneté d’échelon acquise sous l’ancienne législation.
+
+En vue de la détermination du nouveau grade dans la catégorie de traitement B, groupe de traitement B1, il est tenu compte des conditions de réussite et de dispense à l’âge de cinquante ans de l’examen de promotion définies à l’article 12.
+
+Pour l’application de la présente disposition, les fonctionnaires ayant réussi à l’examen de promotion donnant droit au second avancement en traitement de leur carrière initiale sont considérés comme ayant réussi à l’examen de promotion prévu à l’article 12. Les fonctionnaires relevant d’anciennes carrières n’ayant pas connu d’examen de promotion sont considérés comme ayant réussi à l’examen de promotion dans le nouveau régime tel que prévu à l’article 12.

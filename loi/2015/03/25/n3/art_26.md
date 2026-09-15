@@ -1,0 +1,7 @@
+# Art. 26.
+
+(1) Les fonctionnaires exerçant auprès des établissements publics Centre hospitalier neuro-psychiatrique ou Centres, Foyers et Services pour personnes âgées, auprès de l’Institut étatique d’aide à l’enfance et à la jeunesse ou auprès de l’Inspection générale de la sécurité sociale – Cellule d’évaluation et d’orientation de l’Assurance dépendance la profession de médecin de la catégorie de traitement A, groupe de traitement A1, sous-groupe à attributions particulières, de psychologue de la catégorie de traitement A, groupe de traitement A1, sous-groupe éducatif et psycho-social, ou des activités exclusivement paramédicales de la catégorie de traitement A, groupe de traitement A2, sous-groupe éducatif et psycho-social bénéficient d’une prime de 15 points indiciaires.
+
+(2) Les fonctionnaires exerçant des activités à caractère exclusivement paramédical des catégories de traitement B et C, et qui sont détenteurs d’une autorisation d’exercer leur profession paramédicale, bénéficient d’une prime de 15 points indiciaires. La prime en question est accordée par le ministre du ressort.
+
+Toutefois, pour les fonctionnaires relevant de la catégorie de traitement C et exerçant leur profession auprès du Centre hospitalier neuro-psychiatrique, des Centres, Foyers et Services pour personnes âgées, de l’Institut étatique d’aide à l’enfance et à la jeunesse ou de l’Administration d’évaluation et de contrôle de l’assurance dépendance, la prime est fixée à 30 points indiciaires.
