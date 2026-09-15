@@ -1,0 +1,3 @@
+# Art. 14. Délai de paiement
+
+Le paiement des aides prévues par les régimes institués par la présente loi est demandé via la plateforme gouvernementale sécurisée qui requiert une authentification forte et qui garantit l’authenticité et la non-répudiation de la demande, ainsi que l’identification du demandeur, sous peine de forclusion, dans un délai de douze mois après la date de fin du projet retenue dans la décision d’octroi. Sur demande écrite et motivée de l’entreprise auprès du ministre avant l’écoulement de ce délai, celui-ci peut être prorogé de douze mois au maximum pour des raisons indépendantes de la volonté de l’entreprise.
