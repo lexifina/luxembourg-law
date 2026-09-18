@@ -1,0 +1,5 @@
+# Art. 9. Registre des installations de pompe à chaleur
+
+(1) Afin d’avoir une vue d’ensemble sur le nombre, le type et l’emplacement des pompes à chaleur existantes sur le territoire du Grand-Duché de Luxembourg et d’ainsi pouvoir vérifier la réalisation régulière des contrôles périodiques, l’Administration de l’environnement tient un registre des installations de pompe à chaleur, qui ont été réceptionnées ou qui ont subi une inspection périodique au sens de la présente loi. Ce registre contient le nom, l’adresse et l’adresse électronique des exploitants, l’emplacement des installations de pompe à chaleur ainsi que les informations relatives à la nature des installations de pompe à chaleur et aux éléments contrôlés lors de la réception et des inspections périodiques.
+
+(2) À la demande de l’Administration de l’environnement, les entreprises communiquent à l’Administration de l’environnement et au service compétent de la Chambre des métiers les adresses des bâtiments dans lesquels elles ont installé une ou plusieurs installations de pompe à chaleur ainsi que le nom et l’adresse des exploitants.
