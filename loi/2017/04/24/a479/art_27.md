@@ -1,0 +1,3 @@
+# Art. 27.
+
+Au plus tard pour le 15 juin de chaque année, le conseil d'administration remet au ministre les comptes annuels à la clôture de l'exercice financier auxquels il joint un rapport d'activité circonstancié sur l'état du Fonds, ses activités et son fonctionnement au cours de l'exercice écoulé, la réalisation des objectifs fixés au plan quinquennal, ainsi que ses perspectives d'avenir. A la même occasion, il communique au ministre le rapport du réviseur d'entreprises agréé. Au plus tard pour le 15 juillet de chaque année, le ministre présente ces documents au Gouvernement en conseil pour approbation.

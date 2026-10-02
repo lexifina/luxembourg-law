@@ -1,0 +1,5 @@
+# Art. 21.
+
+(1) Le montant de la compensation prévue à l’article 20 est arrêté par le Gouvernement en conseil après approbation, le cas échéant précédé de rectification, des comptes annuels en faisant dûment abstraction des prix d’acquisition payés, des compensations et des régularisations envisagés aux articles 16 à 18, des participations financières prévues au chapitre 2 de la loi précitée du 7 août 2023 . En cours d’exercice, des acomptes trimestriels peuvent être réglés en fonction des résultats de l’exercice écoulé et des prévisions pour celui en cours.
+
+(2) La détermination du résultat en vue du calcul des compensations visées à l’article 20 se fait sur base des comptes séparés relatifs aux activités de vente et de location abordables visés à l’article 25, paragraphe 2. Sont exclus lors du calcul des compensations les provisions pour réparations, les amortissements et les autres postes ne correspondant pas à une dépense dans les douze mois à venir. Ces montants interviennent pour le calcul de la compensation pour l’exercice où ils sont effectivement engagés.
