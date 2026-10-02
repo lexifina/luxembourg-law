@@ -1,0 +1,3 @@
+# Art. 59. Évaluation des critères d’attribution sur base d’une enquête sociale
+
+En vue de l’attribution d’un logement tous publics, le bailleur social évalue dans le cadre d’une analyse globale et sur base d’une enquête sociale posée par un assistant social conformément à l’article 7 et à l’annexe 11 de la loi modifiée 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé, la situation familiale, sociale et économique du candidat-locataire et des membres de sa communauté domestique, auquel il veut attribuer un logement, en tenant compte des critères d’attribution prévus aux articles 57, paragraphe 1er, et 58 ainsi que de la cohabitation harmonieuse au sein de l’immeuble .

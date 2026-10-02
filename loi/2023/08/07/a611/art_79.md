@@ -1,0 +1,5 @@
+# Art. 79. Visites des logements
+
+En cas de doute quant au respect des conditions d’attribution du logement abordable, les agents sous l’autorité du ministre peuvent, dans l’exercice de leurs missions et munis des pièces justificatives de leurs fonctions, se rendre au logement abordable, au logement des demandeurs-locataires et au logement des candidats-locataires, qu’il s’agisse du domicile des demandeurs-locataires, des candidats-locataires ou des locataires ou du domicile de personnes tierces, afin de procéder à tous les examens ou contrôles nécessaires. Les visites au logement ont lieu entre huit heures et dix-huit heures. Les habitants du logement sont informés d’une visite par écrit au moins quinze jours avant le jour de la visite.
+
+Lorsque l’entrée au logement est refusée aux agents du ministre, le traitement du dossier d’attribution d’un logement abordable est suspendu jusqu’à ce que les demandeurs-locataires, les candidats-locataires ou les locataires aient fourni au ministre tous renseignements et documents nécessaires à l’instruction, à la gestion et au suivi de leur dossier.

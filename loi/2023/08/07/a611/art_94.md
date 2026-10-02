@@ -1,0 +1,3 @@
+# Art. 94. Évaluation
+
+Les centres de recherche publics régis par la loi modifiée du 3 décembre 2014 ayant pour objet l’organisation des centres de recherche publics, dans le cadre de missions de recherche d’intérêt public, ont accès aux données à caractère personnel pseudonymisées ou rendues anonymes figurant dans les bases de données d’administrations, en ce inclus le registre, de promoteurs sociaux, de bailleurs sociaux et d’organismes exerçant la gestion locative sociale aux fins d’évaluations des résultats de la politique publique, d’études ou d’enquêtes scientifiques d’intérêt public dans le domaine du logement abordable.
