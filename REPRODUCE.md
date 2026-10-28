@@ -54,6 +54,23 @@ rejected the server's chain, the same request was made with `curl`.
 3. Two builds from the same cache with `--offline --today 2026-10-28` into separate empty folders gave identical hashes for every commit and tag: the history tip `d37372a8413c343ee54f7b6e5ae14fe44ff38e86` (the commit before this documentation) and `main` were the same in both (run 2026-10-28). This documentation commit then records that result, so its own hash is checked by rebuilding with this file in place, as in the short version above.
 4. `git push -f origin main --tags` published it to GitHub as a private repository.
 
+### After publication: the independent word check and one correction
+
+Checks 2 above read the XML with the build's own reader on both sides, so a fault in that reader could not show. On
+2026-10-28 `python -X utf8 scripts/luxembourg-law/check_words.py` compared every one of the 72 texts a second way: the
+letters and digits of Legilux's XML, read with lxml alone (struck-through text, notes, metadata and division headings
+left out), against the files in git on the day each text applies from, article by article. It found words run together
+where Legilux's XML has an empty modification marker and no space (`du<mod class="mod-start"/>sixième` became
+`dusixième`) in 13 article files of the Covid-19 law. The build now reads such a marker as a space between two words.
+
+The history was not rewritten. Commit `1252a0c67acb7c3ea6c3334881a904e70be91ac5`, by Service central de législation
+(Legilux), corrects the one file still affected (`art_10.md`) from the latest consolidated text, with `Kind: correction`,
+`Corrected: 2026-10-28` and a `Corrects:` line for every file and span that held a run-together word; `corpus.json` names
+`Corrected` as the correction trailer. See [`CORRECTIONS.md`](CORRECTIONS.md). A rebuild with the corrected
+`build.py` writes the right text in every version, so its hashes differ from this history's from 15 September 2021 on.
+The remaining differences the word check reports are by design: list numbers ("1°", "a)") the build writes from the
+list's symbol, and the enacting formula of the law as published ("Mandons et ordonnons…"), which is outside its articles.
+
 It ran with Python 3.12.10, lxml 6.1.3 and git version 2.46.0.windows.1 on Windows 11. No network service other than Legilux is involved.
 
 ## How the text and the commits are derived

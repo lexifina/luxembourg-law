@@ -4,7 +4,8 @@
     python tools/en_vigueur_au.py 1950-01-01 constitution            # the whole Constitution on 1 January 1950
     python tools/en_vigueur_au.py 2021-03-01 covid art_3bis          # the Covid-19 law
 
-The act can be named by its folder (constitution/1868/10/17/n1, loi/2020/07/17/a624) or by "constitution" / "covid".
+The act can be named by its folder (constitution/1868/10/17/n1, loi/2020/07/17/a624), by a folder above it that holds
+only that act ("loi"), or by "constitution" / "covid".
 Every commit carries the day its text applies from in its "In-force:" trailer. Commits before 1970 are dated
 1970-01-01 because git cannot store older dates, so the day is read from the trailer, never from the commit date.
 """
@@ -42,6 +43,11 @@ def main():
     commit = commit_on(day, act, branch=branch)
     if not commit:
         sys.exit(f'{act} is not in the record on {day}.')
+    # A folder above one act ("loi") names that act.
+    acts = [f[:-len('/README.md')] for f in git('ls-tree', '-r', '--name-only', branch, f'{act}/').split()
+            if f.endswith('/README.md')]
+    if act not in acts and len(acts) == 1:
+        act = acts[0]
     if len(sys.argv) > 3:
         try:
             print(git('show', f'{commit}:{act}/{sys.argv[3]}.md'), end='')
