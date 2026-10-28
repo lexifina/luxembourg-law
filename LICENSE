@@ -1,0 +1,17 @@
+The legal texts and the data about them come from Legilux:
+
+  Source : Legilux — Journal officiel du Grand-Duché de Luxembourg (Ministère d'État, Service central de
+  législation), https://legilux.public.lu, données ouvertes https://data.legilux.public.lu.
+  Copyright : Ministère d'État du Grand-Duché de Luxembourg - Service central de législation.
+  Licence : Creative Commons Attribution 4.0 International (CC BY 4.0),
+  https://creativecommons.org/licenses/by/4.0/
+
+Changes made by Lexifina: the XML of each version was converted to one Markdown file per article; struck-through
+(repealed) text, notes and metadata were left out; spacing was collapsed; list numbers were printed from each list's
+symbol; and the versions were arranged as git commits credited to the laws that made each change. The wording of the
+law was not changed. Legilux does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+Anyone reusing this repository as a whole must still give the Legilux attribution above, as CC BY 4.0 requires.

@@ -1,0 +1,595 @@
+{
+ "built": "2026-10-28",
+ "acts": [
+  {
+   "slug": "constitution",
+   "path": "constitution/1868/10/17/n1",
+   "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1",
+   "versions": [
+    {
+     "from": "1868-10-25",
+     "to": "1919-05-20",
+     "kind": "original",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/jo/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-jo-fr-xml.xml",
+     "sha256": "0625c820bcac97a94f8bac81474160f8cf63441a1adc970650e102b11f0ffb6f"
+    },
+    {
+     "from": "1919-05-20",
+     "to": "1948-05-02",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19190520",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19190520/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19190520-fr-xml.xml",
+     "sha256": "b03980e1ed6f4ec4359125c2a8625b27d6b572c0234ffa6840e8a29e1f2a9142"
+    },
+    {
+     "from": "1948-05-02",
+     "to": "1948-05-14",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480502",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480502/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19480502-fr-xml.xml",
+     "sha256": "6651cb3a3c2b05c09758d032ee377fb348e05251f28f57b6d891b06b04ee422e"
+    },
+    {
+     "from": "1948-05-14",
+     "to": "1948-05-23",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480514",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480514/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19480514-fr-xml.xml",
+     "sha256": "e43eb84ac787805111e2484a0099657bc7c8a8a2be74047277d3cf4a7fb898aa"
+    },
+    {
+     "from": "1948-05-23",
+     "to": "1948-06-02",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480523",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480523/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19480523-fr-xml.xml",
+     "sha256": "c65ab0010c42c4115979a204fc13525d390fc0767fefe93c39e59ffb5cf27bb5"
+    },
+    {
+     "from": "1948-06-02",
+     "to": "1956-08-24",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480602",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480602/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19480602-fr-xml.xml",
+     "sha256": "8c63c1c3c6e0e37f918b126f33b6efcff0f82ef10b2a1e1d575690bf8d909e6a"
+    },
+    {
+     "from": "1956-08-24",
+     "to": "1956-11-07",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19560824",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19560824/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19560824-fr-xml.xml",
+     "sha256": "8bac326dfd6800d146202e4a5c7b5bd81c7281398769056118e1cddf038440c6"
+    },
+    {
+     "from": "1956-11-07",
+     "to": "1972-02-01",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19561107",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19561107/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19561107-fr-xml.xml",
+     "sha256": "5b2961516f8167f98fbca03719d015e7db612323bd8963905ed001c52535a6b7"
+    },
+    {
+     "from": "1972-02-01",
+     "to": "1979-07-13",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19720201",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19720201/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19720201-fr-xml.xml",
+     "sha256": "cb70d83e4049acc9489c3f5e5ef6574d056bac938faee97f61cc5df5b09242f7"
+    },
+    {
+     "from": "1979-07-13",
+     "to": "1983-12-05",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19790713",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19790713/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19790713-fr-xml.xml",
+     "sha256": "c595fb166fc3375e7541f6e20d2c7df7e03015566904191df87cf6bf8926cf7a"
+    },
+    {
+     "from": "1983-12-05",
+     "to": "1988-12-25",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19831205",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19831205/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19831205-fr-xml.xml",
+     "sha256": "9d2ae9c814f5aa9547a7b7e3abcbd0c0f53c6518a393a249dfb01e62876a72a7"
+    },
+    {
+     "from": "1988-12-25",
+     "to": "1989-04-18",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19881225",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19881225/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19881225-fr-xml.xml",
+     "sha256": "b9d2892ba687f30af0831657c80aa325ae850f5f0d5e89c30ad5b2de9e6a4060"
+    },
+    {
+     "from": "1989-04-18",
+     "to": "1989-05-15",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19890418",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19890418/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19890418-fr-xml.xml",
+     "sha256": "120cde7c5486103a17faca1a4b4d5465a577d51b849b40061ecf671d257b81d4"
+    },
+    {
+     "from": "1989-05-15",
+     "to": "1989-07-14",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19890515",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19890515/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19890515-fr-xml.xml",
+     "sha256": "ae91bd00b68c43c4a593c2f81840fefee0a57b3be7dbaac8304a14d29930d5dd"
+    },
+    {
+     "from": "1989-07-14",
+     "to": "1994-12-28",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19890714",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19890714/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19890714-fr-xml.xml",
+     "sha256": "07d35dd787b90e8a0397b6b8c21d10908ccaad91994511117ee54fe66321ce68"
+    },
+    {
+     "from": "1994-12-28",
+     "to": "1997-01-01",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19941228",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19941228/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19941228-fr-xml.xml",
+     "sha256": "a82cd27d816b2651003ac8156e5e766d59751d3b3ba277f2394cc532eafcb0e7"
+    },
+    {
+     "from": "1997-01-01",
+     "to": "1998-01-24",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19970101",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19970101/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19970101-fr-xml.xml",
+     "sha256": "baea93c3f524351490d4c395697bffe5cc2227faeef7c7430bd9aef44cfd4f91"
+    },
+    {
+     "from": "1998-01-24",
+     "to": "1999-05-09",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19980124",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19980124/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19980124-fr-xml.xml",
+     "sha256": "56a053b37d9ad4df8a75626d0b7988443187b5847e1643a77ef73b067d1b2b16"
+    },
+    {
+     "from": "1999-05-09",
+     "to": "1999-06-12",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19990509",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19990509/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19990509-fr-xml.xml",
+     "sha256": "12f2fff87a6525c66e39919295e5dcc48e9d26399710ac09b4cff5f21d525a24"
+    },
+    {
+     "from": "1999-06-12",
+     "to": "2000-08-29",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19990612",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/19990612/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-19990612-fr-xml.xml",
+     "sha256": "2e72787a5bb0e87799a577c2f2b00ef536f798db4e6ac3350672c26668fb7571"
+    },
+    {
+     "from": "2000-08-29",
+     "to": "2003-02-25",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20000829",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20000829/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20000829-fr-xml.xml",
+     "sha256": "f14892353b89cdb778632bdfbd2e8522fcdd4f5b4d1f1cd192ed7206f0e6ea22"
+    },
+    {
+     "from": "2003-02-25",
+     "to": "2004-01-04",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20030225",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20030225/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20030225-fr-xml.xml",
+     "sha256": "9a97eaa5b22d90ca4a3a9347bab851a0e93f28ef269f9d8efdc2526ee74c7fc0"
+    },
+    {
+     "from": "2004-01-04",
+     "to": "2004-06-11",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20040104",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20040104/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20040104-fr-xml.xml",
+     "sha256": "f514dbb839bc3def1e38790242967e7a8866fa5d0eca17be15f71460c1d46023"
+    },
+    {
+     "from": "2004-06-11",
+     "to": "2004-11-29",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20040611",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20040611/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20040611-fr-xml.xml",
+     "sha256": "b0f4661b4b25bb0d38c1577a96bd2cddc5539b88c3d3d2426fdcdc8261e5713b"
+    },
+    {
+     "from": "2004-11-29",
+     "to": "2005-06-28",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20041129",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20041129/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20041129-fr-xml.xml",
+     "sha256": "96685c56e4f646b5691d72f1153d7d9fe2e37fa5757d3f1b0b55eecf20c18460"
+    },
+    {
+     "from": "2005-06-28",
+     "to": "2006-06-18",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20050628",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20050628/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20050628-fr-xml.xml",
+     "sha256": "aaeba5882318c6dbfc4bf94d039f3ec53890ff9b8e3d3689ac7c174d73de9e8a"
+    },
+    {
+     "from": "2006-06-18",
+     "to": "2006-07-23",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20060618",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20060618/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20060618-fr-xml.xml",
+     "sha256": "b9d84988e20f0d13e0c17f6f6f98704ddf9e49db94b713b34f7b299f1ff51647"
+    },
+    {
+     "from": "2006-07-23",
+     "to": "2007-04-03",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20060723",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20060723/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20060723-fr-xml.xml",
+     "sha256": "8118b416032760ed55c2d1739d941793df548dc3d40d3f7ca8b5ee4ddd425fe2"
+    },
+    {
+     "from": "2007-04-03",
+     "to": "2007-11-02",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20070403",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20070403/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20070403-fr-xml.xml",
+     "sha256": "818cdf13c3d19c37a3756d2374d11aef5425fe5ae1aede6b425c0f7bc2424eca"
+    },
+    {
+     "from": "2007-11-02",
+     "to": "2008-04-06",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20071102",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20071102/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20071102-fr-xml.xml",
+     "sha256": "8fc6ad5db0ff81134f0d8a4d19c7f6ef2b88423bbd4750638ac1ae42606d0bee"
+    },
+    {
+     "from": "2008-04-06",
+     "to": "2009-01-01",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20080406",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20080406/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20080406-fr-xml.xml",
+     "sha256": "84dd467671c4f4a4b6e6ce56177a3766457ed65fd2b018c54403484c490a9b96"
+    },
+    {
+     "from": "2009-01-01",
+     "to": "2009-03-16",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20090101",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20090101/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20090101-fr-xml.xml",
+     "sha256": "618140e0a7089eda2a698a98a3a70691ad476b7ba971f255b1f14b8b27088106"
+    },
+    {
+     "from": "2009-03-16",
+     "to": "2016-10-24",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20090316",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20090316/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20090316-fr-xml.xml",
+     "sha256": "25125d42bb38385f6aab1c13e8a170dffb47c53e231c30a721ca33434eac8330"
+    },
+    {
+     "from": "2016-10-24",
+     "to": "2017-10-20",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20161024",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20161024/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20161024-fr-xml.xml",
+     "sha256": "4df976b1bb237dbf428c766ebdcff8f5ba9b6a76014894612099e893802b2372"
+    },
+    {
+     "from": "2017-10-20",
+     "to": "2019-12-14",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20171020",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20171020/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20171020-fr-xml.xml",
+     "sha256": "9f7b23f7fb3735d537c5baa230d6543cc35e882a33be00b7ecda05de1ffd61f3"
+    },
+    {
+     "from": "2019-12-14",
+     "to": "2020-05-19",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20191214",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20191214/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20191214-fr-xml.xml",
+     "sha256": "4c863bee7c1ff9b56ea4bf27872576abfb1168006e5e6d2c0daeaeadaf0ff2c7"
+    },
+    {
+     "from": "2020-05-19",
+     "to": "2023-07-01",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20200519",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20200519/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20200519-fr-xml.xml",
+     "sha256": "d7001855f5521199c940be761e7c3c3afd0b0d08e0399d58bc4015c153b1fc68"
+    },
+    {
+     "from": "2023-07-01",
+     "to": "2026-08-29",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20230701-fr-xml.xml",
+     "sha256": "efe907e6ae0363f41771ae3195e6108a54cd5ef31fbe23e36fb763a0fb4f1d66"
+    },
+    {
+     "from": "2026-08-29",
+     "to": null,
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20260829",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/constitution/1868/10/17/n1/consolide/20260829/fr/xml/eli-etat-leg-constitution-1868-10-17-n1-consolide-20260829-fr-xml.xml",
+     "sha256": "293316a4e19fe120a79c07a4663484a0980ef2becef9b2333139a6c9cbbafde6"
+    }
+   ]
+  },
+  {
+   "slug": "loi-covid-19",
+   "path": "loi/2020/07/17/a624",
+   "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "to": "2020-07-25",
+     "kind": "original",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/jo",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/jo/fr/xml/eli-etat-leg-loi-2020-07-17-a624-jo-fr-xml.xml",
+     "sha256": "f1e9312b0f5925a53939546ca39e9a41b565340134a83cfa2986b88737b6bd60"
+    },
+    {
+     "from": "2020-07-25",
+     "to": "2020-09-23",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20200725",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20200725/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20200725-fr-xml.xml",
+     "sha256": "10d015e85a481601d3553e4fd8d2f1df25ef82ae71647c9b2d5f7088c3f248e5"
+    },
+    {
+     "from": "2020-09-23",
+     "to": "2020-10-30",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20200923",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20200923/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20200923-fr-xml.xml",
+     "sha256": "e6a79d27b1117c9ae2243cc72b5ac961b35f0b97790a50d906afea15286446b9"
+    },
+    {
+     "from": "2020-10-30",
+     "to": "2020-11-26",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20201030",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20201030/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20201030-fr-xml.xml",
+     "sha256": "16921f540e64979f622f8970819328d1abb60c722616db68f5bb0301b1db2e42"
+    },
+    {
+     "from": "2020-11-26",
+     "to": "2020-12-16",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20201126",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20201126/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20201126-fr-xml.xml",
+     "sha256": "2b0e7782c5f72c0e1268688672a088e6d3ed78f05b4ba2c3cc743e4974007e3f"
+    },
+    {
+     "from": "2020-12-16",
+     "to": "2020-12-26",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20201216",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20201216/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20201216-fr-xml.xml",
+     "sha256": "3e394857bbd03c700e5d8f89d680789c76c66bc863053e5684f3154d1fe131ef"
+    },
+    {
+     "from": "2020-12-26",
+     "to": "2021-01-11",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20201226",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20201226/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20201226-fr-xml.xml",
+     "sha256": "305c73d69c5f679151008b13b5c6593843bc1e179b6d5d3edb23e69d5d41941d"
+    },
+    {
+     "from": "2021-01-11",
+     "to": "2021-02-01",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20210111",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20210111/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20210111-fr-xml.xml",
+     "sha256": "5864d7d8b07e1ccfd097cf1b21e80ac2294cc75282811e95bb025db2a37e711c"
+    },
+    {
+     "from": "2021-02-01",
+     "to": "2021-02-22",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20210201",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20210201/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20210201-fr-xml.xml",
+     "sha256": "54ec1936aadbd3570fd47613352da93c8b4002f11e94fa70ec02ce756bd003b2"
+    },
+    {
+     "from": "2021-02-22",
+     "to": "2021-03-15",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20210222",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20210222/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20210222-fr-xml.xml",
+     "sha256": "4a549519942b8a70635ff397401a489d17605e713fc35f619865190e06b293e3"
+    },
+    {
+     "from": "2021-03-15",
+     "to": "2021-04-03",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20210315",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20210315/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20210315-fr-xml.xml",
+     "sha256": "2b56f4798f757ef37dc375b8f54f17b524723f55f42c815b919f9667caf8afcc"
+    },
+    {
+     "from": "2021-04-03",
+     "to": "2021-04-07",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20210403",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20210403/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20210403-fr-xml.xml",
+     "sha256": "0d70e28ab457f6baba875345c4e34262e4fd9752291888ef1c746879e43456d6"
+    },
+    {
+     "from": "2021-04-07",
+     "to": "2021-04-26",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20210407",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20210407/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20210407-fr-xml.xml",
+     "sha256": "484ee77c434769f57f3f113b9d6ef28bd489b22020051064a7fb9aa75cf8b165"
+    },
+    {
+     "from": "2021-04-26",
+     "to": "2021-05-16",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20210426",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20210426/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20210426-fr-xml.xml",
+     "sha256": "d36acbd4403495babe21917fed4aefebdbc0ac73261dbee52c4e39b2954be24b"
+    },
+    {
+     "from": "2021-05-16",
+     "to": "2021-05-31",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20210516",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20210516/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20210516-fr-xml.xml",
+     "sha256": "c9048cd584e7b379eb2add560e1a7cf5addd299ed5c080e4797976150bad7f10"
+    },
+    {
+     "from": "2021-05-31",
+     "to": "2021-06-13",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20210531",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20210531/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20210531-fr-xml.xml",
+     "sha256": "d257df6e174d9ee4886e0f81ca20f1dfd192844b7b661244b07eacb8d5767588"
+    },
+    {
+     "from": "2021-06-13",
+     "to": "2021-07-16",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20210613",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20210613/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20210613-fr-xml.xml",
+     "sha256": "b8ebd1222cd72481f18a75ddc52278aaeacc2cc120ced395f79ba16841f7b358"
+    },
+    {
+     "from": "2021-07-16",
+     "to": "2021-09-15",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20210716",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20210716/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20210716-fr-xml.xml",
+     "sha256": "596000fd2b20d53b6b90a1a54bbdab31f86ddbee95737fbcf4a83be5aa6c7abf"
+    },
+    {
+     "from": "2021-09-15",
+     "to": "2021-10-19",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20210915",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20210915/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20210915-fr-xml.xml",
+     "sha256": "cd6d1b691fc259459b4025a5580c3cd417c235d0b2ec0c6ac02c9b8b17ca36ae"
+    },
+    {
+     "from": "2021-10-19",
+     "to": "2021-11-01",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20211019",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20211019/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20211019-fr-xml.xml",
+     "sha256": "a7f4fb8ef853249e93c927dd9ba7682d4e852be0b924edde72bb5c59c7b27630"
+    },
+    {
+     "from": "2021-11-01",
+     "to": "2021-12-17",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20211101",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20211101/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20211101-fr-xml.xml",
+     "sha256": "d69737c765a4764795684c47d58d3128ab4db164e61dea15ae380187dc5eb591"
+    },
+    {
+     "from": "2021-12-17",
+     "to": "2021-12-25",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20211217",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20211217/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20211217-fr-xml.xml",
+     "sha256": "ef5c40953d2155bbb63eb096ac09d88d8aef51485fc7d4762ee090b7937dfcaf"
+    },
+    {
+     "from": "2021-12-25",
+     "to": "2022-01-12",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20211225",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20211225/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20211225-fr-xml.xml",
+     "sha256": "aca334802fdd17be4b2d86eccfe98257288ddae935b870483371a99bca2914a7"
+    },
+    {
+     "from": "2022-01-12",
+     "to": "2022-01-15",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20220112",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20220112/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20220112-fr-xml.xml",
+     "sha256": "1473f0cb500bac032457b2003e551baa9ff7523c50e0296b8c8215ea948266e0"
+    },
+    {
+     "from": "2022-01-15",
+     "to": "2022-02-11",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20220115",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20220115/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20220115-fr-xml.xml",
+     "sha256": "0991d238be0c6fc20af8bd94503bcb7aa7b611e5a7bf11df5329f8d8f743d2ee"
+    },
+    {
+     "from": "2022-02-11",
+     "to": "2022-03-11",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20220211",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20220211/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20220211-fr-xml.xml",
+     "sha256": "00728950c75a6bc36f31f4bb0d59f8c9bdb228ff6ade3abc8c1a046e13837364"
+    },
+    {
+     "from": "2022-03-11",
+     "to": "2022-06-14",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20220311",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20220311/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20220311-fr-xml.xml",
+     "sha256": "ad8c3eed5769922a052ca437179d4771ec31eb7e807b195802193d803dd29fb3"
+    },
+    {
+     "from": "2022-06-14",
+     "to": "2022-07-01",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20220614",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20220614/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20220614-fr-xml.xml",
+     "sha256": "05afd56980ae7170358005ad0422239fc07a480f8ef869f03118cdea8abc8a44"
+    },
+    {
+     "from": "2022-07-01",
+     "to": "2022-10-27",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20220701",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20220701/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20220701-fr-xml.xml",
+     "sha256": "00c349c3765630e9ad9e2945052af0af095d804402746686ee64e0bf42e70b60"
+    },
+    {
+     "from": "2022-10-27",
+     "to": "2023-04-01",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20221027",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20221027/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20221027-fr-xml.xml",
+     "sha256": "b0d5c9edb334946c1aa2769a594fca3262c0147cbec83efd7a5b4b1eede07073"
+    },
+    {
+     "from": "2023-04-01",
+     "to": "2023-07-01",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20230401",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20230401/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20230401-fr-xml.xml",
+     "sha256": "93e3d6f26f9f55089e2d4adfa48abb82960392f5665ac312857ee0545ceb00fd"
+    },
+    {
+     "from": "2023-07-01",
+     "to": "2024-07-01",
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20230701",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20230701/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20230701-fr-xml.xml",
+     "sha256": "9cfcd0dbc6cba85006a8f35bfcfb06bf98c0ca19f12283c0abff958a5c369abe"
+    },
+    {
+     "from": "2024-07-01",
+     "to": null,
+     "kind": "consolidated",
+     "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20240701",
+     "xml": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2020/07/17/a624/consolide/20240701/fr/xml/eli-etat-leg-loi-2020-07-17-a624-consolide-20240701-fr-xml.xml",
+     "sha256": "6fc6725e1a41a8cf9434a2a2f7403eb6dda8ca6073d15e216fdb549d10fbe936"
+    }
+   ]
+  }
+ ]
+}
