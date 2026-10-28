@@ -29,5 +29,9 @@
   },
   "tool": "tools/en_vigueur_au.py",
   "in_force_trailer": "In-force",
-  "record_to": "2026-08-29"
+  "record_to": "2026-08-29",
+  "citation": {
+    "file": "(.+)/art_0*([0-9]+[a-z]*)\\.md",
+    "cites": "([Aa]rticle|[Aa]rt\\.) ?{n}([^0-9]|$)"
+  }
 }
