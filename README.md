@@ -1,5 +1,10 @@
 # Luxembourg law, change by change
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Luxembourg law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Luxembourg's national law, which global-law reads at `luxembourg/national/acts/`.
 
 Two Luxembourg acts as a git repository: the **Constitution** (from the text of 1868, through 38 consolidated versions to 2026, including the revised Constitution in force on 1 July 2023) and the **Covid-19 law of 17 July 2020** (32 versions). Each amending law is one commit, credited to that law and dated the day its changes took effect, at noon in Luxembourg. The text is the French text published by [Legilux](https://legilux.public.lu), the official journal of the Grand Duchy.
