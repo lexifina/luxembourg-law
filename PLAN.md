@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**48.7%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:28 UTC.
+**49.4%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:28 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -23,7 +23,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | Temporary traffic regulations and coordinated communal texts | local/<commune>/ (rtc, tc) | 1.0% | 0 of 1,791 acts · 0.0% | as published in the Mémorial | planned |
 | Communal regulations in full (each commune's own register) | local/<commune>/reglements/ | 3.0% | target to be counted | each commune's published regulations, where it publishes them | planned |
 | **Case law** | | | | | |
-| Cour constitutionnelle | acc/ | 3.0% | 0 of 209 acts · 0.0% | the judgments as published in the Mémorial A | planned |
+| Cour constitutionnelle | acc/ | 3.0% | 49 of 209 acts (49 as metadata and link) · 23.4% | the judgments as published in the Mémorial A | collecting |
 | Juridictions administratives | jurisprudence/admin/ | 3.0% | 0 of 422 acts · 0.0% | the decisions as published (anonymised by the courts) | planned |
 | Cour de cassation and other judicial courts | jurisprudence/judiciaire/ | 4.0% | 0 of 1 acts · 0.0% | decisions as anonymised by the courts (justice.public.lu); others as metadata and link | planned |
 | **Oversight and advice** | | | | | |
