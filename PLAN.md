@@ -16,7 +16,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | **Ministerial and authority acts** | | | | | |
 | Règlements ministériels | rmin/ | 6.1% | 1,215 of 6,106 acts (1,215 as metadata and link) · 19.9% | as the laws | collecting |
 | Arrêtés ministériels | amin/ | 4.0% | 5,174 of 12,766 acts (5,174 as metadata and link) · 40.5% | as the laws; individual decisions about named persons as metadata and link only | collecting |
-| Circulars, instructions and decisions | cmin/, imin/, dmin/ | 1.0% | 1,318 of 1,678 acts (1,318 as metadata and link) · 78.5% | as the laws | collecting |
+| Circulars, instructions and decisions | cmin/, imin/, dmin/ | 1.0% | 1,323 of 1,678 acts (1,323 as metadata and link) · 78.8% | as the laws | collecting |
 | CSSF, BCL and ILR regulations, internal rules | rcsf/, rbcl/, rilr/, ri/ | 3.0% | 0 of 801 acts · 0.0% | as published in the Mémorial | planned |
 | **Local acts** | | | | | |
 | Règlements communaux (Mémorial B notices of the 100 communes) | local/<commune>/ | 4.0% | 0 of 33,351 acts · 0.0% | the Mémorial B notice of each communal regulation, by commune and date | planned |
