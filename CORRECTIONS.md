@@ -91,3 +91,13 @@ that added them stay. Laws adopted before 1926 that name persons stay, as histor
 | `loi/1947/07/23/n1` | 1947-07-23 |
 | `loi/1950/03/22/n3` | 1950-03-22 |
 | `loi/1959/06/11/n1` | 1959-06-11 |
+
+## 2026-11-13: ten scanned Cour de cassation judgments (1971-1982) removed
+
+Commit: "Cour de cassation : 10 arrêts de 1971 à 1982 retirés (texte OCR de scans)", by Lexifina.
+
+The first decisions taken from the judiciary's open data (data.public.lu) included ten judgments of 1971 to 1982 whose
+PDFs are scans: their text layer is OCR, full of misread characters ("Messiei^s", "oassatxon"), not the text as decided.
+They were removed from the tree the same day and stay listed in `data/jurisprudence/cour-de-cassation.csv` with their
+metadata and link. A PDF with an image on (nearly) every page is now listed, never committed.
+

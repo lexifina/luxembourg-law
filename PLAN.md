@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**53.2%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:42 UTC.
+**53.8%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:54 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -25,9 +25,9 @@ This is the plan for this repository, part by part, with what is published so fa
 | **Case law** | | | | | |
 | Cour constitutionnelle | acc/ | 3.0% | 49 of 209 acts (49 as metadata and link) · 23.4% | the judgments as published in the Mémorial A | collecting |
 | Juridictions administratives | jurisprudence/admin/ | 3.0% | 0 of 422 acts · 0.0% | the decisions as published (anonymised by the courts) | planned |
-| Cour de cassation and other judicial courts | jurisprudence/judiciaire/ | 4.0% | 0 of 1 acts · 0.0% | decisions as anonymised by the courts (justice.public.lu); others as metadata and link | planned |
+| Cour de cassation and other judicial courts | jurisprudence/<court>/ | 4.0% | 654 of 75,001 acts (92 as metadata and link) · 0.9% | the courts' own open data (data.public.lu, CC BY-ND): pseudonymised decisions verbatim; scanned ones as metadata and link; target estimated | collecting |
 | **Oversight and advice** | | | | | |
-| Conseil d'État opinions, Cour des comptes, Médiateur | avis/ | 2.0% | 0 of 2 acts · 0.0% | official texts as published | planned |
+| Conseil d'État opinions, Cour des comptes, Médiateur | avis/conseil-etat/ | 2.0% | 1,928 of 7,336 acts (15 as metadata and link) · 26.3% | the Conseil d'État's own open data (data.public.lu, CC BY-ND), each opinion verbatim; Cour des comptes and Médiateur planned | collecting |
 | **EU and international** | | | | | |
 | Treaties, conventions, protocols | conv/, prot/, acco/ | 3.0% | 172 of 552 acts (172 as metadata and link) · 31.2% | as published in the Mémorial A; the approving laws are in loi/ | collecting |
 | EU transposition links | data/eu-transposition.csv | 3.0% | 3,354 of 3,354 records · 100.0% | Legilux's transposition records (jolux:transposes) for each act | done |

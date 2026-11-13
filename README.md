@@ -25,6 +25,8 @@ Legilux's own counts; [`TERMS.md`](TERMS.md) records the licences and how person
 | `data/actes/<kind>.csv` | every act handled: with its text on `main`, or with metadata and the official link only |
 | `data/eu-transposition.csv` | which act transposes which EU directive (Legilux's transposition records) |
 | `data/chambre/projets-et-propositions-de-loi.csv` | the bills filed at the Chambre des Députés since 1965 (not law) |
+| `jurisprudence/<court>/<yyyy>/<mm>/` | decisions of the judicial courts as the Administration judiciaire publishes them, pseudonymised by it (CC BY-ND): the text layer of each PDF, verbatim; listed in `data/jurisprudence/<court>.csv` |
+| `avis/conseil-etat/<yyyy>/<mm>/` | opinions of the Conseil d'État on bills and draft regulations (not law), verbatim; listed in `data/avis/conseil-etat.csv` |
 
 - One file per article (`texte.md` for an act printed without articles). An act never consolidated is its text as
   published, credited to the act itself and dated its entry into force; an act in force that Legilux consolidates is
@@ -35,6 +37,8 @@ Legilux's own counts; [`TERMS.md`](TERMS.md) records the licences and how person
 - Listed with metadata and link only, never as text: acts Legilux has only as a scanned Mémorial issue (no XML), acts
   about named private persons (appointments, decorations, naturalisations, changes of name; their titles are left out
   too), and acts not yet in force.
+- Decisions and opinions printed from a scan (one image per page) are listed, not committed: their text layer is OCR,
+  not the text as decided.
 - Before each act is committed, every word of Legilux's XML for it (struck-through text and notes aside) is checked to
   be in its files, in order; an act that fails is listed, not committed.
 
