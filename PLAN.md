@@ -2,13 +2,13 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**26.2%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:10 UTC.
+**34.8%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:21 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
 | **Primary legislation** | | | | | |
 | Constitution | constitution/1868/10/17/n1/ | 8.1% | 1 of 1 acts · 100.0% | every consolidated version since 1868, each change credited to the law that made it | done |
-| Laws (in force and repealed) | loi/ | 24.2% | 6,917 of 9,265 acts (13 as metadata and link) · 74.7% | the text as published in the Mémorial, or the latest consolidated text; repealed laws leave the record on the day they cease to be in force | collecting |
+| Laws (in force and repealed) | loi/ | 24.2% | 9,038 of 9,265 acts (1,835 as metadata and link) · 97.5% | the text as published in the Mémorial, or the latest consolidated text; repealed laws leave the record on the day they cease to be in force | collecting |
 | **Government secondary legislation** | | | | | |
 | Règlements grand-ducaux | rgd/ | 14.1% | 0 of 15,402 acts · 0.0% | as the laws | planned |
 | Arrêtés grand-ducaux and royaux grand-ducaux, arrêtés | agd/, argd/, a/ | 5.1% | 0 of 19,014 acts · 0.0% | as the laws; acts about named persons (appointments, decorations, naturalisations) as metadata and link only | planned |
@@ -30,7 +30,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | Conseil d'État opinions, Cour des comptes, Médiateur | avis/ | 2.0% | 0 of 2 acts · 0.0% | official texts as published | planned |
 | **EU and international** | | | | | |
 | Treaties, conventions, protocols | conv/, prot/, acco/ | 3.0% | 0 of 552 acts · 0.0% | as published in the Mémorial A; the approving laws are in loi/ | planned |
-| EU transposition links | data/eu-transposition.csv | 3.0% | target to be counted | Legilux's transposition records (jolux:transposes) for each act | planned |
+| EU transposition links | data/eu-transposition.csv | 3.0% | 3,354 of 3,354 records · 100.0% | Legilux's transposition records (jolux:transposes) for each act | done |
 | **Parliament** | | | | | |
 | Bills and parliamentary resolutions (not law) | projets/, res/ | 3.5% | 0 of 13 acts · 0.0% | Chamber of Deputies bills and their stages, labelled "not law"; resolutions as published | planned |
 | **Publications** | | | | | |
