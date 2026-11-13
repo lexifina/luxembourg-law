@@ -27,6 +27,19 @@ wording that reserved reproduction to written permission; the record is not buil
 data above, whose licence is explicit. The website is linked from every commit (`Source:`) as the place to read the
 official text.
 
+## Chambre des Députés: CC0
+
+`data/chambre/` comes from the Chambre des Députés' own datasets on data.public.lu (organisation 627e56d3a9bc6b2dd946a3ea),
+published under CC0 1.0. The bills there are not law.
+
+## Courts and Conseil d'État (not yet in the record)
+
+The anonymised decisions of the judicial courts (data.public.lu, organisation "Administration judiciaire") and the
+opinions of the Conseil d'État (dataset "avis-du-conseil-detat") are published under CC BY-ND 4.0: they may be
+reproduced as published, with attribution, but not adapted. If they are added, they will be added verbatim, one file per
+decision or opinion. The courts' own websites (justice.public.lu, ja.public.lu) are not crawled: the first answers
+automated requests with a captcha and the second's robots.txt disallows all crawling.
+
 ## Personal data
 
 Legilux publishes acts that concern named private persons (appointments, decorations, naturalisations, individual

@@ -13,21 +13,30 @@ Two Luxembourg acts as a git repository: the **Constitution** (from the text of 
 
 ## Now growing to every act Legilux publishes (from 13 November 2026)
 
-The record is being extended, in daily pushes, from the Constitution and the laws in force to every kind of act in the
-Mémorial that Legilux's open data holds: repealed laws, règlements grand-ducaux, arrêtés grand-ducaux, ministerial
-regulations and orders, CSSF/BCL/ILR regulations, treaties, Cour constitutionnelle judgments, and the communal
-regulations of the 100 communes. **[`PLAN.md`](PLAN.md)** lists every part with its progress against Legilux's own
-counts; [`TERMS.md`](TERMS.md) records the licence (CC BY 4.0) and how personal data is handled.
+The record is being extended, in pushes every few minutes, from the Constitution and the laws in force to every kind of
+act in the Mémorial that Legilux's open data holds. **[`PLAN.md`](PLAN.md)** lists every part with its progress against
+Legilux's own counts; [`TERMS.md`](TERMS.md) records the licences and how personal data is handled.
 
-- Each act is one commit, in a folder named by its ELI (`rgd/2020/03/18/a165/`, `amin/...`, `loi/...`), one file per
-  article (`texte.md` for an act printed without articles), credited to the act itself and dated its entry into force;
-  or, where Legilux has a consolidated version of an act in force, the latest one, credited to no act (`Kind: publisher`).
+| Folder | What |
+| --- | --- |
+| `loi/`, `rgd/`, `agd/`, `argd/`, `a/`, `amin/`, `rmin/`, `rcsf/`, `rbcl/`, `conv/`, `acc/` ... | acts of the Mémorial A, one folder per act named by its ELI (`rgd/2020/03/18/a165/`) |
+| `memorial-b/<kind>/` | acts of the Mémorial B (administrative publications), whose numbers can repeat the Mémorial A's |
+| `local/<commune>/<kind>/` | communal regulations (`rc`) and temporary traffic regulations (`rtc`), by the commune the notice names |
+| `data/actes/<kind>.csv` | every act handled: with its text on `main`, or with metadata and the official link only |
+| `data/eu-transposition.csv` | which act transposes which EU directive (Legilux's transposition records) |
+| `data/chambre/projets-et-propositions-de-loi.csv` | the bills filed at the Chambre des Députés since 1965 (not law) |
+
+- One file per article (`texte.md` for an act printed without articles). An act never consolidated is its text as
+  published, credited to the act itself and dated its entry into force; an act in force that Legilux consolidates is
+  its latest consolidated text, credited to no act (`Kind: publisher`).
 - A repealed act is committed with its text as published, then removed by a second commit on the day Legilux says it
   ceased to be in force, credited to the repealing act where Legilux names exactly one (`Repealed-by:`), else to the
-  publisher (`Kind: repeal`). `git log --all -- <folder>` and `tools/en_vigueur_au.py <day> <folder>` show it as it stood.
-- Every act handled is listed in `data/actes/<kind>.csv`: with its text on `main`, or with metadata and the official
-  link only where Legilux has no XML text (old acts kept as scanned PDF) or where the act concerns named private persons
-  (appointments, decorations, naturalisations; their titles are left out too).
+  publisher (`Kind: repeal`). `tools/en_vigueur_au.py <day> <folder>` shows it as it stood on a day.
+- Listed with metadata and link only, never as text: acts Legilux has only as a scanned Mémorial issue (no XML), acts
+  about named private persons (appointments, decorations, naturalisations, changes of name; their titles are left out
+  too), and acts not yet in force.
+- Before each act is committed, every word of Legilux's XML for it (struck-through text and notes aside) is checked to
+  be in its files, in order; an act that fails is listed, not committed.
 
 ## A lawyer's questions as git commands
 
