@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**46.9%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:26 UTC.
+**47.6%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:27 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -16,7 +16,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | **Ministerial and authority acts** | | | | | |
 | Règlements ministériels | rmin/ | 6.1% | 1,215 of 6,106 acts (1,215 as metadata and link) · 19.9% | as the laws | collecting |
 | Arrêtés ministériels | amin/ | 4.0% | 5,174 of 12,766 acts (5,174 as metadata and link) · 40.5% | as the laws; individual decisions about named persons as metadata and link only | collecting |
-| Circulars, instructions and decisions | cmin/, imin/, dmin/ | 1.0% | 0 of 1,678 acts · 0.0% | as the laws | planned |
+| Circulars, instructions and decisions | cmin/, imin/, dmin/ | 1.0% | 1,243 of 1,678 acts (1,243 as metadata and link) · 74.1% | as the laws | collecting |
 | CSSF, BCL and ILR regulations, internal rules | rcsf/, rbcl/, rilr/, ri/ | 3.0% | 0 of 801 acts · 0.0% | as published in the Mémorial | planned |
 | **Local acts** | | | | | |
 | Règlements communaux (Mémorial B notices of the 100 communes) | local/<commune>/ | 4.0% | 0 of 33,351 acts · 0.0% | the Mémorial B notice of each communal regulation, by commune and date | planned |
