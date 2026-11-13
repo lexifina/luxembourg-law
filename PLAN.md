@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**34.8%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:21 UTC.
+**37.4%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:22 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -10,7 +10,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | Constitution | constitution/1868/10/17/n1/ | 8.1% | 1 of 1 acts · 100.0% | every consolidated version since 1868, each change credited to the law that made it | done |
 | Laws (in force and repealed) | loi/ | 24.2% | 9,038 of 9,265 acts (1,835 as metadata and link) · 97.5% | the text as published in the Mémorial, or the latest consolidated text; repealed laws leave the record on the day they cease to be in force | collecting |
 | **Government secondary legislation** | | | | | |
-| Règlements grand-ducaux | rgd/ | 14.1% | 0 of 15,402 acts · 0.0% | as the laws | planned |
+| Règlements grand-ducaux | rgd/ | 14.1% | 2,824 of 15,402 acts (2,824 as metadata and link) · 18.3% | as the laws | collecting |
 | Arrêtés grand-ducaux and royaux grand-ducaux, arrêtés | agd/, argd/, a/ | 5.1% | 0 of 19,014 acts · 0.0% | as the laws; acts about named persons (appointments, decorations, naturalisations) as metadata and link only | planned |
 | Government in Council, royal and other decrees | agc/, rgc/, dgc/, igc/, ar/, ord/, ordr/, ogd/, dec/, rap/, reex/, reg/, d/ | 1.5% | 0 of 1,395 acts · 0.0% | as the laws | planned |
 | **Ministerial and authority acts** | | | | | |
