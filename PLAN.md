@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**43.8%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:25 UTC.
+**43.9%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:25 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -12,7 +12,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | **Government secondary legislation** | | | | | |
 | Règlements grand-ducaux | rgd/ | 14.1% | 2,824 of 15,402 acts (2,824 as metadata and link) · 18.3% | as the laws | collecting |
 | Arrêtés grand-ducaux and royaux grand-ducaux, arrêtés | agd/, argd/, a/ | 5.1% | 9,687 of 19,014 acts (9,687 as metadata and link) · 50.9% | as the laws; acts about named persons (appointments, decorations, naturalisations) as metadata and link only | collecting |
-| Government in Council, royal and other decrees | agc/, rgc/, dgc/, igc/, ar/, ord/, ordr/, ogd/, dec/, rap/, reex/, reg/, d/ | 1.5% | 363 of 1,395 acts (363 as metadata and link) · 26.0% | as the laws | collecting |
+| Government in Council, royal and other decrees | agc/, rgc/, dgc/, igc/, ar/, ord/, ordr/, ogd/, dec/, rap/, reex/, reg/, d/ | 1.5% | 415 of 1,395 acts (415 as metadata and link) · 29.7% | as the laws | collecting |
 | **Ministerial and authority acts** | | | | | |
 | Règlements ministériels | rmin/ | 6.1% | 0 of 6,106 acts · 0.0% | as the laws | planned |
 | Arrêtés ministériels | amin/ | 4.0% | 0 of 12,766 acts · 0.0% | as the laws; individual decisions about named persons as metadata and link only | planned |
