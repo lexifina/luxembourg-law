@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**39.0%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:23 UTC.
+**43.5%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:24 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -11,7 +11,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | Laws (in force and repealed) | loi/ | 24.2% | 9,038 of 9,265 acts (1,835 as metadata and link) · 97.5% | the text as published in the Mémorial, or the latest consolidated text; repealed laws leave the record on the day they cease to be in force | collecting |
 | **Government secondary legislation** | | | | | |
 | Règlements grand-ducaux | rgd/ | 14.1% | 2,824 of 15,402 acts (2,824 as metadata and link) · 18.3% | as the laws | collecting |
-| Arrêtés grand-ducaux and royaux grand-ducaux, arrêtés | agd/, argd/, a/ | 5.1% | 6,354 of 19,014 acts (6,354 as metadata and link) · 33.4% | as the laws; acts about named persons (appointments, decorations, naturalisations) as metadata and link only | collecting |
+| Arrêtés grand-ducaux and royaux grand-ducaux, arrêtés | agd/, argd/, a/ | 5.1% | 9,687 of 19,014 acts (9,687 as metadata and link) · 50.9% | as the laws; acts about named persons (appointments, decorations, naturalisations) as metadata and link only | collecting |
 | Government in Council, royal and other decrees | agc/, rgc/, dgc/, igc/, ar/, ord/, ordr/, ogd/, dec/, rap/, reex/, reg/, d/ | 1.5% | 0 of 1,395 acts · 0.0% | as the laws | planned |
 | **Ministerial and authority acts** | | | | | |
 | Règlements ministériels | rmin/ | 6.1% | 0 of 6,106 acts · 0.0% | as the laws | planned |
@@ -32,7 +32,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | Treaties, conventions, protocols | conv/, prot/, acco/ | 3.0% | 0 of 552 acts · 0.0% | as published in the Mémorial A; the approving laws are in loi/ | planned |
 | EU transposition links | data/eu-transposition.csv | 3.0% | 3,354 of 3,354 records · 100.0% | Legilux's transposition records (jolux:transposes) for each act | done |
 | **Parliament** | | | | | |
-| Bills and parliamentary resolutions (not law) | projets/, res/ | 3.5% | 0 of 13 acts · 0.0% | Chamber of Deputies bills and their stages, labelled "not law"; resolutions as published | planned |
+| Bills and parliamentary resolutions (not law) | data/chambre/projets-et-propositions-de-loi.csv, res/ | 3.5% | 4,593 of 4,606 bills and acts · 99.7% | Chamber of Deputies bills and their stages, labelled "not law"; resolutions as published | collecting |
 | **Publications** | | | | | |
 | Mémorial publications: notices, corrigenda, republished texts, miscellany | pa/, rect/, trep/, div/, rv/, st/, rtde/, rtf/ | 3.0% | 0 of 49,454 acts · 0.0% | as published; notices about named persons as metadata and link only | planned |
 
