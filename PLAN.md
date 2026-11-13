@@ -32,7 +32,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | Treaties, conventions, protocols | conv/, prot/, acco/ | 3.0% | 172 of 552 acts (172 as metadata and link) · 31.2% | as published in the Mémorial A; the approving laws are in loi/ | collecting |
 | EU transposition links | data/eu-transposition.csv | 3.0% | 3,354 of 3,354 records · 100.0% | Legilux's transposition records (jolux:transposes) for each act | done |
 | **Parliament** | | | | | |
-| Bills and parliamentary resolutions (not law) | data/chambre/projets-et-propositions-de-loi.csv, res/ | 3.5% | 4,593 of 4,606 bills and acts · 99.7% | Chamber of Deputies bills and their stages, labelled "not law"; resolutions as published | collecting |
+| Bills and parliamentary resolutions (not law) | data/chambre/projets-et-propositions-de-loi.csv, res/ | 3.5% | 4,595 of 4,606 bills and acts (2 as metadata and link) · 99.8% | Chamber of Deputies bills and their stages, labelled "not law"; resolutions as published | collecting |
 | **Publications** | | | | | |
 | Mémorial publications: notices, corrigenda, republished texts, miscellany | pa/, rect/, trep/, div/, rv/, st/, rtde/, rtf/ | 3.0% | 0 of 49,454 acts · 0.0% | as published; notices about named persons as metadata and link only | planned |
 
