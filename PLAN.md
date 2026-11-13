@@ -2,13 +2,13 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**52.6%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:34 UTC.
+**53.2%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:42 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
 | **Primary legislation** | | | | | |
 | Constitution | constitution/1868/10/17/n1/ | 8.1% | 1 of 1 acts · 100.0% | every consolidated version since 1868, each change credited to the law that made it | done |
-| Laws (in force and repealed) | loi/ | 24.2% | 9,038 of 9,265 acts (1,835 as metadata and link) · 97.5% | the text as published in the Mémorial, or the latest consolidated text; repealed laws leave the record on the day they cease to be in force | collecting |
+| Laws (in force and repealed) | loi/ | 24.2% | 9,264 of 9,265 acts (1,938 as metadata and link) · 100.0% | the text as published in the Mémorial, or the latest consolidated text; repealed laws leave the record on the day they cease to be in force | done |
 | **Government secondary legislation** | | | | | |
 | Règlements grand-ducaux | rgd/ | 14.1% | 2,824 of 15,402 acts (2,824 as metadata and link) · 18.3% | as the laws | collecting |
 | Arrêtés grand-ducaux and royaux grand-ducaux, arrêtés | agd/, argd/, a/ | 5.1% | 9,687 of 19,014 acts (9,687 as metadata and link) · 50.9% | as the laws; acts about named persons (appointments, decorations, naturalisations) as metadata and link only | collecting |
