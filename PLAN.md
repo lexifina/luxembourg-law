@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**48.5%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:28 UTC.
+**48.7%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:28 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -29,7 +29,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | **Oversight and advice** | | | | | |
 | Conseil d'État opinions, Cour des comptes, Médiateur | avis/ | 2.0% | 0 of 2 acts · 0.0% | official texts as published | planned |
 | **EU and international** | | | | | |
-| Treaties, conventions, protocols | conv/, prot/, acco/ | 3.0% | 125 of 552 acts (125 as metadata and link) · 22.6% | as published in the Mémorial A; the approving laws are in loi/ | collecting |
+| Treaties, conventions, protocols | conv/, prot/, acco/ | 3.0% | 168 of 552 acts (168 as metadata and link) · 30.4% | as published in the Mémorial A; the approving laws are in loi/ | collecting |
 | EU transposition links | data/eu-transposition.csv | 3.0% | 3,354 of 3,354 records · 100.0% | Legilux's transposition records (jolux:transposes) for each act | done |
 | **Parliament** | | | | | |
 | Bills and parliamentary resolutions (not law) | data/chambre/projets-et-propositions-de-loi.csv, res/ | 3.5% | 4,593 of 4,606 bills and acts · 99.7% | Chamber of Deputies bills and their stages, labelled "not law"; resolutions as published | collecting |
