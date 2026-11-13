@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**49.8%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:30 UTC.
+**51.8%** of the plan is published, weighted by how binding each source is and how often it is used. Updated 2026-11-13 02:34 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -19,7 +19,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | Circulars, instructions and decisions | cmin/, imin/, dmin/ | 1.0% | 1,323 of 1,678 acts (1,323 as metadata and link) · 78.8% | as the laws | collecting |
 | CSSF, BCL and ILR regulations, internal rules | rcsf/, rbcl/, rilr/, ri/ | 3.0% | 26 of 801 acts (26 as metadata and link) · 3.2% | as published in the Mémorial | collecting |
 | **Local acts** | | | | | |
-| Règlements communaux (Mémorial B notices of the 100 communes) | local/<commune>/ | 4.0% | 0 of 33,351 acts · 0.0% | the Mémorial B notice of each communal regulation, by commune and date | planned |
+| Règlements communaux (Mémorial B notices of the 100 communes) | local/<commune>/ | 4.0% | 16,554 of 33,351 acts (16,554 as metadata and link) · 49.6% | the Mémorial B notice of each communal regulation, by commune and date | collecting |
 | Temporary traffic regulations and coordinated communal texts | local/<commune>/ (rtc, tc) | 1.0% | 435 of 1,791 acts (435 as metadata and link) · 24.3% | as published in the Mémorial | collecting |
 | Communal regulations in full (each commune's own register) | local/<commune>/reglements/ | 3.0% | target to be counted | each commune's published regulations, where it publishes them | planned |
 | **Case law** | | | | | |
