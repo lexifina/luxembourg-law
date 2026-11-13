@@ -34,7 +34,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | **Parliament** | | | | | |
 | Bills and parliamentary resolutions (not law) | data/chambre/projets-et-propositions-de-loi.csv, res/ | 3.5% | 4,595 of 4,606 bills and acts (2 as metadata and link) · 99.8% | Chamber of Deputies bills and their stages, labelled "not law"; resolutions as published | collecting |
 | **Publications** | | | | | |
-| Mémorial publications: notices, corrigenda, republished texts, miscellany | pa/, rect/, trep/, div/, rv/, st/, rtde/, rtf/ | 3.0% | 801 of 49,454 acts (801 as metadata and link) · 1.6% | as published; notices about named persons as metadata and link only | collecting |
+| Mémorial publications: notices, corrigenda, republished texts, miscellany | pa/, rect/, trep/, div/, rv/, st/, rtde/, rtf/ | 3.0% | 864 of 49,454 acts (864 as metadata and link) · 1.7% | as published; notices about named persons as metadata and link only | collecting |
 
 Targets are Legilux's own counts of acts of each kind (its SPARQL endpoint, 2026-11-13). Progress counts what is on `main`: acts committed as text, plus acts listed in `data/actes/<kind>.csv` with metadata and the official link only (acts naming private persons, acts Legilux has only as a scanned PDF, acts not yet in force). A repealed act is committed with its text and then removed on the day it ceased to be in force, so it is in the history, not in the latest tree. Folders not on `main` yet will appear as the parts are published.
 
