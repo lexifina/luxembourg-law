@@ -11,6 +11,24 @@ Two Luxembourg acts as a git repository: the **Constitution** (from the text of 
 
 *Français : [plus bas](#français).*
 
+## Now growing to every act Legilux publishes (from 13 November 2026)
+
+The record is being extended, in daily pushes, from the Constitution and the laws in force to every kind of act in the
+Mémorial that Legilux's open data holds: repealed laws, règlements grand-ducaux, arrêtés grand-ducaux, ministerial
+regulations and orders, CSSF/BCL/ILR regulations, treaties, Cour constitutionnelle judgments, and the communal
+regulations of the 100 communes. **[`PLAN.md`](PLAN.md)** lists every part with its progress against Legilux's own
+counts; [`TERMS.md`](TERMS.md) records the licence (CC BY 4.0) and how personal data is handled.
+
+- Each act is one commit, in a folder named by its ELI (`rgd/2020/03/18/a165/`, `amin/...`, `loi/...`), one file per
+  article (`texte.md` for an act printed without articles), credited to the act itself and dated its entry into force;
+  or, where Legilux has a consolidated version of an act in force, the latest one, credited to no act (`Kind: publisher`).
+- A repealed act is committed with its text as published, then removed by a second commit on the day Legilux says it
+  ceased to be in force, credited to the repealing act where Legilux names exactly one (`Repealed-by:`), else to the
+  publisher (`Kind: repeal`). `git log --all -- <folder>` and `tools/en_vigueur_au.py <day> <folder>` show it as it stood.
+- Every act handled is listed in `data/actes/<kind>.csv`: with its text on `main`, or with metadata and the official
+  link only where Legilux has no XML text (old acts kept as scanned PDF) or where the act concerns named private persons
+  (appointments, decorations, naturalisations; their titles are left out too).
+
 ## A lawyer's questions as git commands
 
 | Question | Command |
