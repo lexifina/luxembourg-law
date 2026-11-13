@@ -40,3 +40,54 @@ repealed them); their spans are listed so that a reader of an earlier day knows 
 | `loi/2020/07/17/a624/art_3bis.md` | 2022-10-27..2023-06-30 | `complettel` |
 | `loi/2020/07/17/a624/art_3quater.md` | 2022-10-27..2023-06-30 | `dequarante-huit`, `devingt-quatre` |
 | `loi/2020/07/17/a624/art_9.md` | 2022-10-27..2023-03-31 | `applicationde` |
+
+## 2026-11-13: laws naming private persons removed from the current tree
+
+Commit: "Lois nommant des particuliers : 37 lois retirées de l'arbre (données personnelles)", by Lexifina.
+
+The laws in force added on 2026-10-28 and 2026-11-02 included 37 laws adopted in 1926 or later whose title names a
+private person: naturalisation laws ("accordant la naturalisation à M. ...") and laws applying the Constitution's
+article 11 exception in favour of one person. The record lists acts about named private persons with metadata and the
+official link only. These laws are removed from the current tree and listed in `data/actes/loi.csv` without their
+title; `data/textes-en-vigueur.csv` and `corpus.json` no longer name them. The history is not rewritten: the commits
+that added them stay. Laws adopted before 1926 that name persons stay, as historical public record.
+
+| Law | Adopted |
+|---|---|
+| `loi/1929/05/03/n2` | 1929-05-03 |
+| `loi/1930/07/29/n10` | 1930-07-29 |
+| `loi/1930/07/29/n11` | 1930-07-29 |
+| `loi/1930/07/29/n12` | 1930-07-29 |
+| `loi/1930/07/29/n14` | 1930-07-29 |
+| `loi/1930/07/29/n15` | 1930-07-29 |
+| `loi/1930/07/29/n16` | 1930-07-29 |
+| `loi/1930/07/29/n17` | 1930-07-29 |
+| `loi/1930/07/29/n18` | 1930-07-29 |
+| `loi/1930/07/29/n19` | 1930-07-29 |
+| `loi/1930/07/29/n2` | 1930-07-29 |
+| `loi/1930/07/29/n20` | 1930-07-29 |
+| `loi/1930/07/29/n21` | 1930-07-29 |
+| `loi/1930/07/29/n22` | 1930-07-29 |
+| `loi/1930/07/29/n23` | 1930-07-29 |
+| `loi/1930/07/29/n24` | 1930-07-29 |
+| `loi/1930/07/29/n26` | 1930-07-29 |
+| `loi/1930/07/29/n27` | 1930-07-29 |
+| `loi/1930/07/29/n28` | 1930-07-29 |
+| `loi/1930/07/29/n29` | 1930-07-29 |
+| `loi/1930/07/29/n3` | 1930-07-29 |
+| `loi/1930/07/29/n30` | 1930-07-29 |
+| `loi/1930/07/29/n31` | 1930-07-29 |
+| `loi/1930/07/29/n32` | 1930-07-29 |
+| `loi/1930/07/29/n33` | 1930-07-29 |
+| `loi/1930/07/29/n34` | 1930-07-29 |
+| `loi/1930/07/29/n35` | 1930-07-29 |
+| `loi/1930/07/29/n36` | 1930-07-29 |
+| `loi/1930/07/29/n4` | 1930-07-29 |
+| `loi/1930/07/29/n5` | 1930-07-29 |
+| `loi/1930/07/29/n6` | 1930-07-29 |
+| `loi/1930/07/29/n7` | 1930-07-29 |
+| `loi/1930/07/29/n8` | 1930-07-29 |
+| `loi/1930/07/29/n9` | 1930-07-29 |
+| `loi/1947/07/23/n1` | 1947-07-23 |
+| `loi/1950/03/22/n3` | 1950-03-22 |
+| `loi/1959/06/11/n1` | 1959-06-11 |
