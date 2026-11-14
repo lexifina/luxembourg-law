@@ -1,105 +1,90 @@
-# Le droit luxembourgeois, modification par modification
+# Luxembourg : l’histoire du droit dans git
 
-**Français** · [English](README.en.md)
+**Français** · **[Or read it in English](README.en.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/fr/effort-dark.svg">
 <img alt="Le droit luxembourgeois dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
 </picture>
 
-Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de chaque pays : ce dépôt contient le droit national luxembourgeois, que global-law lit dans `luxembourg/national/acts/`.
+Le droit luxembourgeois sous forme d’historique git : un fichier par article, un commit par version au jour de son entrée en vigueur, et pour auteur de chaque commit l’acte qui a fait la modification. `git blame` nomme l’acte à l’origine de chaque article ; `git log` énumère chaque modification d’un article ; le choix d’une date donne le texte en vigueur ce jour-là.
 
-Deux actes luxembourgeois sous forme de dépôt git : la **Constitution** (du texte de 1868, à travers 38 versions consolidées, jusqu’en 2026, y compris la Constitution révisée entrée en vigueur le 1er juillet 2023) et la **loi Covid-19 du 17 juillet 2020** (32 versions). Chaque loi modificative constitue un commit, attribué à cette loi et daté du jour où ses modifications ont pris effet, à midi, heure de Luxembourg. Le texte est le texte français publié par [Legilux](https://legilux.public.lu), le journal officiel du Grand-Duché.
+Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de chaque pays : ce dépôt contient le droit national luxembourgeois, que global-law lit dans `luxembourg/national/acts/`.
 
-## En cours d’extension à tous les actes publiés par Legilux (depuis le 13 novembre 2026)
+**Ce qu’il contient aujourd’hui :** la Constitution et 6 895 lois issues de Legilux, le journal officiel, avec toutes les versions de la Constitution depuis 1868 (39 textes) et de la loi Covid-19 du 17 juillet 2020 (33 textes) et le texte actuel des autres lois, ainsi que 431 lois abrogées dans l’historique ; 1 488 arrêts de la Cour de cassation ; 3 118 avis du Conseil d’État et une liste de 4 593 projets et propositions de loi, signalés comme n’étant pas du droit ; 3 354 relevés indiquant quel acte transpose quelle directive de l’UE ; et 55 449 autres actes du Mémorial, répertoriés avec leurs seules métadonnées et leur lien officiel. [`PLAN.md`](PLAN.md) énumère toutes les parties que ce dépôt doit contenir et l’avancement de chacune ; [`data/textes-en-vigueur.csv`](data/textes-en-vigueur.csv) répertorie les lois en vigueur, et `data/actes/<kind>.csv` tous les autres actes, par catégorie.
 
-Le registre est en cours d’extension, par des envois successifs toutes les quelques minutes, de la Constitution et des
-lois en vigueur à toutes les catégories d’actes du Mémorial que contiennent les données ouvertes de Legilux.
-**[`PLAN.md`](PLAN.md)** énumère chaque partie avec son avancement par rapport aux décomptes de Legilux ;
-[`TERMS.md`](TERMS.md) indique les licences et la manière dont les données à caractère personnel sont traitées.
+Chaque acte se trouve dans le dossier de son ELI, `<kind>/<année>/<mois>/<jour>/<numéro>/`, un fichier par article (`texte.md` pour un acte sans articles) : `constitution/1868/10/17/n1/` est la Constitution et `loi/2006/07/31/n2/` le Code du travail.
 
-| Dossier | Contenu |
-| --- | --- |
-| `loi/`, `rgd/`, `agd/`, `argd/`, `a/`, `amin/`, `rmin/`, `rcsf/`, `rbcl/`, `conv/`, `acc/` ... | actes du Mémorial A, un dossier par acte, nommé d’après son ELI (`rgd/2020/03/18/a165/`) |
-| `memorial-b/<kind>/` | actes du Mémorial B (publications administratives), dont les numéros peuvent reprendre ceux du Mémorial A |
-| `local/<commune>/<kind>/` | règlements communaux (`rc`) et règlements temporaires de circulation (`rtc`), classés selon la commune que nomme l’avis |
-| `data/actes/<kind>.csv` | tous les actes traités : avec leur texte sur `main`, ou avec leurs seules métadonnées et le lien officiel |
-| `data/eu-transposition.csv` | quel acte transpose quelle directive de l’UE (relevés de transposition de Legilux) |
-| `data/chambre/projets-et-propositions-de-loi.csv` | les projets et propositions de loi déposés à la Chambre des Députés depuis 1965 (ce n’est pas du droit) |
-| `jurisprudence/<court>/<yyyy>/<mm>/` | décisions des juridictions judiciaires telles que l’Administration judiciaire les publie, pseudonymisées par elle (CC BY-ND) : la couche texte de chaque PDF, à l’identique ; répertoriées dans `data/jurisprudence/<court>.csv` |
-| `avis/conseil-etat/<yyyy>/<mm>/` | avis du Conseil d’État sur les projets de loi et de règlement (ce n’est pas du droit), à l’identique ; répertoriés dans `data/avis/conseil-etat.csv` |
+Le texte est en français, tel que Legilux le publie. Les textes en allemand et en luxembourgeois et une traduction anglaise ne font pas partie de ce registre.
 
-- Un fichier par article (`texte.md` pour un acte imprimé sans articles). Un acte jamais consolidé figure avec son texte
-  tel que publié, attribué à l’acte lui-même et daté de son entrée en vigueur ; un acte en vigueur que Legilux consolide
-  figure avec son dernier texte consolidé, sans attribution à un acte (`Kind: publisher`).
-- Un acte abrogé fait l’objet d’un commit avec son texte tel que publié, puis est supprimé par un second commit le jour
-  où, selon Legilux, il a cessé d’être en vigueur, attribué à l’acte abrogatoire lorsque Legilux en nomme exactement un
-  (`Repealed-by:`), sinon à l’éditeur (`Kind: repeal`). `tools/en_vigueur_au.py <day> <folder>` le montre tel qu’il
-  était à une date donnée.
-- Répertoriés avec leurs seules métadonnées et leur lien, jamais sous forme de texte : les actes que Legilux ne possède
-  que sous la forme d’un numéro numérisé du Mémorial (sans XML), les actes concernant des personnes privées nommément
-  désignées (nominations, décorations, naturalisations, changements de nom ; leurs intitulés sont également omis) et
-  les actes qui ne sont pas encore en vigueur.
-- Les décisions et avis imprimés à partir d’une numérisation (une image par page) sont répertoriés, sans commit : leur
-  couche texte est le produit d’une reconnaissance optique de caractères (OCR), et non le texte tel que rendu.
-- Avant le commit de chaque acte, il est vérifié que chaque mot du XML de Legilux qui le concerne (hors texte barré et
-  notes) figure dans ses fichiers, dans l’ordre ; un acte qui échoue à ce contrôle est répertorié, sans commit.
-
-## Les questions d’un juriste, en commandes git
+## Les questions, en commandes git
 
 | Question | Commande |
 | --- | --- |
-| Que disait l’art. 32 de la Constitution le 1er janvier 1950 ? | `python tools/en_vigueur_au.py 1950-01-01 constitution art_32` |
-| L’ensemble de la loi Covid-19 au 1er mars 2021 | `python tools/en_vigueur_au.py 2021-03-01 covid` |
-| Quelle loi a écrit chaque ligne d’un article ? | `git blame constitution/1868/10/17/n1/art_15.md` |
-| Toutes les modifications d’un article, avec la loi qui en est à l’origine | `git log -p constitution/1868/10/17/n1/art_32.md` |
-| Tout ce qu’une loi a modifié | `git show loi/2016-10-18-n1` |
-| Toutes les lois qui ont modifié la loi Covid-19, dans l’ordre | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- loi/2020/07/17/a624` |
-| L’état d’un acte un jour où il a changé | `git checkout constitution/1989-07-14` |
-| Ce qu’aucune loi n’explique | `git log --grep='Kind: unexplained' --grep='Kind: typesetting'` |
+| Toutes les modifications de l’article 1er de la Constitution | `git log -p --word-diff -- constitution/1868/10/17/n1/art_1er.md` |
+| Quel acte a écrit chaque ligne de l’article 1er ? | `git blame constitution/1868/10/17/n1/art_1er.md` |
+| Toutes les versions de la Constitution, avec le jour de leur entrée en vigueur | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution/1868/10/17/n1` |
+| L’article 1er tel qu’en vigueur le 1er janvier 1990 | `python tools/en_vigueur_au.py 1990-01-01 constitution art_1er` |
 
-Les lois et leurs dates figurent dans [`lois.csv`](lois.csv) ; les articles de chaque acte, avec le nombre de modifications de chacun, figurent dans le `README.md` de son dossier.
+**En dehors de git**, nous mettons aussi ce registre à disposition du public, gratuitement :
 
-## Les dates, et celle que nous retenons
+- **[Interrogez Claude sur le droit luxembourgeois](https://global-law.lexifina.com/v1/try_claude?country=luxembourg)** : ouvre Claude avec une première question prête.
+- **[Interrogez ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=luxembourg)** : la même question dans ChatGPT.
+- **[Appelez l’API dans votre navigateur](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+annuel&jurisdictions=luxembourg)** : une recherche de « congé annuel » dans le droit luxembourgeois, renvoyée en JSON. La documentation est [ici](https://lexifina.com/api/global-law).
 
-Une loi luxembourgeoise est adoptée (`Adopted:`), publiée au Mémorial (`Published:`) et prend effet (par défaut le quatrième jour qui suit sa publication). **Les commits sont datés du jour à partir duquel le texte modifié s’applique**, soit la `dateApplicability` de Legilux pour la version consolidée : la date qui détermine quel texte régit une affaire. Chaque commit porte les autres dates sous forme de trailers, ainsi que `Law-in-force:` lorsque les métadonnées de Legilux relatives à la loi indiquent un autre jour.
+Les deux assistants lisent le registre par le connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
-**Git ne peut pas enregistrer de dates antérieures à 1970.** Les commits de 1868 à 1956 sont datés du 1970-01-01, à une seconde d’intervalle et dans l’ordre ; leur jour réel figure dans le trailer `In-force:` et dans les tags (`constitution/1948-05-14`). `tools/en_vigueur_au.py` lit `In-force:` et donne donc le bon texte pour n’importe quel jour.
+**Hébergez-le vous-même, simplement.** Il suffit de git et de Python, et les outils tournent sur votre machine :
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add luxembourg/national/acts
+python3 tools/law.py show 2026-01-01 luxembourg/national/acts/constitution/1868/10/17/n1/art_1er.md
+```
+
+Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+
+## Dates
+
+Chaque commit est daté à midi, heure de Luxembourg (Europe/Luxembourg), du jour où le texte est entré en vigueur, et porte ce jour dans son trailer `In-force:` :
+
+- pour la Constitution et la loi Covid-19, le jour à partir duquel s’applique chaque version consolidée (la `dateApplicability` de Legilux) ; les autres dates de la loi modificative figurent dans `Adopted:`, `Published:` et, lorsque Legilux indique un autre jour, `Law-in-force:` ;
+- pour toute autre loi, son entrée en vigueur (texte tel que publié) ou le jour à partir duquel s’applique son texte consolidé actuel ; une loi abrogée est supprimée par un second commit le jour où, selon Legilux, elle a cessé d’être en vigueur ; les arrêts et les avis sont datés du jour où ils ont été rendus ;
+- git ne peut pas enregistrer de dates antérieures à 1970 : les 2 514 commits antérieurs (des lois depuis 1790) sont donc datés du 1970-01-01, le jour réel figurant dans `In-force:`. Interrogez une date avec `tools/en_vigueur_au.py`, et non avec `git log --before`.
+
+Chaque modification de la Constitution et de la loi Covid-19 est attribuée à la loi qui l’a faite (`Loi du 15 mai 1919 (n1)`), d’après les marqueurs et relevés de modification du XML de Legilux. Un texte tel que publié est attribué à la loi elle-même ; un texte consolidé actuel, une abrogation sans acte abrogatoire unique et les modifications qu’aucune loi n’explique (`Kind: typesetting`, `Kind: unexplained`) à `Service central de législation (Legilux)` ; les arrêts et les avis à leur juridiction ou au Conseil d’État. La Constitution de 2023 a renuméroté tous les articles : elle forme un seul commit, attribué à la loi A 29 du 17 janvier 2023, et à partir du 1er juillet 2023 `art_32.md` est le nouvel article 32, et non l’ancien.
 
 ## Comment il est vérifié
 
-`tools/check_repo.py` relit depuis git chacun des 72 textes au jour à partir duquel il s’applique et compare chaque fichier d’article, octet par octet, au texte reconstruit à partir du XML de Legilux (après avoir vérifié le sha256 du XML par rapport à [`data/versions.json`](data/versions.json)). Un second contrôle confirme que chaque mot de chaque article du XML, hors texte barré et notes, figure dans le fichier, dans l’ordre. La construction est déterministe : reconstruite à partir des mêmes données, elle donne les mêmes empreintes de commit. Voir [`REPRODUCE.md`](REPRODUCE.md).
-
-## Ce que signifie « auteur »
-
-L’auteur d’un commit est la loi qui a fait la modification, désignée par sa nature, sa date et son ELI (`Loi du 15 mai 1919 (n1)`), avec une adresse formée à partir de son ELI et qui ne peut pas exister (`loi-1919-05-15-n1@legilux.invalid`). Ainsi, `git blame` nomme, pour chaque ligne, la loi qui l’a écrite en dernier. Les données propres à chaque version indiquent quelle loi a modifié quel article : les marqueurs de modification que Legilux imprime autour des mots modifiés, et les destinations de ses relevés de modification. Lorsqu’aucun marqueur ni relevé ne relie l’article, mais qu’exactement une loi a pris effet ce jour-là, le commit indique que la modification est attribuée **par la seule date** (`Evidence: … date`).
-
-Les textes d’origine ont pour auteur l’acte lui-même (`Constitution du 17 octobre 1868`). Les modifications qu’aucune loi n’explique ont pour auteur `Service central de législation (Legilux)` et sont étiquetées : `Kind: typesetting` lorsque seuls les espacements ont changé, `Kind: unexplained` dans les autres cas (par exemple « Roi Grand-Duc » devenu « Grand-Duc » dans trois articles en 2020, alors que la seule loi entrée en vigueur ce jour-là révisait l’art. 95ter).
-
-**La Constitution de 2023** constitue un seul commit, étiqueté comme remplacement, attribué à la loi A 29 du 17 janvier 2023, dont l’article 4 dispose que le texte qui y est annexé « constitue le texte de la Constitution ». Il nomme les trois autres lois de ce jour. La révision a renuméroté tous les articles : `art_32.md` après le 1er juillet 2023 n’est donc pas l’ancien art. 32. La consolidation de Legilux attribue l’ensemble du texte à une note unique nommant la loi A 26 ; le registre ne la suit pas.
+- `tools/check_repo.py` relit depuis git les 72 textes de la Constitution et de la loi Covid-19 au jour à partir duquel chacun s’applique et compare chaque fichier d’article, octet par octet, au texte reconstruit à partir du XML de Legilux (dont le sha256 est vérifié par rapport à `data/versions.json`), puis mot par mot ; les résultats figurent dans [`REPRODUCE.md`](REPRODUCE.md).
+- Avant le commit de tout autre acte, chaque mot du XML de Legilux qui le concerne (hors texte barré et notes) doit figurer dans ses fichiers, dans l’ordre ; un acte qui échoue est répertorié, sans commit.
+- Les arrêts et les avis sont la couche texte du PDF publié, à l’identique ; ceux qui sont numérisés, dont le texte serait issu d’une OCR, sont répertoriés, sans commit.
+- L’historique ne fait que s’allonger : une correction est un commit à part entière (`Kind: correction`), consigné dans [`CORRECTIONS.md`](CORRECTIONS.md).
 
 ## Ce qu’il ne montre pas
 
-- Les intitulés de chapitres et de sections (ils figurent dans le `README.md` de chaque acte, et non dans l’historique), les notes et le texte barré.
-- Tout acte autre que ces deux-là. La plupart des lois ordinaires n’ont que leurs deux ou trois dernières consolidations dans les données de Legilux.
-- Les textes en allemand et en luxembourgeois.
-- L’auteur des mots qu’une version ultérieure reproduit inchangés sous un nouveau numéro après la renumérotation de 2023.
+- **Les versions antérieures de la plupart des lois.** Hormis la Constitution et la loi Covid-19, chaque loi a un seul texte, son texte consolidé actuel ou, lorsque Legilux ne l’a jamais consolidée, le texte tel que publié ; les lois modificatives ne sont pas encore retracées.
+- **La plupart des règlements et autres actes sous forme de texte.** Les 55 449 actes répertoriés avec métadonnées et lien (règlements grand-ducaux, arrêtés, actes ministériels, règlements communaux, avis du Mémorial) sont pour la plupart des actes que Legilux ne possède que sous forme de pages numérisées du Mémorial ; Legilux compte 15 402 règlements grand-ducaux et 33 351 règlements communaux.
+- **Les actes concernant des personnes privées nommément désignées** adoptés depuis 1926 (nominations, décorations, naturalisations, changements de nom) : répertoriés sans leur intitulé, et non sous forme de texte.
+- **La plus grande partie de la jurisprudence.** Des décisions des juridictions judiciaires (environ 75 000, estimation), seules celles de la Cour de cassation figurent ici ; celles des juridictions administratives (422) et de la Cour constitutionnelle (209, dont 49 répertoriées) n’y figurent pas encore sous forme de texte (voir `PLAN.md`).
+- **Les notes et le texte barré**, qui sont omis des fichiers d’articles.
 
-Ce dépôt est un outil de recherche. Seul le Journal officiel (Mémorial) fait foi ; les textes consolidés de Legilux, et donc ce dépôt, ne font pas foi.
+## Sources
 
-## Comment il est construit
-
-`tools/build.py` lit le point d’accès SPARQL de Legilux et le XML Akoma Ntoso de chaque version, compare les versions successives article par article, attribue chaque modification et écrit les commits. Aucun modèle d’IA n’intervient dans sa construction ni dans sa vérification. Chaque étape, commande et décision figure dans [`REPRODUCE.md`](REPRODUCE.md).
+| Source | Nature | Versions antérieures | Remarques |
+| --- | --- | --- | --- |
+| Données ouvertes de [Legilux](https://legilux.public.lu) ([SPARQL](https://data.legilux.public.lu/sparqlendpoint)), Ministère d’État, Service central de législation | Journal officiel (Mémorial A et B) et textes consolidés | toutes les versions consolidées pour la Constitution et la loi Covid-19 ; l’actuelle pour les autres lois consolidées | Seul le Mémorial fait foi |
+| [Cour de cassation](https://data.public.lu/fr/datasets/cour-de-cassation-1/) sur data.public.lu (Administration judiciaire) | Arrêts | tels que publiés | Pseudonymisés par l’éditeur |
+| [Avis du Conseil d’État](https://data.public.lu/fr/datasets/avis-du-conseil-detat/) sur data.public.lu | Avis sur les projets de loi et de règlement | tels que publiés | Signalés comme n’étant pas du droit |
+| [Chambre des Députés](https://data.public.lu/fr/organizations/627e56d3a9bc6b2dd946a3ea/) sur data.public.lu | Projets et propositions de loi depuis 1965 (`data/chambre/`) | tels que publiés | Signalés comme n’étant pas du droit |
 
 ## Licence
 
-Source : Legilux — Journal officiel du Grand-Duché de Luxembourg (Ministère d'État, Service central de législation). Données réutilisées sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Copyright : Ministère d'État du Grand-Duché de Luxembourg - Service central de législation. Les textes ont été convertis en un fichier par article et organisés en commits ; leur libellé n’a pas été modifié. Les contributions propres de Lexifina sont placées sous CC0. Voir [`LICENSE`](LICENSE).
+Voir [`LICENSE`](LICENSE). Les textes juridiques et leurs données sont réutilisés à partir des données ouvertes de Legilux sous licence CC BY 4.0, avec l’attribution que donne LICENSE et sans modification du libellé ; les arrêts et les avis sont reproduits à l’identique sous licence CC BY-ND 4.0 et les projets de loi sous CC0 ([`TERMS.md`](TERMS.md)). Les contributions propres de Lexifina sont placées sous CC0 1.0.
 
-Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+Aucun modèle d’IA n’a écrit ni modifié de texte juridique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
-## Lois en vigueur, texte actuel
-
-Outre la Constitution et la loi Covid-19, retracées version par version, le registre contient 6 884 lois en vigueur selon Legilux (statut « in force » ou « applicable »), chacune en un commit : la version consolidée en vigueur (datée du jour à partir duquel elle s’applique, par le Service central de législation, sans attribution à une loi) ou, pour une loi jamais consolidée, le texte tel que publié au Mémorial (daté de son entrée en vigueur et attribué à la loi). Les versions antérieures seront ajoutées derrière elles, sans réécrire l’historique. Liste : `data/textes-en-vigueur.csv`.
+Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 
 ## En savoir plus
 
