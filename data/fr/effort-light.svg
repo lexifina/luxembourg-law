@@ -1,283 +1,283 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="703" viewBox="0 0 880 703" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="879" height="702" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Le droit du Luxembourg en historique git</text>
-<rect x="581.7" y="24.5" width="130" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="646.5" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">état au 29 août 2026</text>
-<rect x="719.3" y="24.5" width="137" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="787.7" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">fraîcheur : pas à jour</text>
-<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">6 886</text>
-<text x="40.0" y="106" font-size="12" fill="#59636e">textes</text>
-<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
-<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">7 005</text>
-<text x="206.4" y="106" font-size="12" fill="#59636e">modifications, en commits</text>
-<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
-<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">55 091</text>
-<text x="372.8" y="106" font-size="12" fill="#59636e">fichiers de dispositions</text>
-<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
-<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">6 420</text>
-<text x="539.2" y="106" font-size="12" fill="#59636e">auteurs : lois et éditeurs</text>
-<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
-<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">1790–2026</text>
-<text x="705.6" y="106" font-size="12" fill="#59636e">années d’historique</text>
-<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Modifications par année d’entrée en vigueur</text>
-<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
-<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
-<line x1="80.5" y1="280.5" x2="839.5" y2="280.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="284.5" font-size="11" text-anchor="end" fill="#59636e">100</text>
-<line x1="80.5" y1="230.5" x2="839.5" y2="230.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="234.5" font-size="11" text-anchor="end" fill="#59636e">200</text>
-<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">300</text>
-<rect x="80.82" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1790 : modifications entrées en vigueur : 1</title></rect>
-<rect x="87.23" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1792 : modifications entrées en vigueur : 1</title></rect>
-<rect x="93.63" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1794 : modifications entrées en vigueur : 2</title></rect>
-<rect x="100.04" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1796 : modifications entrées en vigueur : 2</title></rect>
-<rect x="103.24" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1797 : modifications entrées en vigueur : 2</title></rect>
-<rect x="106.44" y="328.0" width="2.56" height="2.5" rx="1.1" fill="#1f883d"><title>1798 : modifications entrées en vigueur : 5</title></rect>
-<rect x="109.64" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1799 : modifications entrées en vigueur : 3</title></rect>
-<rect x="112.85" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1800 : modifications entrées en vigueur : 1</title></rect>
-<text x="114.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1800</text>
-<rect x="116.05" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1801 : modifications entrées en vigueur : 1</title></rect>
-<rect x="119.25" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1802 : modifications entrées en vigueur : 3</title></rect>
-<rect x="122.45" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1803 : modifications entrées en vigueur : 1</title></rect>
-<rect x="125.66" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1804 : modifications entrées en vigueur : 2</title></rect>
-<rect x="128.86" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1805 : modifications entrées en vigueur : 1</title></rect>
-<rect x="135.26" y="328.5" width="2.56" height="2.0" rx="1.1" fill="#1f883d"><title>1807 : modifications entrées en vigueur : 4</title></rect>
-<rect x="144.87" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1810 : modifications entrées en vigueur : 1</title></rect>
-<rect x="164.09" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1816 : modifications entrées en vigueur : 1</title></rect>
-<rect x="170.49" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1818 : modifications entrées en vigueur : 2</title></rect>
-<rect x="173.69" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1819 : modifications entrées en vigueur : 1</title></rect>
-<text x="178.2" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1820</text>
-<rect x="189.71" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1824 : modifications entrées en vigueur : 2</title></rect>
-<text x="242.2" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1840</text>
-<rect x="247.35" y="328.5" width="2.56" height="2.0" rx="1.1" fill="#1f883d"><title>1842 : modifications entrées en vigueur : 4</title></rect>
-<rect x="250.55" y="326.5" width="2.56" height="4.0" rx="1.1" fill="#1f883d"><title>1843 : modifications entrées en vigueur : 8</title></rect>
-<rect x="253.76" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1844 : modifications entrées en vigueur : 3</title></rect>
-<rect x="256.96" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1845 : modifications entrées en vigueur : 3</title></rect>
-<rect x="260.16" y="328.5" width="2.56" height="2.0" rx="1.1" fill="#1f883d"><title>1846 : modifications entrées en vigueur : 4</title></rect>
-<rect x="263.36" y="328.0" width="2.56" height="2.5" rx="1.1" fill="#1f883d"><title>1847 : modifications entrées en vigueur : 5</title></rect>
-<rect x="266.57" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1848 : modifications entrées en vigueur : 3</title></rect>
-<rect x="269.77" y="315.5" width="2.56" height="15.0" rx="1.1" fill="#1f883d"><title>1849 : modifications entrées en vigueur : 30</title></rect>
-<rect x="272.97" y="327.0" width="2.56" height="3.5" rx="1.1" fill="#1f883d"><title>1850 : modifications entrées en vigueur : 7</title></rect>
-<rect x="276.17" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1851 : modifications entrées en vigueur : 2</title></rect>
-<rect x="279.38" y="325.0" width="2.56" height="5.5" rx="1.1" fill="#1f883d"><title>1852 : modifications entrées en vigueur : 11</title></rect>
-<rect x="282.58" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1853 : modifications entrées en vigueur : 3</title></rect>
-<rect x="285.78" y="326.5" width="2.56" height="4.0" rx="1.1" fill="#1f883d"><title>1854 : modifications entrées en vigueur : 8</title></rect>
-<rect x="288.98" y="328.5" width="2.56" height="2.0" rx="1.1" fill="#1f883d"><title>1855 : modifications entrées en vigueur : 4</title></rect>
-<rect x="292.19" y="327.0" width="2.56" height="3.5" rx="1.1" fill="#1f883d"><title>1856 : modifications entrées en vigueur : 7</title></rect>
-<rect x="298.59" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1858 : modifications entrées en vigueur : 1</title></rect>
-<rect x="301.79" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1859 : modifications entrées en vigueur : 3</title></rect>
-<rect x="305.00" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1860 : modifications entrées en vigueur : 3</title></rect>
-<text x="306.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1860</text>
-<rect x="308.20" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1861 : modifications entrées en vigueur : 1</title></rect>
-<rect x="311.40" y="328.5" width="2.56" height="2.0" rx="1.1" fill="#1f883d"><title>1862 : modifications entrées en vigueur : 4</title></rect>
-<rect x="314.61" y="326.5" width="2.56" height="4.0" rx="1.1" fill="#1f883d"><title>1863 : modifications entrées en vigueur : 8</title></rect>
-<rect x="317.81" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1864 : modifications entrées en vigueur : 3</title></rect>
-<rect x="321.01" y="328.5" width="2.56" height="2.0" rx="1.1" fill="#1f883d"><title>1865 : modifications entrées en vigueur : 4</title></rect>
-<rect x="324.21" y="328.0" width="2.56" height="2.5" rx="1.1" fill="#1f883d"><title>1866 : modifications entrées en vigueur : 5</title></rect>
-<rect x="327.42" y="327.0" width="2.56" height="3.5" rx="1.1" fill="#1f883d"><title>1867 : modifications entrées en vigueur : 7</title></rect>
-<rect x="330.62" y="327.0" width="2.56" height="3.5" rx="1.1" fill="#1f883d"><title>1868 : modifications entrées en vigueur : 7</title></rect>
-<rect x="333.82" y="326.5" width="2.56" height="4.0" rx="1.1" fill="#1f883d"><title>1869 : modifications entrées en vigueur : 8</title></rect>
-<rect x="337.02" y="326.0" width="2.56" height="4.5" rx="1.1" fill="#1f883d"><title>1870 : modifications entrées en vigueur : 9</title></rect>
-<rect x="340.23" y="328.5" width="2.56" height="2.0" rx="1.1" fill="#1f883d"><title>1871 : modifications entrées en vigueur : 4</title></rect>
-<rect x="343.43" y="324.0" width="2.56" height="6.5" rx="1.1" fill="#1f883d"><title>1872 : modifications entrées en vigueur : 13</title></rect>
-<rect x="346.63" y="312.5" width="2.56" height="18.0" rx="1.1" fill="#1f883d"><title>1873 : modifications entrées en vigueur : 36</title></rect>
-<rect x="349.83" y="303.5" width="2.56" height="27.0" rx="1.1" fill="#1f883d"><title>1874 : modifications entrées en vigueur : 54</title></rect>
-<rect x="353.04" y="319.0" width="2.56" height="11.5" rx="1.1" fill="#1f883d"><title>1875 : modifications entrées en vigueur : 23</title></rect>
-<rect x="356.24" y="305.0" width="2.56" height="25.5" rx="1.1" fill="#1f883d"><title>1876 : modifications entrées en vigueur : 51</title></rect>
-<rect x="359.44" y="320.0" width="2.56" height="10.5" rx="1.1" fill="#1f883d"><title>1877 : modifications entrées en vigueur : 21</title></rect>
-<rect x="362.64" y="322.5" width="2.56" height="8.0" rx="1.1" fill="#1f883d"><title>1878 : modifications entrées en vigueur : 16</title></rect>
-<rect x="365.85" y="320.0" width="2.56" height="10.5" rx="1.1" fill="#1f883d"><title>1879 : modifications entrées en vigueur : 21</title></rect>
-<rect x="369.05" y="321.0" width="2.56" height="9.5" rx="1.1" fill="#1f883d"><title>1880 : modifications entrées en vigueur : 19</title></rect>
-<text x="370.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1880</text>
-<rect x="372.25" y="324.0" width="2.56" height="6.5" rx="1.1" fill="#1f883d"><title>1881 : modifications entrées en vigueur : 13</title></rect>
-<rect x="375.45" y="318.5" width="2.56" height="12.0" rx="1.1" fill="#1f883d"><title>1882 : modifications entrées en vigueur : 24</title></rect>
-<rect x="378.66" y="327.5" width="2.56" height="3.0" rx="1.1" fill="#1f883d"><title>1883 : modifications entrées en vigueur : 6</title></rect>
-<rect x="381.86" y="326.5" width="2.56" height="4.0" rx="1.1" fill="#1f883d"><title>1884 : modifications entrées en vigueur : 8</title></rect>
-<rect x="385.06" y="325.5" width="2.56" height="5.0" rx="1.1" fill="#1f883d"><title>1885 : modifications entrées en vigueur : 10</title></rect>
-<rect x="388.26" y="326.0" width="2.56" height="4.5" rx="1.1" fill="#1f883d"><title>1886 : modifications entrées en vigueur : 9</title></rect>
-<rect x="391.47" y="327.0" width="2.56" height="3.5" rx="1.1" fill="#1f883d"><title>1887 : modifications entrées en vigueur : 7</title></rect>
-<rect x="394.67" y="324.5" width="2.56" height="6.0" rx="1.1" fill="#1f883d"><title>1888 : modifications entrées en vigueur : 12</title></rect>
-<rect x="397.87" y="326.0" width="2.56" height="4.5" rx="1.1" fill="#1f883d"><title>1889 : modifications entrées en vigueur : 9</title></rect>
-<rect x="401.07" y="324.5" width="2.56" height="6.0" rx="1.1" fill="#1f883d"><title>1890 : modifications entrées en vigueur : 12</title></rect>
-<rect x="404.28" y="323.0" width="2.56" height="7.5" rx="1.1" fill="#1f883d"><title>1891 : modifications entrées en vigueur : 15</title></rect>
-<rect x="407.48" y="319.0" width="2.56" height="11.5" rx="1.1" fill="#1f883d"><title>1892 : modifications entrées en vigueur : 23</title></rect>
-<rect x="410.68" y="328.0" width="2.56" height="2.5" rx="1.1" fill="#1f883d"><title>1893 : modifications entrées en vigueur : 5</title></rect>
-<rect x="413.88" y="325.5" width="2.56" height="5.0" rx="1.1" fill="#1f883d"><title>1894 : modifications entrées en vigueur : 10</title></rect>
-<rect x="417.09" y="327.0" width="2.56" height="3.5" rx="1.1" fill="#1f883d"><title>1895 : modifications entrées en vigueur : 7</title></rect>
-<rect x="420.29" y="325.5" width="2.56" height="5.0" rx="1.1" fill="#1f883d"><title>1896 : modifications entrées en vigueur : 10</title></rect>
-<rect x="423.49" y="327.5" width="2.56" height="3.0" rx="1.1" fill="#1f883d"><title>1897 : modifications entrées en vigueur : 6</title></rect>
-<rect x="426.69" y="325.5" width="2.56" height="5.0" rx="1.1" fill="#1f883d"><title>1898 : modifications entrées en vigueur : 10</title></rect>
-<rect x="429.90" y="326.0" width="2.56" height="4.5" rx="1.1" fill="#1f883d"><title>1899 : modifications entrées en vigueur : 9</title></rect>
-<rect x="433.10" y="328.0" width="2.56" height="2.5" rx="1.1" fill="#1f883d"><title>1900 : modifications entrées en vigueur : 5</title></rect>
-<text x="434.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1900</text>
-<rect x="436.30" y="317.5" width="2.56" height="13.0" rx="1.1" fill="#1f883d"><title>1901 : modifications entrées en vigueur : 26</title></rect>
-<rect x="439.50" y="318.0" width="2.56" height="12.5" rx="1.1" fill="#1f883d"><title>1902 : modifications entrées en vigueur : 25</title></rect>
-<rect x="442.71" y="321.0" width="2.56" height="9.5" rx="1.1" fill="#1f883d"><title>1903 : modifications entrées en vigueur : 19</title></rect>
-<rect x="445.91" y="315.0" width="2.56" height="15.5" rx="1.1" fill="#1f883d"><title>1904 : modifications entrées en vigueur : 31</title></rect>
-<rect x="449.11" y="322.0" width="2.56" height="8.5" rx="1.1" fill="#1f883d"><title>1905 : modifications entrées en vigueur : 17</title></rect>
-<rect x="452.31" y="311.0" width="2.56" height="19.5" rx="1.1" fill="#1f883d"><title>1906 : modifications entrées en vigueur : 39</title></rect>
-<rect x="455.52" y="316.5" width="2.56" height="14.0" rx="1.1" fill="#1f883d"><title>1907 : modifications entrées en vigueur : 28</title></rect>
-<rect x="458.72" y="324.0" width="2.56" height="6.5" rx="1.1" fill="#1f883d"><title>1908 : modifications entrées en vigueur : 13</title></rect>
-<rect x="461.92" y="311.5" width="2.56" height="19.0" rx="1.1" fill="#1f883d"><title>1909 : modifications entrées en vigueur : 38</title></rect>
-<rect x="465.12" y="325.5" width="2.56" height="5.0" rx="1.1" fill="#1f883d"><title>1910 : modifications entrées en vigueur : 10</title></rect>
-<rect x="468.33" y="315.5" width="2.56" height="15.0" rx="1.1" fill="#1f883d"><title>1911 : modifications entrées en vigueur : 30</title></rect>
-<rect x="471.53" y="312.0" width="2.56" height="18.5" rx="1.1" fill="#1f883d"><title>1912 : modifications entrées en vigueur : 37</title></rect>
-<rect x="474.73" y="311.5" width="2.56" height="19.0" rx="1.1" fill="#1f883d"><title>1913 : modifications entrées en vigueur : 38</title></rect>
-<rect x="477.93" y="314.5" width="2.56" height="16.0" rx="1.1" fill="#1f883d"><title>1914 : modifications entrées en vigueur : 32</title></rect>
-<rect x="481.14" y="327.0" width="2.56" height="3.5" rx="1.1" fill="#1f883d"><title>1915 : modifications entrées en vigueur : 7</title></rect>
-<rect x="484.34" y="323.0" width="2.56" height="7.5" rx="1.1" fill="#1f883d"><title>1916 : modifications entrées en vigueur : 15</title></rect>
-<rect x="487.54" y="324.5" width="2.56" height="6.0" rx="1.1" fill="#1f883d"><title>1917 : modifications entrées en vigueur : 12</title></rect>
-<rect x="490.74" y="324.5" width="2.56" height="6.0" rx="1.1" fill="#1f883d"><title>1918 : modifications entrées en vigueur : 12</title></rect>
-<rect x="493.95" y="316.0" width="2.56" height="14.5" rx="1.1" fill="#1f883d"><title>1919 : modifications entrées en vigueur : 29</title></rect>
-<rect x="497.15" y="321.5" width="2.56" height="9.0" rx="1.1" fill="#1f883d"><title>1920 : modifications entrées en vigueur : 18</title></rect>
-<text x="498.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1920</text>
-<rect x="500.35" y="313.5" width="2.56" height="17.0" rx="1.1" fill="#1f883d"><title>1921 : modifications entrées en vigueur : 34</title></rect>
-<rect x="503.55" y="320.5" width="2.56" height="10.0" rx="1.1" fill="#1f883d"><title>1922 : modifications entrées en vigueur : 20</title></rect>
-<rect x="506.76" y="319.5" width="2.56" height="11.0" rx="1.1" fill="#1f883d"><title>1923 : modifications entrées en vigueur : 22</title></rect>
-<rect x="509.96" y="321.5" width="2.56" height="9.0" rx="1.1" fill="#1f883d"><title>1924 : modifications entrées en vigueur : 18</title></rect>
-<rect x="513.16" y="322.0" width="2.56" height="8.5" rx="1.1" fill="#1f883d"><title>1925 : modifications entrées en vigueur : 17</title></rect>
-<rect x="516.36" y="321.5" width="2.56" height="9.0" rx="1.1" fill="#1f883d"><title>1926 : modifications entrées en vigueur : 18</title></rect>
-<rect x="519.57" y="314.5" width="2.56" height="16.0" rx="1.1" fill="#1f883d"><title>1927 : modifications entrées en vigueur : 32</title></rect>
-<rect x="522.77" y="321.0" width="2.56" height="9.5" rx="1.1" fill="#1f883d"><title>1928 : modifications entrées en vigueur : 19</title></rect>
-<rect x="525.97" y="313.5" width="2.56" height="17.0" rx="1.1" fill="#1f883d"><title>1929 : modifications entrées en vigueur : 34</title></rect>
-<rect x="529.17" y="300.0" width="2.56" height="30.5" rx="1.1" fill="#1f883d"><title>1930 : modifications entrées en vigueur : 61</title></rect>
-<rect x="532.38" y="326.0" width="2.56" height="4.5" rx="1.1" fill="#1f883d"><title>1931 : modifications entrées en vigueur : 9</title></rect>
-<rect x="535.58" y="323.5" width="2.56" height="7.0" rx="1.1" fill="#1f883d"><title>1932 : modifications entrées en vigueur : 14</title></rect>
-<rect x="538.78" y="321.0" width="2.56" height="9.5" rx="1.1" fill="#1f883d"><title>1933 : modifications entrées en vigueur : 19</title></rect>
-<rect x="541.98" y="323.0" width="2.56" height="7.5" rx="1.1" fill="#1f883d"><title>1934 : modifications entrées en vigueur : 15</title></rect>
-<rect x="545.19" y="326.5" width="2.56" height="4.0" rx="1.1" fill="#1f883d"><title>1935 : modifications entrées en vigueur : 8</title></rect>
-<rect x="548.39" y="320.0" width="2.56" height="10.5" rx="1.1" fill="#1f883d"><title>1936 : modifications entrées en vigueur : 21</title></rect>
-<rect x="551.59" y="325.0" width="2.56" height="5.5" rx="1.1" fill="#1f883d"><title>1937 : modifications entrées en vigueur : 11</title></rect>
-<rect x="554.79" y="317.0" width="2.56" height="13.5" rx="1.1" fill="#1f883d"><title>1938 : modifications entrées en vigueur : 27</title></rect>
-<rect x="558.00" y="322.5" width="2.56" height="8.0" rx="1.1" fill="#1f883d"><title>1939 : modifications entrées en vigueur : 16</title></rect>
-<rect x="561.20" y="328.5" width="2.56" height="2.0" rx="1.1" fill="#1f883d"><title>1940 : modifications entrées en vigueur : 4</title></rect>
-<text x="562.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1940</text>
-<rect x="577.21" y="329.0" width="2.56" height="1.5" rx="1.1" fill="#1f883d"><title>1945 : modifications entrées en vigueur : 1</title></rect>
-<rect x="580.42" y="323.5" width="2.56" height="7.0" rx="1.1" fill="#1f883d"><title>1946 : modifications entrées en vigueur : 14</title></rect>
-<rect x="583.62" y="321.5" width="2.56" height="9.0" rx="1.1" fill="#1f883d"><title>1947 : modifications entrées en vigueur : 18</title></rect>
-<rect x="586.82" y="306.5" width="2.56" height="24.0" rx="1.1" fill="#1f883d"><title>1948 : modifications entrées en vigueur : 48</title></rect>
-<rect x="590.02" y="312.5" width="2.56" height="18.0" rx="1.1" fill="#1f883d"><title>1949 : modifications entrées en vigueur : 36</title></rect>
-<rect x="593.23" y="315.0" width="2.56" height="15.5" rx="1.1" fill="#1f883d"><title>1950 : modifications entrées en vigueur : 31</title></rect>
-<rect x="596.43" y="318.0" width="2.56" height="12.5" rx="1.1" fill="#1f883d"><title>1951 : modifications entrées en vigueur : 25</title></rect>
-<rect x="599.63" y="318.5" width="2.56" height="12.0" rx="1.1" fill="#1f883d"><title>1952 : modifications entrées en vigueur : 24</title></rect>
-<rect x="602.83" y="311.5" width="2.56" height="19.0" rx="1.1" fill="#1f883d"><title>1953 : modifications entrées en vigueur : 38</title></rect>
-<rect x="606.04" y="317.0" width="2.56" height="13.5" rx="1.1" fill="#1f883d"><title>1954 : modifications entrées en vigueur : 27</title></rect>
-<rect x="609.24" y="320.0" width="2.56" height="10.5" rx="1.1" fill="#1f883d"><title>1955 : modifications entrées en vigueur : 21</title></rect>
-<rect x="612.44" y="318.5" width="2.56" height="12.0" rx="1.1" fill="#1f883d"><title>1956 : modifications entrées en vigueur : 24</title></rect>
-<rect x="615.64" y="315.5" width="2.56" height="15.0" rx="1.1" fill="#1f883d"><title>1957 : modifications entrées en vigueur : 30</title></rect>
-<rect x="618.85" y="310.0" width="2.56" height="20.5" rx="1.1" fill="#1f883d"><title>1958 : modifications entrées en vigueur : 41</title></rect>
-<rect x="622.05" y="319.5" width="2.56" height="11.0" rx="1.1" fill="#1f883d"><title>1959 : modifications entrées en vigueur : 22</title></rect>
-<rect x="625.25" y="312.5" width="2.56" height="18.0" rx="1.1" fill="#1f883d"><title>1960 : modifications entrées en vigueur : 36</title></rect>
-<text x="626.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1960</text>
-<rect x="628.45" y="311.0" width="2.56" height="19.5" rx="1.1" fill="#1f883d"><title>1961 : modifications entrées en vigueur : 39</title></rect>
-<rect x="631.66" y="320.0" width="2.56" height="10.5" rx="1.1" fill="#1f883d"><title>1962 : modifications entrées en vigueur : 21</title></rect>
-<rect x="634.86" y="309.5" width="2.56" height="21.0" rx="1.1" fill="#1f883d"><title>1963 : modifications entrées en vigueur : 42</title></rect>
-<rect x="638.06" y="314.5" width="2.56" height="16.0" rx="1.1" fill="#1f883d"><title>1964 : modifications entrées en vigueur : 32</title></rect>
-<rect x="641.26" y="306.0" width="2.56" height="24.5" rx="1.1" fill="#1f883d"><title>1965 : modifications entrées en vigueur : 49</title></rect>
-<rect x="644.47" y="311.0" width="2.56" height="19.5" rx="1.1" fill="#1f883d"><title>1966 : modifications entrées en vigueur : 39</title></rect>
-<rect x="647.67" y="310.5" width="2.56" height="20.0" rx="1.1" fill="#1f883d"><title>1967 : modifications entrées en vigueur : 40</title></rect>
-<rect x="650.87" y="309.5" width="2.56" height="21.0" rx="1.1" fill="#1f883d"><title>1968 : modifications entrées en vigueur : 42</title></rect>
-<rect x="654.07" y="313.0" width="2.56" height="17.5" rx="1.1" fill="#1f883d"><title>1969 : modifications entrées en vigueur : 35</title></rect>
-<rect x="657.28" y="314.0" width="2.56" height="16.5" rx="1.1" fill="#1f883d"><title>1970 : modifications entrées en vigueur : 33</title></rect>
-<rect x="660.48" y="305.0" width="2.56" height="25.5" rx="1.1" fill="#1f883d"><title>1971 : modifications entrées en vigueur : 51</title></rect>
-<rect x="663.68" y="308.5" width="2.56" height="22.0" rx="1.1" fill="#1f883d"><title>1972 : modifications entrées en vigueur : 44</title></rect>
-<rect x="666.88" y="304.0" width="2.56" height="26.5" rx="1.1" fill="#1f883d"><title>1973 : modifications entrées en vigueur : 53</title></rect>
-<rect x="670.09" y="301.0" width="2.56" height="29.5" rx="1.1" fill="#1f883d"><title>1974 : modifications entrées en vigueur : 59</title></rect>
-<rect x="673.29" y="299.5" width="2.56" height="31.0" rx="1.1" fill="#1f883d"><title>1975 : modifications entrées en vigueur : 62</title></rect>
-<rect x="676.49" y="309.5" width="2.56" height="21.0" rx="1.1" fill="#1f883d"><title>1976 : modifications entrées en vigueur : 42</title></rect>
-<rect x="679.69" y="303.0" width="2.56" height="27.5" rx="1.1" fill="#1f883d"><title>1977 : modifications entrées en vigueur : 55</title></rect>
-<rect x="682.90" y="300.0" width="2.56" height="30.5" rx="1.1" fill="#1f883d"><title>1978 : modifications entrées en vigueur : 61</title></rect>
-<rect x="686.10" y="303.5" width="2.56" height="27.0" rx="1.1" fill="#1f883d"><title>1979 : modifications entrées en vigueur : 54</title></rect>
-<rect x="689.30" y="300.5" width="2.56" height="30.0" rx="1.1" fill="#1f883d"><title>1980 : modifications entrées en vigueur : 60</title></rect>
-<text x="690.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1980</text>
-<rect x="692.50" y="305.5" width="2.56" height="25.0" rx="1.1" fill="#1f883d"><title>1981 : modifications entrées en vigueur : 50</title></rect>
-<rect x="695.71" y="299.5" width="2.56" height="31.0" rx="1.1" fill="#1f883d"><title>1982 : modifications entrées en vigueur : 62</title></rect>
-<rect x="698.91" y="300.0" width="2.56" height="30.5" rx="1.1" fill="#1f883d"><title>1983 : modifications entrées en vigueur : 61</title></rect>
-<rect x="702.11" y="306.5" width="2.56" height="24.0" rx="1.1" fill="#1f883d"><title>1984 : modifications entrées en vigueur : 48</title></rect>
-<rect x="705.31" y="311.0" width="2.56" height="19.5" rx="1.1" fill="#1f883d"><title>1985 : modifications entrées en vigueur : 39</title></rect>
-<rect x="708.52" y="307.0" width="2.56" height="23.5" rx="1.1" fill="#1f883d"><title>1986 : modifications entrées en vigueur : 47</title></rect>
-<rect x="711.72" y="304.5" width="2.56" height="26.0" rx="1.1" fill="#1f883d"><title>1987 : modifications entrées en vigueur : 52</title></rect>
-<rect x="714.92" y="312.0" width="2.56" height="18.5" rx="1.1" fill="#1f883d"><title>1988 : modifications entrées en vigueur : 37</title></rect>
-<rect x="718.12" y="297.0" width="2.56" height="33.5" rx="1.1" fill="#1f883d"><title>1989 : modifications entrées en vigueur : 67</title></rect>
-<rect x="721.33" y="314.5" width="2.56" height="16.0" rx="1.1" fill="#1f883d"><title>1990 : modifications entrées en vigueur : 32</title></rect>
-<rect x="724.53" y="307.0" width="2.56" height="23.5" rx="1.1" fill="#1f883d"><title>1991 : modifications entrées en vigueur : 47</title></rect>
-<rect x="727.73" y="307.0" width="2.56" height="23.5" rx="1.1" fill="#1f883d"><title>1992 : modifications entrées en vigueur : 47</title></rect>
-<rect x="730.93" y="296.0" width="2.56" height="34.5" rx="1.1" fill="#1f883d"><title>1993 : modifications entrées en vigueur : 69</title></rect>
-<rect x="734.14" y="299.0" width="2.56" height="31.5" rx="1.1" fill="#1f883d"><title>1994 : modifications entrées en vigueur : 63</title></rect>
-<rect x="737.34" y="308.5" width="2.56" height="22.0" rx="1.1" fill="#1f883d"><title>1995 : modifications entrées en vigueur : 44</title></rect>
-<rect x="740.54" y="304.0" width="2.56" height="26.5" rx="1.1" fill="#1f883d"><title>1996 : modifications entrées en vigueur : 53</title></rect>
-<rect x="743.74" y="293.0" width="2.56" height="37.5" rx="1.1" fill="#1f883d"><title>1997 : modifications entrées en vigueur : 75</title></rect>
-<rect x="746.95" y="297.5" width="2.56" height="33.0" rx="1.1" fill="#1f883d"><title>1998 : modifications entrées en vigueur : 66</title></rect>
-<rect x="750.15" y="291.0" width="2.56" height="39.5" rx="1.1" fill="#1f883d"><title>1999 : modifications entrées en vigueur : 79</title></rect>
-<rect x="753.35" y="299.5" width="2.56" height="31.0" rx="1.1" fill="#1f883d"><title>2000 : modifications entrées en vigueur : 62</title></rect>
-<text x="754.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2000</text>
-<rect x="756.55" y="297.5" width="2.56" height="33.0" rx="1.1" fill="#1f883d"><title>2001 : modifications entrées en vigueur : 66</title></rect>
-<rect x="759.76" y="294.0" width="2.56" height="36.5" rx="1.1" fill="#1f883d"><title>2002 : modifications entrées en vigueur : 73</title></rect>
-<rect x="762.96" y="281.0" width="2.56" height="49.5" rx="1.1" fill="#1f883d"><title>2003 : modifications entrées en vigueur : 99</title></rect>
-<rect x="766.16" y="283.0" width="2.56" height="47.5" rx="1.1" fill="#1f883d"><title>2004 : modifications entrées en vigueur : 95</title></rect>
-<rect x="769.36" y="287.5" width="2.56" height="43.0" rx="1.1" fill="#1f883d"><title>2005 : modifications entrées en vigueur : 86</title></rect>
-<rect x="772.57" y="288.0" width="2.56" height="42.5" rx="1.1" fill="#1f883d"><title>2006 : modifications entrées en vigueur : 85</title></rect>
-<rect x="775.77" y="285.5" width="2.56" height="45.0" rx="1.1" fill="#1f883d"><title>2007 : modifications entrées en vigueur : 90</title></rect>
-<rect x="778.97" y="288.0" width="2.56" height="42.5" rx="1.1" fill="#1f883d"><title>2008 : modifications entrées en vigueur : 85</title></rect>
-<rect x="782.17" y="280.0" width="2.56" height="50.5" rx="1.1" fill="#1f883d"><title>2009 : modifications entrées en vigueur : 101</title></rect>
-<rect x="785.38" y="291.0" width="2.56" height="39.5" rx="1.1" fill="#1f883d"><title>2010 : modifications entrées en vigueur : 79</title></rect>
-<rect x="788.58" y="291.0" width="2.56" height="39.5" rx="1.1" fill="#1f883d"><title>2011 : modifications entrées en vigueur : 79</title></rect>
-<rect x="791.78" y="299.5" width="2.56" height="31.0" rx="1.1" fill="#1f883d"><title>2012 : modifications entrées en vigueur : 62</title></rect>
-<rect x="794.98" y="286.5" width="2.56" height="44.0" rx="1.1" fill="#1f883d"><title>2013 : modifications entrées en vigueur : 88</title></rect>
-<rect x="798.19" y="289.5" width="2.56" height="41.0" rx="1.1" fill="#1f883d"><title>2014 : modifications entrées en vigueur : 82</title></rect>
-<rect x="801.39" y="279.5" width="2.56" height="51.0" rx="1.1" fill="#1f883d"><title>2015 : modifications entrées en vigueur : 102</title></rect>
-<rect x="804.59" y="263.5" width="2.56" height="67.0" rx="1.1" fill="#1f883d"><title>2016 : modifications entrées en vigueur : 134</title></rect>
-<rect x="807.79" y="280.5" width="2.56" height="50.0" rx="1.1" fill="#1f883d"><title>2017 : modifications entrées en vigueur : 100</title></rect>
-<rect x="811.00" y="252.5" width="2.56" height="78.0" rx="1.1" fill="#1f883d"><title>2018 : modifications entrées en vigueur : 156</title></rect>
-<rect x="814.20" y="283.5" width="2.56" height="47.0" rx="1.1" fill="#1f883d"><title>2019 : modifications entrées en vigueur : 94</title></rect>
-<rect x="817.40" y="264.5" width="2.56" height="66.0" rx="1.1" fill="#1f883d"><title>2020 : modifications entrées en vigueur : 132</title></rect>
-<text x="818.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2020</text>
-<rect x="820.61" y="236.0" width="2.56" height="94.5" rx="1.1" fill="#1f883d"><title>2021 : modifications entrées en vigueur : 189</title></rect>
-<rect x="823.81" y="244.0" width="2.56" height="86.5" rx="1.1" fill="#1f883d"><title>2022 : modifications entrées en vigueur : 173</title></rect>
-<rect x="827.01" y="218.0" width="2.56" height="112.5" rx="1.1" fill="#1f883d"><title>2023 : modifications entrées en vigueur : 225</title></rect>
-<text x="828.3" y="212.0" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">225 en 2023</text>
-<rect x="830.21" y="255.5" width="2.56" height="75.0" rx="1.1" fill="#1f883d"><title>2024 : modifications entrées en vigueur : 150</title></rect>
-<rect x="833.42" y="251.5" width="2.56" height="79.0" rx="1.1" fill="#1f883d"><title>2025 : modifications entrées en vigueur : 158</title></rect>
-<rect x="836.62" y="226.5" width="2.56" height="104.0" rx="1.1" fill="#1f883d"><title>2026 : modifications entrées en vigueur : 208</title></rect>
-<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">Modifications datées du jour d’entrée en vigueur : 7 004 ; date d’entrée en vigueur impossible (avant 1200), non affichées : 1.</text>
-<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Exhaustivité selon les sources officielles au 12 nov. 2026</text>
-<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Constitution</text>
-<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">dans le dépôt</text>
-<g><title>Constitution: 100 %</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
-<text x="40.5" y="482.5" font-size="13" fill="#1f2328">Codes principaux</text>
-<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">part des codes essentiels présents</text>
-<g><title>Codes principaux: 67 %</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="479.5" width="61.3" height="8" rx="4" fill="#9a6700"/></g>
-<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">67 %</text>
-<text x="40.5" y="518.5" font-size="13" fill="#1f2328">Droit national</text>
-<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">estimation (confiance moyenne, 85,9–100,0 %)</text>
-<g><title>Droit national: 100 %</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">~100 %</text>
-<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Droit régional</text>
-<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">aucune région à pouvoir législatif</text>
-<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">sans objet</text>
-<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Jurisprudence</text>
-<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">juridictions suprêmes présentes</text>
-<g><title>Jurisprudence: 0 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
-<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
-<rect x="24.5" y="562.5" width="831" height="116" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Exactitude du contenu</text>
-<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Modifications avec date d’effet</text>
-<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">part des modifications</text>
-<g><title>Modifications avec date d’effet: 100 %</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
-<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Modifications citant leur source</text>
-<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">ligne Source ou lien dans le commit</text>
-<g><title>Modifications citant leur source: 100 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
-<text x="456.0" y="612.5" font-size="13" fill="#1f2328">Corpus du pays dans global-law</text>
-<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">textes nationaux: 1</text>
-<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
-<text x="456.0" y="648.5" font-size="13" fill="#1f2328">Vérifié sur la source officielle</text>
-<text x="456.0" y="664.5" font-size="11.5" fill="#59636e">la date indiquée par le dépôt</text>
-<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">28 oct. 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="803" viewBox="0 0 880 803" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<style>@font-face{font-family:'Manrope';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:'JetBrains Mono';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}</style>
+<defs><linearGradient id="yg-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a7f4b"/><stop offset="1" stop-color="#1a7f4b" stop-opacity="0.35"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="879" height="802" rx="8" fill="#ffffff" stroke="#dfe5e1"/>
+<rect x="720.8" y="27" width="131.2" height="24" rx="12" fill="#f4f6f5"/>
+<text x="786.4" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#5f6e66">état au 29 août 2026</text>
+<text x="28" y="44" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#14201a">Le droit du Luxembourg en historique git</text>
+<rect x="28" y="70" width="824" height="72" rx="8" fill="#f4f6f5"/>
+<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">6 886</text>
+<text x="44.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">textes</text>
+<line x1="138.6" y1="86" x2="138.6" y2="126" stroke="#dfe5e1"/>
+<text x="154.6" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">7 005</text>
+<text x="154.6" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">modifications, en commits</text>
+<line x1="322.4" y1="86" x2="322.4" y2="126" stroke="#dfe5e1"/>
+<text x="338.4" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">55 091</text>
+<text x="338.4" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">fichiers de dispositions</text>
+<line x1="502.2" y1="86" x2="502.2" y2="126" stroke="#dfe5e1"/>
+<text x="518.2" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">6 420</text>
+<text x="518.2" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">auteurs : lois et éditeurs</text>
+<line x1="690.1" y1="86" x2="690.1" y2="126" stroke="#dfe5e1"/>
+<text x="706.1" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">1790–2026</text>
+<text x="706.1" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">années d’historique</text>
+<rect x="28" y="160" width="824" height="236" rx="8" fill="#f4f6f5"/>
+<text x="46" y="188" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Modifications par année d’entrée en vigueur</text>
+<line x1="90" y1="346.0" x2="834" y2="346.0" stroke="#e8ede9"/>
+<text x="82" y="350.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">0</text>
+<line x1="90" y1="300.0" x2="834" y2="300.0" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="304.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">100</text>
+<line x1="90" y1="254.0" x2="834" y2="254.0" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="258.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">200</text>
+<line x1="90" y1="208.0" x2="834" y2="208.0" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="212.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">300</text>
+<rect x="90.31" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1790 : modifications entrées en vigueur : 1</title></rect>
+<rect x="96.59" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1792 : modifications entrées en vigueur : 1</title></rect>
+<rect x="102.87" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1794 : modifications entrées en vigueur : 2</title></rect>
+<rect x="109.15" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1796 : modifications entrées en vigueur : 2</title></rect>
+<rect x="112.29" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1797 : modifications entrées en vigueur : 2</title></rect>
+<rect x="115.43" y="343.7" width="2.51" height="2.3" rx="1.0" fill="url(#yg-light)"><title>1798 : modifications entrées en vigueur : 5</title></rect>
+<rect x="118.57" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1799 : modifications entrées en vigueur : 3</title></rect>
+<rect x="121.71" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1800 : modifications entrées en vigueur : 1</title></rect>
+<text x="123.0" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1800</text>
+<rect x="124.85" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1801 : modifications entrées en vigueur : 1</title></rect>
+<rect x="127.98" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1802 : modifications entrées en vigueur : 3</title></rect>
+<rect x="131.12" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1803 : modifications entrées en vigueur : 1</title></rect>
+<rect x="134.26" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1804 : modifications entrées en vigueur : 2</title></rect>
+<rect x="137.40" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1805 : modifications entrées en vigueur : 1</title></rect>
+<rect x="143.68" y="344.2" width="2.51" height="1.8" rx="1.0" fill="url(#yg-light)"><title>1807 : modifications entrées en vigueur : 4</title></rect>
+<rect x="153.10" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1810 : modifications entrées en vigueur : 1</title></rect>
+<rect x="171.93" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1816 : modifications entrées en vigueur : 1</title></rect>
+<rect x="178.21" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1818 : modifications entrées en vigueur : 2</title></rect>
+<rect x="181.35" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1819 : modifications entrées en vigueur : 1</title></rect>
+<text x="185.7" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1820</text>
+<rect x="197.05" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1824 : modifications entrées en vigueur : 2</title></rect>
+<text x="248.5" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1840</text>
+<rect x="253.55" y="344.2" width="2.51" height="1.8" rx="1.0" fill="url(#yg-light)"><title>1842 : modifications entrées en vigueur : 4</title></rect>
+<rect x="256.69" y="342.3" width="2.51" height="3.7" rx="1.0" fill="url(#yg-light)"><title>1843 : modifications entrées en vigueur : 8</title></rect>
+<rect x="259.83" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1844 : modifications entrées en vigueur : 3</title></rect>
+<rect x="262.97" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1845 : modifications entrées en vigueur : 3</title></rect>
+<rect x="266.11" y="344.2" width="2.51" height="1.8" rx="1.0" fill="url(#yg-light)"><title>1846 : modifications entrées en vigueur : 4</title></rect>
+<rect x="269.25" y="343.7" width="2.51" height="2.3" rx="1.0" fill="url(#yg-light)"><title>1847 : modifications entrées en vigueur : 5</title></rect>
+<rect x="272.39" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1848 : modifications entrées en vigueur : 3</title></rect>
+<rect x="275.53" y="332.2" width="2.51" height="13.8" rx="1.0" fill="url(#yg-light)"><title>1849 : modifications entrées en vigueur : 30</title></rect>
+<rect x="278.67" y="342.8" width="2.51" height="3.2" rx="1.0" fill="url(#yg-light)"><title>1850 : modifications entrées en vigueur : 7</title></rect>
+<rect x="281.81" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1851 : modifications entrées en vigueur : 2</title></rect>
+<rect x="284.95" y="340.9" width="2.51" height="5.1" rx="1.0" fill="url(#yg-light)"><title>1852 : modifications entrées en vigueur : 11</title></rect>
+<rect x="288.09" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1853 : modifications entrées en vigueur : 3</title></rect>
+<rect x="291.23" y="342.3" width="2.51" height="3.7" rx="1.0" fill="url(#yg-light)"><title>1854 : modifications entrées en vigueur : 8</title></rect>
+<rect x="294.36" y="344.2" width="2.51" height="1.8" rx="1.0" fill="url(#yg-light)"><title>1855 : modifications entrées en vigueur : 4</title></rect>
+<rect x="297.50" y="342.8" width="2.51" height="3.2" rx="1.0" fill="url(#yg-light)"><title>1856 : modifications entrées en vigueur : 7</title></rect>
+<rect x="303.78" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1858 : modifications entrées en vigueur : 1</title></rect>
+<rect x="306.92" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1859 : modifications entrées en vigueur : 3</title></rect>
+<rect x="310.06" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1860 : modifications entrées en vigueur : 3</title></rect>
+<text x="311.3" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1860</text>
+<rect x="313.20" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1861 : modifications entrées en vigueur : 1</title></rect>
+<rect x="316.34" y="344.2" width="2.51" height="1.8" rx="1.0" fill="url(#yg-light)"><title>1862 : modifications entrées en vigueur : 4</title></rect>
+<rect x="319.48" y="342.3" width="2.51" height="3.7" rx="1.0" fill="url(#yg-light)"><title>1863 : modifications entrées en vigueur : 8</title></rect>
+<rect x="322.62" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1864 : modifications entrées en vigueur : 3</title></rect>
+<rect x="325.76" y="344.2" width="2.51" height="1.8" rx="1.0" fill="url(#yg-light)"><title>1865 : modifications entrées en vigueur : 4</title></rect>
+<rect x="328.90" y="343.7" width="2.51" height="2.3" rx="1.0" fill="url(#yg-light)"><title>1866 : modifications entrées en vigueur : 5</title></rect>
+<rect x="332.04" y="342.8" width="2.51" height="3.2" rx="1.0" fill="url(#yg-light)"><title>1867 : modifications entrées en vigueur : 7</title></rect>
+<rect x="335.17" y="342.8" width="2.51" height="3.2" rx="1.0" fill="url(#yg-light)"><title>1868 : modifications entrées en vigueur : 7</title></rect>
+<rect x="338.31" y="342.3" width="2.51" height="3.7" rx="1.0" fill="url(#yg-light)"><title>1869 : modifications entrées en vigueur : 8</title></rect>
+<rect x="341.45" y="341.9" width="2.51" height="4.1" rx="1.0" fill="url(#yg-light)"><title>1870 : modifications entrées en vigueur : 9</title></rect>
+<rect x="344.59" y="344.2" width="2.51" height="1.8" rx="1.0" fill="url(#yg-light)"><title>1871 : modifications entrées en vigueur : 4</title></rect>
+<rect x="347.73" y="340.0" width="2.51" height="6.0" rx="1.0" fill="url(#yg-light)"><title>1872 : modifications entrées en vigueur : 13</title></rect>
+<rect x="350.87" y="329.4" width="2.51" height="16.6" rx="1.0" fill="url(#yg-light)"><title>1873 : modifications entrées en vigueur : 36</title></rect>
+<rect x="354.01" y="321.2" width="2.51" height="24.8" rx="1.0" fill="url(#yg-light)"><title>1874 : modifications entrées en vigueur : 54</title></rect>
+<rect x="357.15" y="335.4" width="2.51" height="10.6" rx="1.0" fill="url(#yg-light)"><title>1875 : modifications entrées en vigueur : 23</title></rect>
+<rect x="360.29" y="322.5" width="2.51" height="23.5" rx="1.0" fill="url(#yg-light)"><title>1876 : modifications entrées en vigueur : 51</title></rect>
+<rect x="363.43" y="336.3" width="2.51" height="9.7" rx="1.0" fill="url(#yg-light)"><title>1877 : modifications entrées en vigueur : 21</title></rect>
+<rect x="366.57" y="338.6" width="2.51" height="7.4" rx="1.0" fill="url(#yg-light)"><title>1878 : modifications entrées en vigueur : 16</title></rect>
+<rect x="369.71" y="336.3" width="2.51" height="9.7" rx="1.0" fill="url(#yg-light)"><title>1879 : modifications entrées en vigueur : 21</title></rect>
+<rect x="372.85" y="337.3" width="2.51" height="8.7" rx="1.0" fill="url(#yg-light)"><title>1880 : modifications entrées en vigueur : 19</title></rect>
+<text x="374.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1880</text>
+<rect x="375.98" y="340.0" width="2.51" height="6.0" rx="1.0" fill="url(#yg-light)"><title>1881 : modifications entrées en vigueur : 13</title></rect>
+<rect x="379.12" y="335.0" width="2.51" height="11.0" rx="1.0" fill="url(#yg-light)"><title>1882 : modifications entrées en vigueur : 24</title></rect>
+<rect x="382.26" y="343.2" width="2.51" height="2.8" rx="1.0" fill="url(#yg-light)"><title>1883 : modifications entrées en vigueur : 6</title></rect>
+<rect x="385.40" y="342.3" width="2.51" height="3.7" rx="1.0" fill="url(#yg-light)"><title>1884 : modifications entrées en vigueur : 8</title></rect>
+<rect x="388.54" y="341.4" width="2.51" height="4.6" rx="1.0" fill="url(#yg-light)"><title>1885 : modifications entrées en vigueur : 10</title></rect>
+<rect x="391.68" y="341.9" width="2.51" height="4.1" rx="1.0" fill="url(#yg-light)"><title>1886 : modifications entrées en vigueur : 9</title></rect>
+<rect x="394.82" y="342.8" width="2.51" height="3.2" rx="1.0" fill="url(#yg-light)"><title>1887 : modifications entrées en vigueur : 7</title></rect>
+<rect x="397.96" y="340.5" width="2.51" height="5.5" rx="1.0" fill="url(#yg-light)"><title>1888 : modifications entrées en vigueur : 12</title></rect>
+<rect x="401.10" y="341.9" width="2.51" height="4.1" rx="1.0" fill="url(#yg-light)"><title>1889 : modifications entrées en vigueur : 9</title></rect>
+<rect x="404.24" y="340.5" width="2.51" height="5.5" rx="1.0" fill="url(#yg-light)"><title>1890 : modifications entrées en vigueur : 12</title></rect>
+<rect x="407.38" y="339.1" width="2.51" height="6.9" rx="1.0" fill="url(#yg-light)"><title>1891 : modifications entrées en vigueur : 15</title></rect>
+<rect x="410.52" y="335.4" width="2.51" height="10.6" rx="1.0" fill="url(#yg-light)"><title>1892 : modifications entrées en vigueur : 23</title></rect>
+<rect x="413.66" y="343.7" width="2.51" height="2.3" rx="1.0" fill="url(#yg-light)"><title>1893 : modifications entrées en vigueur : 5</title></rect>
+<rect x="416.79" y="341.4" width="2.51" height="4.6" rx="1.0" fill="url(#yg-light)"><title>1894 : modifications entrées en vigueur : 10</title></rect>
+<rect x="419.93" y="342.8" width="2.51" height="3.2" rx="1.0" fill="url(#yg-light)"><title>1895 : modifications entrées en vigueur : 7</title></rect>
+<rect x="423.07" y="341.4" width="2.51" height="4.6" rx="1.0" fill="url(#yg-light)"><title>1896 : modifications entrées en vigueur : 10</title></rect>
+<rect x="426.21" y="343.2" width="2.51" height="2.8" rx="1.0" fill="url(#yg-light)"><title>1897 : modifications entrées en vigueur : 6</title></rect>
+<rect x="429.35" y="341.4" width="2.51" height="4.6" rx="1.0" fill="url(#yg-light)"><title>1898 : modifications entrées en vigueur : 10</title></rect>
+<rect x="432.49" y="341.9" width="2.51" height="4.1" rx="1.0" fill="url(#yg-light)"><title>1899 : modifications entrées en vigueur : 9</title></rect>
+<rect x="435.63" y="343.7" width="2.51" height="2.3" rx="1.0" fill="url(#yg-light)"><title>1900 : modifications entrées en vigueur : 5</title></rect>
+<text x="436.9" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1900</text>
+<rect x="438.77" y="334.0" width="2.51" height="12.0" rx="1.0" fill="url(#yg-light)"><title>1901 : modifications entrées en vigueur : 26</title></rect>
+<rect x="441.91" y="334.5" width="2.51" height="11.5" rx="1.0" fill="url(#yg-light)"><title>1902 : modifications entrées en vigueur : 25</title></rect>
+<rect x="445.05" y="337.3" width="2.51" height="8.7" rx="1.0" fill="url(#yg-light)"><title>1903 : modifications entrées en vigueur : 19</title></rect>
+<rect x="448.19" y="331.7" width="2.51" height="14.3" rx="1.0" fill="url(#yg-light)"><title>1904 : modifications entrées en vigueur : 31</title></rect>
+<rect x="451.33" y="338.2" width="2.51" height="7.8" rx="1.0" fill="url(#yg-light)"><title>1905 : modifications entrées en vigueur : 17</title></rect>
+<rect x="454.47" y="328.1" width="2.51" height="17.9" rx="1.0" fill="url(#yg-light)"><title>1906 : modifications entrées en vigueur : 39</title></rect>
+<rect x="457.61" y="333.1" width="2.51" height="12.9" rx="1.0" fill="url(#yg-light)"><title>1907 : modifications entrées en vigueur : 28</title></rect>
+<rect x="460.74" y="340.0" width="2.51" height="6.0" rx="1.0" fill="url(#yg-light)"><title>1908 : modifications entrées en vigueur : 13</title></rect>
+<rect x="463.88" y="328.5" width="2.51" height="17.5" rx="1.0" fill="url(#yg-light)"><title>1909 : modifications entrées en vigueur : 38</title></rect>
+<rect x="467.02" y="341.4" width="2.51" height="4.6" rx="1.0" fill="url(#yg-light)"><title>1910 : modifications entrées en vigueur : 10</title></rect>
+<rect x="470.16" y="332.2" width="2.51" height="13.8" rx="1.0" fill="url(#yg-light)"><title>1911 : modifications entrées en vigueur : 30</title></rect>
+<rect x="473.30" y="329.0" width="2.51" height="17.0" rx="1.0" fill="url(#yg-light)"><title>1912 : modifications entrées en vigueur : 37</title></rect>
+<rect x="476.44" y="328.5" width="2.51" height="17.5" rx="1.0" fill="url(#yg-light)"><title>1913 : modifications entrées en vigueur : 38</title></rect>
+<rect x="479.58" y="331.3" width="2.51" height="14.7" rx="1.0" fill="url(#yg-light)"><title>1914 : modifications entrées en vigueur : 32</title></rect>
+<rect x="482.72" y="342.8" width="2.51" height="3.2" rx="1.0" fill="url(#yg-light)"><title>1915 : modifications entrées en vigueur : 7</title></rect>
+<rect x="485.86" y="339.1" width="2.51" height="6.9" rx="1.0" fill="url(#yg-light)"><title>1916 : modifications entrées en vigueur : 15</title></rect>
+<rect x="489.00" y="340.5" width="2.51" height="5.5" rx="1.0" fill="url(#yg-light)"><title>1917 : modifications entrées en vigueur : 12</title></rect>
+<rect x="492.14" y="340.5" width="2.51" height="5.5" rx="1.0" fill="url(#yg-light)"><title>1918 : modifications entrées en vigueur : 12</title></rect>
+<rect x="495.28" y="332.7" width="2.51" height="13.3" rx="1.0" fill="url(#yg-light)"><title>1919 : modifications entrées en vigueur : 29</title></rect>
+<rect x="498.42" y="337.7" width="2.51" height="8.3" rx="1.0" fill="url(#yg-light)"><title>1920 : modifications entrées en vigueur : 18</title></rect>
+<text x="499.7" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1920</text>
+<rect x="501.55" y="330.4" width="2.51" height="15.6" rx="1.0" fill="url(#yg-light)"><title>1921 : modifications entrées en vigueur : 34</title></rect>
+<rect x="504.69" y="336.8" width="2.51" height="9.2" rx="1.0" fill="url(#yg-light)"><title>1922 : modifications entrées en vigueur : 20</title></rect>
+<rect x="507.83" y="335.9" width="2.51" height="10.1" rx="1.0" fill="url(#yg-light)"><title>1923 : modifications entrées en vigueur : 22</title></rect>
+<rect x="510.97" y="337.7" width="2.51" height="8.3" rx="1.0" fill="url(#yg-light)"><title>1924 : modifications entrées en vigueur : 18</title></rect>
+<rect x="514.11" y="338.2" width="2.51" height="7.8" rx="1.0" fill="url(#yg-light)"><title>1925 : modifications entrées en vigueur : 17</title></rect>
+<rect x="517.25" y="337.7" width="2.51" height="8.3" rx="1.0" fill="url(#yg-light)"><title>1926 : modifications entrées en vigueur : 18</title></rect>
+<rect x="520.39" y="331.3" width="2.51" height="14.7" rx="1.0" fill="url(#yg-light)"><title>1927 : modifications entrées en vigueur : 32</title></rect>
+<rect x="523.53" y="337.3" width="2.51" height="8.7" rx="1.0" fill="url(#yg-light)"><title>1928 : modifications entrées en vigueur : 19</title></rect>
+<rect x="526.67" y="330.4" width="2.51" height="15.6" rx="1.0" fill="url(#yg-light)"><title>1929 : modifications entrées en vigueur : 34</title></rect>
+<rect x="529.81" y="317.9" width="2.51" height="28.1" rx="1.0" fill="url(#yg-light)"><title>1930 : modifications entrées en vigueur : 61</title></rect>
+<rect x="532.95" y="341.9" width="2.51" height="4.1" rx="1.0" fill="url(#yg-light)"><title>1931 : modifications entrées en vigueur : 9</title></rect>
+<rect x="536.09" y="339.6" width="2.51" height="6.4" rx="1.0" fill="url(#yg-light)"><title>1932 : modifications entrées en vigueur : 14</title></rect>
+<rect x="539.23" y="337.3" width="2.51" height="8.7" rx="1.0" fill="url(#yg-light)"><title>1933 : modifications entrées en vigueur : 19</title></rect>
+<rect x="542.36" y="339.1" width="2.51" height="6.9" rx="1.0" fill="url(#yg-light)"><title>1934 : modifications entrées en vigueur : 15</title></rect>
+<rect x="545.50" y="342.3" width="2.51" height="3.7" rx="1.0" fill="url(#yg-light)"><title>1935 : modifications entrées en vigueur : 8</title></rect>
+<rect x="548.64" y="336.3" width="2.51" height="9.7" rx="1.0" fill="url(#yg-light)"><title>1936 : modifications entrées en vigueur : 21</title></rect>
+<rect x="551.78" y="340.9" width="2.51" height="5.1" rx="1.0" fill="url(#yg-light)"><title>1937 : modifications entrées en vigueur : 11</title></rect>
+<rect x="554.92" y="333.6" width="2.51" height="12.4" rx="1.0" fill="url(#yg-light)"><title>1938 : modifications entrées en vigueur : 27</title></rect>
+<rect x="558.06" y="338.6" width="2.51" height="7.4" rx="1.0" fill="url(#yg-light)"><title>1939 : modifications entrées en vigueur : 16</title></rect>
+<rect x="561.20" y="344.2" width="2.51" height="1.8" rx="1.0" fill="url(#yg-light)"><title>1940 : modifications entrées en vigueur : 4</title></rect>
+<text x="562.5" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1940</text>
+<rect x="576.90" y="344.5" width="2.51" height="1.5" rx="1.0" fill="url(#yg-light)"><title>1945 : modifications entrées en vigueur : 1</title></rect>
+<rect x="580.04" y="339.6" width="2.51" height="6.4" rx="1.0" fill="url(#yg-light)"><title>1946 : modifications entrées en vigueur : 14</title></rect>
+<rect x="583.17" y="337.7" width="2.51" height="8.3" rx="1.0" fill="url(#yg-light)"><title>1947 : modifications entrées en vigueur : 18</title></rect>
+<rect x="586.31" y="323.9" width="2.51" height="22.1" rx="1.0" fill="url(#yg-light)"><title>1948 : modifications entrées en vigueur : 48</title></rect>
+<rect x="589.45" y="329.4" width="2.51" height="16.6" rx="1.0" fill="url(#yg-light)"><title>1949 : modifications entrées en vigueur : 36</title></rect>
+<rect x="592.59" y="331.7" width="2.51" height="14.3" rx="1.0" fill="url(#yg-light)"><title>1950 : modifications entrées en vigueur : 31</title></rect>
+<rect x="595.73" y="334.5" width="2.51" height="11.5" rx="1.0" fill="url(#yg-light)"><title>1951 : modifications entrées en vigueur : 25</title></rect>
+<rect x="598.87" y="335.0" width="2.51" height="11.0" rx="1.0" fill="url(#yg-light)"><title>1952 : modifications entrées en vigueur : 24</title></rect>
+<rect x="602.01" y="328.5" width="2.51" height="17.5" rx="1.0" fill="url(#yg-light)"><title>1953 : modifications entrées en vigueur : 38</title></rect>
+<rect x="605.15" y="333.6" width="2.51" height="12.4" rx="1.0" fill="url(#yg-light)"><title>1954 : modifications entrées en vigueur : 27</title></rect>
+<rect x="608.29" y="336.3" width="2.51" height="9.7" rx="1.0" fill="url(#yg-light)"><title>1955 : modifications entrées en vigueur : 21</title></rect>
+<rect x="611.43" y="335.0" width="2.51" height="11.0" rx="1.0" fill="url(#yg-light)"><title>1956 : modifications entrées en vigueur : 24</title></rect>
+<rect x="614.57" y="332.2" width="2.51" height="13.8" rx="1.0" fill="url(#yg-light)"><title>1957 : modifications entrées en vigueur : 30</title></rect>
+<rect x="617.71" y="327.1" width="2.51" height="18.9" rx="1.0" fill="url(#yg-light)"><title>1958 : modifications entrées en vigueur : 41</title></rect>
+<rect x="620.85" y="335.9" width="2.51" height="10.1" rx="1.0" fill="url(#yg-light)"><title>1959 : modifications entrées en vigueur : 22</title></rect>
+<rect x="623.98" y="329.4" width="2.51" height="16.6" rx="1.0" fill="url(#yg-light)"><title>1960 : modifications entrées en vigueur : 36</title></rect>
+<text x="625.2" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1960</text>
+<rect x="627.12" y="328.1" width="2.51" height="17.9" rx="1.0" fill="url(#yg-light)"><title>1961 : modifications entrées en vigueur : 39</title></rect>
+<rect x="630.26" y="336.3" width="2.51" height="9.7" rx="1.0" fill="url(#yg-light)"><title>1962 : modifications entrées en vigueur : 21</title></rect>
+<rect x="633.40" y="326.7" width="2.51" height="19.3" rx="1.0" fill="url(#yg-light)"><title>1963 : modifications entrées en vigueur : 42</title></rect>
+<rect x="636.54" y="331.3" width="2.51" height="14.7" rx="1.0" fill="url(#yg-light)"><title>1964 : modifications entrées en vigueur : 32</title></rect>
+<rect x="639.68" y="323.5" width="2.51" height="22.5" rx="1.0" fill="url(#yg-light)"><title>1965 : modifications entrées en vigueur : 49</title></rect>
+<rect x="642.82" y="328.1" width="2.51" height="17.9" rx="1.0" fill="url(#yg-light)"><title>1966 : modifications entrées en vigueur : 39</title></rect>
+<rect x="645.96" y="327.6" width="2.51" height="18.4" rx="1.0" fill="url(#yg-light)"><title>1967 : modifications entrées en vigueur : 40</title></rect>
+<rect x="649.10" y="326.7" width="2.51" height="19.3" rx="1.0" fill="url(#yg-light)"><title>1968 : modifications entrées en vigueur : 42</title></rect>
+<rect x="652.24" y="329.9" width="2.51" height="16.1" rx="1.0" fill="url(#yg-light)"><title>1969 : modifications entrées en vigueur : 35</title></rect>
+<rect x="655.38" y="330.8" width="2.51" height="15.2" rx="1.0" fill="url(#yg-light)"><title>1970 : modifications entrées en vigueur : 33</title></rect>
+<rect x="658.52" y="322.5" width="2.51" height="23.5" rx="1.0" fill="url(#yg-light)"><title>1971 : modifications entrées en vigueur : 51</title></rect>
+<rect x="661.66" y="325.8" width="2.51" height="20.2" rx="1.0" fill="url(#yg-light)"><title>1972 : modifications entrées en vigueur : 44</title></rect>
+<rect x="664.79" y="321.6" width="2.51" height="24.4" rx="1.0" fill="url(#yg-light)"><title>1973 : modifications entrées en vigueur : 53</title></rect>
+<rect x="667.93" y="318.9" width="2.51" height="27.1" rx="1.0" fill="url(#yg-light)"><title>1974 : modifications entrées en vigueur : 59</title></rect>
+<rect x="671.07" y="317.5" width="2.51" height="28.5" rx="1.0" fill="url(#yg-light)"><title>1975 : modifications entrées en vigueur : 62</title></rect>
+<rect x="674.21" y="326.7" width="2.51" height="19.3" rx="1.0" fill="url(#yg-light)"><title>1976 : modifications entrées en vigueur : 42</title></rect>
+<rect x="677.35" y="320.7" width="2.51" height="25.3" rx="1.0" fill="url(#yg-light)"><title>1977 : modifications entrées en vigueur : 55</title></rect>
+<rect x="680.49" y="317.9" width="2.51" height="28.1" rx="1.0" fill="url(#yg-light)"><title>1978 : modifications entrées en vigueur : 61</title></rect>
+<rect x="683.63" y="321.2" width="2.51" height="24.8" rx="1.0" fill="url(#yg-light)"><title>1979 : modifications entrées en vigueur : 54</title></rect>
+<rect x="686.77" y="318.4" width="2.51" height="27.6" rx="1.0" fill="url(#yg-light)"><title>1980 : modifications entrées en vigueur : 60</title></rect>
+<text x="688.0" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1980</text>
+<rect x="689.91" y="323.0" width="2.51" height="23.0" rx="1.0" fill="url(#yg-light)"><title>1981 : modifications entrées en vigueur : 50</title></rect>
+<rect x="693.05" y="317.5" width="2.51" height="28.5" rx="1.0" fill="url(#yg-light)"><title>1982 : modifications entrées en vigueur : 62</title></rect>
+<rect x="696.19" y="317.9" width="2.51" height="28.1" rx="1.0" fill="url(#yg-light)"><title>1983 : modifications entrées en vigueur : 61</title></rect>
+<rect x="699.33" y="323.9" width="2.51" height="22.1" rx="1.0" fill="url(#yg-light)"><title>1984 : modifications entrées en vigueur : 48</title></rect>
+<rect x="702.47" y="328.1" width="2.51" height="17.9" rx="1.0" fill="url(#yg-light)"><title>1985 : modifications entrées en vigueur : 39</title></rect>
+<rect x="705.61" y="324.4" width="2.51" height="21.6" rx="1.0" fill="url(#yg-light)"><title>1986 : modifications entrées en vigueur : 47</title></rect>
+<rect x="708.74" y="322.1" width="2.51" height="23.9" rx="1.0" fill="url(#yg-light)"><title>1987 : modifications entrées en vigueur : 52</title></rect>
+<rect x="711.88" y="329.0" width="2.51" height="17.0" rx="1.0" fill="url(#yg-light)"><title>1988 : modifications entrées en vigueur : 37</title></rect>
+<rect x="715.02" y="315.2" width="2.51" height="30.8" rx="1.0" fill="url(#yg-light)"><title>1989 : modifications entrées en vigueur : 67</title></rect>
+<rect x="718.16" y="331.3" width="2.51" height="14.7" rx="1.0" fill="url(#yg-light)"><title>1990 : modifications entrées en vigueur : 32</title></rect>
+<rect x="721.30" y="324.4" width="2.51" height="21.6" rx="1.0" fill="url(#yg-light)"><title>1991 : modifications entrées en vigueur : 47</title></rect>
+<rect x="724.44" y="324.4" width="2.51" height="21.6" rx="1.0" fill="url(#yg-light)"><title>1992 : modifications entrées en vigueur : 47</title></rect>
+<rect x="727.58" y="314.3" width="2.51" height="31.7" rx="1.0" fill="url(#yg-light)"><title>1993 : modifications entrées en vigueur : 69</title></rect>
+<rect x="730.72" y="317.0" width="2.51" height="29.0" rx="1.0" fill="url(#yg-light)"><title>1994 : modifications entrées en vigueur : 63</title></rect>
+<rect x="733.86" y="325.8" width="2.51" height="20.2" rx="1.0" fill="url(#yg-light)"><title>1995 : modifications entrées en vigueur : 44</title></rect>
+<rect x="737.00" y="321.6" width="2.51" height="24.4" rx="1.0" fill="url(#yg-light)"><title>1996 : modifications entrées en vigueur : 53</title></rect>
+<rect x="740.14" y="311.5" width="2.51" height="34.5" rx="1.0" fill="url(#yg-light)"><title>1997 : modifications entrées en vigueur : 75</title></rect>
+<rect x="743.28" y="315.6" width="2.51" height="30.4" rx="1.0" fill="url(#yg-light)"><title>1998 : modifications entrées en vigueur : 66</title></rect>
+<rect x="746.42" y="309.7" width="2.51" height="36.3" rx="1.0" fill="url(#yg-light)"><title>1999 : modifications entrées en vigueur : 79</title></rect>
+<rect x="749.55" y="317.5" width="2.51" height="28.5" rx="1.0" fill="url(#yg-light)"><title>2000 : modifications entrées en vigueur : 62</title></rect>
+<text x="750.8" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2000</text>
+<rect x="752.69" y="315.6" width="2.51" height="30.4" rx="1.0" fill="url(#yg-light)"><title>2001 : modifications entrées en vigueur : 66</title></rect>
+<rect x="755.83" y="312.4" width="2.51" height="33.6" rx="1.0" fill="url(#yg-light)"><title>2002 : modifications entrées en vigueur : 73</title></rect>
+<rect x="758.97" y="300.5" width="2.51" height="45.5" rx="1.0" fill="url(#yg-light)"><title>2003 : modifications entrées en vigueur : 99</title></rect>
+<rect x="762.11" y="302.3" width="2.51" height="43.7" rx="1.0" fill="url(#yg-light)"><title>2004 : modifications entrées en vigueur : 95</title></rect>
+<rect x="765.25" y="306.4" width="2.51" height="39.6" rx="1.0" fill="url(#yg-light)"><title>2005 : modifications entrées en vigueur : 86</title></rect>
+<rect x="768.39" y="306.9" width="2.51" height="39.1" rx="1.0" fill="url(#yg-light)"><title>2006 : modifications entrées en vigueur : 85</title></rect>
+<rect x="771.53" y="304.6" width="2.51" height="41.4" rx="1.0" fill="url(#yg-light)"><title>2007 : modifications entrées en vigueur : 90</title></rect>
+<rect x="774.67" y="306.9" width="2.51" height="39.1" rx="1.0" fill="url(#yg-light)"><title>2008 : modifications entrées en vigueur : 85</title></rect>
+<rect x="777.81" y="299.5" width="2.51" height="46.5" rx="1.0" fill="url(#yg-light)"><title>2009 : modifications entrées en vigueur : 101</title></rect>
+<rect x="780.95" y="309.7" width="2.51" height="36.3" rx="1.0" fill="url(#yg-light)"><title>2010 : modifications entrées en vigueur : 79</title></rect>
+<rect x="784.09" y="309.7" width="2.51" height="36.3" rx="1.0" fill="url(#yg-light)"><title>2011 : modifications entrées en vigueur : 79</title></rect>
+<rect x="787.23" y="317.5" width="2.51" height="28.5" rx="1.0" fill="url(#yg-light)"><title>2012 : modifications entrées en vigueur : 62</title></rect>
+<rect x="790.36" y="305.5" width="2.51" height="40.5" rx="1.0" fill="url(#yg-light)"><title>2013 : modifications entrées en vigueur : 88</title></rect>
+<rect x="793.50" y="308.3" width="2.51" height="37.7" rx="1.0" fill="url(#yg-light)"><title>2014 : modifications entrées en vigueur : 82</title></rect>
+<rect x="796.64" y="299.1" width="2.51" height="46.9" rx="1.0" fill="url(#yg-light)"><title>2015 : modifications entrées en vigueur : 102</title></rect>
+<rect x="799.78" y="284.4" width="2.51" height="61.6" rx="1.0" fill="url(#yg-light)"><title>2016 : modifications entrées en vigueur : 134</title></rect>
+<rect x="802.92" y="300.0" width="2.51" height="46.0" rx="1.0" fill="url(#yg-light)"><title>2017 : modifications entrées en vigueur : 100</title></rect>
+<rect x="806.06" y="274.2" width="2.51" height="71.8" rx="1.0" fill="url(#yg-light)"><title>2018 : modifications entrées en vigueur : 156</title></rect>
+<rect x="809.20" y="302.8" width="2.51" height="43.2" rx="1.0" fill="url(#yg-light)"><title>2019 : modifications entrées en vigueur : 94</title></rect>
+<rect x="812.34" y="285.3" width="2.51" height="60.7" rx="1.0" fill="url(#yg-light)"><title>2020 : modifications entrées en vigueur : 132</title></rect>
+<text x="813.6" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2020</text>
+<rect x="815.48" y="259.1" width="2.51" height="86.9" rx="1.0" fill="url(#yg-light)"><title>2021 : modifications entrées en vigueur : 189</title></rect>
+<rect x="818.62" y="266.4" width="2.51" height="79.6" rx="1.0" fill="url(#yg-light)"><title>2022 : modifications entrées en vigueur : 173</title></rect>
+<rect x="821.76" y="242.5" width="2.51" height="103.5" rx="1.0" fill="url(#yg-light)"><title>2023 : modifications entrées en vigueur : 225</title></rect>
+<text x="823.0" y="234.5" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#14201a">225 en 2023</text>
+<rect x="824.90" y="277.0" width="2.51" height="69.0" rx="1.0" fill="url(#yg-light)"><title>2024 : modifications entrées en vigueur : 150</title></rect>
+<rect x="828.04" y="273.3" width="2.51" height="72.7" rx="1.0" fill="url(#yg-light)"><title>2025 : modifications entrées en vigueur : 158</title></rect>
+<rect x="831.17" y="250.3" width="2.51" height="95.7" rx="1.0" fill="url(#yg-light)"><title>2026 : modifications entrées en vigueur : 208</title></rect>
+<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">Modifications datées du jour d’entrée en vigueur : 7 004 ; date d’entrée en vigueur impossible (avant 1200), non affichées : 1.</text>
+<rect x="28" y="412" width="824" height="197" rx="8" fill="#f4f6f5"/>
+<text x="46" y="440" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Exhaustivité selon les sources officielles au 12 nov. 2026</text>
+<text x="46.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Constitution</text>
+<text x="46.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">dans le dépôt</text>
+<g><title>Constitution: 100 %</title><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100 %</text>
+<text x="460.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Droit régional</text>
+<text x="460.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">aucune région à pouvoir législatif</text>
+<text x="834.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">sans objet</text>
+<text x="46.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Codes principaux</text>
+<text x="46.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">part des codes essentiels présents</text>
+<g><title>Codes principaux: 67 %</title><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="509.0" width="41.5" height="4" rx="2" fill="#9a6200"/></g>
+<text x="420.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">67 %</text>
+<text x="460.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Jurisprudence</text>
+<text x="460.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">juridictions suprêmes présentes</text>
+<g><title>Jurisprudence: 0 %</title><rect x="708.0" y="509.0" width="62.0" height="4" rx="2" fill="#e7efe9"/></g>
+<text x="834.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">0 %</text>
+<text x="46.0" y="560" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Droit national</text>
+<text x="46.0" y="581" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">estimation (confiance moyenne, 85,9–100,0 %)</text>
+<g><title>Droit national: 100 %</title><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="560" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">~100 %</text>
+<rect x="28" y="625" width="824" height="152" rx="8" fill="#f4f6f5"/>
+<text x="46" y="653" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Exactitude du contenu</text>
+<text x="46.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Modifications avec date d’effet</text>
+<text x="46.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">part des modifications</text>
+<g><title>Modifications avec date d’effet: 100 %</title><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100 %</text>
+<text x="460.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Corpus du pays dans global-law</text>
+<text x="460.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">textes nationaux: 1</text>
+<text x="834.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">1</text>
+<text x="46.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Modifications citant leur source</text>
+<text x="46.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">ligne Source ou lien dans le commit</text>
+<g><title>Modifications citant leur source: 100 %</title><rect x="294.0" y="722.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="722.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100 %</text>
+<text x="460.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Vérifié sur la source officielle</text>
+<text x="460.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">la date indiquée par le dépôt</text>
+<text x="834.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">28 oct. 2026</text>
 </svg>
