@@ -30,7 +30,8 @@ Le texte est en français, tel que Legilux le publie. Les textes en allemand et 
 
 - **[Interrogez Claude sur le droit luxembourgeois](https://global-law.lexifina.com/v1/try_claude?country=luxembourg)** : ouvre Claude avec une première question prête.
 - **[Interrogez ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=luxembourg)** : la même question dans ChatGPT.
-- **[Appelez l’API dans votre navigateur](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+annuel&jurisdictions=luxembourg)** : une recherche de « congé annuel » dans le droit luxembourgeois, renvoyée en JSON. La documentation est [ici](https://lexifina.com/api/global-law).
+- **[Cherchez dans le droit luxembourgeois sur notre site](https://lexifina.com/law?country=luxembourg&q=cong%C3%A9+annuel)** : une recherche de « congé annuel », avec le texte de chaque disposition et ses versions, sans compte.
+- **[API REST pour les développeurs](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+annuel&jurisdiction=luxembourg)** : la même recherche en JSON, sans clé. La documentation est [ici](https://lexifina.com/api/global-law).
 
 Les deux assistants lisent le registre par le connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
