@@ -61,6 +61,7 @@ Chaque modification de la Constitution et de la loi Covid-19 est attribuée à l
 - Avant le commit de tout autre acte, chaque mot du XML de Legilux qui le concerne (hors texte barré et notes) doit figurer dans ses fichiers, dans l’ordre ; un acte qui échoue est répertorié, sans commit.
 - Les arrêts et les avis sont la couche texte du PDF publié, à l’identique ; ceux qui sont numérisés, dont le texte serait issu d’une OCR, sont répertoriés, sans commit.
 - L’historique ne fait que s’allonger : une correction est un commit à part entière (`Kind: correction`), consigné dans [`CORRECTIONS.md`](CORRECTIONS.md).
+- [vulnerabilities/](vulnerabilities/) : erreurs de rédaction possibles du droit luxembourgeois, relevées par les détecteurs de global-law et vérifiées à la main.
 
 ## Ce qu’il ne montre pas
 

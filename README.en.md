@@ -61,6 +61,7 @@ Each change to the Constitution and the Covid-19 law is credited to the law that
 - Before any other act is committed, every word of Legilux's XML for it (struck-through text and notes aside) must be in its files, in order; an act that fails is listed, not committed.
 - Judgments and opinions are the text layer of the published PDF, verbatim; scanned ones, whose text would be OCR, are listed, not committed.
 - History is append-only: a correction is a commit of its own (`Kind: correction`), recorded in [`CORRECTIONS.md`](CORRECTIONS.md).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Luxembourg law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
