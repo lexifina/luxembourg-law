@@ -88,6 +88,10 @@ Aucun modèle d’IA n’a écrit ni modifié de texte juridique ; les scripts o
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
+
 ## En savoir plus
 
 Dans le dépôt [lexifina/global-law](https://github.com/lexifina/global-law) (pages en anglais) :
