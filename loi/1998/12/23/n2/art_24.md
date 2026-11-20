@@ -28,4 +28,6 @@ La CSSF est autorisée à prélever la contrepartie de ses frais de fonctionneme
 
 La CSSF est autorisée à prélever la contrepartie de ses frais de personnel, de ses frais financiers et de ses frais de fonctionnement par des taxes à percevoir auprès des offreurs, des personnes qui demandent l’admission à la négociation ou des exploitants de plate-formes de négociation de crypto-actifs autres que des jetons se référant à un ou des actifs ou des jetons de monnaie électronique visés au titre II du règlement (UE) 2023/1114.
 
+La CSSF est autorisée à prélever la contrepartie de ses frais de personnel, de ses frais financiers et de ses frais de fonctionnement par des taxes à percevoir auprès des intermédiaires de crédit visés à l’article L. 224-21, paragraphe (2), du Code de la consommation.
+
 (2) Un règlement grand-ducal fixe le montant des taxes et les modalités d'exécution du présent article.
