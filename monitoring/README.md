@@ -6,13 +6,13 @@
 
 Comment global-law surveille chaque pays : [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Cette page fait de même pour Luxembourg seulement : chaque lecture d’une source officielle, sa date et ce qui en est ressorti (actes ajoutés, modifiés et retirés). La forme lisible par machine est dans [data/checks/](../data/checks/) (JSON Lines, schéma `lexifina-check/1`), dans `git log` sous forme de commits `Kind: check`, et mois par mois dans [checks/](checks/).
 
-**Dernière vérification :** 2026-11-23 02:04 UTC, Données ouvertes de Legilux (Journal officiel et textes consolidés) : 4 adresses lues ; 0 ajoutés, 0 modifiés, 0 retirés ; aucun changement ; 50 non publiés, dont 0 sans motif. Signalements: `publish-lag`.
+**Dernière vérification :** 2026-11-23 16:11 UTC, Données ouvertes de Legilux (Journal officiel et textes consolidés) : 6973 adresses lues ; 0 ajoutés, 2 modifiés, 0 retirés ; changements constatés ; 33 non publiés, dont 0 sans motif. Signalements: `verify-differ`.
 
 ## Sources
 
 | Source | Dossiers | Fréquence | Dernière vérification réussie | Dernier résultat | État |
 | --- | --- | --- | --- | --- | --- |
-| [Données ouvertes de Legilux (Journal officiel et textes consolidés)](https://data.legilux.public.lu/) | `constitution/`, `loi/`, `memorial-b/loi/`, `data/actes/loi.csv` | chaque jour | 2026-11-23 02:04 UTC | aucun changement | surveillée: le canal de données ouvertes (CC BY 4.0) dont le dépôt est tiré ; le site web n’est pas parcouru |
+| [Données ouvertes de Legilux (Journal officiel et textes consolidés)](https://data.legilux.public.lu/) | `constitution/`, `loi/`, `memorial-b/loi/`, `data/actes/loi.csv` | chaque jour | 2026-11-23 16:11 UTC | changements constatés | surveillée: le canal de données ouvertes (CC BY 4.0) dont le dépôt est tiré ; le site web n’est pas parcouru |
 | [Juridictions judiciaires sur data.public.lu (Administration judiciaire) : Cour de cassation](https://data.public.lu/fr/datasets/cour-de-cassation-1/) | `jurisprudence/` | — | — | — | en pause: la jurisprudence attendra que la législation soit entièrement surveillée |
 | [Avis du Conseil d’État sur data.public.lu](https://data.public.lu/fr/datasets/avis-du-conseil-detat/) | `avis/` | — | — | — | en pause: avis sur des projets, pas du droit : ils attendront, comme la jurisprudence, que la législation soit entièrement surveillée |
 | [Chambre des Députés sur data.public.lu : projets et propositions de loi](https://data.public.lu/fr/organizations/627e56d3a9bc6b2dd946a3ea/) | `data/chambre/` | — | — | — | en pause: projets de loi, pas du droit : ils attendront, comme la jurisprudence, que la législation soit entièrement surveillée |
@@ -21,6 +21,7 @@ Comment global-law surveille chaque pays : [global-law monitoring/](https://gith
 
 | Début (UTC) | Source | Lues | Ajoutés | Modifiés | Retirés | Non publiés (sans motif) | Résultat | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-23 14:10](checks/2026-11.md#lu-legilux-20261123t141047z) | legilux | 6973 | 0 | 2 | 0 | 33 (0) | changements constatés `verify-differ` | [57](https://github.com/lexifina/luxembourg-law/compare/ec1d05af361c...078a31e2dfcc) |
 | [2026-11-23 02:03](checks/2026-11.md#lu-legilux-20261123t020354z) | legilux | 4 | 0 | 0 | 0 | 50 (0) | aucun changement `publish-lag` | — |
 
 ## Vérifiez vous-même

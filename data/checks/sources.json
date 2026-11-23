@@ -9,8 +9,8 @@
    },
    "url": "https://data.legilux.public.lu/",
    "reads": {
-    "en": "Legilux's SPARQL endpoint (four queries): every law and the Constitution with its status, its dates and whether Legilux has its XML text; every consolidated version of them with the days it applies from and to; the number of acts of each other kind",
-    "fr": "le point d’accès SPARQL de Legilux (quatre requêtes) : chaque loi et la Constitution, avec leur statut, leurs dates et l’existence de leur texte XML ; chacune de leurs versions consolidées, avec les jours où elle s’applique ; le nombre d’actes de chaque autre catégorie"
+    "en": "Legilux's SPARQL endpoint (four queries): every law and the Constitution with its status, its dates and whether Legilux has its XML text; every consolidated version of them with the days it applies from and to; the number of acts of each other kind. Then the XML of each new or changed law, and of a seventh of the held laws each day, from Legilux's file store (legilux.public.lu), and the HTML of a few as a second check",
+    "fr": "le point d’accès SPARQL de Legilux (quatre requêtes) : chaque loi et la Constitution, avec leur statut, leurs dates et l’existence de leur texte XML ; chacune de leurs versions consolidées, avec les jours où elle s’applique ; le nombre d’actes de chaque autre catégorie. Puis le XML de chaque loi nouvelle ou modifiée, et d’un septième des lois du dépôt chaque jour, depuis les fichiers de Legilux (legilux.public.lu), et le HTML de quelques-unes en contrôle"
    },
    "folders": [
     "constitution/",
