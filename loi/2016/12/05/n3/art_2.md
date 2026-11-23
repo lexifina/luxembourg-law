@@ -1,14 +1,14 @@
 # Art. 2.
 
-L'annexe 3 – Travaux interdits aux jeunes en raison des dangers inhérents pour leur santé (L. 343-3) du Code du travail est modifiée comme suit:
+L’annexe 3 – Travaux interdits aux jeunes en raison des dangers inhérents pour leur santé (L. 343-3) du Code du travail est modifiée comme suit:
 
 - Le point 3. est remplacé par le texte suivant:
 
-- Les travaux exposant à des agents biologiques des groupes de risque 3 et 4 au sens de l'annexe 1, point 2. du Code du travail.
+- Les travaux exposant à des agents biologiques des groupes de risque 3 et 4 au sens de l’annexe 1, point 2. du Code du travail.
 
 - Le point 4. est modifié comme suit:
 
-- Les travaux exposant à des substances et mélanges qui répondent aux critères de classification dans une ou plusieurs des classes et catégories de danger suivantes et correspondent à une ou plusieurs des mentions de danger suivantes, conformément au règlement CLP:
+- Les travaux exposant à des substances et mélanges qui répondent aux critères de classification dans une ou plusieurs des classes et catégories de danger suivantes et correspondent à une ou plusieurs des mentions de danger suivantes, conformément au règlement CLP (*):
 
   - a) toxicité aiguë, catégorie 1, 2 ou 3 (H300, H310, H330, H301, H311, H331);
 
@@ -26,9 +26,9 @@ L'annexe 3 – Travaux interdits aux jeunes en raison des dangers inhérents pou
 
   - h) peroxydes organiques, types A ou B (H240, H241);
 
-  - i) toxicité spécifique pour certains organes cibles à la suite d'une exposition unique, catégorie 1 ou 2 (H370, H371);
+  - i) toxicité spécifique pour certains organes cibles à la suite d’une exposition unique, catégorie 1 ou 2 (H370, H371);
 
-  - j) toxicité spécifique pour certains organes cibles à la suite d'une exposition répétée, catégorie 1 ou 2 (H372, H373);
+  - j) toxicité spécifique pour certains organes cibles à la suite d’une exposition répétée, catégorie 1 ou 2 (H372, H373);
 
   - k) sensibilisation respiratoire, catégorie 1, sous-catégorie 1A ou 1B (H334);
 
@@ -46,8 +46,10 @@ L'annexe 3 – Travaux interdits aux jeunes en raison des dangers inhérents pou
 
 - Le point 7. est remplacé par le texte suivant:
 
-- Les travaux exposant à une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B des cancérigènes tels que fixés à l'annexe I du règlement CLP.
+- Les travaux exposant à une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B des cancérigènes tels que fixés à l’annexe I du règlement CLP (*).
 
 - Le point 9. est remplacé par le texte suivant:
 
-- Les procédés et travaux visés à la partie B. de l'annexe 1 du Code du travail.
+- Les procédés et travaux visés à la partie B. de l’annexe 1 du Code du travail.
+
+(*) Règlement CLP: Règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006 (JO L 353 du 31.12.2008, p. 1).
