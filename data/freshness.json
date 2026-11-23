@@ -1,0 +1,25 @@
+{
+ "schema": "lexifina-trail-freshness/1",
+ "as_of": "2026-11-23",
+ "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
+ "checked_against_official_source": "2026-11-23",
+ "totals": {
+  "acts": 6897,
+  "by_status": {
+   "current": 6861,
+   "pending-change": 36,
+   "stale": 0,
+   "unverified": 0,
+   "source-unavailable": 0
+  }
+ },
+ "sources": [
+  {
+   "source": "legilux",
+   "name": "Legilux open data (Journal officiel and consolidated texts)",
+   "state": "available",
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
+  }
+ ]
+}

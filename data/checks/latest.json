@@ -1,0 +1,53 @@
+{
+ "generated": "2026-11-23T02:04:03Z",
+ "latest": {
+  "legilux|luxembourg/national/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "current": 6861,
+    "gone": 0,
+    "held": 6897,
+    "newest_at_source": "eli/etat/leg/loi/2026/11/12/a559",
+    "newest_in_repo": "eli/etat/leg/loi/2026/09/17/a491",
+    "out_of_scope": 1163,
+    "pending": 36,
+    "repo": 6897,
+    "source_in_scope": 8070
+   },
+   "check_id": "lu-legilux-20261123T020354Z",
+   "commits": null,
+   "corpus": "luxembourg/national/acts",
+   "error": null,
+   "finished": "2026-11-23T02:04:02Z",
+   "flags": [
+    {
+     "detail": "10 laws new or changed at Legilux over 7 days ago are not here yet",
+     "flag": "publish-lag"
+    }
+   ],
+   "gap": 50,
+   "note": "Legilux lists 9,270 laws and the Constitution: 8,070 in force or not yet in force (the census), 1,200 no longer in force (431 in this repository's history, 765 listed in data/actes/loi.csv, 0 neither); not counted as gaps (README: What it does not show): 897 laws in force Legilux has only as scanned Mémorial pages (no XML) and 266 laws in force about named private persons (adopted since 1926), each listed in data/actes/loi.csv with metadata and link, not as text; Legilux's 142,634 acts of other kinds (43,816 Mémorial B publications, 33,351 communal regulations, 15,404 règlements grand-ducaux, 12,779 arrêtés ministériels, ...) are outside this corpus's text (corpus.json: the Constitution and the laws); the repository lists part of them with metadata and link in data/actes/ (PLAN.md); not compared in this check; first check: Legilux's list was recorded as the baseline for the next check",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 4,
+   "runner": "lawwatch luxembourg (d1affd9695)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-20",
+   "source": "legilux",
+   "started": "2026-11-23T02:03:54Z",
+   "unexplained": 0,
+   "verify": null
+  }
+ },
+ "schema": "lexifina-check/1"
+}
