@@ -10,8 +10,4 @@ Le responsable d’un laboratoire d’analyses de biologie médicale doit être 
 
 Le médecin ou le pharmacien responsable d’un laboratoire d’analyses de biologie médicale est tenu de respecter les règles professionnelles et déontologiques en vigueur au Luxembourg et y est soumis au contrôle disciplinaire du Collège médical.
 
-Le médecin, le pharmacien et le chimiste respectivement le biochimiste doivent en outre avoir acquis une formation spécialisée dont la nature et les modalités sont fixées par règlement grand-ducal.
-
-Ce règlement déterminera également pour quelle discipline de la biologie médicale ces formations sont valables.
-
-Si le laboratoire a des activités qui relèvent de plusieurs disciplines de la biologie médicale, il doit être dirigé par une personne ayant acquis la formation requise pour chacune des activités en question ou par plusieurs personnes ayant chacune la formation requise pour une des activités prévues.
+Le médecin, le pharmacien et le chimiste respectivement le biochimiste doivent en outre avoir acquis une formation spécialisée dont la nature et les modalités sont précisées à l’article 5bis .

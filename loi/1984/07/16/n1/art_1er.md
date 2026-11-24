@@ -6,4 +6,18 @@
 
 - Ne constituent pas un examen biologique au sens de la présente loi un test, un recueil et un traitement de signaux biologiques, à visées de dépistage, d’orientation diagnostique ou d’adaptation thérapeutique immédiate.
 
-- (3) Un laboratoire d´analyses de biologie médicale peut comporter plusieurs disciplines dont la liste est fixée par règlement grand-ducal. Un laboratoire peut exercer ses activités soit dans toutes ces disciplines, soit dans l´une ou plusieurs d´entre elles seulement. Les examens relevant de l’anatomopathologie et de la génétique humaine sont effectués exclusivement dans le centre de diagnostic visé à l’article 2, paragraphe 4 de la loi du 7 août 2012 portant création de l’établissement public « Laboratoire national de santé.
+- (3) Les disciplines qu’un laboratoire d’analyses de biologie médicale peut comporter sont les suivantes :
+
+  - 1° la chimie médicale ;
+
+  - 2° l’hématologie ;
+
+  - 3° la microbiologie ;
+
+  - 4° l’anatomie pathologique ;
+
+  - 5° la génétique médicale.
+
+- Un laboratoire peut exercer ses activités soit dans toutes ces disciplines, soit dans l’une ou plusieurs d’entre elles seulement.
+
+- Les examens relevant de l’anatomopathologie et de la génétique médicale sont effectués exclusivement dans le centre de diagnostic visé à l’article 2, paragraphe 4, de la loi modifiée du 7 août 2012 portant création de l’établissement public « Laboratoire national de santé ».
