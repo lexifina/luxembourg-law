@@ -1,52 +1,47 @@
 {
- "generated": "2026-11-23T16:30:18Z",
+ "generated": "2026-11-24T05:36:50Z",
  "latest": {
   "legilux|luxembourg/national/acts": {
-   "attempt": 3,
+   "attempt": 1,
    "audit": {
-    "match_neither": 1,
-    "match_new": 4,
+    "match_neither": 0,
+    "match_new": 5,
     "match_old": 0,
     "method": "Legilux's HTML of the version each act's Text: trailer names (legilux.public.lu/filestore/.../fr/html; the check and verify read its XML), its hidden parts (struck-through text, modification markers) left out: every line of the act's files, letters and digits, found on the page: whole, or without a list number build.py writes from the list's symbol, or in parts split at colons and quotation marks, or 4 in 5 of its runs of four words (the page numbers a quoted provision's items, which build.py writes on one line without their numbers)",
     "rows": [
      {
-      "id": "eli/etat/leg/loi/2006/07/31/n2",
-      "lines": "7541 of 7545",
-      "missing": [
-       "none1membrelorsqueladélégationsecomposedaumoins8membres",
-       "none2membreslorsqueladélégationsecomposedaumoins10membres",
-       "none3membreslorsqueladélégationsecomposedaumoins12membres"
-      ],
-      "published": true,
-      "read": "https://legilux.public.lu/filestore/eli/etat/leg/code/travail/20260726/fr/html/eli-etat-leg-code-travail-20260726-fr-html.html",
-      "verdict": "match_neither"
+      "id": "eli/etat/leg/loi/1953/05/20/n5",
+      "lines": "4 of 4",
+      "published": false,
+      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1953/05/20/n5/jo/fr/html/eli-etat-leg-loi-1953-05-20-n5-jo-fr-html.html",
+      "verdict": "match_new"
      },
      {
-      "id": "eli/etat/leg/loi/2010/08/03/n7",
+      "id": "eli/etat/leg/loi/1973/07/20/n1",
       "lines": "6 of 6",
-      "published": true,
-      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/2010/08/03/n7/jo/fr/html/eli-etat-leg-loi-2010-08-03-n7-jo-fr-html.html",
+      "published": false,
+      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1973/07/20/n1/jo/fr/html/eli-etat-leg-loi-1973-07-20-n1-jo-fr-html.html",
       "verdict": "match_new"
      },
      {
-      "id": "eli/etat/leg/loi/2016/12/05/n2",
-      "lines": "82 of 82",
-      "published": true,
-      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/2016/12/05/n2/jo/fr/html/eli-etat-leg-loi-2016-12-05-n2-jo-fr-html.html",
+      "id": "eli/etat/leg/loi/1914/11/28/n4",
+      "lines": "2 of 2",
+      "published": false,
+      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1914/11/28/n4/jo/fr/html/eli-etat-leg-loi-1914-11-28-n4-jo-fr-html.html",
       "verdict": "match_new"
      },
      {
-      "id": "eli/etat/leg/loi/2016/12/05/n3",
-      "lines": "58 of 58",
-      "published": true,
-      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/2016/12/05/n3/jo/fr/html/eli-etat-leg-loi-2016-12-05-n3-jo-fr-html.html",
+      "id": "eli/etat/leg/loi/1998/08/03/n6",
+      "lines": "2 of 2",
+      "published": false,
+      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1998/08/03/n6/jo/fr/html/eli-etat-leg-loi-1998-08-03-n6-jo-fr-html.html",
       "verdict": "match_new"
      },
      {
-      "id": "eli/etat/leg/loi/2016/12/06/n1",
-      "lines": "12 of 12",
-      "published": true,
-      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/2016/12/06/n1/jo/fr/html/eli-etat-leg-loi-2016-12-06-n1-jo-fr-html.html",
+      "id": "eli/etat/leg/loi/1907/08/08/n3",
+      "lines": "4 of 4",
+      "published": false,
+      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1907/08/08/n3/jo/fr/html/eli-etat-leg-loi-1907-08-08-n3-jo-fr-html.html",
       "verdict": "match_new"
      }
     ],
@@ -54,7 +49,7 @@
     "unread": 0
    },
    "census": {
-    "checked": 994,
+    "checked": 986,
     "current": 6873,
     "gone": 0,
     "held": 6896,
@@ -63,62 +58,44 @@
     "out_of_scope": 1163,
     "pending": 23,
     "repo": 6896,
-    "source_in_scope": 8072
+    "source_in_scope": 8073
    },
-   "check_id": "lu-legilux-20261123T161238Z",
-   "commits": {
-    "count": 9,
-    "from": "df1119d9139ce4353b020b9689a4de93d333d59c",
-    "to": "6a4f0ff1becf61f33b2db9a55c09eb3069eece0c"
-   },
+   "check_id": "lu-legilux-20261124T051847Z",
+   "commits": null,
    "corpus": "luxembourg/national/acts",
    "error": null,
-   "finished": "2026-11-23T16:30:16Z",
+   "finished": "2026-11-24T05:36:46Z",
    "flags": [
     {
      "detail": "2 laws at Legilux are not here with no reason found",
      "flag": "unexplained-gap"
-    },
-    {
-     "detail": "1 of 5 read again by a second route disagree",
-     "flag": "audit-disagrees"
     }
    ],
-   "gap": 36,
-   "note": "Legilux lists 9,272 laws and the Constitution: 8,072 in force or not yet in force (the census), 1,200 no longer in force (435 in this repository's history, 765 listed in data/actes/loi.csv, 0 neither); not counted as gaps (README: What it does not show): 897 laws in force Legilux has only as scanned Mémorial pages (no XML) and 266 laws in force about named private persons (adopted since 1926), each listed in data/actes/loi.csv with metadata and link, not as text; Legilux's 142,683 acts of other kinds (43,819 Mémorial B publications, 33,396 communal regulations, 15,404 règlements grand-ducaux, 12,780 arrêtés ministériels, ...) are outside this corpus's text (corpus.json: the Constitution and the laws); the repository lists part of them with metadata and link in data/actes/ (PLAN.md); not compared in this check",
+   "gap": 37,
+   "note": "Legilux lists 9,273 laws and the Constitution: 8,073 in force or not yet in force (the census), 1,200 no longer in force (435 in this repository's history, 765 listed in data/actes/loi.csv, 0 neither); not counted as gaps (README: What it does not show): 897 laws in force Legilux has only as scanned Mémorial pages (no XML) and 266 laws in force about named private persons (adopted since 1926), each listed in data/actes/loi.csv with metadata and link, not as text; Legilux's 142,683 acts of other kinds (43,819 Mémorial B publications, 33,396 communal regulations, 15,404 règlements grand-ducaux, 12,780 arrêtés ministériels, ...) are outside this corpus's text (corpus.json: the Constitution and the laws); the repository lists part of them with metadata and link in data/actes/ (PLAN.md); not compared in this check",
    "outcome": "anomaly",
    "published": {
     "added": [],
-    "changed": [
-     "eli/etat/leg/loi/2006/07/31/n2",
-     "eli/etat/leg/loi/2010/08/03/n7",
-     "eli/etat/leg/loi/2016/12/05/n2",
-     "eli/etat/leg/loi/2016/12/05/n3",
-     "eli/etat/leg/loi/2016/12/06/n1",
-     "eli/etat/leg/loi/2016/12/06/n2",
-     "eli/etat/leg/loi/2016/12/07/n1",
-     "eli/etat/leg/loi/2016/12/07/n2"
-    ],
+    "changed": [],
     "removed": []
    },
-   "requests": 1026,
-   "runner": "lawwatch luxembourg (dc0378c230)",
+   "requests": 1011,
+   "runner": "lawwatch luxembourg (3799817a55)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
-     "eli/etat/leg/loi/2026/11/18/a561",
-     "eli/etat/leg/loi/2026/11/18/a562"
+     "eli/etat/leg/loi/2026/11/10/a560"
     ],
     "changed": [],
     "removed": []
    },
    "snapshot": "2026-11-23",
    "source": "legilux",
-   "started": "2026-11-23T16:12:38Z",
+   "started": "2026-11-24T05:18:47Z",
    "unexplained": 2,
    "update": {
     "added": 0,
-    "corrected": 8,
+    "corrected": 0,
     "failed": 5,
     "held": 2,
     "in-force-later": 0,
@@ -131,13 +108,13 @@
     "cycle_days": 7,
     "examples": [],
     "held": 6896,
-    "method": "the XML of the version each held act's Text: trailer names, read again from Legilux's file store (legilux.public.lu/filestore, 1012 reads this check, 1 s apart), rendered by the act's own builder (wave3, build_bulk, build.py), and compared with the act's files at the tip of main, git blob by git blob (the two history acts article by article, letters and digits); a rotating sweep reads every held act within 7 days (986 of 6896 this check), with the acts this check wrote (8); a text that differs is corrected by the next check's update (Kind: correction)",
+    "method": "the XML of the version each held act's Text: trailer names, read again from Legilux's file store (legilux.public.lu/filestore, 996 reads this check, 1 s apart), rendered by the act's own builder (wave3, build_bulk, build.py), and compared with the act's files at the tip of main, git blob by git blob (the two history acts article by article, letters and digits); a rotating sweep reads every held act within 7 days (986 of 6896 this check), with the acts this check wrote (0); a text that differs is corrected by the next check's update (Kind: correction)",
     "ok": true,
     "swept": 986,
     "unread": 0,
-    "versions_checked": 994,
+    "versions_checked": 986,
     "versions_differ": 0,
-    "written": 8
+    "written": 0
    }
   }
  },
