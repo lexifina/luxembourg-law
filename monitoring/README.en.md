@@ -6,13 +6,13 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Luxembourg only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-25 05:20 UTC, Legilux open data (Journal officiel and consolidated texts): 1020 addresses read; 3 added, 5 changed, 0 removed; changes found, flagged; 40 not published, 3 of them with no reason. Flags: `unexplained-gap`.
+**Last check:** 2026-11-26 05:22 UTC, Legilux open data (Journal officiel and consolidated texts): 1029 addresses read; 1 added, 13 changed, 0 removed; changes found, flagged; 45 not published, 4 of them with no reason. Flags: `unexplained-gap`, `publish-lag`.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Legilux open data (Journal officiel and consolidated texts)](https://data.legilux.public.lu/) | `constitution/`, `loi/`, `memorial-b/loi/`, `data/actes/loi.csv` | daily | 2026-11-25 05:20 UTC | changes found, flagged | watched: the open-data channel (CC BY 4.0) the repository is built from; the website is not crawled |
+| [Legilux open data (Journal officiel and consolidated texts)](https://data.legilux.public.lu/) | `constitution/`, `loi/`, `memorial-b/loi/`, `data/actes/loi.csv` | daily | 2026-11-26 05:22 UTC | changes found, flagged | watched: the open-data channel (CC BY 4.0) the repository is built from; the website is not crawled |
 | [Judicial courts on data.public.lu (Administration judiciaire): Cour de cassation](https://data.public.lu/fr/datasets/cour-de-cassation-1/) | `jurisprudence/` | — | — | — | paused: case law waits until legislation is fully monitored |
 | [Conseil d'État opinions on data.public.lu](https://data.public.lu/fr/datasets/avis-du-conseil-detat/) | `avis/` | — | — | — | paused: opinions on bills, not law: they wait, as case law does, until legislation is fully monitored |
 | [Chambre des Députés on data.public.lu: bills](https://data.public.lu/fr/organizations/627e56d3a9bc6b2dd946a3ea/) | `data/chambre/` | — | — | — | paused: bills, not law: they wait, as case law does, until legislation is fully monitored |
@@ -21,6 +21,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 05:04](checks/2026-11.md#lu-legilux-20261126t050423z) | legilux | 1029 | 1 | 13 | 0 | 45 (4) | changes found, flagged `unexplained-gap` `publish-lag` | [8](https://github.com/lexifina/luxembourg-law/compare/2f2f7d98c37e...07a313d38c7e) |
 | [2026-11-25 05:02](checks/2026-11.md#lu-legilux-20261125t050234z) | legilux | 1020 | 3 | 5 | 0 | 40 (3) | changes found, flagged `unexplained-gap` | [6](https://github.com/lexifina/luxembourg-law/compare/a07ee150b162...0486711b0744) |
 | [2026-11-24 05:18](checks/2026-11.md#lu-legilux-20261124t051847z) | legilux | 1011 | 1 | 0 | 0 | 37 (2) | changes found, flagged `unexplained-gap` | — |
 | [2026-11-23 16:12](checks/2026-11.md#lu-legilux-20261123t161238z) | legilux | 1026 | 2 | 0 | 0 | 36 (2) | changes found, flagged `unexplained-gap` `audit-disagrees` | [9](https://github.com/lexifina/luxembourg-law/compare/df1119d9139c...6a4f0ff1becf) |
