@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T05:22:46Z",
+ "generated": "2026-11-27T05:20:45Z",
  "latest": {
   "legilux|luxembourg/national/acts": {
    "attempt": 1,
@@ -10,38 +10,38 @@
     "method": "Legilux's HTML of the version each act's Text: trailer names (legilux.public.lu/filestore/.../fr/html; the check and verify read its XML), its hidden parts (struck-through text, modification markers) left out: every line of the act's files, letters and digits, found on the page: whole, or without a list number build.py writes from the list's symbol, or in parts split at colons and quotation marks, or 4 in 5 of its runs of four words (the page numbers a quoted provision's items, which build.py writes on one line without their numbers)",
     "rows": [
      {
-      "id": "eli/etat/leg/loi/1889/12/25/n1",
-      "lines": "14 of 14",
+      "id": "eli/etat/leg/loi/1955/02/14/n3",
+      "lines": "687 of 687",
       "published": true,
-      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1889/12/25/n1/jo/fr/html/eli-etat-leg-loi-1889-12-25-n1-jo-fr-html.html",
+      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1955/02/14/n3/consolide/20261127/fr/html/eli-etat-leg-loi-1955-02-14-n3-consolide-20261127-fr-html.html",
       "verdict": "match_new"
      },
      {
-      "id": "eli/etat/leg/loi/1890/12/20/n1",
-      "lines": "6 of 6",
+      "id": "eli/etat/leg/loi/1877/06/21/n1",
+      "lines": "8 of 8",
       "published": true,
-      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1890/12/20/n1/jo/fr/html/eli-etat-leg-loi-1890-12-20-n1-jo-fr-html.html",
+      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1877/06/21/n1/jo/fr/html/eli-etat-leg-loi-1877-06-21-n1-jo-fr-html.html",
       "verdict": "match_new"
      },
      {
-      "id": "eli/etat/leg/loi/1891/02/16/n1",
-      "lines": "12 of 12",
+      "id": "eli/etat/leg/loi/1877/08/25/n1",
+      "lines": "2 of 2",
       "published": true,
-      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1891/02/16/n1/jo/fr/html/eli-etat-leg-loi-1891-02-16-n1-jo-fr-html.html",
+      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1877/08/25/n1/jo/fr/html/eli-etat-leg-loi-1877-08-25-n1-jo-fr-html.html",
       "verdict": "match_new"
      },
      {
-      "id": "eli/etat/leg/loi/1891/12/26/n1",
-      "lines": "6 of 6",
+      "id": "eli/etat/leg/loi/1877/12/18/n1",
+      "lines": "2 of 2",
       "published": true,
-      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1891/12/26/n1/jo/fr/html/eli-etat-leg-loi-1891-12-26-n1-jo-fr-html.html",
+      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1877/12/18/n1/jo/fr/html/eli-etat-leg-loi-1877-12-18-n1-jo-fr-html.html",
       "verdict": "match_new"
      },
      {
-      "id": "eli/etat/leg/loi/1902/05/19/n1",
-      "lines": "15 of 15",
+      "id": "eli/etat/leg/loi/1877/12/22/n1",
+      "lines": "5 of 5",
       "published": true,
-      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1902/05/19/n1/jo/fr/html/eli-etat-leg-loi-1902-05-19-n1-jo-fr-html.html",
+      "read": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1877/12/22/n1/jo/fr/html/eli-etat-leg-loi-1877-12-22-n1-jo-fr-html.html",
       "verdict": "match_new"
      }
     ],
@@ -49,26 +49,26 @@
     "unread": 0
    },
    "census": {
-    "checked": 994,
-    "current": 6880,
+    "checked": 993,
+    "current": 6885,
     "gone": 0,
-    "held": 6903,
+    "held": 6908,
     "newest_at_source": "eli/etat/leg/loi/2026/11/10/a569",
     "newest_in_repo": "eli/etat/leg/loi/2026/11/18/a557",
-    "out_of_scope": 1152,
+    "out_of_scope": 1144,
     "pending": 23,
-    "repo": 6903,
+    "repo": 6908,
     "source_in_scope": 8077
    },
-   "check_id": "lu-legilux-20261126T050423Z",
+   "check_id": "lu-legilux-20261127T050235Z",
    "commits": {
     "count": 8,
-    "from": "2f2f7d98c37ef06a914d8d13958598e8bfe99937",
-    "to": "07a313d38c7e95b705053436624ebc0d5eb73e8b"
+    "from": "70f3ec56fc25f82b6dfeac87160e996287c7e426",
+    "to": "b6581543b0f1603a038e0844dee762f66304f2f2"
    },
    "corpus": "luxembourg/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:22:43Z",
+   "finished": "2026-11-27T05:20:42Z",
    "flags": [
     {
      "detail": "4 laws at Legilux are not here with no reason found",
@@ -79,72 +79,69 @@
      "flag": "publish-lag"
     }
    ],
-   "gap": 45,
-   "note": "Legilux lists 9,277 laws and the Constitution: 8,077 in force or not yet in force (the census), 1,200 no longer in force (435 in this repository's history, 765 listed in data/actes/loi.csv, 0 neither); not counted as gaps (README: What it does not show): 886 laws in force Legilux has only as scanned Mémorial pages (no XML) and 266 laws in force about named private persons (adopted since 1926), each listed in data/actes/loi.csv with metadata and link, not as text; Legilux's 142,704 acts of other kinds (43,834 Mémorial B publications, 33,396 communal regulations, 15,404 règlements grand-ducaux, 12,782 arrêtés ministériels, ...) are outside this corpus's text (corpus.json: the Constitution and the laws); the repository lists part of them with metadata and link in data/actes/ (PLAN.md); not compared in this check",
+   "gap": 48,
+   "note": "Legilux lists 9,277 laws and the Constitution: 8,077 in force or not yet in force (the census), 1,200 no longer in force (435 in this repository's history, 765 listed in data/actes/loi.csv, 0 neither); not counted as gaps (README: What it does not show): 874 laws in force Legilux has only as scanned Mémorial pages (no XML) and 270 laws in force about named private persons (adopted since 1926), each listed in data/actes/loi.csv with metadata and link, not as text; Legilux's 142,769 acts of other kinds (43,896 Mémorial B publications, 33,396 communal regulations, 15,404 règlements grand-ducaux, 12,785 arrêtés ministériels, ...) are outside this corpus's text (corpus.json: the Constitution and the laws); the repository lists part of them with metadata and link in data/actes/ (PLAN.md); not compared in this check",
    "outcome": "anomaly",
    "published": {
     "added": [
-     "eli/etat/leg/loi/1889/12/25/n1",
-     "eli/etat/leg/loi/1890/12/20/n1",
-     "eli/etat/leg/loi/1891/02/16/n1",
-     "eli/etat/leg/loi/1891/12/26/n1",
-     "eli/etat/leg/loi/1902/05/19/n1",
-     "eli/etat/leg/loi/1913/12/20/n1",
-     "eli/etat/leg/loi/1921/03/10/n1"
+     "eli/etat/leg/loi/1877/06/21/n1",
+     "eli/etat/leg/loi/1877/08/25/n1",
+     "eli/etat/leg/loi/1877/12/18/n1",
+     "eli/etat/leg/loi/1877/12/22/n1",
+     "eli/etat/leg/loi/1879/05/21/n3"
     ],
-    "changed": [],
+    "changed": [
+     "eli/etat/leg/loi/1955/02/14/n3"
+    ],
     "removed": []
    },
-   "requests": 1029,
+   "requests": 1031,
    "runner": "lawwatch luxembourg (3fdee83f1d)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "eli/etat/leg/loi/2026/11/10/a569"
-    ],
+    "added": [],
     "changed": [
-     "eli/etat/leg/loi/1889/12/25/n1",
-     "eli/etat/leg/loi/1890/02/25/n1",
-     "eli/etat/leg/loi/1890/12/20/n1",
-     "eli/etat/leg/loi/1891/02/16/n1",
-     "eli/etat/leg/loi/1891/12/26/n1",
-     "eli/etat/leg/loi/1892/04/02/n2",
-     "eli/etat/leg/loi/1902/05/19/n1",
-     "eli/etat/leg/loi/1912/08/26/n19",
-     "eli/etat/leg/loi/1913/12/20/n1",
-     "eli/etat/leg/loi/1921/03/10/n1",
-     "eli/etat/leg/loi/1961/07/07/n6",
-     "eli/etat/leg/loi/1976/06/30/n1",
-     "eli/etat/leg/loi/2026/11/18/a568"
+     "eli/etat/leg/loi/1872/02/29/n5",
+     "eli/etat/leg/loi/1876/01/10/n2",
+     "eli/etat/leg/loi/1877/06/21/n1",
+     "eli/etat/leg/loi/1877/08/10/n10",
+     "eli/etat/leg/loi/1877/08/25/n1",
+     "eli/etat/leg/loi/1877/12/18/n1",
+     "eli/etat/leg/loi/1877/12/22/n1",
+     "eli/etat/leg/loi/1879/05/07/n11",
+     "eli/etat/leg/loi/1879/05/07/n3",
+     "eli/etat/leg/loi/1879/05/07/n6",
+     "eli/etat/leg/loi/1879/05/07/n7",
+     "eli/etat/leg/loi/1879/05/21/n3"
     ],
     "removed": []
    },
    "snapshot": "2026-11-25",
    "source": "legilux",
-   "started": "2026-11-26T05:04:23Z",
+   "started": "2026-11-27T05:02:35Z",
    "unexplained": 4,
    "update": {
-    "added": 7,
+    "added": 5,
     "corrected": 0,
     "failed": 5,
     "held": 2,
     "in-force-later": 0,
-    "out-of-scope": 4,
+    "out-of-scope": 7,
     "removed": 0,
     "unread": 0,
-    "versions": 1
+    "versions": 2
    },
    "verify": {
     "cycle_days": 7,
     "examples": [],
-    "held": 6903,
-    "method": "the XML of the version each held act's Text: trailer names, read again from Legilux's file store (legilux.public.lu/filestore, 1015 reads this check, 1 s apart), rendered by the act's own builder (wave3, build_bulk, build.py), and compared with the act's files at the tip of main, git blob by git blob (the two history acts article by article, letters and digits); a rotating sweep reads every held act within 7 days (987 of 6903 this check), with the acts this check wrote (7); a text that differs is corrected by the next check's update (Kind: correction)",
+    "held": 6908,
+    "method": "the XML of the version each held act's Text: trailer names, read again from Legilux's file store (legilux.public.lu/filestore, 1017 reads this check, 1 s apart), rendered by the act's own builder (wave3, build_bulk, build.py), and compared with the act's files at the tip of main, git blob by git blob (the two history acts article by article, letters and digits); a rotating sweep reads every held act within 7 days (987 of 6908 this check), with the acts this check wrote (6); a text that differs is corrected by the next check's update (Kind: correction)",
     "ok": true,
     "swept": 987,
     "unread": 0,
-    "versions_checked": 994,
+    "versions_checked": 993,
     "versions_differ": 0,
-    "written": 7
+    "written": 6
    }
   }
  },
